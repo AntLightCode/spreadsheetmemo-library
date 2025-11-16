@@ -1,3 +1,4 @@
 "Question","Answer"
 "Your first question goes here.","Your first answer goes here."
 "Your second question goes here.","Your second answer goes here."
+"'=RANDBETWEEN(2;10)', formula: true","Formula example."
