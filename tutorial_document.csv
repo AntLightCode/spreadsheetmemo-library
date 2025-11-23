@@ -81,7 +81,7 @@ https://www.mathjax.org
 https://en.wikibooks.org/wiki/LaTeX/Mathematics","",""
 "=""Random values and Google Sheets formulas! 🎲
 
- \\( \\frac{""&Q18&""}{""&R18&""} \\) ⋅ \\( \\frac{""&S18&""}{""&T18&""} \\) = ?""","=""\\( \\frac{""&(Q18*S18)/GCD(Q18*S18;R18*T18)&""}{""&(R18*T18)/GCD(Q18*S18;R18*T18)&""} \\)""","SpreadsheetMemo fully supports '''Google Sheets formulas'''.
+ \( \frac{""&Q18&""}{""&R18&""} \) ⋅ \( \frac{""&S18&""}{""&T18&""} \) = ?""","=""\( \frac{""&(Q18*S18)/GCD(Q18*S18;R18*T18)&""}{""&(R18*T18)/GCD(Q18*S18;R18*T18)&""} \)""","SpreadsheetMemo fully supports '''Google Sheets formulas'''.
  You can make your questions and answers dynamic, for example, to generate random values or perform '''automatic calculations'''.
  
  Try building your own formulas - they will generate new values each time you start a new lesson!","","","","","","","","","","","","","=R18-RANDBETWEEN(1;R18-1)","=RANDBETWEEN(2;10)","=R18*RANDBETWEEN(2;15)","=RANDBETWEEN(2;10)"
