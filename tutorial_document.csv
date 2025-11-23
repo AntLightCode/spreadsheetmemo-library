@@ -1,4 +1,4 @@
-"Getting Started","","","","",""
+"Getting Started"
 "Your question goes here.","Your answer goes here.","You can store additional information here.","","","The content of this column will not be presented by the SpreadsheetMemo app."
 "This document is your canvas! 🎨
 Feel free to add, edit, and organize your content.","You can insert new rows for more questions, delete ones you no longer need, or even rearrange them to change the order.","Friendly tip: When moving or deleting content, it's best to operate on entire rows. This ensures everything stays perfectly aligned and the app runs smoothly ✨","https://support.google.com/docs/answer/44684","",""
@@ -17,9 +17,8 @@ https://upload.wikimedia.org/wikipedia/commons/5/58/Brain_regions_in_memory_form
 
 💡 Hint: Open this spreadsheet in your Google Drive and look for the asterisk (*) in the sheet's name.
 What happens if you remove it?","","",""
-"You can also use Named Ranges to organize your content.","This example document already has a Named Range called 'Tutorial_GettingStarted'.
-Try selecting it from the 'Sheet or named range' dropdown in the SpreadsheetMemo app.","Named Ranges are useful for slicing your SpreadsheetMemo documents into smaller, named parts.","https://support.google.com/docs/answer/63175","",""
-"","","","","",""
+"You can also use Named Ranges to organize your content.","Named Ranges are useful for slicing your SpreadsheetMemo documents into smaller, named parts.","","https://support.google.com/docs/answer/63175","",""
+""
 "Advanced Features","","","","",""
 "How ⬜ people were at the concert? 
 
@@ -67,7 +66,7 @@ Set background color by using <span style=""background:green"">This text will ha
 Set both by using <span style=""color:#FFFF00; background:#00C000"">This text will be yellow with a green background</span>.","Use <span style=""color:#7B68EE"">your</span> imag<span style=""color:#FF69B4"">in</span>ation! 👍","https://www.mediawiki.org/wiki/Help:Text_color","",""
 "You can add mathematical equations or formulas.
 
-For example,AsciiMath notation:
+For example, AsciiMath notation:
 
 `x=(-b +- sqrt(b^2 - 4ac))/(2a)`","TeX formulas: \[ A_{m,n} =
 \begin{pmatrix}
@@ -80,7 +79,7 @@ a_{m,1} & a_{m,2} & \cdots & a_{m,n}
 https://www.mathjax.org
 
 https://en.wikibooks.org/wiki/LaTeX/Mathematics","",""
-"","","","","",""
+""
 "What is the Fourier transform?
 
 Advanced example of using the [https://en.wikipedia.org/wiki/Help:Wiki_markup Wiki Markup] and the [https://en.wikibooks.org/wiki/LaTeX/Mathematics TeX] formulas","The Fourier transform is a function derived from a given function and representing it by a series of [https://en.wikipedia.org/wiki/Sine_wave sinusoidal] functions.","====Definition====
@@ -101,21 +100,21 @@ Sample images:
 ----
 The Fourier transform on YouTube:
 [[Video:https://www.youtube.com/watch?v=ObklYbQaX24]]","https://en.wikipedia.org/wiki/Fourier_transform","",""
-"","","","","",""
+""
 "Tips & Tricks","","","","",""
 "How can you remove a SpreadsheetMemo document from the app's list view without deleting it?","Just rename it!
 
-Remove or change the `SpreadsheetMemo:` prefix in the document's name.","The app only lists Google Sheets files that have `SpreadsheetMemo:` at the beginning of their name and were created by the app.
+Remove or change the `''SpreadsheetMemo:''` prefix in the document's name.","The app only lists Google Sheets files that have `'''SpreadsheetMemo:'''` at the beginning of their name and were created by the app.
 
 For example:
-* `SpreadsheetMemo: My Vocab` → will be listed
-* `SpreadsheetMemoArch: My Vocab` → will not be listed
-* `My Vocab` → will not be listed","https://support.google.com/docs/answer/49114#zippy=%2Crename-a-file","",""
-"","","","","",""
+* `'''SpreadsheetMemo: My Vocab'''` → will be listed
+* `'''SpreadsheetMemoArch: My Vocab'''` → will '''not''' be listed
+* `'''My Vocab'''` → will '''not''' be listed","https://support.google.com/docs/answer/49114#zippy=%2Crename-a-file","",""
+""
 "Staging Content for Later","","","","",""
 "","You can prepare content for future use by placing it outside the required columns.","An item is only included in a lesson when both the 'Question' (column B) and 'Answer' (column C) are filled in.","","",""
 "","For later - just move this to columns B and C when you're ready.","This item is not yet active in lessons.","","",""
 "","Another one for later - move it to columns B and C when it's ready.","This way, you can build a backlog of learning material without it appearing in your lessons right away.","","",""
-"","","","","",""
+""
 "Add new content, jump back to the SpreadsheetMemo app, and start your next lesson.
 Make it your daily routine.","You will feel the difference after a few days - just be systematic.","","","https://res.cloudinary.com/antlightcode/image/upload/v1762367309/spreadsheetmemo_app/hero-bg_wq.png",""
