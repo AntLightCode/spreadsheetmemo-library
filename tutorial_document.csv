@@ -1,26 +1,121 @@
-"Getting Started"
+"Getting Started","","","","",""
 "Your question goes here.","Your answer goes here.","You can store additional information here.","","","The content of this column will not be presented by the SpreadsheetMemo app."
-"This document is your canvas! 🎨\nFeel free to add, edit, and organize your content.","You can insert new rows for more questions, delete ones you no longer need, or even rearrange them to change the order.","Friendly tip: When moving or deleting content, it's best to operate on '''entire rows'''. This ensures everything stays perfectly aligned and the app runs smoothly ✨","https://support.google.com/docs/answer/44684"
+"This document is your canvas! 🎨
+Feel free to add, edit, and organize your content.","You can insert new rows for more questions, delete ones you no longer need, or even rearrange them to change the order.","Friendly tip: When moving or deleting content, it's best to operate on entire rows. This ensures everything stays perfectly aligned and the app runs smoothly ✨","https://support.google.com/docs/answer/44684","",""
 "You can replace this example content.","You can add as many questions and answers as you want.","","","","You can use this column for additional or private notes."
-"You can add links to your content.","For example, a reference to Google Sheets Help: "How to use Named Ranges in Google Sheets"."","","https://support.google.com/docs/answer/63175?co=GENIE.Platform%3DDesktop&oco=1\n\nhttps://support.google.com/docs/answer/63175?co=GENIE.Platform%3DAndroid&oco=1\n\nhttps://support.google.com/docs/answer/63175?co=GENIE.Platform%3DiOS&oco=1","","You can use this column to store extra info. Use it according to your needs."
-"You can add multiple images to your content.","Sometimes, words are not enough.","Adding an image can enrich your content. It's especially useful for visualizing concepts to help you remember things more quickly and effectively.","","https://upload.wikimedia.org/wikipedia/commons/5/58/Memory.gif\n\nhttps://upload.wikimedia.org/wikipedia/commons/5/58/Brain_regions_in_memory_formation_updated.jpg"
-"You can use multiple sheets in a single spreadsheet.","This example document uses content from two different sheets:\n* *Latin Vocabulary (hidden from this tutorial lesson - try unlocking it! ☺️)\n* Tutorial","Can you figure out why the 'Latin Vocabulary' sheet is excluded from this lesson?\n\n💡 Hint: Open this spreadsheet in your Google Drive and look for the asterisk (*) in the sheet's name.\nWhat happens if you remove it?"
-"You can also use Named Ranges to organize your content.","This example document already has a Named Range called 'Tutorial_GettingStarted'.\nTry selecting it from the 'Sheet or named range' dropdown in the SpreadsheetMemo app.","Named Ranges are useful for slicing your SpreadsheetMemo documents into smaller, named parts.","https://support.google.com/docs/answer/63175","",""
-""
-"Advanced Features"
-"How ⬜ people were at the concert? \n\n''much/many''","many","You can use special characters and emojis like ⬜, ❇️, ❌, ✅, ⁇, 🌀, 💟, or 💠 to create fill-in-the-blank questions.\n\nIt's a great way to test your knowledge of specific words or concepts in context."
-"You can enrich your content by using [https://en.wikipedia.org/wiki/Help:Wiki_markup Wiki Markup].\n\nSupported features include: Text formatting (bold, italic), indented text, lists, sections, external links, images, and YouTube videos.","Line of regular text\n----\nSome more lines\n: A line with an indent\n:: A 2-level indented line\n:: another one\n: back to a 1-level indented line\n----\n# First item of the list\n# Second\n## Second-First\n*** First Point\n*** Second Point\n#### z\n#### y\n#### x\n*** Third Point\n## Second-Second\n## Second-Third\n# Third", "Some '''bold''' and ''italic'' content.\nWith a '''''bold-italic''''' new line.\n== Section H2 ==\n=== Section H3 ===\n==== Section H4 ====\n===== Section H5 =====\n\nLink: [https://www.facebook.com/SpreadsheetMemo SpreadsheetMemo on Facebook]\nBold link: '''[https://x.com/SpreadsheetMemo SpreadsheetMemo on X (Twitter)]'''\nBold-italic link: '''''[https://spreadsheetmemo.com SpreadsheetMemo Homepage]'''''\n\nImage: [[File:https://res.cloudinary.com/antlightcode/image/upload/v1761301755/spreadsheetmemo_app/lesson_inner_image.png]]\n\nSpreadsheetMemo Tutorial Video:\n[[Video:https://www.youtube.com/watch?v=GBvcCzdy9vc?start=142]]","https://en.wikipedia.org/wiki/Help:Wiki_markup"
-"You can use coloring to highlight important elements thanks to Wiki Markup color formatting.","Set text color by using <span style="color:#FF0000">This text will be red</span>.\nSet background color by using <span style="background:green">This text will have a green background</span>.\nSet both by using <span style="color:#FFFF00; background:#00C000">This text will be yellow with a green background</span>.","Use <span style="color:#7B68EE">your</span> imag<span style="color:#FF69B4">in</span>ation! 👍","https://www.mediawiki.org/wiki/Help:Text_color"
-"You can add mathematical equations or formulas.\n\nFor example,AsciiMath notation:\n\n`x=(-b +- sqrt(b^2 - 4ac))/(2a)`","TeX formulas: \\[ A_{m,n} =\n\\begin{pmatrix}\na_{1,1} & a_{1,2} & \\cdots & a_{1,n} \\\\\na_{2,1} & a_{2,2} & \\cdots & a_{2,n} \\\\\n\\vdots & \\vdots & \\ddots & \\vdots \\\\\na_{m,1} & a_{m,2} & \\cdots & a_{m,n}\n\\end{pmatrix} \\]","TeX Inline (within text) equations like: \\( \\displaystyle\\sum_{k=1}^n k^2 = \\frac{1}{2} n (n+1) \\)","https://en.wikipedia.org/wiki/AsciiMath\n\nhttps://www.mathjax.org\n\nhttps://en.wikibooks.org/wiki/LaTeX/Mathematics"
-""
-"What is the Fourier transform?\n\n''Advanced example of using the [https://en.wikipedia.org/wiki/Help:Wiki_markup Wiki Markup] and the [https://en.wikibooks.org/wiki/LaTeX/Mathematics TeX] formulas''","The Fourier transform is a function ''derived'' from a given function and representing it by a series of [https://en.wikipedia.org/wiki/Sine_wave sinusoidal] functions.","====Definition====\n''The Fourier transform'' of the function \\(f\\) is traditionally denoted by adding a [https://en.wikipedia.org/wiki/Circumflex circumflex]: \\(\\hat{f}\\). There are several common conventions for defining the Fourier transform of an integrable function \\(f : \\mathbb R \\rightarrow \\mathbb C\\). Definition for any '''real number ξ''':\n\\[\\hat{f}(\\xi) = \\int_{-\\infty}^\\infty f(x)\\ e^{- 2\\pi i x \\xi}\\,dx\\]\nWhen the independent variable '''x''' represents '''time''' (''with SI unit of seconds''), the transform variable ''ξ'' represents frequency (in hertz).\n\nUnder suitable conditions, \\(f\\) is determined by \\(\\hat f\\) via the ''inverse transform'':\n\\(f(x) = \\int_{-\\infty}^\\infty \\hat f(\\xi)\\ e^{2 \\pi i \\xi x}\\,d\\xi\\), for any real number '''x'''.\n===== Basic properties=====\n# Linearity\n** For any ''[https://en.wikipedia.org/wiki/Complex_number complex numbers]'' ''a'' and ''b'', if ''h''(''x'') = ''af''(''x'') + ''bg''(''x''), then  \\(\\hat{h}(\\xi)=a\\cdot \\hat{f}(\\xi) + b\\cdot\\hat{g}(\\xi).\\)\n# Time Scaling\n** For a non-zero ''[https://en.wikipedia.org/wiki/Real_number real number]'' ''a'', if \\(h(x)=f(ax)\\), then  \\(\\hat{h}(\\xi)=\\frac{1}{|a|}\\hat{f}\\left(\\frac{\\xi}{a}\\right).\\) The case ''a'' = -1 leads to the ''time-reversal'' property, which states: if ''h''(''x'') = ''f''(-''x''), then \\(\\hat{h}(\\xi)=\\hat{f}(-\\xi).\\)\n----\nSample images:\n[[File:https://upload.wikimedia.org/wikipedia/commons/5/51/Fourier_unit_pulse.svg]] [[File:https://upload.wikimedia.org/wikipedia/commons/5/55/Phase_shift.svg]]\n----\nThe Fourier transform on YouTube:\n[[Video:https://www.youtube.com/watch?v=ObklYbQaX24]]","https://en.wikipedia.org/wiki/Fourier_transform"
-""
-"Tips & Tricks"
-"How can you remove a SpreadsheetMemo document from the app's list view without deleting it?","Just rename it!\n\nRemove or change the `''SpreadsheetMemo:''` prefix in the document's name.","The app only lists Google Sheets files that have `'''SpreadsheetMemo:'''` at the beginning of their name and were created by the app.\n\nFor example:\n* `'''SpreadsheetMemo: My Vocab'''` → will be listed\n* `'''SpreadsheetMemoArch: My Vocab'''` → will '''not''' be listed\n* `'''My Vocab'''` → will '''not''' be listed","https://support.google.com/docs/answer/49114#zippy=%2Crename-a-file
-""
-"Staging Content for Later"
-"","You can prepare content for future use by placing it outside the required columns.","An item is only included in a lesson when both the 'Question' (column B) and 'Answer' (column C) are filled in."
-"","For later - just move this to columns B and C when you're ready.","This item is not yet active in lessons."
-"","Another one for later - move it to columns B and C when it's ready.","This way, you can build a backlog of learning material without it appearing in your lessons right away."
-""
-"Add new content, jump back to the SpreadsheetMemo app, and start your next lesson.\nMake it your daily routine.","You will feel the difference after a few days - just be systematic.","","","https://res.cloudinary.com/antlightcode/image/upload/v1762367309/spreadsheetmemo_app/hero-bg_wq.png"
+"You can add links to your content.","For example, a reference to Google Sheets Help: ""How to use Named Ranges in Google Sheets"".","","https://support.google.com/docs/answer/63175?co=GENIE.Platform%3DDesktop&oco=1
+
+https://support.google.com/docs/answer/63175?co=GENIE.Platform%3DAndroid&oco=1
+
+https://support.google.com/docs/answer/63175?co=GENIE.Platform%3DiOS&oco=1","","You can use this column to store extra info. Use it according to your needs."
+"You can add multiple images to your content.","Sometimes, words are not enough.","Adding an image can enrich your content. It's especially useful for visualizing concepts to help you remember things more quickly and effectively.","","https://upload.wikimedia.org/wikipedia/commons/5/58/Memory.gif
+
+https://upload.wikimedia.org/wikipedia/commons/5/58/Brain_regions_in_memory_formation_updated.jpg",""
+"You can use multiple sheets in a single spreadsheet.","This example document uses content from two different sheets:
+* Latin Vocabulary (hidden from this tutorial lesson - try unlocking it! ☺️)
+* Tutorial","Can you figure out why the 'Latin Vocabulary' sheet is excluded from this lesson?
+
+💡 Hint: Open this spreadsheet in your Google Drive and look for the asterisk (*) in the sheet's name.
+What happens if you remove it?","","",""
+"You can also use Named Ranges to organize your content.","This example document already has a Named Range called 'Tutorial_GettingStarted'.
+Try selecting it from the 'Sheet or named range' dropdown in the SpreadsheetMemo app.","Named Ranges are useful for slicing your SpreadsheetMemo documents into smaller, named parts.","https://support.google.com/docs/answer/63175","",""
+"","","","","",""
+"Advanced Features","","","","",""
+"How ⬜ people were at the concert? 
+
+much/many","many","You can use special characters and emojis like ⬜, ❇️, ❌, ✅, ⁇, 🌀, 💟, or 💠 to create fill-in-the-blank questions.
+
+It's a great way to test your knowledge of specific words or concepts in context.","","",""
+"You can enrich your content by using [https://en.wikipedia.org/wiki/Help:Wiki_markup Wiki Markup].
+
+Supported features include: Text formatting (bold, italic), indented text, lists, sections, external links, images, and YouTube videos.","Line of regular text
+----
+Some more lines
+: A line with an indent
+:: A 2-level indented line
+:: another one
+: back to a 1-level indented line
+----
+# First item of the list
+# Second
+## Second-First
+*** First Point
+*** Second Point
+#### z
+#### y
+#### x
+*** Third Point
+## Second-Second
+## Second-Third
+# Third","Some bold and italic content.
+With a bold-italic new line.
+== Section H2 ==
+=== Section H3 ===
+==== Section H4 ====
+===== Section H5 =====
+
+Link: [https://www.facebook.com/SpreadsheetMemo SpreadsheetMemo on Facebook]
+Bold link: [https://x.com/SpreadsheetMemo SpreadsheetMemo on X (Twitter)]
+Bold-italic link: [https://spreadsheetmemo.com SpreadsheetMemo Homepage]
+
+Image: [[File:https://res.cloudinary.com/antlightcode/image/upload/v1761301755/spreadsheetmemo_app/lesson_inner_image.png]]
+
+SpreadsheetMemo Tutorial Video:
+[[Video:https://www.youtube.com/watch?v=GBvcCzdy9vc?start=142]]","https://en.wikipedia.org/wiki/Help:Wiki_markup","",""
+"You can use coloring to highlight important elements thanks to Wiki Markup color formatting.","Set text color by using <span style=""color:#FF0000"">This text will be red</span>.
+Set background color by using <span style=""background:green"">This text will have a green background</span>.
+Set both by using <span style=""color:#FFFF00; background:#00C000"">This text will be yellow with a green background</span>.","Use <span style=""color:#7B68EE"">your</span> imag<span style=""color:#FF69B4"">in</span>ation! 👍","https://www.mediawiki.org/wiki/Help:Text_color","",""
+"You can add mathematical equations or formulas.
+
+For example,AsciiMath notation:
+
+`x=(-b +- sqrt(b^2 - 4ac))/(2a)`","TeX formulas: \[ A_{m,n} =
+\begin{pmatrix}
+a_{1,1} & a_{1,2} & \cdots & a_{1,n} \\
+a_{2,1} & a_{2,2} & \cdots & a_{2,n} \\
+\vdots & \vdots & \ddots & \vdots \\
+a_{m,1} & a_{m,2} & \cdots & a_{m,n}
+\end{pmatrix} \]","TeX Inline (within text) equations like: \( \displaystyle\sum_{k=1}^n k^2 = \frac{1}{2} n (n+1) \)","https://en.wikipedia.org/wiki/AsciiMath
+
+https://www.mathjax.org
+
+https://en.wikibooks.org/wiki/LaTeX/Mathematics","",""
+"","","","","",""
+"What is the Fourier transform?
+
+Advanced example of using the [https://en.wikipedia.org/wiki/Help:Wiki_markup Wiki Markup] and the [https://en.wikibooks.org/wiki/LaTeX/Mathematics TeX] formulas","The Fourier transform is a function derived from a given function and representing it by a series of [https://en.wikipedia.org/wiki/Sine_wave sinusoidal] functions.","====Definition====
+The Fourier transform of the function \(f\) is traditionally denoted by adding a [https://en.wikipedia.org/wiki/Circumflex circumflex]: \(\hat{f}\). There are several common conventions for defining the Fourier transform of an integrable function \(f : \mathbb R \rightarrow \mathbb C\). Definition for any real number ξ:
+\[\hat{f}(\xi) = \int_{-\infty}^\infty f(x)\ e^{- 2\pi i x \xi}\,dx\]
+When the independent variable x represents time (with SI unit of seconds), the transform variable ξ represents frequency (in hertz).
+
+Under suitable conditions, \(f\) is determined by \(\hat f\) via the inverse transform:
+\(f(x) = \int_{-\infty}^\infty \hat f(\xi)\ e^{2 \pi i \xi x}\,d\xi\), for any real number x.
+===== Basic properties=====
+# Linearity
+** For any [https://en.wikipedia.org/wiki/Complex_number complex numbers] a and b, if h(x) = af(x) + bg(x), then  \(\hat{h}(\xi)=a\cdot \hat{f}(\xi) + b\cdot\hat{g}(\xi).\)
+# Time Scaling
+** For a non-zero [https://en.wikipedia.org/wiki/Real_number real number] a, if \(h(x)=f(ax)\), then  \(\hat{h}(\xi)=\frac{1}{|a|}\hat{f}\left(\frac{\xi}{a}\right).\) The case a = -1 leads to the time-reversal property, which states: if h(x) = f(-x), then \(\hat{h}(\xi)=\hat{f}(-\xi).\)
+----
+Sample images:
+[[File:https://upload.wikimedia.org/wikipedia/commons/5/51/Fourier_unit_pulse.svg]] [[File:https://upload.wikimedia.org/wikipedia/commons/5/55/Phase_shift.svg]]
+----
+The Fourier transform on YouTube:
+[[Video:https://www.youtube.com/watch?v=ObklYbQaX24]]","https://en.wikipedia.org/wiki/Fourier_transform","",""
+"","","","","",""
+"Tips & Tricks","","","","",""
+"How can you remove a SpreadsheetMemo document from the app's list view without deleting it?","Just rename it!
+
+Remove or change the `SpreadsheetMemo:` prefix in the document's name.","The app only lists Google Sheets files that have `SpreadsheetMemo:` at the beginning of their name and were created by the app.
+
+For example:
+* `SpreadsheetMemo: My Vocab` → will be listed
+* `SpreadsheetMemoArch: My Vocab` → will not be listed
+* `My Vocab` → will not be listed","https://support.google.com/docs/answer/49114#zippy=%2Crename-a-file","",""
+"","","","","",""
+"Staging Content for Later","","","","",""
+"","You can prepare content for future use by placing it outside the required columns.","An item is only included in a lesson when both the 'Question' (column B) and 'Answer' (column C) are filled in.","","",""
+"","For later - just move this to columns B and C when you're ready.","This item is not yet active in lessons.","","",""
+"","Another one for later - move it to columns B and C when it's ready.","This way, you can build a backlog of learning material without it appearing in your lessons right away.","","",""
+"","","","","",""
+"Add new content, jump back to the SpreadsheetMemo app, and start your next lesson.
+Make it your daily routine.","You will feel the difference after a few days - just be systematic.","","","https://res.cloudinary.com/antlightcode/image/upload/v1762367309/spreadsheetmemo_app/hero-bg_wq.png",""
