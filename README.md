@@ -4,6 +4,8 @@ Welcome to the **SpreadsheetMemo Library** - a free, community-driven collection
 
 ## What is SpreadsheetMemo?
 
+![SpreadsheetMemo Hero](https://spreadsheetmemo.com/assets/images/hero-bg.png)
+
 **SpreadsheetMemo** is a flashcard-based learning web application that uses the power of Google Sheets to store your content, allowing you to memorize things quickly and effectively.
 
 Flashcards can contain vocabulary, historical dates, chemical element names, math/physics equations, or even types of dinosaurs 🦕 Simply put, any subject that can be learned in a question-and-answer format.
