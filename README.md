@@ -23,7 +23,7 @@ You can use it for your studies, as a preparation tool, to check your knowledge 
 - ☁️ **Google Sheets Integration** - Store data with all Google Drive benefits (sharing, editing, printing)
 - 📱 **Mobile-Friendly** - Use on any device, anywhere
 - ⚡ **Fast & Responsive** - Clean interface with no unnecessary page loads
-- 📂 **Multiple Documents** - Organize unlimited documents, sheets, and Named Ranges
+- 📂 **Multiple Documents** - Organize your content with documents, sheets, and Named Ranges
 - 🎨 **Rich Content Support** - Add links, images, Wiki Markup, and mathematical equations (TeX/AsciiMath)
 - 🔒 **Secure & Private** - Your documents belong only to you
 - 🆓 **Completely Free** - No ads, no hidden costs
