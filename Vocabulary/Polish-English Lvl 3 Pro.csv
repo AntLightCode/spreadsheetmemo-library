@@ -1,3 +1,4 @@
+#SHEETINFO | name=First Tab | ranges=[RangeFirst_Tab:B6:C14; SecondOne:B18:C22]
 plaster miodu,honeycomb,"The honeycomb is full of honey.
 Plaster miodu jest pełen miodu."
 ul,hive,"The bees live in a hive.
@@ -49,8 +50,9 @@ białko,protein,"Protein is important for building muscles.
 Białko jest ważne dla budowania mięśni."
 biedronka,"ladybug, ladybird","Ladybugs are beneficial insects.
 Biedronki są pożytecznymi owadami."
-owoce leśne,berries,"fruits of the forest
 
+#SHEETINFO | name=Second Tab 
+owoce leśne,berries,"fruits of the forest
 Berries are a healthy snack.
 Jagody są zdrową przekąską."
 malina,raspberry,"Raspberries are sweet and tart.
@@ -540,9 +542,10 @@ groszek konserwowy,canned peas,"Canned peas are a convenient vegetable.
 Konserwowane grochy są wygodnym warzywem."
 marchewka,carrot,"Carrots are a root vegetable.
 Marchew to warzywo korzeniowe.
-
 Carrots are healthy vegetables.
 Marchew to zdrowe warzywa."
+
+#SHEETINFO | name=Third Tab | ranges=[InThird:B17:C20]
 kalafior,cauliflower,"Cauliflower is a cruciferous vegetable.
 Kalafior to warzywo kapustne."
 seler,celery,"Celery is a crunchy vegetable.
