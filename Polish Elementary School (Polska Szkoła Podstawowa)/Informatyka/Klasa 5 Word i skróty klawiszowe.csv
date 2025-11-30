@@ -1,2 +1,236 @@
-"Your first question goes here.","Your first answer goes here."
-"Your second question goes here.","Your second answer goes here."
+Jakie działanie ma skrót Ctrl + B,"Pogrubi zaznaczony tekst 
+
+(B jak Bold - ang. śmiały, odważny, wyraźny)",Przykład '''pogrubienia''' wyrazu.
+Jakie działanie ma skrót Ctrl + I,"Zamieni zaznaczony tekst na kursywę (pochylenie) 
+
+(I jak Italic - ang. kursywa)",Przykład wyrazu napisanego ''kursywą''.
+Jakie działanie ma skrót Ctrl + U,"Podkreśli zaznaczony tekst 
+
+(U jak Underline - ang. podkreślenie)",
+Jakie działanie ma skrót Ctrl + L,"Wyrówna tekst do lewej strony 
+
+(L jak Left - ang. lewa)",
+Jakie działanie ma skrót Ctrl + R,"Wyrówna tekst do prawej strony 
+
+(R jak Right - ang. prawa)",
+Jakie działanie ma skrót Ctrl + E,"Wyśrodkuje tekst 
+
+(E jak Center - od ang. cEnter, środek)",
+Jakie działanie ma skrót Ctrl + J,"Wyjustuje (wyrówna do obu marginesów) tekst 
+
+(J jak Justify - ang. justowanie)",
+Jakie działanie ma skrót Ctrl + A,"Zaznaczy cały tekst w dokumencie 
+
+(A jak All - ang. wszystko)",
+Jakie działanie ma skrót Ctrl + C,"Skopiuje zaznaczony tekst 
+
+(C jak Copy - ang. kopiuj)",
+Jakie działanie ma skrót Ctrl + X,"Usunie zaznaczony tekst (wytnie go) 
+
+(X jak Cut - ang. wytnij)",
+Jakie działanie ma skrót Ctrl + V,"Wklei wcześniej skopiowany lub wycięty tekst 
+
+(V jak paste - od kształtu „V” wskazującego strzałkę do wklejenia; w niektórych źródłach także „V” jako następna wolna litera po C i X)",
+Jakie działanie ma skrót Ctrl + Z,"Cofnie ostatnią operację 
+
+(Z jak Undo - pochodzi od ang. „Z” z końca wyrazu undo, lub z niem. zurück - wróć)",
+Jakie działanie ma skrót Ctrl + P,"Umożliwi wydruk dokumentu 
+
+(P jak Print - ang. drukuj)",
+Jakie działanie ma skrót Ctrl + S,"Zapisze aktualny dokument 
+
+(S jak Save - ang. zapisz)",
+,,
+"Gdzie umieszczamy znak interpunkcyjny, np. kropkę lub przecinek?","Bezpośrednio za wyrazem, nie wstawiamy przed nim spacji.","Dobrze ✅
+Znak interpunkcyjny stawiamy bezpośrednio po wyrazie, bez spacji:
+„To jest zdanie, poprawnie.”
+„Zdanie jest poprawne.”
+
+Źle ❌
+Nie wstawiamy spacji przed znakiem interpunkcyjnym:
+„To jest zdanie , z błędem.”
+„Zdanie jest niepoprawne .”"
+Czy stawiamy spację po otwarciu lub przed zamknięciem nawiasu lub cudzysłowu?,"Nie, nie stosujemy spacji w tych miejscach.","Dobrze ✅
+Nie stosujemy spacji w tych miejscach:
+(To jest zdanie)
+„To jest zdanie w cudzysłowie""
+
+Źle ❌
+( To jest zdanie )
+„ To jest zdanie w cudzysłowie ”"
+Czy zostawiamy na końcach wierszy pojedyncze litery?,"Nie, aby uniknąć rozdzielania liter stosujemy twardą spację (Ctrl + Shift + Spacja).","Dobrze ✅
+„Przykładowy tekst zawierający 
+literę a na końcu wiersza.”
+
+Źle ❌
+Zostawiamy pojedyncze litery na końcu wiersza:
+„To jest błędny tekst z literą a i wyrazem na
+ końcu wiersza.”
+
+„Spójnik i
+nie powinien być sam.”"
+Jak dzielić dłuższy tekst?,"Dzielimy na akapity za pomocą klawisza Enter, by był czytelniejszy.","Dobrze ✅
+Za lasem, za rzeką, w małej dolinie mieszkał jeżyk o imieniu Kolczatek. Każdego ranka wyruszał na spacer po lesie, by sprawdzić, czy wszystko jest na swoim miejscu. Bardzo lubił zbierać kolorowe liście i układać z nich śmieszne wzory na swojej norki.
+
+Pewnego dnia spotkał wiewiórkę, która płakała, bo zgubiła orzeszek. Kolczatek postanowił jej pomóc - razem przeszukali pół lasu, aż w końcu znaleźli orzeszek ukryty pod mchami. Wiewiórka była tak szczęśliwa, że podarowała mu mały żołędziowy medal za odwagę i dobroć.
+
+Od tego czasu jeżyk i wiewiórka byli nierozłączni. Każdego dnia bawili się w chowanego i ścigali po leśnych ścieżkach, a wieczorami opowiadali sobie historie przy blasku księżyca.
+
+Źle ❌
+Za lasem, za rzeką, w małej dolinie mieszkał jeżyk o imieniu Kolczatek. Każdego ranka wyruszał na spacer po lesie, by sprawdzić, czy wszystko jest na swoim miejscu. Bardzo lubił zbierać kolorowe liście i układać z nich śmieszne wzory na swojej norki.
+Pewnego dnia spotkał wiewiórkę, która płakała, bo zgubiła orzeszek. Kolczatek postanowił jej pomóc - razem przeszukali pół lasu, aż w końcu znaleźli orzeszek ukryty pod mchami. Wiewiórka była tak szczęśliwa, że podarowała mu mały żołędziowy medal za odwagę i dobroć.
+Od tego czasu jeżyk i wiewiórka byli nierozłączni. Każdego dnia bawili się w chowanego i ścigali po leśnych ścieżkach, a wieczorami opowiadali sobie historie przy blasku księżyca."
+Jak przenieść kursor do nowego wiersza bez zaczynania kolejnego akapitu?,Użyj miękkiego entera (Shift + Enter).,"Za lasem, za rzeką, w małej dolinie mieszkał jeżyk o imieniu Kolczatek. Każdego ranka wyruszał na spacer po lesie, by sprawdzić, czy wszystko jest na swoim miejscu. Bardzo lubił zbierać kolorowe liście i układać z nich śmieszne wzory na swojej norki.
+A tutaj przykład nowej linii, bez nowego akapitu.
+
+Pewnego dnia spotkał wiewiórkę, która płakała, bo zgubiła orzeszek. Kolczatek postanowił jej pomóc - razem przeszukali pół lasu, aż w końcu znaleźli orzeszek ukryty pod mchami. Wiewiórka była tak szczęśliwa, że podarowała mu mały żołędziowy medal za odwagę i dobroć."
+Jakie formatowanie należy ograniczyć w dokumencie?,"Nie stosujemy zbyt wielu elementów formatowania, np. krojów czcionek i kolorów.",
+"Co zrobić, by zobaczyć znaki podziału akapitu, spacje i inne znaki formatowania?","Włącz opcję „Pokaż wszystko” w edytorze tekstu.
+Ikona ze znakiem: ¶
+
+Najważniejsze znaki:
+# ¶  koniec akapitu
+# ·  zwykła spacja
+# °  twarda spacja (niełamliwa)
+# ↵  miękki enter (złam linię bez tworzenia nowego akapitu)","Wiewiórka·powiedziała,·że·zgubiła·orzeszek¶
+Kolczatek·jej·pomógł,·znaleźli°orzeszek¶
+i·wszyscy·byli·szczęśliwi¶
+
+Chcieli¶
+przeskoczyć·strumyk↵
+i·pobawić·się·razem·w·chowanego¶"
+Za pomocą jakiego klawisza uzyskujemy wcięcie akapitowe?,"Tab czyli Tabulator
+
+Symbol →",
+Jak uzyskać twardą spację?,Ctrl + Shift + Spacja,"Jan·Kowalski →  zwykła spacja (kropka)
+Jan°Kowalski →  twarda spacja (kółka)
+
+Ala·ma·kota → zwykłe spacje (kropki)
+Ala°ma°kota → twarde spacje (kółka)
+
+Dobrze ✅
+„Przykładowy tekst zawierający 
+literę a na końcu wiersza.”
+
+Źle ❌
+Zostawiamy pojedyncze litery na końcu wiersza:
+„To jest błędny tekst z literą a i wyrazem na
+ końcu wiersza.”
+
+„Spójnik i
+nie powinien być sam.”"
+Jak uzyskać koniec akapitu?,Enter,"Za lasem, za rzeką, w małej dolinie mieszkał jeżyk o imieniu Kolczatek. Każdego ranka wyruszał na spacer po lesie, by sprawdzić, czy wszystko jest na swoim miejscu. Bardzo lubił zbierać kolorowe liście i układać z nich śmieszne wzory na swojej norki.
+
+Pewnego dnia spotkał wiewiórkę, która płakała, bo zgubiła orzeszek. Kolczatek postanowił jej pomóc - razem przeszukali pół lasu, aż w końcu znaleźli orzeszek ukryty pod mchami. Wiewiórka była tak szczęśliwa, że podarowała mu mały żołędziowy medal za odwagę i dobroć.
+
+Od tego czasu jeżyk i wiewiórka byli nierozłączni. Każdego dnia bawili się w chowanego i ścigali po leśnych ścieżkach, a wieczorami opowiadali sobie historie przy blasku księżyca."
+Jak uzyskać miękki enter?,"Shift + Enter
+
+Symbol ↵","Za lasem, za rzeką, w małej dolinie mieszkał jeżyk o imieniu Kolczatek. Każdego ranka wyruszał na spacer po lesie, by sprawdzić, czy wszystko jest na swoim miejscu. Bardzo lubił zbierać kolorowe liście i układać z nich śmieszne wzory na swojej norki.↵
+A tutaj przykład nowej linii, bez nowego akapitu.
+
+Pewnego dnia spotkał wiewiórkę, która płakała, bo zgubiła orzeszek. Kolczatek postanowił jej pomóc - razem przeszukali pół lasu, aż w końcu znaleźli orzeszek ukryty pod mchami. Wiewiórka była tak szczęśliwa, że podarowała mu mały żołędziowy medal za odwagę i dobroć."
+Jak ustawić pogrubienie tekstu w MS Word?,Kliknij opcję pogrubienia na Narzędziach głównych lub użyj skrótu klawiszowego Ctrl + B,
+Jak ustawić kursywę tekstu w MS Word?,Kliknij opcję kursywy na Narzędziach głównych lub użyj skrótu klawiszowego Ctrl + I,
+Jak ustawić kolor czcionki w MS Word?,Skorzystaj z opcji wyboru koloru czcionki na Narzędziach głównych.,
+Jak zmienić rozmiar czcionki w MS Word?,Skorzystaj z pola wyboru rozmiaru czcionki na Narzędziach głównych.,
+,,
+Jaki skrót pogrubi zaznaczony tekst?,"Ctrl + B
+
+(B jak Bold - ang. śmiały, odważny, wyraźny)",Przykład '''pogrubienia''' wyrazu.
+Jaki skrót zmieni zaznaczony tekst na kursywę?,"Ctrl + I 
+
+(I jak Italic - ang. kursywa)",Przykład wyrazu napisanego ''kursywą''.
+Jaki skrót podkreśli zaznaczony tekst?,"Ctrl + U 
+
+(U jak Underline - ang. podkreślenie)",
+Jaki skrót wyrówna tekst do lewej strony?,"Ctrl + L 
+
+(L jak Left - ang. lewa)",
+Jaki skrót wyrówna tekst do prawej strony?,"Ctrl + R 
+
+(R jak Right - ang. prawa)",
+Jaki skrót wyśrodkuje tekst?,"Ctrl + E 
+
+(E jak Center - od ang. cEnter, środek)",
+Jaki skrót wyjustuje tekst?,"Ctrl + J 
+
+(J jak Justify - ang. justowanie)",
+Jaki skrót zaznaczy cały tekst w dokumencie?,"Ctrl + A 
+
+(A jak All - ang. wszystko)",
+Jaki skrót skopiuje zaznaczony tekst?,"Ctrl + C 
+
+(C jak Copy - ang. kopiuj)",
+Jaki skrót wytnie zaznaczony tekst?,"Ctrl + X 
+
+(X jak Cut - ang. wytnij)",
+Jaki skrót wklei wcześniej skopiowany lub wycięty tekst?,"Ctrl + V 
+
+(V jak Paste - od kształtu „V” wskazującego strzałkę do wklejenia; w niektórych źródłach także „V” jako następna wolna litera po C i X)",
+Jaki skrót cofnie ostatnią operację?,"Ctrl + Z 
+
+(Z jak Undo - pochodzi od ang. „Z” z końca wyrazu undo, lub z niem. zurück - wróć)",
+Jaki skrót umożliwi wydruk dokumentu?,"Ctrl + P 
+
+(P jak Print - ang. drukuj)",
+Jaki skrót zapisze aktualny dokument?,"Ctrl + S 
+
+(S jak Save - ang. zapisz)",
+,,
+Opisz jaki efekt da kliknięcie ikony ¶,"Zostaną pokazane wszystkie znaki ukryte, np.: 
+# znaki podziału akapitu - ¶ 
+# twarde spacje - Ctrl + Shift + Spacja - ° 
+# miękkie entery - Shift + Enter - ↵
+# wcięcia tabulatorem - Tab - →
+# i inne znaki formatowania",
+,,
+Co to jest akapit?,"Akapit to część tekstu, która tworzy jedną myśl albo temat. Zaczyna się od nowej linii (czyli z wcięciem lub odstępem) i kończy się wtedy, gdy autor chce przejść do kolejnej myśli.
+
+Można powiedzieć, że akapit to taki mały kawałek tekstu, który opowiada o jednej rzeczy.
+
+Na przykład w opowieści:
+* pierwszy akapit może opisywać miejsce,
+* drugi - bohatera,
+* trzeci - co się wydarzyło.
+Dzięki akapitom tekst jest czytelny, przejrzysty i łatwiejszy do zrozumienia.","Dobrze ✅
+Za lasem, za rzeką, w małej dolinie mieszkał jeżyk o imieniu Kolczatek. Każdego ranka wyruszał na spacer po lesie, by sprawdzić, czy wszystko jest na swoim miejscu. Bardzo lubił zbierać kolorowe liście i układać z nich śmieszne wzory na swojej norki.
+
+Pewnego dnia spotkał wiewiórkę, która płakała, bo zgubiła orzeszek. Kolczatek postanowił jej pomóc - razem przeszukali pół lasu, aż w końcu znaleźli orzeszek ukryty pod mchami. Wiewiórka była tak szczęśliwa, że podarowała mu mały żołędziowy medal za odwagę i dobroć.
+
+Od tego czasu jeżyk i wiewiórka byli nierozłączni. Każdego dnia bawili się w chowanego i ścigali po leśnych ścieżkach, a wieczorami opowiadali sobie historie przy blasku księżyca.
+
+Źle ❌
+Za lasem, za rzeką, w małej dolinie mieszkał jeżyk o imieniu Kolczatek. Każdego ranka wyruszał na spacer po lesie, by sprawdzić, czy wszystko jest na swoim miejscu. Bardzo lubił zbierać kolorowe liście i układać z nich śmieszne wzory na swojej norki.
+Pewnego dnia spotkał wiewiórkę, która płakała, bo zgubiła orzeszek. Kolczatek postanowił jej pomóc - razem przeszukali pół lasu, aż w końcu znaleźli orzeszek ukryty pod mchami. Wiewiórka była tak szczęśliwa, że podarowała mu mały żołędziowy medal za odwagę i dobroć.
+Od tego czasu jeżyk i wiewiórka byli nierozłączni. Każdego dnia bawili się w chowanego i ścigali po leśnych ścieżkach, a wieczorami opowiadali sobie historie przy blasku księżyca."
+Co oznacza symbol ¶,"Koniec akapitu - nowa myśl, nowa linia w tekście, zazwyczaj z dodatkowym odstępem","Za lasem, za rzeką, w małej dolinie mieszkał jeżyk o imieniu Kolczatek. Każdego ranka wyruszał na spacer po lesie, by sprawdzić, czy wszystko jest na swoim miejscu. Bardzo lubił zbierać kolorowe liście i układać z nich śmieszne wzory na swojej norki.¶
+
+Pewnego dnia spotkał wiewiórkę, która płakała, bo zgubiła orzeszek. Kolczatek postanowił jej pomóc - razem przeszukali pół lasu, aż w końcu znaleźli orzeszek ukryty pod mchami. Wiewiórka była tak szczęśliwa, że podarowała mu mały żołędziowy medal za odwagę i dobroć.¶
+
+Od tego czasu jeżyk i wiewiórka byli nierozłączni. Każdego dnia bawili się w chowanego i ścigali po leśnych ścieżkach, a wieczorami opowiadali sobie historie przy blasku księżyca.¶"
+Co oznacza symbol ·,Zwykła spacja między wyrazami,
+Co oznacza symbol °,"Twarda spacja (niełamliwa) - zapobiega dzieleniu wyrazu lub liczby na końcu wiersza
+
+Ctrl + Shift + Spacja","Jan·Kowalski →  zwykła spacja (kropka)
+Jan°Kowalski →  twarda spacja (kółka)
+
+Ala·ma·kota → zwykłe spacje (kropki)
+Ala°ma°kota → twarde spacje (kółka)
+
+Dobrze ✅
+„Przykładowy tekst zawierający 
+literę a na końcu wiersza.”
+
+Źle ❌
+Zostawiamy pojedyncze litery na końcu wiersza:
+„To jest błędny tekst z literą a i wyrazem na
+ końcu wiersza.”
+
+„Spójnik i
+nie powinien być sam.”"
+Co oznacza symbol ↵,"Miękki enter - złamanie linii w tym samym akapicie
+
+Shift + Enter",
+,Punkt wypunktowania w liście,Co oznacza symbol •
+Co oznacza symbol →,Tabulator - przesuwa tekst w poziomie do ustawionego miejsca,
