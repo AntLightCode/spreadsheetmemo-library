@@ -1,2 +1,79 @@
-"Your first question goes here.","Your first answer goes here."
-"Your second question goes here.","Your second answer goes here."
+"Wymień wszystkie przypadki gramatyczne w języku polskim, według których odmienia się rzeczowniki.","# Mianownik (kto? co? ''to jest'')
+# Dopełniacz (kogo? czego? ''nie ma'') 
+# Celownik (komu? czemu? ''się przyglądam'')
+# Biernik (kogo? co? ''widzę'')
+# Narzędnik (z kim? z czym? ''idę'') 
+# Miejscownik (o kim? o czym? ''mówię'')
+# Wołacz (o! ''hej, co porabiasz?'')",
+1. Mianownik,kto? co? ''to jest'',
+2. Dopełniacz,kogo? czego? ''nie ma'',
+3. Celownik,komu? czemu? ''się przyglądam'',
+4. Biernik,kogo? co? ''widzę'',
+5. Narzędnik,z kim? z czym? ''idę'',
+6. Miejscownik,o kim? o czym? ''mówię'',
+7. Wołacz,"o! ''hej, co porabiasz?'' ",
+kot,"# Mianownik (kto? co? ''to jest'') - kot
+# Dopełniacz (kogo? czego? ''nie ma'') - kota
+# Celownik (komu? czemu? ''się przyglądam'') - kotu
+# Biernik (kogo? co? ''widzę'') - kota
+# Narzędnik (z kim? z czym? ''idę'') - kotem
+# Miejscownik (o kim? o czym? ''mówię'') - kocie
+# Wołacz (o! ''hej, co porabiasz'') - kocie",
+pies,"# Mianownik (kto? co? ''to jest'') - pies
+# Dopełniacz (kogo? czego? ''nie ma'') - psa
+# Celownik (komu? czemu? ''się przyglądam'') - psu
+# Biernik (kogo? co? ''widzę'') - psa
+# Narzędnik (z kim? z czym? ''idę'') - psem
+# Miejscownik (o kim? o czym? ''mówię'') - psie
+# Wołacz (o! ''hej, co porabiasz?'') - psie",
+lis,"# Mianownik (kto? co? ''to jest'') - lis
+# Dopełniacz (kogo? czego? ''nie ma'') - lisa
+# Celownik (komu? czemu? ''się przyglądam'') - lisowi
+# Biernik (kogo? co? ''widzę'') - lisa
+# Narzędnik (z kim? z czym? ''idę'') - lisem
+# Miejscownik (o kim? o czym? ''mówię'') - lisie
+# Wołacz (o! ''hej, co porabiasz?'') - lisie",
+koń,"# Mianownik (kto? co? ''to jest'') - koń
+# Dopełniacz (kogo? czego? ''nie ma'') - konia
+# Celownik (komu? czemu? ''się przyglądam'') - koniowi
+# Biernik (kogo? co? ''widzę'') - konia
+# Narzędnik (z kim? z czym? ''idę'') - koniem
+# Miejscownik (o kim? o czym? ''mówię'') - koniu
+# Wołacz (o! ''hej, co porabiasz?'') - koniu",
+słońce,"# Mianownik (kto? co? ''to jest'') - słońce
+# Dopełniacz (kogo? czego? ''nie ma'') - słońca
+# Celownik (komu? czemu? ''się przyglądam'') - słońcu
+# Biernik (kogo? co? ''widzę'') - słońce
+# Narzędnik (z kim? z czym? ''idę'') - słońcem
+# Miejscownik (o kim? o czym? ''mówię'') - słońcu
+# Wołacz (o! ''hej, co porabiasz?'') - słońce",
+brat,"Liczba pojedyncza:
+# Mianownik (kto? co? ''to jest'') - brat
+# Dopełniacz (kogo? czego? ''nie ma'') - brata
+# Celownik (komu? czemu? ''się przyglądam'') - bratu
+# Biernik (kogo? co? ''widzę'') - brata
+# Narzędnik (z kim? z czym? ''idę'') - bratem
+# Miejscownik (o kim? o czym? ''mówię'') - bracie
+# Wołacz (o! ''hej, co porabiasz?'') - bracie","Liczba mnoga:
+# Mianownik (kto? co? ''to jest'') - bracia
+# Dopełniacz (kogo? czego? ''nie ma'') - braci
+# Celownik (komu? czemu? ''się przyglądam'') - braciom
+# Biernik (kogo? co? ''widzę'') - braci
+# Narzędnik (z kim? z czym? ''idę'') - braćmi
+# Miejscownik (o kim? o czym? ''mówię'') - braciach
+# Wołacz (o! ''hej, co porabiasz?'') - bracia"
+sklep,"Liczba pojedyncza:
+# Mianownik (kto? co? ''to jest'') - sklep
+# Dopełniacz (kogo? czego? ''nie ma'') - sklepu
+# Celownik (komu? czemu? ''się przyglądam'') - sklepowi
+# Biernik (kogo? co? ''widzę'') - sklep
+# Narzędnik (z kim? z czym? ''idę'') - sklepem
+# Miejscownik (o kim? o czym? ''mówię'') - sklepie
+# Wołacz (o! ''hej, co porabiasz?'') - sklepie","Liczba mnoga:
+# Mianownik (kto? co? ''to jest'') - sklepy
+# Dopełniacz (kogo? czego? ''nie ma'') - sklepów
+# Celownik (komu? czemu? ''się przyglądam'') - sklepom
+# Biernik (kogo? co? ''widzę'') - sklepy
+# Narzędnik (z kim? z czym? ''idę'') - sklepami
+# Miejscownik (o kim? o czym? ''mówię'') - sklepach
+# Wołacz (o! ''hej, co porabiasz?'') - sklepy"
