@@ -1,2 +1,126 @@
-"Your first question goes here.","Your first answer goes here."
-"Your second question goes here.","Your second answer goes here."
+"Wymień wszystkie przypadki gramatyczne w języku polskim, według których odmienia się rzeczowniki.","# M - jak Mianownik (kto? co? ''to jest'')
+# D - jak Dopełniacz (kogo? czego? ''nie ma'') 
+# C - jak Celownik (komu? czemu? ''się przyglądam'')
+# B - jak Biernik (kogo? co? ''widzę'')
+# N - jak Narzędnik (z kim? z czym? ''idę'') 
+# M jak Miejscownik (o kim? o czym? ''mówię'')
+# W jak Wołacz (o! ''hej, co porabiasz?'')",
+Odmień przez przypadki: kot,"# Mianownik (kto? co? ''to jest'') - kot
+# Dopełniacz (kogo? czego? ''nie ma'') - kota
+# Celownik (komu? czemu? ''się przyglądam'') - kotu
+# Biernik (kogo? co? ''widzę'') - kota
+# Narzędnik (z kim? z czym? ''idę'') - kotem
+# Miejscownik (o kim? o czym? ''mówię'') - kocie
+# Wołacz (o! ''hej, co porabiasz'') - kocie",
+Odmień przez przypadki: pies,"# Mianownik (kto? co? ''to jest'') - pies
+# Dopełniacz (kogo? czego? ''nie ma'') - psa
+# Celownik (komu? czemu? ''się przyglądam'') - psu
+# Biernik (kogo? co? ''widzę'') - psa
+# Narzędnik (z kim? z czym? ''idę'') - psem
+# Miejscownik (o kim? o czym? ''mówię'') - psie
+# Wołacz (o! ''hej, co porabiasz?'') - psie",
+Odmień przez przypadki: lis,"# Mianownik (kto? co? ''to jest'') - lis
+# Dopełniacz (kogo? czego? ''nie ma'') - lisa
+# Celownik (komu? czemu? ''się przyglądam'') - lisowi
+# Biernik (kogo? co? ''widzę'') - lisa
+# Narzędnik (z kim? z czym? ''idę'') - lisem
+# Miejscownik (o kim? o czym? ''mówię'') - lisie
+# Wołacz (o! ''hej, co porabiasz?'') - lisie",
+Odmień przez przypadki: koń,"# Mianownik (kto? co? ''to jest'') - koń
+# Dopełniacz (kogo? czego? ''nie ma'') - konia
+# Celownik (komu? czemu? ''się przyglądam'') - koniowi
+# Biernik (kogo? co? ''widzę'') - konia
+# Narzędnik (z kim? z czym? ''idę'') - koniem
+# Miejscownik (o kim? o czym? ''mówię'') - koniu
+# Wołacz (o! ''hej, co porabiasz?'') - koniu",
+Odmień przez przypadki: słońce,"# Mianownik (kto? co? ''to jest'') - słońce
+# Dopełniacz (kogo? czego? ''nie ma'') - słońca
+# Celownik (komu? czemu? ''się przyglądam'') - słońcu
+# Biernik (kogo? co? ''widzę'') - słońce
+# Narzędnik (z kim? z czym? ''idę'') - słońcem
+# Miejscownik (o kim? o czym? ''mówię'') - słońcu
+# Wołacz (o! ''hej, co porabiasz?'') - słońce",
+Odmień przez przypadki: brat,"Liczba pojedyncza:
+# Mianownik (kto? co? ''to jest'') - brat
+# Dopełniacz (kogo? czego? ''nie ma'') - brata
+# Celownik (komu? czemu? ''się przyglądam'') - bratu
+# Biernik (kogo? co? ''widzę'') - brata
+# Narzędnik (z kim? z czym? ''idę'') - bratem
+# Miejscownik (o kim? o czym? ''mówię'') - bracie
+# Wołacz (o! ''hej, co porabiasz?'') - bracie",
+Odmień przez przypadki: sklep,"Liczba pojedyncza:
+# Mianownik (kto? co? ''to jest'') - sklep
+# Dopełniacz (kogo? czego? ''nie ma'') - sklepu
+# Celownik (komu? czemu? ''się przyglądam'') - sklepowi
+# Biernik (kogo? co? ''widzę'') - sklep
+# Narzędnik (z kim? z czym? ''idę'') - sklepem
+# Miejscownik (o kim? o czym? ''mówię'') - sklepie
+# Wołacz (o! ''hej, co porabiasz?'') - sklepie",
+Na jakie pytania odpowiada: 1. Mianownik,kto? co? ''to jest'',
+Na jakie pytania odpowiada: 2. Dopełniacz,kogo? czego? ''nie ma'',
+Na jakie pytania odpowiada: 3. Celownik,komu? czemu? ''się przyglądam'',
+Na jakie pytania odpowiada: 4. Biernik,kogo? co? ''widzę'',
+Na jakie pytania odpowiada: 5. Narzędnik,z kim? z czym? ''idę'',
+Na jakie pytania odpowiada: 6. Miejscownik,o kim? o czym? ''mówię'',
+Na jakie pytania odpowiada: 7. Wołacz,"o! ''hej, co porabiasz?'' ",
+Odmień przez przypadki: bracia,"Liczba mnoga:
+# Mianownik (kto? co? ''to jest'') - bracia
+# Dopełniacz (kogo? czego? ''nie ma'') - braci
+# Celownik (komu? czemu? ''się przyglądam'') - braciom
+# Biernik (kogo? co? ''widzę'') - braci
+# Narzędnik (z kim? z czym? ''idę'') - braćmi
+# Miejscownik (o kim? o czym? ''mówię'') - braciach
+# Wołacz (o! ''hej, co porabiasz?'') - bracia",
+Odmień przez przypadki: sklepy,"Liczba mnoga:
+# Mianownik (kto? co? ''to jest'') - sklepy
+# Dopełniacz (kogo? czego? ''nie ma'') - sklepów
+# Celownik (komu? czemu? ''się przyglądam'') - sklepom
+# Biernik (kogo? co? ''widzę'') - sklepy
+# Narzędnik (z kim? z czym? ''idę'') - sklepami
+# Miejscownik (o kim? o czym? ''mówię'') - sklepach
+# Wołacz (o! ''hej, co porabiasz?'') - sklepy",
+Przez co odmienia się rzeczownik?,"# przypadki
+# liczby
+# rodzaj (przypisany na stałe)","* Odmiana przez '''przypadki''', zwana deklinacją, polega na zmianie końcówek rzeczownika w zależności od roli, jaką pełni w zdaniu (mianownik, dopełniacz, celownik, biernik, narzędnik, miejscownik, wołacz). 
+* '''Liczba''' odnosi się do tego, czy mówimy o jednej rzeczy (liczba pojedyncza), czy o wielu (liczba mnoga).
+* Nie odmienia się przez '''rodzaje''', lecz ma przypisany rodzaj stały (np. męski, żeński, nijaki)."
+Określ formę gramatyczną rzeczownika „książką”.,"Narzędnik, liczba pojedyncza, rodzaj żeński.",
+Określ formę gramatyczną rzeczownika „psom”.,"Celownik, liczba mnoga, rodzaj męski.",
+Przez co odmienia się przymiotnik?,"# przypadki
+# liczby
+# rodzaje",
+Określ formę gramatyczną przymiotnika „wysokiego” (drzewa).,"Dopełniacz, liczba pojedyncza, rodzaj nijaki.",
+Określ formę gramatyczną przymiotnika „małymi” (dziećmi).,"Narzędnik, liczba mnoga, rodzaj niemęskoosobowy.","Rodzaj niemsęskoosobowy dla przymiotnika „małymi” (w wyrażeniu małymi dziećmi) używany jest dlatego, że rzeczownik „dzieci” w liczbie mnogiej ma właśnie rodzaj niemęskoosobowy, a nie nijaki.
+
+W liczbie pojedynczej rzeczownik „dziecko” jest rodzaju nijakiego, ale liczba mnoga „dzieci” jest traktowana jako rodzaj niemęskoosobowy, który obejmuje wszystkie liczby mnogie rzeczowników innych niż męskoosobowe (czyli nie odnoszące się do grup mężczyzn)."
+Przez co odmienia się czasownik?,"# osoby
+# liczby
+# czasy
+# tryby
+# rodzaje (w niektórych formach)","* Osoby: 1., 2. i 3. osoba, wskazujące, kto wykonuje czynność (np. ja, ty, on/ona).
+* Liczby: pojedyncza i mnoga, informujące, czy czynność wykonuje jedna czy więcej osób.
+* Czasy: przeszły, teraźniejszy i przyszły, które określają czas wykonywania czynności.
+* Tryby: oznajmujący, przypuszczający, rozkazujący itd., które wyrażają różne sposoby orzekania.
+* Rodzaje: męski, żeński, nijaki, męskoosobowy i niemęskoosobowy, odmieniające się w czasie przeszłym i przyszłym złożonym.
+* Strony: czynna, bierna, zwrotna, które pokazują, kto jest wykonawcą, a kto odbiorcą czynności."
+Określ formę gramatyczną czasownika „napiszecie”.,"2. osoba, liczba mnoga, czas przyszły, tryb oznajmujący.",
+Określ formę gramatyczną czasownika „czytałam”.,"1. osoba, liczba pojedyncza, czas przeszły, tryb oznajmujący, rodzaj żeński.",
+Wymień 7 przypadków rzeczownika w poprawnej kolejności.,"Mianownik, Dopełniacz, Celownik, Biernik, Narzędnik, Miejscownik, Wołacz.",
+Na jakie pytania odpowiada Dopełniacz?,Kogo? Czego?,
+Na jakie pytania odpowiada Narzędnik?,Z kim? Z czym?,
+"Określ przypadek, liczbę i rodzaj rzeczownika „wody” (nie ma wody).","Dopełniacz, liczba pojedyncza, rodzaj żeński.",
+"Określ przypadek, liczbę i rodzaj rzeczownika „kolegom”.","Celownik, liczba mnoga, rodzaj męskoosobowy.",
+"Określ przypadek, liczbę i rodzaj rzeczownika „o kwiatach”.","Miejscownik, liczba mnoga, rodzaj niemęskoosobowy.",
+"Określ przypadek, liczbę i rodzaj przymiotnika „wesołego” (chłopca).","Dopełniacz, liczba pojedyncza, rodzaj męski.",
+"Określ przypadek, liczbę i rodzaj przymiotnika „pięknym” (widokiem).","Narzędnik, liczba pojedyncza, rodzaj męski.",
+"Określ przypadek, liczbę i rodzaj przymiotnika „z niebieskimi” (oczami).","Narzędnik, liczba mnoga, rodzaj niemęskoosobowy.","Rodzaj niemsęskoosobowy dla przymiotnika „niebieskimi” (w wyrażeniu oczami) używany jest dlatego, że rzeczownik „oko” w liczbie mnogiej ma właśnie rodzaj niemęskoosobowy, a nie nijaki.
+
+W liczbie pojedynczej rzeczownik „oko” jest rodzaju nijakiego, ale liczba mnoga „oczami” jest traktowana jako rodzaj niemęskoosobowy, który obejmuje wszystkie liczby mnogie rzeczowników innych niż męskoosobowe (czyli nie odnoszące się do grup mężczyzn)."
+Co to jest bezokolicznik?,"Nieosobowa forma czasownika, zakończona na -ć, -c (np. pisać, móc).",
+Podaj bezokolicznik dla formy „idziemy”.,iść.,
+Wymień trzy czasy gramatyczne w języku polskim.,"Teraźniejszy, przeszły i przyszły.",
+"Określ osobę, liczbę i czas czasownika „narysujesz”.","2. osoba, liczba pojedyncza, czas przyszły.",
+"Określ osobę, liczbę i czas czasownika „czytaliście”.","2. osoba, liczba mnoga, czas przeszły.",
+"Określ osobę, liczbę i czas czasownika „myślę”.","1. osoba, liczba pojedyncza, czas teraźniejszy.",
+Podaj formę 1. osoby liczby mnogiej czasu przyszłego od czasownika „robić”.,będziemy robić / będziemy robili.,
+Podaj formę 3. osoby liczby pojedynczej czasu przeszłego (rodzaj żeński) od czasownika „śpiewać”.,śpiewała.,
