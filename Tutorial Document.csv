@@ -2,7 +2,7 @@
  "Getting Started"
 "Your question goes here.","Your answer goes here.","You can store additional information here.","","","The content of this column will not be presented by the SpreadsheetMemo app."
 "This document is your canvas! 🎨
-Feel free to add, edit, and organize your content.","You can insert new rows for more questions, delete ones you no longer need, or even rearrange them to change the order.","Friendly tip: When moving or deleting content, it's best to operate on entire rows. This ensures everything stays perfectly aligned and the app runs smoothly ✨","https://support.google.com/docs/answer/44684","",""
+Feel free to add, edit, and organize your content.","You can insert new rows for more questions, delete ones you no longer need, or even rearrange them to change the order.","Friendly tip: When moving or deleting content, it's best to operate on entire rows. This ensures everything stays perfectly aligned and the app runs smoothly ✨","https://support.google.com/docs/answer/44684"
 "You can replace this example content.","You can add as many questions and answers as you want.","","","","You can use this column for additional or private notes."
 "You can add links to your content.","For example, a reference to Google Sheets Help: ""How to use Named Ranges in Google Sheets"".","","https://support.google.com/docs/answer/63175?co=GENIE.Platform%3DDesktop&oco=1
 
@@ -11,21 +11,21 @@ https://support.google.com/docs/answer/63175?co=GENIE.Platform%3DAndroid&oco=1
 https://support.google.com/docs/answer/63175?co=GENIE.Platform%3DiOS&oco=1","","You can use this column to store extra info. Use it according to your needs."
 "You can add multiple images to your content.","Sometimes, words are not enough.","Adding an image can enrich your content. It's especially useful for visualizing concepts to help you remember things more quickly and effectively.","","https://upload.wikimedia.org/wikipedia/commons/5/58/Memory.gif
 
-https://upload.wikimedia.org/wikipedia/commons/5/58/Brain_regions_in_memory_formation_updated.jpg",""
+https://upload.wikimedia.org/wikipedia/commons/5/58/Brain_regions_in_memory_formation_updated.jpg"
 "You can use multiple sheets in a single spreadsheet.","This example document uses content from two different sheets:
 * *Latin Vocabulary (hidden from this tutorial lesson - try unlocking it! ☺️)
 * Tutorial","Can you figure out why the 'Latin Vocabulary' sheet is excluded from this lesson?
 
 💡 Hint: Open this spreadsheet in your Google Drive and look for the asterisk (*) in the sheet's name.
-What happens if you remove it?","","",""
+What happens if you remove it?"
 "You can also use Named Ranges to organize your content.","This example document already has a Named Range called 'Tutorial_GettingStarted'.\nTry selecting it from the 'Sheet or named range' dropdown in the SpreadsheetMemo app.","Named Ranges are useful for slicing your SpreadsheetMemo documents into smaller, named parts.","https://support.google.com/docs/answer/63175"
 ""
-"Advanced Features","","","","",""
+"Advanced Features"
 "How ⬜ people were at the concert? 
 
 much/many","many","You can use special characters and emojis like ⬜, ❇️, ❌, ✅, ⁇, 🌀, 💟, or 💠 to create fill-in-the-blank questions.
 
-It's a great way to test your knowledge of specific words or concepts in context.","","",""
+It's a great way to test your knowledge of specific words or concepts in context."
 "You can enrich your content by using [https://en.wikipedia.org/wiki/Help:Wiki_markup Wiki Markup].
 
 Supported features include: Text formatting (bold, italic), indented text, lists, sections, external links, images, and YouTube videos.","Line of regular text
@@ -63,10 +63,10 @@ Bold-italic link: [https://spreadsheetmemo.com SpreadsheetMemo Homepage]
 Image: [[File:https://res.cloudinary.com/antlightcode/image/upload/v1761301755/spreadsheetmemo_app/lesson_inner_image.png]]
 
 SpreadsheetMemo Tutorial Video:
-[[Video:https://www.youtube.com/watch?v=GBvcCzdy9vc?start=142]]","https://en.wikipedia.org/wiki/Help:Wiki_markup","",""
+[[Video:https://www.youtube.com/watch?v=GBvcCzdy9vc?start=142]]","https://en.wikipedia.org/wiki/Help:Wiki_markup"
 "You can use coloring to highlight important elements thanks to Wiki Markup color formatting.","Set text color by using <span style=""color:#FF0000"">This text will be red</span>.
 Set background color by using <span style=""background:green"">This text will have a green background</span>.
-Set both by using <span style=""color:#FFFF00; background:#00C000"">This text will be yellow with a green background</span>.","Use <span style=""color:#7B68EE"">your</span> imag<span style=""color:#FF69B4"">in</span>ation! 👍","https://www.mediawiki.org/wiki/Help:Text_color","",""
+Set both by using <span style=""color:#FFFF00; background:#00C000"">This text will be yellow with a green background</span>.","Use <span style=""color:#7B68EE"">your</span> imag<span style=""color:#FF69B4"">in</span>ation! 👍","https://www.mediawiki.org/wiki/Help:Text_color"
 "You can add mathematical equations or formulas.
 
 For example, AsciiMath notation:
@@ -81,7 +81,7 @@ a_{m,1} & a_{m,2} & \cdots & a_{m,n}
 
 https://www.mathjax.org
 
-https://en.wikibooks.org/wiki/LaTeX/Mathematics","",""
+https://en.wikibooks.org/wiki/LaTeX/Mathematics"
 "=""Random values and Google Sheets formulas! 🎲
 
  \( \frac{""&Q18&""}{""&R18&""} \) ⋅ \( \frac{""&S18&""}{""&T18&""} \) = ?""","=""\( \frac{""&(Q18*S18)/GCD(Q18*S18;R18*T18)&""}{""&(R18*T18)/GCD(Q18*S18;R18*T18)&""} \)""","SpreadsheetMemo fully supports '''Google Sheets formulas'''.
@@ -107,9 +107,9 @@ Sample images:
 [[File:https://upload.wikimedia.org/wikipedia/commons/5/51/Fourier_unit_pulse.svg]] [[File:https://upload.wikimedia.org/wikipedia/commons/5/55/Phase_shift.svg]]
 ----
 The Fourier transform on YouTube:
-[[Video:https://www.youtube.com/watch?v=ObklYbQaX24]]","https://en.wikipedia.org/wiki/Fourier_transform","",""
+[[Video:https://www.youtube.com/watch?v=ObklYbQaX24]]","https://en.wikipedia.org/wiki/Fourier_transform"
 ""
-"Tips & Tricks","","","","",""
+"Tips & Tricks"
 "How can you remove a SpreadsheetMemo document from the app's list view without deleting it?","Just rename it!
 
 Remove or change the `''SpreadsheetMemo:''` prefix in the document's name.","The app only lists Google Sheets files that have `'''SpreadsheetMemo:'''` at the beginning of their name and were created by the app.
@@ -117,18 +117,18 @@ Remove or change the `''SpreadsheetMemo:''` prefix in the document's name.","The
 For example:
 * `'''SpreadsheetMemo: My Vocab'''` → will be listed
 * `'''SpreadsheetMemoArch: My Vocab'''` → will '''not''' be listed
-* `'''My Vocab'''` → will '''not''' be listed","https://support.google.com/docs/answer/49114#zippy=%2Crename-a-file","",""
+* `'''My Vocab'''` → will '''not''' be listed","https://support.google.com/docs/answer/49114#zippy=%2Crename-a-file"
 "How to prevent specific questions from being swapped with answers?~#no-swap#~","Add the special tag to the question or answer.","The options to swap questions with answers, available in the '''Bidirectional''' settings, are great for learning vocabulary. However, for fill-in-the-blank questions (e.g., ''Would you like ⬜ coffee?''), swapping the question with the answer (''some'') doesn't make sense.
 
-To prevent a specific pair from being swapped, simply add the '''~#no-swap#~''' tag to either the question or the answer column. The app will automatically exclude this item from the swapping process, and the tag itself will not be visible during the lesson.","",""
+To prevent a specific pair from being swapped, simply add the '''~#no-swap#~''' tag to either the question or the answer column. The app will automatically exclude this item from the swapping process, and the tag itself will not be visible during the lesson."
 ""
-"Staging Content for Later","","","","",""
-"","You can prepare content for future use by placing it outside the required columns.","An item is only included in a lesson when both the 'Question' (column B) and 'Answer' (column C) are filled in.","","",""
-"","For later - just move this to columns B and C when you're ready.","This item is not yet active in lessons.","","",""
-"","Another one for later - move it to columns B and C when it's ready.","This way, you can build a backlog of learning material without it appearing in your lessons right away.","","",""
+"Staging Content for Later"
+"","You can prepare content for future use by placing it outside the required columns.","An item is only included in a lesson when both the 'Question' (column B) and 'Answer' (column C) are filled in."
+"","For later - just move this to columns B and C when you're ready.","This item is not yet active in lessons."
+"","Another one for later - move it to columns B and C when it's ready.","This way, you can build a backlog of learning material without it appearing in your lessons right away."
 ""
 "Add new content, jump back to the SpreadsheetMemo app, and start your next lesson.
-Make it your daily routine.","You will feel the difference after a few days - just be systematic.","","","https://res.cloudinary.com/antlightcode/image/upload/v1762367309/spreadsheetmemo_app/hero-bg_wq.png",""
+Make it your daily routine.","You will feel the difference after a few days - just be systematic.","","","https://res.cloudinary.com/antlightcode/image/upload/v1762367309/spreadsheetmemo_app/hero-bg_wq.png"
 
 #SHEETINFO | name=*Latin Vocabulary
 "Celestial","","","","","https://www.online-latin-dictionary.com/"
