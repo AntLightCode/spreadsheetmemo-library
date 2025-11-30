@@ -1,2 +1,59 @@
-"Your first question goes here.","Your first answer goes here."
-"Your second question goes here.","Your second answer goes here."
+Jakie są źródła energii odnawialnej?,"Woda, słońce",
+Jakie są źródła energii nieodnawialnej?,"Węgiel, gaz",
+Co to jest prąd stały?,"Prąd o stałym kierunku przepływu, np. z baterii",
+Co to jest prąd zmienny?,"Prąd, którego kierunek zmienia się okresowo, np. z gniazdka elektrycznego",
+Jakie są podstawowe elementy obwodu elektrycznego?,"Źródło energii, odbiorca, przewody łączące",
+Co to jest obwód szeregowy?,"Obwód, w którym elementy są połączone jeden za drugim",
+Co to jest obwód równoległy?,"Obwód, w którym elementy są połączone równolegle i działają niezależnie",
+"Co się stanie w obwodzie szeregowym, jeśli wykręcimy jedną żarówkę?",Wszystkie żarówki przestaną świecić,
+"Co się stanie w obwodzie równoległym, jeśli wykręcimy jedną żarówkę?",Pozostałe żarówki będą świecić,
+Co się stanie po zmianie biegunowości baterii w silniku elektrycznym?,Silnik zacznie kręcić się w przeciwną stronę,
+Do czego służy rezystor?,Do regulowania przepływu prądu,
+Jak rezystor wpływa na świecenie żarówki?,"Im większy opór, tym słabiej świeci żarówka",
+Czy metal przewodzi prąd elektryczny?,"Tak, jest przewodnikiem",
+Czy plastik przewodzi prąd elektryczny?,"Nie, jest izolatorem",
+Czy drewno przewodzi prąd elektryczny?,"Nie, jest izolatorem",
+Czy szkło przewodzi prąd elektryczny?,"Nie, jest izolatorem",
+Czy papier przewodzi prąd elektryczny?,"Nie, jest izolatorem",
+Podaj przykład przewodnika prądu.,"Gwóźdź, rysik, rura metalowa",
+Podaj przykład izolatora prądu.,"Plastik, korek, materiał",
+Jakie urządzenie domowe korzysta z prądu stałego?,Latarka na baterie,
+Jakie urządzenie domowe korzysta z prądu zmiennego?,"Telewizor, lodówka, pralka",
+Jakie są skutki zamknięcia obwodu elektrycznego?,Prąd zaczyna płynąć i odbiorniki działają,
+Jakie są skutki otwarcia obwodu elektrycznego?,Prąd przestaje płynąć i odbiorniki nie działają,
+Co robi wyłącznik w obwodzie elektrycznym?,Przerywa lub zamyka przepływ prądu,
+Co to jest prąd elektryczny?,Przepływ ładunków elektrycznych w obwodzie.,
+Jakie są źródła energii elektrycznej?,"Odnawialne (słońce, wiatr, woda) i nieodnawialne (węgiel, gaz).",
+Jakie są dwa podstawowe rodzaje prądu?,Prąd stały i prąd zmienny.,
+Co jest źródłem prądu stałego?,"Bateria, akumulator.",
+Gdzie spotykamy prąd zmienny?,W gniazdku elektrycznym.,
+Jakie są podstawowe elementy obwodu elektrycznego?,"Źródło energii, odbiorca, przewody łączące.",
+Co to jest odbiornik w obwodzie elektrycznym?,"Urządzenie, które pobiera energię, np. żarówka.",
+Jakie są rodzaje obwodów elektrycznych?,Obwód szeregowy i obwód równoległy.,
+"Co dzieje się w obwodzie szeregowym, gdy jedna żarówka się przepali?",Wszystkie żarówki gasną.,
+"Co dzieje się w obwodzie równoległym, gdy jedna żarówka się przepali?",Pozostałe żarówki nadal świecą.,
+Jakie materiały przewodzą prąd?,"Metal, np. blacha, rura, gwóźdź.",
+Jakie materiały nie przewodzą prądu?,"Plastik, drewno, szkło, korek.",
+"Jak nazywamy materiały, które przewodzą prąd?",Przewodniki.,
+"Jak nazywamy materiały, które nie przewodzą prądu?",Izolatory.,
+Co to jest rezystor?,"Element, który ogranicza przepływ prądu.",
+Jak wpływa rezystor na żarówkę?,"Im większy opór, tym słabiej świeci żarówka.",
+"Co stanie się, jeśli odwrócimy bieguny baterii w silniku elektrycznym?",Silnik zacznie kręcić się w przeciwną stronę.,
+Co to jest napięcie elektryczne?,Różnica potencjałów między dwoma punktami w obwodzie.,
+Czym się różni prąd stały od prądu zmiennego?,"Prąd stały (DC) i prąd zmienny (AC) różnią się sposobem przepływu ładunków elektrycznych:
+
+Prąd stały (DC - Direct Current)
+* Płynie w jednym kierunku.
+* Źródłami są baterie, akumulatory, panele słoneczne.
+* Wykorzystywany w urządzeniach elektronicznych, np. laptopach, telefonach.
+
+Prąd zmienny (AC - Alternating Current)
+* Kierunek przepływu zmienia się cyklicznie.
+* Źródłem jest elektrownia, dostarczany do domów przez gniazdka elektryczne.
+* Stosowany w domowych urządzeniach, np. lodówkach, telewizorach.
+
+Największą różnicą jest to, że prąd stały płynie w jednym kierunku, a zmienny zmienia kierunek wiele razy na sekundę.","Wyobraź sobie, że prąd to samochodziki jadące po drodze. 🚗💨
+
+Prąd stały (DC) to samochody jadące tylko w jedną stronę, np. z domu do szkoły i nigdy nie wracają. Tak działa bateria - daje prąd w jednym kierunku.
+
+Prąd zmienny (AC) to samochody, które jadą tam i z powrotem, np. z domu do szkoły i z powrotem wiele razy na sekundę. Tak działa prąd w gniazdku - cały czas zmienia kierunek."
