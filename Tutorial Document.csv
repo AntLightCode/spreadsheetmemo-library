@@ -13,12 +13,12 @@ https://support.google.com/docs/answer/63175?co=GENIE.Platform%3DiOS&oco=1","","
 
 https://upload.wikimedia.org/wikipedia/commons/5/58/Brain_regions_in_memory_formation_updated.jpg",""
 "You can use multiple sheets in a single spreadsheet.","This example document uses content from two different sheets:
-* Latin Vocabulary (hidden from this tutorial lesson - try unlocking it! ☺️)
+* *Latin Vocabulary (hidden from this tutorial lesson - try unlocking it! ☺️)
 * Tutorial","Can you figure out why the 'Latin Vocabulary' sheet is excluded from this lesson?
 
 💡 Hint: Open this spreadsheet in your Google Drive and look for the asterisk (*) in the sheet's name.
 What happens if you remove it?","","",""
-"You can also use Named Ranges to organize your content.","Named Ranges are useful for slicing your SpreadsheetMemo documents into smaller, named parts.","","https://support.google.com/docs/answer/63175","",""
+"You can also use Named Ranges to organize your content.","This example document already has a Named Range called 'Tutorial_GettingStarted'.\nTry selecting it from the 'Sheet or named range' dropdown in the SpreadsheetMemo app.","Named Ranges are useful for slicing your SpreadsheetMemo documents into smaller, named parts.","https://support.google.com/docs/answer/63175"
 ""
 "Advanced Features","","","","",""
 "How ⬜ people were at the concert? 
@@ -118,9 +118,9 @@ For example:
 * `'''SpreadsheetMemo: My Vocab'''` → will be listed
 * `'''SpreadsheetMemoArch: My Vocab'''` → will '''not''' be listed
 * `'''My Vocab'''` → will '''not''' be listed","https://support.google.com/docs/answer/49114#zippy=%2Crename-a-file","",""
-"How to prevent specific questions from being swapped with answers?~#no-swap#~","Add the special tag to the question or answer.","The ""Bidirectional"" and ""Swap"" options are great for learning vocabulary, but for fill-in-the-blank questions (e.g., ''Would you like ⬜ coffee?''), swapping the question with the answer (''some'') doesn't make sense.
+"How to prevent specific questions from being swapped with answers?~#no-swap#~","Add the special tag to the question or answer.","The options to swap questions with answers, available in the '''Bidirectional''' settings, are great for learning vocabulary. However, for fill-in-the-blank questions (e.g., ''Would you like ⬜ coffee?''), swapping the question with the answer (''some'') doesn't make sense.
 
-To prevent a specific pair from being swapped, simply add the '''~#no-swap#~''' tag to either the question or the answer column. The app will automatically skip this item during randomization, and the tag itself will not be visible during the lesson.","",""
+To prevent a specific pair from being swapped, simply add the '''~#no-swap#~''' tag to either the question or the answer column. The app will automatically exclude this item from the swapping process, and the tag itself will not be visible during the lesson.","",""
 ""
 "Staging Content for Later","","","","",""
 "","You can prepare content for future use by placing it outside the required columns.","An item is only included in a lesson when both the 'Question' (column B) and 'Answer' (column C) are filled in.","","",""
