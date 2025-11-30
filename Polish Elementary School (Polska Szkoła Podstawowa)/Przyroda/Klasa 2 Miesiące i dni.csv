@@ -1,2 +1,61 @@
-"Your first question goes here.","Your first answer goes here."
-"Your second question goes here.","Your second answer goes here."
+Z jakich miesięcy składa się pora roku zima?,"grudzień
+styczeń
+luty",
+Z jakich miesięcy składa się pora roku wiosna?,"marzec
+kwiecień
+maj",
+Z jakich miesięcy składa się pora roku lato?,"czerwiec
+lipiec
+sierpień",
+Z jakich miesięcy składa się pora roku jesień?,"wrzesień
+październik
+listopad",
+Jaki jest pierwszy dzień tygodnia?,poniedziałek,
+Jaki jest pierwszy miesiąc roku?,styczeń,
+Ile miesięcy ma rok?,12,
+Ile dni ma tydzień?,7,
+Wymień dni tygodnia,"# poniedziałek
+# wtorek
+# środa
+# czwartek
+# piątek
+# sobota
+# niedziela",
+Które dni to weekend?,"sobota
+niedziela",
+Z jakich miesięcy składa się rok?,"# styczeń
+# luty
+# marzec
+# kwiecień
+# maj
+# czerwiec
+# lipiec
+# sierpień
+# wrzesień
+# październik
+# listopad
+# grudzień",
+Jakie są pory roku?,"zima
+wiosna
+lato
+jesień",
+Która pora roku jest najgorętsza?,lato,
+Jaka pora roku jest najzimniejsza?,zima,
+Jaka pora roku jest najbardziej deszczowa?,jesień,
+Jakie są jednostki czasu od najkrótszej do najdłuższej? ,"sekunda
+minuta
+godzina
+dzień
+tydzień
+miesiąc
+pora roku
+rok","sekunda
+minuta to 60 sekund
+godzina to 60 minut
+dzień to 24 godziny
+tydzień to 7 dni
+miesiąc to 4 lub 5 tygodni
+pora roku to 3 miesiące
+rok to 4 pory roku czyli 12 miesięcy"
+Jaki rok mamy aktualnie?,"2023 
+dwa tysiące dwudziesty trzeci",
