@@ -1,6 +1,6 @@
 # 📚 SpreadsheetMemo Library
 
-Welcome to the **SpreadsheetMemo Library** - a free, community-driven collection of ready-to-use learning documents for the [SpreadsheetMemo](https://spreadsheetmemo.com) application!
+Welcome to the **SpreadsheetMemo Library** - a free, open collection of ready-to-use learning documents for the [SpreadsheetMemo](https://spreadsheetmemo.com) application!
 
 ## What is SpreadsheetMemo?
 
@@ -30,7 +30,7 @@ You can use it for your studies, as a preparation tool, to check your knowledge 
 - 🔒 **Secure & Private** - Your documents belong only to you
 - 🆓 **Completely Free** - No ads, no hidden costs
 
-## 🌟 Community Library
+## 🌟 Open Flashcard Library
 
 **This repository contains free, public learning documents ready to import into SpreadsheetMemo!**
 
@@ -56,7 +56,7 @@ Whether you have:
 1. Fork this repository
 2. Add or modify documents
 3. Submit a pull request
-4. Share your knowledge with the community!
+4. Share your knowledge!
 
 All contributions are welcome - from single flashcard sets to comprehensive study materials.
 
@@ -85,10 +85,6 @@ SpreadsheetMemo respects your privacy:
 - All connections are secure
 - No tracking or data collection
 - Learn more at [spreadsheetmemo.com/privacy.html](https://spreadsheetmemo.com/privacy.html)
-
-## 📄 License
-
-This library is community-driven and open for everyone.
 
 ---
 
