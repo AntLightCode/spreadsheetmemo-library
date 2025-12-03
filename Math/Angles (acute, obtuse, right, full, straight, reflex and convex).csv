@@ -36,9 +36,9 @@ Reflex angle (180° - 360°):
 "Acute, obtuse, right, straight and full angles",,,,
 What does an acute angle look like and what is its range?,Between 0° and 90°,,,https://matematyka.wiki/obrazki/kat-ostry.png
 What does an obtuse angle look like and what is its range?,Between 90° and 180°,,,https://matematyka.wiki/obrazki/kat-rozwarty.png
-What does a right angle look like and what is its range?,     Equal to 90°,,,https://matematyka.wiki/obrazki/kat-prosty.png
-What does a straight angle look like and what is its range?,     Equal to 180°,,,https://matematyka.wiki/obrazki/kat-polpelny.png
-What does a full angle look like and what is its range?,     Equal to 360°,,,https://matematyka.wiki/obrazki/kat-pelny.png
+What does a right angle look like and what is its range?,Equal to 90°,,,https://matematyka.wiki/obrazki/kat-prosty.png
+What does a straight angle look like and what is its range?,Equal to 180°,,,https://matematyka.wiki/obrazki/kat-polpelny.png
+What does a full angle look like and what is its range?,Equal to 360°,,,https://matematyka.wiki/obrazki/kat-pelny.png
 What tools do we use to measure angles?,"* Protractor: The most popular tool for measuring angles in degrees.
 * Set square: Useful for quickly recognizing angles of 30°, 45°, 60° and 90°.
 * Compass: Can be used to transfer and compare angles.",,,
@@ -69,16 +69,22 @@ Which angle is smaller: straight or obtuse?,Obtuse angle.,,,https://matematyka.w
 ,,,,
 Reflex and convex angles,,,,
 What is an angle measuring 210° called?,Reflex angle.,,,https://matematyka.wiki/obrazki/kat-wklesly.png
-What is the main difference in appearance between a convex and reflex angle?,"A convex angle is the ""smaller part"" of a circle (up to 180°), while a reflex angle is the ""larger part"" of a circle (above 180°).",,,"https://matematyka.wiki/obrazki/kat-wklesly.png
+What is the main difference in appearance between a convex and reflex angle?,"A convex angle is the ""smaller part"" of a circle (up to 180°), while a reflex angle is the ""larger part"" of a circle (above 180°).",,,"https://matematyka.wiki/obrazki/kat-wypukly.png
 
-https://matematyka.wiki/obrazki/kat-wypukly.png"
+https://matematyka.wiki/obrazki/kat-wklesly.png"
 What is the range of measures for a reflex angle?,Greater than 180° and less than 360°.,,,https://matematyka.wiki/obrazki/kat-wklesly.png
 Give an example of a reflex angle measure.,"Any measure greater than 180° and less than 360°, for example 200°, 270°, 350°.",,,https://matematyka.wiki/obrazki/kat-wklesly.png
 An angle measures 181°. What type of angle is it?,Reflex angle.,,,https://matematyka.wiki/obrazki/kat-wklesly.png
 What is the smallest reflex angle?,"An angle measuring minimally more than 180°, e.g. 180.001°.",,,https://matematyka.wiki/obrazki/kat-wklesly.png
 "What common name (convex or reflex) will we give to angles measuring 15°, 90°, 175°?",All are convex angles.,,,https://matematyka.wiki/obrazki/kat-wypukly.png
-Which angles are classified as convex angles?,All angles with a measure less than or equal to 180° and the full angle (360°).,,,https://matematyka.wiki/obrazki/kat-wypukly.png
+Which angles are classified as convex angles?,"All angles with a measure less than or equal to 180°:
+* acute angle
+* right angle
+* obtuse angle
+* straight angle",,,https://matematyka.wiki/obrazki/kat-wypukly.png
 Is a right angle a convex angle?,"Yes, because its measure (90°) is less than 180°.",,,https://matematyka.wiki/obrazki/kat-wypukly.png
 Is a straight angle a convex angle?,"Yes, the definition of a convex angle includes angles measuring up to and including 180°.",,,https://matematyka.wiki/obrazki/kat-wypukly.png
 True or false: Every acute and obtuse angle is simultaneously a convex angle.,True.,,,https://matematyka.wiki/obrazki/kat-wypukly.png
-"What is the largest convex angle that is not a full angle?",Straight angle (180°).,,,https://matematyka.wiki/obrazki/kat-wypukly.png
+What is the largest convex angle?,Straight angle (180°).,,,https://matematyka.wiki/obrazki/kat-wypukly.png
+Is a full angle a reflex angle?,"No.
+A reflex angle is an angle with a measure greater than 180° and less than 360°.",,,
