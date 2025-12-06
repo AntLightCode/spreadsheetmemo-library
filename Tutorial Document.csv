@@ -1,5 +1,5 @@
 #SHEETINFO | name=Tutorial | ranges=[Tutorial_GettingStarted:B5:C11; Tutorial_AdvancedFeatures:B14:C19]
- "Getting Started"
+"Getting Started"
 "Your question goes here.","Your answer goes here.","You can store additional information here.","","","The content of this column will not be presented by the SpreadsheetMemo app."
 "This document is your canvas! 🎨
 Feel free to add, edit, and organize your content.","You can insert new rows for more questions, delete ones you no longer need, or even rearrange them to change the order.","Friendly tip: When moving or deleting content, it's best to operate on entire rows. This ensures everything stays perfectly aligned and the app runs smoothly ✨","https://support.google.com/docs/answer/44684"
@@ -84,10 +84,10 @@ https://www.mathjax.org
 https://en.wikibooks.org/wiki/LaTeX/Mathematics"
 "=""Random values and Google Sheets formulas! 🎲
 
- \( \frac{""&Q18&""}{""&R18&""} \) ⋅ \( \frac{""&S18&""}{""&T18&""} \) = ?""","=""\( \frac{""&(Q18*S18)/GCD(Q18*S18;R18*T18)&""}{""&(R18*T18)/GCD(Q18*S18;R18*T18)&""} \)""","SpreadsheetMemo fully supports '''Google Sheets formulas'''.
- You can make your questions and answers dynamic, for example, to generate random values or perform '''automatic calculations'''.
+\( \frac{""&Q18&""}{""&R18&""} \) ⋅ \( \frac{""&S18&""}{""&T18&""} \) = ?""","=""\( \frac{""&(Q18*S18)/GCD(Q18*S18;R18*T18)&""}{""&(R18*T18)/GCD(Q18*S18;R18*T18)&""} \)""","SpreadsheetMemo fully supports '''Google Sheets formulas'''.
+You can make your questions and answers dynamic, for example, to generate random values or perform '''automatic calculations'''.
  
- Try building your own formulas - they will generate new values each time you start a new lesson!",,,"If you want to place content after the technical columns (H-P), just use the special marker as shown in the next cell.","~#place-after-tech-cols#~=R18-RANDBETWEEN(1;R18-1)","=RANDBETWEEN(2;10)","=R18*RANDBETWEEN(2;15)","=RANDBETWEEN(2;10)"
+Try building your own formulas - they will generate new values each time you start a new lesson!",,,"If you want to place content after the technical columns (H-P), just use the special marker. You can see an example of its use in the column to the right.","~#place-after-tech-cols#~=R18-RANDBETWEEN(1;R18-1)","=RANDBETWEEN(2;10)","=R18*RANDBETWEEN(2;15)","=RANDBETWEEN(2;10)"
 "What is the Fourier transform?
 
 Advanced example of using the [https://en.wikipedia.org/wiki/Help:Wiki_markup Wiki Markup] and the [https://en.wikibooks.org/wiki/LaTeX/Mathematics TeX] formulas","The Fourier transform is a function derived from a given function and representing it by a series of [https://en.wikipedia.org/wiki/Sine_wave sinusoidal] functions.","====Definition====
