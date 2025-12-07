@@ -48,8 +48,8 @@ Jaką miarę ma kąt prosty?,Dokładnie 90°.,,,https://matematyka.wiki/obrazki/
 Jaką miarę ma kąt półpełny?,Dokładnie 180°.,,,https://matematyka.wiki/obrazki/kat-polpelny.png
 Jaką miarę ma kąt pełny?,Dokładnie 360°.,,,https://matematyka.wiki/obrazki/kat-pelny.png
 Jaką miarę ma kąt zerowy?,Dokładnie 0°.,,,
-Jak nazywa się kąt o mierze 75°?,Kąt ostry.,,,https://matematyka.wiki/obrazki/kat-ostry.png
-Jak nazywa się kąt o mierze 150°?,Kąt rozwarty.,,,https://matematyka.wiki/obrazki/kat-rozwarty.png
+"=""Jak nazywa się kąt o mierze ""&RANDBETWEEN(1;89)&""°?""",Kąt ostry.,,,https://matematyka.wiki/obrazki/kat-ostry.png
+"=""Jak nazywa się kąt o mierze ""&RANDBETWEEN(91;179)&""°?""",Kąt rozwarty.,,,https://matematyka.wiki/obrazki/kat-rozwarty.png
 Jak nazywa się kąt o mierze 90°?,Kąt prosty.,,,https://matematyka.wiki/obrazki/kat-prosty.png
 Jak nazywa się kąt o mierze 180°?,Kąt półpełny.,,,https://matematyka.wiki/obrazki/kat-polpelny.png
 Jak nazywa się kąt o mierze 360°?,Kąt pełny.,,,https://matematyka.wiki/obrazki/kat-pelny.png
@@ -68,7 +68,7 @@ Jaki kąt tworzy kromka pizzy (jeden kawałek)?,Najczęściej kąt ostry.,,,http
 Który kąt jest mniejszy: półpełny czy rozwarty?,Kąt rozwarty.,,,https://matematyka.wiki/obrazki/kat-rozwarty.png
 ,,,,
 Kąty wklęsłe i wypukłe,,,,
-Jak nazywa się kąt o mierze 210°?,Kąt wklęsły.,,,https://matematyka.wiki/obrazki/kat-wklesly.png
+"=""Jak nazywa się kąt o mierze ""&RANDBETWEEN(181;359)&""°?""",Kąt wklęsły.,,,https://matematyka.wiki/obrazki/kat-wklesly.png
 Jaka jest główna różnica w wyglądzie kąta wypukłego i wklęsłego?,"Kąt wypukły jest ""mniejszą częścią"" koła (do 180°), a kąt wklęsły jest ""większą częścią"" koła (powyżej 180°).",,,"https://matematyka.wiki/obrazki/kat-wypukly.png
 
 https://matematyka.wiki/obrazki/kat-wklesly.png"

@@ -48,8 +48,8 @@ What measure does a right angle have?,Exactly 90°.,,,https://matematyka.wiki/ob
 What measure does a straight angle have?,Exactly 180°.,,,https://matematyka.wiki/obrazki/kat-polpelny.png
 What measure does a full angle have?,Exactly 360°.,,,https://matematyka.wiki/obrazki/kat-pelny.png
 What measure does a zero angle have?,Exactly 0°.,,,
-What is an angle measuring 75° called?,Acute angle.,,,https://matematyka.wiki/obrazki/kat-ostry.png
-What is an angle measuring 150° called?,Obtuse angle.,,,https://matematyka.wiki/obrazki/kat-rozwarty.png
+"=""What is an angle measuring ""&RANDBETWEEN(1;89)&""° called?""",Acute angle.,,,https://matematyka.wiki/obrazki/kat-ostry.png
+"=""What is an angle measuring ""&RANDBETWEEN(91;179)&""°called?""",Obtuse angle.,,,https://matematyka.wiki/obrazki/kat-rozwarty.png
 What is an angle measuring 90° called?,Right angle.,,,https://matematyka.wiki/obrazki/kat-prosty.png
 What is an angle measuring 180° called?,Straight angle.,,,https://matematyka.wiki/obrazki/kat-polpelny.png
 What is an angle measuring 360° called?,Full angle.,,,https://matematyka.wiki/obrazki/kat-pelny.png
@@ -68,7 +68,7 @@ What angle does a slice of pizza (one piece) form?,Most often an acute angle.,,,
 Which angle is smaller: straight or obtuse?,Obtuse angle.,,,https://matematyka.wiki/obrazki/kat-rozwarty.png
 ,,,,
 Reflex and convex angles,,,,
-What is an angle measuring 210° called?,Reflex angle.,,,https://matematyka.wiki/obrazki/kat-wklesly.png
+"=""What is an angle measuring ""&RANDBETWEEN(181;359)&""° called?""",Reflex angle.,,,https://matematyka.wiki/obrazki/kat-wklesly.png
 What is the main difference in appearance between a convex and reflex angle?,"A convex angle is the ""smaller part"" of a circle (up to 180°), while a reflex angle is the ""larger part"" of a circle (above 180°).",,,"https://matematyka.wiki/obrazki/kat-wypukly.png
 
 https://matematyka.wiki/obrazki/kat-wklesly.png"
