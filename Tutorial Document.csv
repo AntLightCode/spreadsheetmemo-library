@@ -118,9 +118,9 @@ For example:
 * `'''SpreadsheetMemo: My Vocab'''` → will be listed
 * `'''SpreadsheetMemoArch: My Vocab'''` → will '''not''' be listed
 * `'''My Vocab'''` → will '''not''' be listed","https://support.google.com/docs/answer/49114#zippy=%2Crename-a-file"
-"How to prevent specific questions from being swapped with answers?~#no-swap#~","Add the special tag to the question or answer.","The options to swap questions with answers, available in the '''Bidirectional''' settings, are great for learning vocabulary. However, for fill-in-the-blank questions (e.g., ''Would you like ⬜ coffee?''), swapping the question with the answer (''some'') doesn't make sense.
+"How to prevent specific questions from being swapped with answers?","Add the special tag to the question or answer.","The options to swap questions with answers, available in the '''Bidirectional''' settings, are great for learning vocabulary. However, for fill-in-the-blank questions (e.g., ''Would you like ⬜ coffee?''), swapping the question with the answer (''some'') doesn't make sense.
 
-To prevent a specific pair from being swapped, simply add the '''~#no-swap#~''' tag to either the question or the answer column. The app will automatically exclude this item from the swapping process, and the tag itself will not be visible during the lesson."
+To prevent a specific pair from being swapped, simply add the '''~#no-swap#~''' tag to either the question, the answer, or the notes column. The app will automatically exclude this item from the swapping process, and the tag itself will not be visible during the lesson.",,,~#no-swap#~
 ""
 "Staging Content for Later"
 "","You can prepare content for future use by placing it outside the required columns.","An item is only included in a lesson when both the 'Question' (column B) and 'Answer' (column C) are filled in."

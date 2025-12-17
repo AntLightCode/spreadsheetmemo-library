@@ -1,0 +1,102 @@
+,Overview of Text-to-Speech Markers,,,,
+,Marker,Description,Samples,,
+,Cell markers,,,,
+,~#tts<column(s)>:<language>#~,"Marker for the whole cell, when added to column G (Notes).
+
+● <column(s)> - allowed values: Q, A, I, representing the Question, Answer, and Additional Info columns. They can be combined, for example: QA, AI, QI, QAI. The order does not matter.
+
+● <language> - the language that will be read aloud, in the format en-US, fr-FR, pl-PL, etc., according to RFC4646.","~#ttsQ:en-US#~
+~#ttsA:pl-PL#~
+~#ttsAI:fr-FR#~
+~#ttsQI:en-US#~",,
+,~#tts:<language>#~,"Marker for an entire cell, when placed anywhere within the text of the Question (B), Answer (C), or Additional Info (D) columns.
+
+● <language> - the language that will be read aloud, in the format en-US, fr-FR, pl-PL, etc., according to RFC4646.","~#tts:en-US#~
+~#tts:pl-PL#~",,
+,Inline markers,,,,
+,~#tts:<language>{<text>}#~,"Inline marker that adds a speaker icon directly within the displayed content. The icon can be clicked to play only this specific part.
+
+● <text> - the text that will be read aloud, after which the speaker icon will appear.
+
+● <language> - the language that will be read aloud, in the format en-US, fr-FR, pl-PL, etc., according to RFC4646.","~#tts:en-US{This part will be read in English, and an additional speaker icon will be added that allows the user to play only this part}#~",,
+,~#tts:nap:<language>{<text>}#~,"Inline marker that adds a speaker icon for a specific part of the text, but prevents that part from being played automatically. The user can still play it by clicking the icon.
+
+● <text> - the text that will be read aloud when the icon is clicked.
+
+● <language> - the language that will be read aloud, in the format en-US, fr-FR, pl-PL, etc., according to RFC4646.",~#tts:nap:en-US{This part will be omitted when autoplay is enabled. You can still listen to it by clicking the speaker icon on the right.}#~,,
+,~#tts:exclude{<text>}#~,"Inline marker that prevents the enclosed text from being read aloud. The text remains visible but is ignored by the Text-to-Speech engine. This is useful for excluding parts of a cell that would otherwise be read entirely due to a cell-wide marker.
+
+● <text> - the text that will be displayed but not read aloud.",~#tts:exclude{This part will be excluded from reading aloud.}#~,,
+,,,,,
+Cell Text-to-Speech Markers,,,,,
+1. This question will not be read aloud.,This answer will not be read aloud.,This content will not be read aloud.,,,
+"2. The question should be read in English and a speaker icon should appear, because a TTS cell marker was provided in column G.",This answer will not be read aloud.,This content will not be read aloud.,,,~#ttsQ:en-US#~
+3. This question should not be read aloud.,"Odpowiedź powinna być czytana po polsku i powinien pojawić się głośnik, ponieważ w kolumnie G został podany marker TTS.",This content will not be read aloud.,,,~#ttsA:pl-PL#~
+4. This question should not be read aloud.,回答应以中文朗读，并显示扬声器图标。,,,,~#ttsA:zh-CN#~
+"5. La pregunta debe leerse en español y debe aparecer un icono de altavoz.
+~#no-swap#~","The answer should be read in English and a speaker icon should appear, because a TTS cell marker was provided in column G.",This content should not be read aloud. The no-swap marker will also work as expected.,,,"~#ttsQ:es-ES#~
+~#ttsA:en-US#~"
+6. प्रश्न हिंदी भाषा में पढ़ा जाना चाहिए और एक स्पीकर दिखाई देना चाहिए।,This sentence will not be read aloud.,Les informations supplémentaires seront lues en français.,,,"Of course, you can also add Notes to this field, and it should not affect the recognition of markers.
+~#ttsQ:hi-IN#~
+~#ttsI:fr-FR#~
+Marker detection is performed throughout the entire text - not just at the beginning or the end."
+7. A pergunta deve ser lida em português e um ícone de alto-falante deve aparecer.,The answer should be read in English and a speaker icon should appear.,سيتم قراءة المعلومات الإضافية باللغة العربية.,,,"~#ttsQ:pt-BR#~
+~#ttsA:en-US#~
+~#ttsI:ar-SA#~"
+8. All of these sentences,should be read aloud,in English,,,"~#ttsQAI:en-US#~
+
+TTS markers can be combined with the ~#no-swap#~ marker."
+9. Alle diese Sätze,sollten auf Deutsch,vorgelesen werden.,,,"~#ttsIQA:de-DE#~
+
+The order of the columns specified in the marker does not matter - QAI will have exactly the same effect as AIQ or IAQ."
+"10. The question should be read aloud in English, and a speaker icon should appear.","Ответ должен быть прочитан на русском языке, и должен отображаться значок динамика.",Также содержимое этого поля будет прочитано на русском языке.,,,"~#ttsQ:en-US#~
+~#ttsAI:ru-RU#~"
+"11. TTS markers do not have to be in column G. They can be placed anywhere in the cell text. For example, at the end of this sentence.~#tts:en-US#~","~#tts:en-US#~Or at the beginning, whichever is more convenient.","They can also be added in the middle of the text.~#tts:en-US#~ The system will detect the marker, enable Text-to-Speech, and remove the marker from the displayed content.",,,
+,,,,,
+Inline Text-to-Speech Markers,,,,,
+"12. Example question with inline content, meaning only the part marked with the marker should be read.
+
+~#tts:en-US{Additionally, the text can be read by pressing the speaker icon located directly next to the content.}#~","Some sample answer, that you can also decorate with text-to-speech ability.
+
+~#tts:en-GB{This part will be read aloud.}#~
+
+This part won't be read aloud.","This sentence won't be read aloud.
+~#tts:pl-PL{Ta część zostanie przeczytana na głos po polsku.}#~
+
+Feel free to experiment with the markers and languages.
+~#tts:en-US{This part will be read aloud in English.}#~
+This part won't be read aloud.",,,
+"13. You can use both full-cell markers (in this case the cell marker was provided in column G) and inline markers.
+
+For example:
+This is a question with inline content that should be read in a different language.
+~#tts:pl-PL{Ten fragment zostanie przeczytany po polsku, a dodatkowa ikona głośnika pozwoli użytkownikowi odtworzyć tylko tę treść.}#~
+And then the rest of the text will be read in English.","~#tts:en-US#~The content of this cell will be read in English, since a cell marker was added here.
+~#tts:de-DE{Man kann jedoch festlegen, dass dieser Abschnitt auf Deutsch vorgelesen wird, und ein zusätzliches Lautsprechersymbol ermöglicht es, ihn unabhängig vom restlichen Inhalt abzuspielen.}#~
+Then it will automatically switch back to English.",You can freely combine cell-wide TTS markers with inline markers.,,,~#ttsQ:en-US#~
+,,,,,
+Advanced Markers,,,,,
+"14. No-Autoplay Marker.
+
+This part of the question will be read in English, and a speaker icon will appear (as the TTS cell marker was added to column G).
+~#tts:nap:en-US{However, this part will be omitted when autoplay is enabled. You can still listen to it by clicking the speaker icon on the right.}#~
+Then, this part will be read aloud.
+~#tts:nap:pl-PL{To także nie będzie przeczytane automatycznie. Aby wyzwolić czytanie, należy manualnie kliknąć w ikonę głośnika po prawej stronie.}#~","~#tts:en-US#~The content of this cell will be read in English (since the TTS cell marker was added at the beginning). 
+~#tts:nap:bg-BG{Въпреки това, тази част ще бъде пропусната, когато е включено автоматичното възпроизвеждане. Все пак можете да я чуете, като кликнете върху иконата на високоговорителя вдясно.}#~
+Then, this part will be read aloud.",,,,~#ttsQ:en-US#~
+"15. Exclude Marker.
+
+This part of the question will be read in English, and a speaker icon will appear (as the TTS cell marker was added to column G).
+~#tts:exclude{This part will be excluded from reading aloud.}#~
+Then, this part will be read aloud.
+~#tts:exclude{This will also be excluded from reading aloud: (2<sup>2</sup> + 6) ⋅ \( \frac{1}{2} \)}#~","The content of this cell will be read in English (as the TTS cell marker was added at the end). 
+~#tts:nap:en-US{However, this part will be omitted when autoplay is enabled. You can still listen to it by clicking the speaker icon on the right.}#~
+Then, this part will be read aloud.
+~#tts:exclude{And this part will be excluded.}#~
+~#tts:en-US#~","~#tts:en-US#~The content of this cell will be read in English (since the TTS cell marker was added at the beginning). 
+~#tts:nap:en-US{This part will be omitted when autoplay is enabled. You can still listen to it by clicking the speaker icon on the right.}#~
+This part will be read aloud.
+~#tts:exclude{And this part will be excluded.}#~
+~#tts:en-US{This part will be read in English, and an additional speaker icon will be added that allows the user to play only this part.}#~
+~#tts:exclude{This will also be excluded from reading aloud: \( \displaystyle\sum_{k=1}^n k^2 = \frac{1}{2} n (n+1) \)}#~
+",,,~#ttsQ:en-US#~
