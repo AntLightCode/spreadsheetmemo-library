@@ -101,3 +101,41 @@ This part will be read aloud.
 ~#tts:en-US{This part will be read in English, and an additional speaker icon will be added that allows the user to play only this part.}#~
 ~#tts:exclude{This will also be excluded from reading aloud: \( \displaystyle\sum_{k=1}^n k^2 = \frac{1}{2} n (n+1) \)}#~
 ",,,~#ttsQ:en-US#~
+,,,,,
+Hello and Goodbyes (TTS Preview),
+Sample voices and languages preview.,"~#tts:ar-SA{مرحبا; مع السلامة}#~  
+~#tts:bn-BD{হ্যালো; বিদায়}#~  
+~#tts:bn-IN{হ্যালো; বিদায়}#~  
+~#tts:bg-BG{Здравей; Довиждане}#~  
+~#tts:ca-ES{Hola; Adéu}#~  
+~#tts:cs-CZ{Ahoj; Sbohem}#~  
+~#tts:da-DK{Hej; Farvel}#~  
+~#tts:de-DE{Hallo; Auf Wiedersehen}#~  
+~#tts:el-GR{Γειά σου; Αντίο}#~  
+~#tts:en-AU{Hello; Goodbye}#~  
+~#tts:en-GB{Hello; Goodbye}#~  
+~#tts:en-IE{Hello; Goodbye}#~  
+~#tts:en-US{Hello; Goodbye}#~  
+~#tts:es-AR{Hola; Adiós}#~  
+~#tts:es-ES{Hola; Adiós}#~  
+~#tts:es-MX{Hola; Adiós}#~  
+~#tts:fi-FI{Hei; Näkemiin}#~  
+~#tts:fr-FR{Bonjour; Au revoir}#~  
+~#tts:he-IL{שלום; להתראות}#~  
+~#tts:hi-IN{नमस्ते; अलविदा}#~  
+~#tts:id-ID{Halo; Selamat tinggal}#~  
+~#tts:it-IT{Ciao; Arrivederci}#~  
+~#tts:ja-JP{こんにちは; さようなら}#~  
+~#tts:ko-KR{안녕하세요; 안녕히 가세요}#~  
+~#tts:nl-NL{Hallo; Vaarwel}#~  
+~#tts:pl-PL{Cześć; Do widzenia}#~  
+~#tts:pt-BR{Olá; Adeus}#~  
+~#tts:ru-RU{Привет; До свидания}#~  
+~#tts:sk-SK{Ahoj; Dovidenia}#~  
+~#tts:sv-SE{Hej; Adjö}#~  
+~#tts:th-TH{สวัสดี; ลาก่อน}#~  
+~#tts:tr-TR{Merhaba; Hoşça kal}#~  
+~#tts:vi-VN{Xin chào; Tạm biệt}#~  
+~#tts:zh-CN{你好; 再见}#~  
+~#tts:zh-HK{你好; 再見}#~  
+~#tts:zh-TW{你好; 再見}#~"

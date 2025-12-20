@@ -1,8 +1,8 @@
-#SHEETINFO | name=Tutorial | ranges=[Tutorial_GettingStarted:B5:C11; Tutorial_AdvancedFeatures:B14:C20]
+#SHEETINFO | name=Tutorial | ranges=[Tutorial_GettingStarted:B4:C11; Tutorial_AdvancedFeatures:B13:C20]
 "Getting Started"
 "Your question goes here.","Your answer goes here.","You can store additional information here.","","","The content of this column will not be presented by the SpreadsheetMemo app."
 "This document is your canvas! 🎨
-Feel free to add, edit, and organize your content.","You can insert new rows for more questions, delete ones you no longer need, or even rearrange them to change the order.","Friendly tip: When moving or deleting content, it's best to operate on entire rows. This ensures everything stays perfectly aligned and the app runs smoothly ✨","https://support.google.com/docs/answer/44684"
+Feel free to add, edit, and organize your content.","You can insert new rows for more questions, delete ones you no longer need, or even rearrange them to change the order.","Friendly tip: When moving or deleting content, it's best to operate on '''entire rows'''. This ensures everything stays perfectly aligned and the app runs smoothly ✨","https://support.google.com/docs/answer/44684"
 "You can replace this example content.","You can add as many questions and answers as you want.","","","","You can use this column for additional or private notes."
 "You can add links to your content.","For example, a reference to Google Sheets Help: ""How to use Named Ranges in Google Sheets"".","","https://support.google.com/docs/answer/63175?co=GENIE.Platform%3DDesktop&oco=1
 
@@ -12,7 +12,7 @@ https://support.google.com/docs/answer/63175?co=GENIE.Platform%3DiOS&oco=1","","
 "You can add multiple images to your content.","Sometimes, words are not enough.","Adding an image can enrich your content. It's especially useful for visualizing concepts to help you remember things more quickly and effectively.","","https://upload.wikimedia.org/wikipedia/commons/5/58/Memory.gif
 
 https://upload.wikimedia.org/wikipedia/commons/5/58/Brain_regions_in_memory_formation_updated.jpg"
-"You can use multiple sheets in a single spreadsheet.","This example document uses content from two different sheets:
+"You can use multiple sheets in a single spreadsheet.","This example document uses content from three different sheets:
 * *Latin Vocabulary (hidden from this tutorial lesson - try unlocking it! ☺️)
 * *Text-to-Speech Examples (also hidden)
 * Tutorial","Can you figure out why the 'Latin Vocabulary' and 'Text-to-Speech Examples' sheets are excluded from this lesson?
@@ -24,7 +24,7 @@ What happens if you remove it?"
 "Advanced Features"
 "How ⬜ people were at the concert? 
 
-much/many","many","You can use special characters and emojis like ⬜, ❇️, ❌, ✅, ⁇, 🌀, 💟, or 💠 to create fill-in-the-blank questions.
+''much/many''","many","You can use special characters and emojis like ⬜, ❇️, ❌, ✅, ⁇, 🌀, 💟, or 💠 to create fill-in-the-blank questions.
 
 It's a great way to test your knowledge of specific words or concepts in context."
 "You can enrich your content by using [https://en.wikipedia.org/wiki/Help:Wiki_markup Wiki Markup].
@@ -48,8 +48,8 @@ Some more lines
 *** Third Point
 ## Second-Second
 ## Second-Third
-# Third","Some bold and italic content.
-With a bold-italic new line.
+# Third","Some '''bold''' and ''italic'' content.
+With a '''''bold-italic''''' new line.
 == Section H2 ==
 === Section H3 ===
 ==== Section H4 ====
@@ -58,8 +58,8 @@ With a bold-italic new line.
 line\nbreak
 
 Link: [https://www.facebook.com/SpreadsheetMemo SpreadsheetMemo on Facebook]
-Bold link: [https://x.com/SpreadsheetMemo SpreadsheetMemo on X (Twitter)]
-Bold-italic link: [https://spreadsheetmemo.com SpreadsheetMemo Homepage]
+Bold link: '''[https://x.com/SpreadsheetMemo SpreadsheetMemo on X (Twitter)]'''
+Bold-italic link: '''''[https://spreadsheetmemo.com SpreadsheetMemo Homepage]'''''
 
 Image: [[File:https://res.cloudinary.com/antlightcode/image/upload/v1761301755/spreadsheetmemo_app/lesson_inner_image.png]]
 
@@ -94,13 +94,13 @@ Try building your own formulas - they will generate new values each time you sta
 Say ~#tts:pl-PL{Cześć!}#~ in Polish, ~#tts:de-DE{Hallo!}#~ in German, ~#tts:ja-JP{こんにちは!}#~ in Japanese, ~#tts:fr-FR{Bonjour!}#~ in French, or ~#tts:es-ES{¡Hola!}#~ in Spanish - and much more!","~#ttsA:en-US#~You can enable automatic text playback for entire cells or just for selected fragments.
 
 Use special TTS markers to add the reader:
-* For the entire cell: add the ~#tts:en-US#~ marker anywhere in the text of the question, answer, additional info, or notes. 
+* For the entire cell: add the ~#tts:en-US#~ marker anywhere in the text of the question, answer, additional info, or notes.
 * For a selected fragment: use the inline TTS marker. For example: ~#tts:de-DE{dieser Text wird auf Deutsch vorgelesen.}#~
-Simply use the appropriate language code, for example, de-DE for German or pl-PL for Polish. 
+Simply use the appropriate language code, for example, de-DE for German or pl-PL for Polish.
 
 You can find the list of supported language codes in column G of this tutorial document.","There are also advanced TTS markers available:
 * Exclude marker: ~#tts:exclude{this fragment will be skipped}#~
-* No-autoplay marker: ~#tts:nap:en-US{this fragment will not be played automatically; the user can click the icon to listen.}#~ 
+* No-autoplay marker: ~#tts:nap:en-US{this fragment will not be played automatically; the user can click the icon to listen.}#~
 
 Experiment with the markers to enhance your learning!
 
@@ -185,12 +185,12 @@ To prevent a specific pair from being swapped, simply add the '''~#no-swap#~''' 
 "Add new content, jump back to the SpreadsheetMemo app, and start your next lesson.
 Make it your daily routine.","You will feel the difference after a few days - just be systematic.","","","https://res.cloudinary.com/antlightcode/image/upload/v1762367309/spreadsheetmemo_app/hero-bg_wq.png"
 
-#SHEETINFO | name=*Latin Vocabulary
+#SHEETINFO | name=*Latin Vocabulary | tts=[Q:en-US; I:us-US] | ranges=[Human_Body:B12:C20]
 "Celestial","","","","","https://www.online-latin-dictionary.com/"
 "star","stella"
 "sky","caelum"
 "constellation","astrum"
-"moon","lūna","The Apollo 13 motto ""Ex Luna, Scientia"" translates to ""From the Moon, Knowledge"""
+"moon","lūna","The Apollo 13 motto ~#tts:exclude{""Ex Luna, Scientia""}#~ translates to ""From the Moon, Knowledge"""
 "sun","sōl"
 "space","spatium"
 ""
@@ -307,3 +307,41 @@ This part will be read aloud.
 ~#tts:en-US{This part will be read in English, and an additional speaker icon will be added that allows the user to play only this part.}#~
 ~#tts:exclude{This will also be excluded from reading aloud: \( \displaystyle\sum_{k=1}^n k^2 = \frac{1}{2} n (n+1) \)}#~
 ",,,~#ttsQ:en-US#~
+,,,,,
+Hello and Goodbyes (TTS Preview),
+Sample voices and languages preview.,"~#tts:ar-SA{مرحبا; مع السلامة}#~  
+~#tts:bn-BD{হ্যালো; বিদায়}#~  
+~#tts:bn-IN{হ্যালো; বিদায়}#~  
+~#tts:bg-BG{Здравей; Довиждане}#~  
+~#tts:ca-ES{Hola; Adéu}#~  
+~#tts:cs-CZ{Ahoj; Sbohem}#~  
+~#tts:da-DK{Hej; Farvel}#~  
+~#tts:de-DE{Hallo; Auf Wiedersehen}#~  
+~#tts:el-GR{Γειά σου; Αντίο}#~  
+~#tts:en-AU{Hello; Goodbye}#~  
+~#tts:en-GB{Hello; Goodbye}#~  
+~#tts:en-IE{Hello; Goodbye}#~  
+~#tts:en-US{Hello; Goodbye}#~  
+~#tts:es-AR{Hola; Adiós}#~  
+~#tts:es-ES{Hola; Adiós}#~  
+~#tts:es-MX{Hola; Adiós}#~  
+~#tts:fi-FI{Hei; Näkemiin}#~  
+~#tts:fr-FR{Bonjour; Au revoir}#~  
+~#tts:he-IL{שלום; להתראות}#~  
+~#tts:hi-IN{नमस्ते; अलविदा}#~  
+~#tts:id-ID{Halo; Selamat tinggal}#~  
+~#tts:it-IT{Ciao; Arrivederci}#~  
+~#tts:ja-JP{こんにちは; さようなら}#~  
+~#tts:ko-KR{안녕하세요; 안녕히 가세요}#~  
+~#tts:nl-NL{Hallo; Vaarwel}#~  
+~#tts:pl-PL{Cześć; Do widzenia}#~  
+~#tts:pt-BR{Olá; Adeus}#~  
+~#tts:ru-RU{Привет; До свидания}#~  
+~#tts:sk-SK{Ahoj; Dovidenia}#~  
+~#tts:sv-SE{Hej; Adjö}#~  
+~#tts:th-TH{สวัสดี; ลาก่อน}#~  
+~#tts:tr-TR{Merhaba; Hoşça kal}#~  
+~#tts:vi-VN{Xin chào; Tạm biệt}#~  
+~#tts:zh-CN{你好; 再见}#~  
+~#tts:zh-HK{你好; 再見}#~  
+~#tts:zh-TW{你好; 再見}#~"
