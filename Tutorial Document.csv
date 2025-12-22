@@ -64,7 +64,7 @@ Bold-italic link: '''''[https://spreadsheetmemo.com SpreadsheetMemo Homepage]'''
 Image: [[File:https://res.cloudinary.com/antlightcode/image/upload/v1761301755/spreadsheetmemo_app/lesson_inner_image.png]]
 
 SpreadsheetMemo Tutorial Video:
-[[Video:https://www.youtube.com/watch?v=vYmIsg8BpsQ?start=82]]","https://en.wikipedia.org/wiki/Help:Wiki_markup"
+[[Video:https://www.youtube.com/watch?v=f4pX11lNOhM?start=82]]","https://en.wikipedia.org/wiki/Help:Wiki_markup"
 "You can use coloring to highlight important elements thanks to Wiki Markup color formatting.","Set text color by using <span style=""color:#FF0000"">This text will be red</span>.
 Set background color by using <span style=""background:green"">This text will have a green background</span>.
 Set both by using <span style=""color:#FFFF00; background:#00C000"">This text will be yellow with a green background</span>.","Use <span style=""color:#7B68EE"">your</span> imag<span style=""color:#FF69B4"">in</span>ation! 👍","https://www.mediawiki.org/wiki/Help:Text_color"
