@@ -77,7 +77,7 @@ All contributions are welcome - from single flashcard sets to comprehensive stud
 - 💬 **Discord**: [discord.gg/mGEM2e8KWN](https://discord.gg/mGEM2e8KWN)
 - 👽 **Reddit**: [reddit.com/r/SpreadsheetMemo](https://reddit.com/r/SpreadsheetMemo)
 - 🐦 **X (Twitter)**: [x.com/SpreadsheetMemo](https://x.com/SpreadsheetMemo)
-- 📘 **Facebook**: [facebook.com/SpreadsheetMemo](https://facebook.com/SpreadsheetMemo) notifications
+- 📘 **Facebook**: [facebook.com/SpreadsheetMemo](https://facebook.com/SpreadsheetMemo)
 - 📧 **Email**: AntLightCode@gmail.com
 
 Feel free to reach out if you've found a typo, have questions, want to share your success story, a well-crafted spreadsheet, or just want to say hi! 👋
