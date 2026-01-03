@@ -1,4 +1,4 @@
-#SHEETINFO | name=Dodawanie do 20
+#SHEETINFO | name=Dodawanie do 20,
 Dodawanie do 10,
 1 + 1  =,2
 "2 + 1  =
@@ -104,7 +104,7 @@ Dodawanie do 20,
 8 + 9  =",17
 9 + 9  =,18
 
-#SHEETINFO | name=Odejmowanie do 20
+#SHEETINFO | name=Odejmowanie do 20,
 Odejmowanie do 10,
 10 - 9 =,1
 10 - 8 =,2
