@@ -15,7 +15,7 @@ LET(
     subset8; INDEX(all_icons; RANDBETWEEN(1; total_count));
     subset9; INDEX(all_icons; RANDBETWEEN(1; total_count));
     
-    TEXTJOIN("" ""; TRUE; subset1; subset2; subset3; subset4; subset5; subset6; subset7; subset8; subset9)
+    TEXTJOIN("", ""; TRUE; subset1; subset2; subset3; subset4; subset5; subset6; subset7; subset8; subset9)
 )
 &"" }#~""","=LET(
   items; SPLIT(""🏆,🥇,👑,🎖️,🏅,💎,⭐,✨,🌟,💫,🎯,💪,🎊,🎉,🥳,✌️,👏""; "","");
@@ -53,7 +53,7 @@ LET(
     subset8; INDEX(transportation; RANDBETWEEN(1; trans_count));
     subset9; INDEX(symbols; RANDBETWEEN(1; symbol_count));
     
-    TEXTJOIN("" ""; TRUE; subset1; subset2; subset3; subset4; subset5; subset6; subset7; subset8; subset9)
+    TEXTJOIN("", ""; TRUE; subset1; subset2; subset3; subset4; subset5; subset6; subset7; subset8; subset9)
 )
 &"" }#~""","=LET(
   items; SPLIT(""🏆,🥇,👑,🎖️,🏅,💎,⭐,✨,🌟,💫,🎯,💪,🎊,🎉,🥳,✌️,👏""; "","");
@@ -71,7 +71,7 @@ LET(
     subset4; INDEX(all_icons; RANDBETWEEN(1; total_count));
     subset5; INDEX(all_icons; RANDBETWEEN(1; total_count));
     
-    TEXTJOIN("" ""; TRUE; subset1; subset2; subset3; subset4; subset5)
+    TEXTJOIN("", ""; TRUE; subset1; subset2; subset3; subset4; subset5)
 )
 &"" }#~""","=LET(
   items; SPLIT(""🏆,🥇,👑,🎖️,🏅,💎,⭐,✨,🌟,💫,🎯,💪,🎊,🎉,🥳,✌️,👏""; "","");
@@ -95,7 +95,7 @@ LET(
     random_location; INDEX(location_icons; RANDBETWEEN(1; location_count));
     random_action; INDEX(action_icons; RANDBETWEEN(1; action_count));
     
-    TEXTJOIN("" ""; TRUE; random_character_first; random_character_second; random_emotion; random_location; random_action)
+    TEXTJOIN("", ""; TRUE; random_character_first; random_character_second; random_emotion; random_location; random_action)
 )
 &"" }#~""","=LET(
   items; SPLIT(""🏆,🥇,👑,🎖️,🏅,💎,⭐,✨,🌟,💫,🎯,💪,🎊,🎉,🥳,✌️,👏""; "","");
