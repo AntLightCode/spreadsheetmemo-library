@@ -1,4 +1,4 @@
-#SHEETINFO | name=Kl5SP Rodzaje wypowiedzi
+#SHEETINFO | name=Kl5SP Rodzaje wypowiedzi,,
 Jakie znasz rodzaje wypowiedzi?,"# Opowiadanie
 # Zaproszenie
 # Ogłoszenie
@@ -212,15 +212,15 @@ W piątek 22 listopada cała klasa 4 wybiera się na wycieczkę do muzeum przyro
 Prosimy zabrać drugie śniadanie i ciepłą kurtkę.
 
 Nauczycielka Anna"
-"=""Na podstawie """"Story Emotes"""" wymyśl Ogłoszenie ""&CHAR(10)&TEXTJOIN("" "", TRUE,
- CHOOSE(RANDBETWEEN(1,20),""👨"",""👩"",""👦"",""👧"",""👮"",""👩‍🚀"",""🧙‍♂️"",""🧙‍♀️"",""🤴"",""👸"",""🧛‍♂️"",""🧟‍♂️"",""👻"",""🤖"",""🧜‍♀️"",""🧞‍♂️"",""🧝‍♂️"",""🧑‍🚒"",""🧑‍⚕️"",""🧑‍🏫""),
- CHOOSE(RANDBETWEEN(1,20),""😀"",""😂"",""😢"",""😡"",""😱"",""😴"",""🤔"",""🤩"",""😍"",""😨"",""🤯"",""😬"",""😎"",""😭"",""🫣"",""🥳"",""😤"",""😇"",""🤗"",""😈""),
- CHOOSE(RANDBETWEEN(1,20),""🗡️"",""🛡️"",""🔑"",""🪄"",""📦"",""📕"",""🕯️"",""🧭"",""💎"",""🪙"",""🎒"",""🔨"",""🪓"",""🧪"",""🔥"",""💡"",""🌂"",""📸"",""🎈"",""🪴""),
- CHOOSE(RANDBETWEEN(1,20),""🏰"",""🏠"",""🏕️"",""🏞️"",""🌋"",""🏜️"",""🏝️"",""🏟️"",""🏛️"",""🚂"",""🚀"",""🚢"",""🛤️"",""🌌"",""🗻"",""🪨"",""🌳"",""🌊"",""🚧"",""🏚️""),
- CHOOSE(RANDBETWEEN(1,20),""⚡"",""🔥"",""🌪️"",""🌈"",""💥"",""🌧️"",""🌨️"",""🌫️"",""🚀"",""🏃"",""⚔️"",""🛠️"",""📣"",""🎯"",""🕒"",""🎲"",""🪄"",""🧊"",""🌀"",""🎵"")
+"=""Na podstawie ikon poniżej wymyśl treść ogłoszenia ""&CHAR(10)&TEXTJOIN("" ""; TRUE;
+ CHOOSE(RANDBETWEEN(1;20);""👨"";""👩"";""👦"";""👧"";""👮"";""👩‍🚀"";""🧙‍♂️"";""🧙‍♀️"";""🤴"";""👸"";""🧛‍♂️"";""🧟‍♂️"";""👻"";""🤖"";""🧜‍♀️"";""🧞‍♂️"";""🧝‍♂️"";""🧑‍🚒"";""🧑‍⚕️"";""🧑‍🏫"");
+ CHOOSE(RANDBETWEEN(1;20);""😀"";""😂"";""😢"";""😡"";""😱"";""😴"";""🤔"";""🤩"";""😍"";""😨"";""🤯"";""😬"";""😎"";""😭"";""🫣"";""🥳"";""😤"";""😇"";""🤗"";""😈"");
+ CHOOSE(RANDBETWEEN(1;20);""🗡️"";""🛡️"";""🔑"";""🪄"";""📦"";""📕"";""🕯️"";""🧭"";""💎"";""🪙"";""🎒"";""🔨"";""🪓"";""🧪"";""🔥"";""💡"";""🌂"";""📸"";""🎈"";""🪴"");
+ CHOOSE(RANDBETWEEN(1;20);""🏰"";""🏠"";""🏕️"";""🏞️"";""🌋"";""🏜️"";""🏝️"";""🏟️"";""🏛️"";""🚂"";""🚀"";""🚢"";""🛤️"";""🌌"";""🗻"";""🪨"";""🌳"";""🌊"";""🚧"";""🏚️"");
+ CHOOSE(RANDBETWEEN(1;20);""⚡"";""🔥"";""🌪️"";""🌈"";""💥"";""🌧️"";""🌨️"";""🌫️"";""🚀"";""🏃"";""⚔️"";""🛠️"";""📣"";""🎯"";""🕒"";""🎲"";""🪄"";""🧊"";""🌀"";""🎵"")
 )","=LET(
-  items, SPLIT(""🪅,💝,🎉,🧃,🦖,🎈,🎁,🎊,🏆,🥳,🪄,⚡,🏀,🏎️,🎮,🐉,🚀,🪁,🏹,🎯,🦁,🐵,🏰,🛹,🏓,🐢,🦕"", "",""),
-  TEXTJOIN("" "", TRUE, INDEX(items, RANDBETWEEN(1, COUNTA(items))))
+  items; SPLIT(""🪅,💝,🎉,🧃,🦖,🎈,🎁,🎊,🏆,🥳,🪄,⚡,🏀,🏎️,🎮,🐉,🚀,🪁,🏹,🎯,🦁,🐵,🏰,🛹,🏓,🐢,🦕""; "","");
+  TEXTJOIN("" ""; TRUE; INDEX(items; RANDBETWEEN(1; COUNTA(items))))
 )"," '''Ogłoszenie''' to krótka informacja, którą ktoś chce przekazać innym. Składa się z:
 * Nagłówek - mówi, o czym jest ogłoszenie, np. „Wycieczka szkolna”.
 * Treść 
@@ -235,22 +235,22 @@ W piątek 22 listopada cała klasa 4 wybiera się na wycieczkę do muzeum przyro
 Prosimy zabrać drugie śniadanie i ciepłą kurtkę.
 
 Nauczycielka Anna"
-"=""Na podstawie """"Story Emotes"""" wymyśl Opowiadanie ""&CHAR(10)&LET(
-  items, SPLIT(""👨,👩,👦,👧,👮,👩‍🚀,🧙‍♂️,🧙‍♀️,🤴,👸,🧛‍♂️,🧟‍♂️,👻,🤖,🧜‍♀️,🧞‍♂️,🧝‍♂️,🧑‍🚒,🧑‍⚕️,🧑‍🏫,😀,😂,😢,😡,😱,😴,🤔,🤩,😍,😨,🤯,😬,😎,😭,🫣,🥳,😤,😇,🤗,😈,🗡️,🛡️,🔑,🪄,📦,📕,🕯️,🧭,💎,🪙,🎒,🔨,🪓,🧪,🔥,💡,🌂,📸,🎈,🪴,🏰,🏠,🏕️,🏞️,🌋,🏜️,🏝️,🏟️,🏛️,🚂,🚀,🚢,🛤️,🌌,🗻,🪨,🌳,🌊,🚧,🏚️,⚡,🌪️,🌈,💥,🌧️,🌨️,🌫️,🏃,⚔️,🛠️,📣,🎯,🕒,🎲,🧊,🌀,🎵"", "",""),
-  TEXTJOIN("" "", TRUE,
-    INDEX(items, RANDBETWEEN(1, COUNTA(items))),
-    INDEX(items, RANDBETWEEN(1, COUNTA(items))),
-    INDEX(items, RANDBETWEEN(1, COUNTA(items))),
-    INDEX(items, RANDBETWEEN(1, COUNTA(items))),
-    INDEX(items, RANDBETWEEN(1, COUNTA(items))),
-    INDEX(items, RANDBETWEEN(1, COUNTA(items))),
-    INDEX(items, RANDBETWEEN(1, COUNTA(items))),
-    INDEX(items, RANDBETWEEN(1, COUNTA(items))),
-    INDEX(items, RANDBETWEEN(1, COUNTA(items)))
+"=""Na podstawie ikon poniżej wymyśl treść opowiadania ""&CHAR(10)&LET(
+  items; SPLIT(""👨,👩,👦,👧,👮,👩‍🚀,🧙‍♂️,🧙‍♀️,🤴,👸,🧛‍♂️,🧟‍♂️,👻,🤖,🧜‍♀️,🧞‍♂️,🧝‍♂️,🧑‍🚒,🧑‍⚕️,🧑‍🏫,😀,😂,😢,😡,😱,😴,🤔,🤩,😍,😨,🤯,😬,😎,😭,🫣,🥳,😤,😇,🤗,😈,🗡️,🛡️,🔑,🪄,📦,📕,🕯️,🧭,💎,🪙,🎒,🔨,🪓,🧪,🔥,💡,🌂,📸,🎈,🪴,🏰,🏠,🏕️,🏞️,🌋,🏜️,🏝️,🏟️,🏛️,🚂,🚀,🚢,🛤️,🌌,🗻,🪨,🌳,🌊,🚧,🏚️,⚡,🌪️,🌈,💥,🌧️,🌨️,🌫️,🏃,⚔️,🛠️,📣,🎯,🕒,🎲,🧊,🌀,🎵""; "","");
+  TEXTJOIN("" ""; TRUE;
+    INDEX(items; RANDBETWEEN(1; COUNTA(items)));
+    INDEX(items; RANDBETWEEN(1; COUNTA(items)));
+    INDEX(items; RANDBETWEEN(1; COUNTA(items)));
+    INDEX(items; RANDBETWEEN(1; COUNTA(items)));
+    INDEX(items; RANDBETWEEN(1; COUNTA(items)));
+    INDEX(items; RANDBETWEEN(1; COUNTA(items)));
+    INDEX(items; RANDBETWEEN(1; COUNTA(items)));
+    INDEX(items; RANDBETWEEN(1; COUNTA(items)));
+    INDEX(items; RANDBETWEEN(1; COUNTA(items)))
   )
 )","=LET(
-  items, SPLIT(""🪅,💝,🎉,🧃,🦖,🎈,🎁,🎊,🏆,🥳,🪄,⚡,🏀,🏎️,🎮,🐉,🚀,🪁,🏹,🎯,🦁,🐵,🏰,🛹,🏓,🐢,🦕"", "",""),
-  TEXTJOIN("" "", TRUE, INDEX(items, RANDBETWEEN(1, COUNTA(items))))
+  items; SPLIT(""🪅,💝,🎉,🧃,🦖,🎈,🎁,🎊,🏆,🥳,🪄,⚡,🏀,🏎️,🎮,🐉,🚀,🪁,🏹,🎯,🦁,🐵,🏰,🛹,🏓,🐢,🦕""; "","");
+  TEXTJOIN("" ""; TRUE; INDEX(items; RANDBETWEEN(1; COUNTA(items))))
 )"," '''Opowiadanie''' to krótka historia, w której ktoś coś przeżywa albo coś się dzieje. Składa się z:
 * Wstęp - przedstawienie bohaterów, miejsca i czasu akcji oraz zarysowanie problemu.
 * Rozwinięcie - co się wydarzyło, jakie przygody lub problemy miały miejsce.
@@ -259,23 +259,23 @@ Nauczycielka Anna"
 Przygoda w lesie
 
 W sobotę Ania i Tomek poszli do lasu szukać grzybów. Nagle usłyszeli cichy szelest i zobaczyli małego jeża. Postanowili mu pomóc, bo utknął między gałęziami. Po chwili jeż był wolny i pobiegł do lasu. Ania i Tomek wrócili do domu szczęśliwi, że mogli zrobić coś dobrego."
-"=""Na podstawie """"Story Emotes"""" wymyśl List ""&CHAR(10)&LET(
-  items, SPLIT(""👨,👩,👦,👧,👮,👩‍🚀,🧙‍♂️,🧙‍♀️,🤴,👸,🧛‍♂️,🧟‍♂️,👻,🤖,🧜‍♀️,🧞‍♂️,🧝‍♂️,🧑‍🚒,🧑‍⚕️,🧑‍🏫,😀,😂,😢,😡,😱,😴,🤔,🤩,😍,😨,🤯,😬,😎,😭,🫣,🥳,😤,😇,🤗,😈,🗡️,🛡️,🔑,🪄,📦,📕,🕯️,🧭,💎,🪙,🎒,🔨,🪓,🧪,🔥,💡,🌂,📸,🎈,🪴,🏰,🏠,🏕️,🏞️,🌋,🏜️,🏝️,🏟️,🏛️,🚂,🚀,🚢,🛤️,🌌,🗻,🪨,🌳,🌊,🚧,🏚️,⚡,🌪️,🌈,💥,🌧️,🌨️,🌫️,🏃,⚔️,🛠️,📣,🎯,🕒,🎲,🧊,🌀,🎵,🪁,🛎️,🎀,🎁,🎃,🎄,🎅,🤶,🧦,🪅,🥁,🎹,🥇,🥈,🥉,🏆,🏅,⚽,🏀,🏈,🎾,🏐,🏉,🎳,🥏,🎣,🚴,🚵,🤸,🤾,🧗,🏇,🏂,🛷,🛼,🛹,🚣,🛶,🪂,🚁,🚒,🚑,🚓,🚕,🚛,🚚,🚜,🏎️,🛵,🏍️,✈️,🛫,🛬,🚉,🛣️,🗽,🗿,🗼,🕌,⛪,🏯,🕍,🛕,🕋,💒,🎡,🎢,🎠,🪆,🧸,🎎,🎏,🧧,🪩,💈,🔮,🧿,💫,⭐,🌟,✨,💥,☄️,🌠,🎇,🎆,💭,💬,👁️,👁️‍🗨️"", "",""),
-  TEXTJOIN("" "", TRUE,
-    INDEX(items, RANDBETWEEN(1, COUNTA(items))),
-    INDEX(items, RANDBETWEEN(1, COUNTA(items))),
-    INDEX(items, RANDBETWEEN(1, COUNTA(items))),
-    INDEX(items, RANDBETWEEN(1, COUNTA(items))),
-    INDEX(items, RANDBETWEEN(1, COUNTA(items))),
-    INDEX(items, RANDBETWEEN(1, COUNTA(items))),
-    INDEX(items, RANDBETWEEN(1, COUNTA(items))),
-    INDEX(items, RANDBETWEEN(1, COUNTA(items))),
-    INDEX(items, RANDBETWEEN(1, COUNTA(items)))
+"=""Na podstawie ikon poniżej wymyśl treść listu ""&CHAR(10)&LET(
+  items; SPLIT(""👨,👩,👦,👧,👮,👩‍🚀,🧙‍♂️,🧙‍♀️,🤴,👸,🧛‍♂️,🧟‍♂️,👻,🤖,🧜‍♀️,🧞‍♂️,🧝‍♂️,🧑‍🚒,🧑‍⚕️,🧑‍🏫,😀,😂,😢,😡,😱,😴,🤔,🤩,😍,😨,🤯,😬,😎,😭,🫣,🥳,😤,😇,🤗,😈,🗡️,🛡️,🔑,🪄,📦,📕,🕯️,🧭,💎,🪙,🎒,🔨,🪓,🧪,🔥,💡,🌂,📸,🎈,🪴,🏰,🏠,🏕️,🏞️,🌋,🏜️,🏝️,🏟️,🏛️,🚂,🚀,🚢,🛤️,🌌,🗻,🪨,🌳,🌊,🚧,🏚️,⚡,🌪️,🌈,💥,🌧️,🌨️,🌫️,🏃,⚔️,🛠️,📣,🎯,🕒,🎲,🧊,🌀,🎵,🪁,🛎️,🎀,🎁,🎃,🎄,🎅,🤶,🧦,🪅,🥁,🎹,🥇,🥈,🥉,🏆,🏅,⚽,🏀,🏈,🎾,🏐,🏉,🎳,🥏,🎣,🚴,🚵,🤸,🤾,🧗,🏇,🏂,🛷,🛼,🛹,🚣,🛶,🪂,🚁,🚒,🚑,🚓,🚕,🚛,🚚,🚜,🏎️,🛵,🏍️,✈️,🛫,🛬,🚉,🛣️,🗽,🗿,🗼,🕌,⛪,🏯,🕍,🛕,🕋,💒,🎡,🎢,🎠,🪆,🧸,🎎,🎏,🧧,🪩,💈,🔮,🧿,💫,⭐,🌟,✨,💥,☄️,🌠,🎇,🎆,💭,💬,👁️,👁️‍🗨️""; "","");
+  TEXTJOIN("" ""; TRUE;
+    INDEX(items; RANDBETWEEN(1; COUNTA(items)));
+    INDEX(items; RANDBETWEEN(1; COUNTA(items)));
+    INDEX(items; RANDBETWEEN(1; COUNTA(items)));
+    INDEX(items; RANDBETWEEN(1; COUNTA(items)));
+    INDEX(items; RANDBETWEEN(1; COUNTA(items)));
+    INDEX(items; RANDBETWEEN(1; COUNTA(items)));
+    INDEX(items; RANDBETWEEN(1; COUNTA(items)));
+    INDEX(items; RANDBETWEEN(1; COUNTA(items)));
+    INDEX(items; RANDBETWEEN(1; COUNTA(items)))
   )
 )
 ","=LET(
-  items, SPLIT(""🪅,💝,🎉,🧃,🦖,🎈,🎁,🎊,🏆,🥳,🪄,⚡,🏀,🏎️,🎮,🐉,🚀,🪁,🏹,🎯,🦁,🐵,🏰,🛹,🏓,🐢,🦕"", "",""),
-  TEXTJOIN("" "", TRUE, INDEX(items, RANDBETWEEN(1, COUNTA(items))))
+  items; SPLIT(""🪅,💝,🎉,🧃,🦖,🎈,🎁,🎊,🏆,🥳,🪄,⚡,🏀,🏎️,🎮,🐉,🚀,🪁,🏹,🎯,🦁,🐵,🏰,🛹,🏓,🐢,🦕""; "","");
+  TEXTJOIN("" ""; TRUE; INDEX(items; RANDBETWEEN(1; COUNTA(items))))
 )"," '''List''' to wiadomość, którą ktoś pisze do innej osoby, żeby coś jej powiedzieć lub zapytać. Składa się z:
 * Miejscowość i data
 * Nagłówek/Adresat - do kogo jest list, np. „Droga Babciu”.
@@ -289,15 +289,15 @@ Chciałabym Ci opowiedzieć, że w szkole mieliśmy wycieczkę do muzeum. Było 
 
 Całuję mocno,
 Twoja wnuczka Ania"
-"=""Na podstawie """"Story Emotes"""" wymyśl Zaproszenie ""&CHAR(10)&TEXTJOIN("" "", TRUE,
- CHOOSE(RANDBETWEEN(1,20),""👨"",""👩"",""👦"",""👧"",""👮"",""👩‍🚀"",""🧙‍♂️"",""🧙‍♀️"",""🤴"",""👸"",""🧛‍♂️"",""🧟‍♂️"",""👻"",""🤖"",""🧜‍♀️"",""🧞‍♂️"",""🧝‍♂️"",""🧑‍🚒"",""🧑‍⚕️"",""🧑‍🏫""),
- CHOOSE(RANDBETWEEN(1,20),""😀"",""😂"",""😢"",""😡"",""😱"",""😴"",""🤔"",""🤩"",""😍"",""😨"",""🤯"",""😬"",""😎"",""😭"",""🫣"",""🥳"",""😤"",""😇"",""🤗"",""😈""),
- CHOOSE(RANDBETWEEN(1,20),""🗡️"",""🛡️"",""🔑"",""🪄"",""📦"",""📕"",""🕯️"",""🧭"",""💎"",""🪙"",""🎒"",""🔨"",""🪓"",""🧪"",""🔥"",""💡"",""🌂"",""📸"",""🎈"",""🪴""),
- CHOOSE(RANDBETWEEN(1,20),""🏰"",""🏠"",""🏕️"",""🏞️"",""🌋"",""🏜️"",""🏝️"",""🏟️"",""🏛️"",""🚂"",""🚀"",""🚢"",""🛤️"",""🌌"",""🗻"",""🪨"",""🌳"",""🌊"",""🚧"",""🏚️""),
- CHOOSE(RANDBETWEEN(1,20),""⚡"",""🔥"",""🌪️"",""🌈"",""💥"",""🌧️"",""🌨️"",""🌫️"",""🚀"",""🏃"",""⚔️"",""🛠️"",""📣"",""🎯"",""🕒"",""🎲"",""🪄"",""🧊"",""🌀"",""🎵"")
+"=""Na podstawie ikon poniżej wymyśl treść zaproszenia ""&CHAR(10)&TEXTJOIN("" ""; TRUE;
+ CHOOSE(RANDBETWEEN(1;20);""👨"";""👩"";""👦"";""👧"";""👮"";""👩‍🚀"";""🧙‍♂️"";""🧙‍♀️"";""🤴"";""👸"";""🧛‍♂️"";""🧟‍♂️"";""👻"";""🤖"";""🧜‍♀️"";""🧞‍♂️"";""🧝‍♂️"";""🧑‍🚒"";""🧑‍⚕️"";""🧑‍🏫"");
+ CHOOSE(RANDBETWEEN(1;20);""😀"";""😂"";""😢"";""😡"";""😱"";""😴"";""🤔"";""🤩"";""😍"";""😨"";""🤯"";""😬"";""😎"";""😭"";""🫣"";""🥳"";""😤"";""😇"";""🤗"";""😈"");
+ CHOOSE(RANDBETWEEN(1;20);""🗡️"";""🛡️"";""🔑"";""🪄"";""📦"";""📕"";""🕯️"";""🧭"";""💎"";""🪙"";""🎒"";""🔨"";""🪓"";""🧪"";""🔥"";""💡"";""🌂"";""📸"";""🎈"";""🪴"");
+ CHOOSE(RANDBETWEEN(1;20);""🏰"";""🏠"";""🏕️"";""🏞️"";""🌋"";""🏜️"";""🏝️"";""🏟️"";""🏛️"";""🚂"";""🚀"";""🚢"";""🛤️"";""🌌"";""🗻"";""🪨"";""🌳"";""🌊"";""🚧"";""🏚️"");
+ CHOOSE(RANDBETWEEN(1;20);""⚡"";""🔥"";""🌪️"";""🌈"";""💥"";""🌧️"";""🌨️"";""🌫️"";""🚀"";""🏃"";""⚔️"";""🛠️"";""📣"";""🎯"";""🕒"";""🎲"";""🪄"";""🧊"";""🌀"";""🎵"")
 )","=LET(
-  items, SPLIT(""🪅,💝,🎉,🧃,🦖,🎈,🎁,🎊,🏆,🥳,🪄,⚡,🏀,🏎️,🎮,🐉,🚀,🪁,🏹,🎯,🦁,🐵,🏰,🛹,🏓,🐢,🦕"", "",""),
-  TEXTJOIN("" "", TRUE, INDEX(items, RANDBETWEEN(1, COUNTA(items))))
+  items; SPLIT(""🪅,💝,🎉,🧃,🦖,🎈,🎁,🎊,🏆,🥳,🪄,⚡,🏀,🏎️,🎮,🐉,🚀,🪁,🏹,🎯,🦁,🐵,🏰,🛹,🏓,🐢,🦕""; "","");
+  TEXTJOIN("" ""; TRUE; INDEX(items; RANDBETWEEN(1; COUNTA(items))))
 )"," '''Zaproszenie''' to wiadomość, w której ktoś prosi kogoś, żeby przyszedł na jakieś wydarzenie. Składa się z:
 * Nagłówek - co to za wydarzenie, np. „Zaproszenie na urodziny”.
 * Treść - kiedy i gdzie się wydarzenie odbędzie, czasem co przynieść lub zabrać.
