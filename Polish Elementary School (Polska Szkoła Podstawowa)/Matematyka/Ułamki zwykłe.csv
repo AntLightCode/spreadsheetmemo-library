@@ -1,10 +1,10 @@
-#SHEETINFO | name=Kl5SP Ułamki zwykłe,,,,,
-Teoria: https://matematyka.wiki/ulamki-zwykle,,,,,
-,,,,,
-Co oznacza licznik ułamka?,"Liczba części, które bierzemy.",,,,
-Co oznacza mianownik ułamka?,"Liczba wszystkich równych części, na które podzielono całość.",,,,
-"Jak nazywa się ułamek, w którym licznik jest mniejszy od mianownika?",Ułamek właściwy.,,,,
-"Jak nazywa się ułamek, w którym licznik jest większy lub równy mianownikowi?",Ułamek niewłaściwy.,,,,
+#SHEETINFO | name=Kl5SP Ułamki zwykłe,,,,,,
+Teoria: https://matematyka.wiki/ulamki-zwykle,,,,,,
+,,,,,,
+Co oznacza licznik ułamka?,"Liczba części, które bierzemy.",,,,,
+Co oznacza mianownik ułamka?,"Liczba wszystkich równych części, na które podzielono całość.",,,,,
+"Jak nazywa się ułamek, w którym licznik jest mniejszy od mianownika?",Ułamek właściwy.,,,,,
+"Jak nazywa się ułamek, w którym licznik jest większy lub równy mianownikowi?",Ułamek niewłaściwy.,,,,,
 Co to jest ułamek nieskracalny?,"Ułamek, którego górnej i dolnej liczby nie da się już podzielić przez tę samą liczbę (inną niż 1), aby go uprościć. Jest już w ""najprostszej"" postaci.
 
 Przykład:
@@ -13,163 +13,218 @@ Przykład:
 Nie jest nieskracalny.
 
 \( \frac{2}{4} \) (licznik i mianownik można podzielić przez 2, aby otrzymać \( \frac{1}{2} \) )
-\( \frac{6}{9} \) (licznik i mianownik można podzielić przez 3, aby otrzymać \( \frac{2}{3} \) )",,,,
-,,,,,
-Jaką częścią figury jest zamalowana jedna z trzech równych części?,\( \frac{1}{3} \) ,,,,
-Jaką częścią godziny jest 15 minut?,\( \frac{1}{4} \) ,,,,
-Podaj przykład ułamka właściwego o mianowniku 5.,"Na przykład: \( \frac{1}{5} \) , \( \frac{2}{5} \) , \( \frac{3}{5} \) , \( \frac{4}{5} \) ",,,,
-Podaj przykład ułamka niewłaściwego o liczniku 8.,"Na przykład: \( \frac{8}{8} \) , \( \frac{8}{7} \) , \( \frac{8}{5} \) ",,,,
-,,,,,
-"=""Zamień ułamek niewłaściwy \( \frac{""&R17&""}{""&Q17&""} \) na liczbę mieszaną.""","=""\( ""&S17&"" \frac{""&T17&""}{""&Q17&""} \)""",~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q17;49)+1,=ROUNDDOWN(R17/Q17),=MOD(R17;Q17)
-"=""Zamień ułamek niewłaściwy \( \frac{""&R18&""}{""&Q18&""} \) na liczbę mieszaną.""","=""\( ""&S18&"" \frac{""&T18&""}{""&Q18&""} \)""",~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q18;49)+1,=ROUNDDOWN(R18/Q18),=MOD(R18;Q18)
-"=""Zamień ułamek niewłaściwy \( \frac{""&R19&""}{""&Q19&""} \) na liczbę mieszaną.""","=""\( ""&S19&"" \frac{""&T19&""}{""&Q19&""} \)""",~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q19;49)+1,=ROUNDDOWN(R19/Q19),=MOD(R19;Q19)
-"=""Zamień ułamek niewłaściwy \( \frac{""&R20&""}{""&Q20&""} \) na liczbę mieszaną.""","=""\( ""&S20&"" \frac{""&T20&""}{""&Q20&""} \)""",~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q20;49)+1,=ROUNDDOWN(R20/Q20),=MOD(R20;Q20)
-"=""Zamień ułamek niewłaściwy \( \frac{""&R21&""}{""&Q21&""} \) na liczbę mieszaną.""","=""\( ""&S21&"" \frac{""&T21&""}{""&Q21&""} \)""",~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q21;49)+1,=ROUNDDOWN(R21/Q21),=MOD(R21;Q21)
-"=""Zamień ułamek niewłaściwy \( \frac{""&R22&""}{""&Q22&""} \) na liczbę mieszaną.""","=""\( ""&S22&"" \frac{""&T22&""}{""&Q22&""} \)""",~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q22;49)+1,=ROUNDDOWN(R22/Q22),=MOD(R22;Q22)
-,,,,,
-"=""Zamień liczbę mieszaną \( ""&S24&"" \frac{""&T24&""}{""&Q24&""} \) na ułamek niewłaściwy.""","=""\( \frac{""&R24&""}{""&Q24&""} \)""",~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q24;49)+1,=ROUNDDOWN(R24/Q24),=MOD(R24;Q24)
-"=""Zamień liczbę mieszaną \( ""&S25&"" \frac{""&T25&""}{""&Q25&""} \) na ułamek niewłaściwy.""","=""\( \frac{""&R25&""}{""&Q25&""} \)""",~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q25;49)+1,=ROUNDDOWN(R25/Q25),=MOD(R25;Q25)
-"=""Zamień liczbę mieszaną \( ""&S26&"" \frac{""&T26&""}{""&Q26&""} \) na ułamek niewłaściwy.""","=""\( \frac{""&R26&""}{""&Q26&""} \)""",~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q26;49)+1,=ROUNDDOWN(R26/Q26),=MOD(R26;Q26)
-"=""Zamień liczbę mieszaną \( ""&S27&"" \frac{""&T27&""}{""&Q27&""} \) na ułamek niewłaściwy.""","=""\( \frac{""&R27&""}{""&Q27&""} \)""",~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q27;49)+1,=ROUNDDOWN(R27/Q27),=MOD(R27;Q27)
-"=""Zamień liczbę mieszaną \( ""&S28&"" \frac{""&T28&""}{""&Q28&""} \) na ułamek niewłaściwy.""","=""\( \frac{""&R28&""}{""&Q28&""} \)""",~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q28;49)+1,=ROUNDDOWN(R28/Q28),=MOD(R28;Q28)
-"=""Zamień liczbę mieszaną \( ""&S29&"" \frac{""&T29&""}{""&Q29&""} \) na ułamek niewłaściwy.""","=""\( \frac{""&R29&""}{""&Q29&""} \)""",~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q29;49)+1,=ROUNDDOWN(R29/Q29),=MOD(R29;Q29)
-"=""Zamień liczbę mieszaną \( ""&S30&"" \frac{""&T30&""}{""&Q30&""} \) na ułamek niewłaściwy.""","=""\( \frac{""&R30&""}{""&Q30&""} \)""",~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q30;49)+1,=ROUNDDOWN(R30/Q30),=MOD(R30;Q30)
-"=""Zamień liczbę mieszaną \( ""&S31&"" \frac{""&T31&""}{""&Q31&""} \) na ułamek niewłaściwy.""","=""\( \frac{""&R31&""}{""&Q31&""} \)""",~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q31;49)+1,=ROUNDDOWN(R31/Q31),=MOD(R31;Q31)
-,,,,,
-Zamień ułamek niewłaściwy \( \frac{7}{3} \) na liczbę mieszaną.,\( 2 \frac{1}{3} \) ,,,,
-Zamień liczbę mieszaną \( 3 \frac{1}{2} \) na ułamek niewłaściwy.,\( \frac{7}{2} \) ,,,,
-,,,,,
-Uprość ułamek \( \frac{4}{6} \) .,\( \frac{2}{3} \) ,,,,
-Uprość ułamek \( \frac{9}{12} \) .,\( \frac{3}{4} \) ,,,,
-Rozszerz ułamek \( \frac{1}{3} \) przez 2.,\( \frac{2}{6} \) ,,,,
-Rozszerz ułamek \( \frac{3}{4} \) przez 3.,\( \frac{9}{12} \) ,,,,
-Czy ułamki \( \frac{2}{5} \) i \( \frac{4}{10} \) są równe?,Tak.,,,,
-Czy ułamki \( \frac{1}{2} \) i \( \frac{3}{5} \) są równe?,Nie.,,,,
-Który ułamek jest większy: \( \frac{2}{7} \) czy \( \frac{5}{7} \) ?,\( \frac{5}{7} \) ,,,,
-Który ułamek jest większy: \( \frac{12}{17} \) czy \( \frac{12}{16} \) ?,\( \frac{12}{16} \) ,,,,
-Który ułamek jest większy: \( \frac{3}{5} \) czy \( \frac{3}{6} \) ?,\( \frac{3}{5} \) ,,,,
-Który ułamek jest większy: \( \frac{1}{4} \) czy \( \frac{1}{3} \) ?,\( \frac{1}{3} \) ,,,,
-Czy ułamek \( \frac{3}{9} \) jest skracalny?,Tak.,,,,
-Czy ułamek \( \frac{7}{11} \) jest skracalny?,Nie.,,,,
-Czy ułamek \( \frac{12}{18} \) jest skracalny?,Tak.,,,,
-Czy ułamek \( \frac{5}{13} \) jest skracalny?,Nie.,,,,
-Oblicz: \( \frac{1}{5} \) + \( \frac{2}{5} \) + \( \frac{1}{5} \) = ?,\( \frac{4}{5} \),,,,
-Oblicz: \( \frac{7}{8} \) - \( \frac{3}{8} \) = ?, \( \frac{4}{8} \) (lub po skróceniu \( \frac{1}{2} \) ),,,,
-Oblicz: \( \frac{2}{6} \) + \( \frac{4}{6} \) - \( \frac{1}{6} \) = ?,\( \frac{5}{6} \),,,,
-Oblicz: \( \frac{9}{10} \) - \( \frac{2}{10} \) - \( \frac{3}{10} \) = ?,\( \frac{4}{10} \) (lub po skróceniu \( \frac{2}{5} \) ),,,,
-,,,,,
-Zamień na ułamek niewłaściwy: \( 2 \frac{1}{3} \),\( \frac{7}{3} \),,,,
-Zamień na ułamek niewłaściwy: \( 5 \frac{2}{5} \),\( \frac{27}{5} \),,,,
-Zamień na ułamek niewłaściwy: \( 1 \frac{7}{8} \),\( \frac{15}{8} \),,,,
-,,,,,
-Zamień na liczbę mieszaną: \( \frac{11}{4} \),\( 2 \frac{3}{4} \),,,,
-Zamień na liczbę mieszaną: \( \frac{19}{6} \),\( 3 \frac{1}{6} \),,,,
-,,,,,
-Oblicz: \( 1 \frac{1}{2} \) + \( 1 \frac{1}{3} \),\( 2 \frac{5}{6} \),,,,
-Oblicz: \( 2 \frac{1}{4} \) + \( 1 \frac{2}{5} \),\( 3 \frac{13}{20} \),,,,
-Oblicz: \( 4 \frac{1}{3} \) + \( 1 \frac{1}{6} \),\( 5 \frac{3}{6} \) lub \( 5 \frac{1}{2} \),,,,
-Oblicz: \( 3 \frac{2}{7} \) + \( 2 \frac{1}{7} \),\( 5 \frac{3}{7} \),,,,
-Oblicz: \( 2 \frac{3}{4} \) + \( 1 \frac{2}{4} \) + \( 1 \frac{1}{4} \),\( 5 \frac{2}{4} \) lub \( 5 \frac{1}{2} \),,,,
-Oblicz: \( 3 \frac{2}{5} \) + \( 2 \frac{1}{5} \) - \( 1 \frac{1}{5} \),\( 4 \frac{2}{5} \) lub \( \frac{22}{5} \),,,,
-Oblicz: \( 4 \frac{5}{8} \) - \( 1 \frac{1}{8} \) + \( 2 \frac{3}{8} \),\( 5 \frac{7}{8} \) lub \( \frac{47}{8} \),,,,
-Oblicz: \( 5 \frac{2}{3} \) - \( 2 \frac{1}{3} \) - \( 1 \frac{1}{3} \),\( 2 \frac{0}{3} \) lub \( 2 lub \frac{6}{3} \),,,,
-,,,,,
-"Jaką liczbę należy dodać do \( 6 \frac{5}{8} \), aby otrzymać 8?",\( 1 \frac{3}{8} \),,,,
-"Jaką liczbę należy dodać do \( 5 \frac{3}{7} \), aby otrzymać 12",\( 6 \frac{4}{7} \),,,,
+\( \frac{6}{9} \) (licznik i mianownik można podzielić przez 3, aby otrzymać \( \frac{2}{3} \) )",,,,,
+,,,,,,
+Jaką częścią figury jest zamalowana jedna z trzech równych części?,\( \frac{1}{3} \) ,,,,,
+Jaką częścią godziny jest 15 minut?,\( \frac{1}{4} \) ,,,,,
+Podaj przykład ułamka właściwego o mianowniku 5.,"Na przykład: \( \frac{1}{5} \) , \( \frac{2}{5} \) , \( \frac{3}{5} \) , \( \frac{4}{5} \) ",,,,,
+Podaj przykład ułamka niewłaściwego o liczniku 8.,"Na przykład: \( \frac{8}{8} \) , \( \frac{8}{7} \) , \( \frac{8}{5} \) ",,,,,
+,,,,,,
+"=""Zamień ułamek niewłaściwy \( \frac{""&R17&""}{""&Q17&""} \) na liczbę mieszaną.""","=""\( ""&S17&"" \frac{""&T17&""}{""&Q17&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q17;49)+1,=ROUNDDOWN(R17/Q17),=MOD(R17;Q17)
+"=""Zamień ułamek niewłaściwy \( \frac{""&R18&""}{""&Q18&""} \) na liczbę mieszaną.""","=""\( ""&S18&"" \frac{""&T18&""}{""&Q18&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q18;49)+1,=ROUNDDOWN(R18/Q18),=MOD(R18;Q18)
+"=""Zamień ułamek niewłaściwy \( \frac{""&R19&""}{""&Q19&""} \) na liczbę mieszaną.""","=""\( ""&S19&"" \frac{""&T19&""}{""&Q19&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q19;49)+1,=ROUNDDOWN(R19/Q19),=MOD(R19;Q19)
+"=""Zamień ułamek niewłaściwy \( \frac{""&R20&""}{""&Q20&""} \) na liczbę mieszaną.""","=""\( ""&S20&"" \frac{""&T20&""}{""&Q20&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q20;49)+1,=ROUNDDOWN(R20/Q20),=MOD(R20;Q20)
+"=""Zamień ułamek niewłaściwy \( \frac{""&R21&""}{""&Q21&""} \) na liczbę mieszaną.""","=""\( ""&S21&"" \frac{""&T21&""}{""&Q21&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q21;49)+1,=ROUNDDOWN(R21/Q21),=MOD(R21;Q21)
+"=""Zamień ułamek niewłaściwy \( \frac{""&R22&""}{""&Q22&""} \) na liczbę mieszaną.""","=""\( ""&S22&"" \frac{""&T22&""}{""&Q22&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q22;49)+1,=ROUNDDOWN(R22/Q22),=MOD(R22;Q22)
+,,,,,,
+"=""Zamień liczbę mieszaną \( ""&S24&"" \frac{""&T24&""}{""&Q24&""} \) na ułamek niewłaściwy.""","=""\( \frac{""&R24&""}{""&Q24&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q24;49)+1,=ROUNDDOWN(R24/Q24),=MOD(R24;Q24)
+"=""Zamień liczbę mieszaną \( ""&S25&"" \frac{""&T25&""}{""&Q25&""} \) na ułamek niewłaściwy.""","=""\( \frac{""&R25&""}{""&Q25&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q25;49)+1,=ROUNDDOWN(R25/Q25),=MOD(R25;Q25)
+"=""Zamień liczbę mieszaną \( ""&S26&"" \frac{""&T26&""}{""&Q26&""} \) na ułamek niewłaściwy.""","=""\( \frac{""&R26&""}{""&Q26&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q26;49)+1,=ROUNDDOWN(R26/Q26),=MOD(R26;Q26)
+"=""Zamień liczbę mieszaną \( ""&S27&"" \frac{""&T27&""}{""&Q27&""} \) na ułamek niewłaściwy.""","=""\( \frac{""&R27&""}{""&Q27&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q27;49)+1,=ROUNDDOWN(R27/Q27),=MOD(R27;Q27)
+"=""Zamień liczbę mieszaną \( ""&S28&"" \frac{""&T28&""}{""&Q28&""} \) na ułamek niewłaściwy.""","=""\( \frac{""&R28&""}{""&Q28&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q28;49)+1,=ROUNDDOWN(R28/Q28),=MOD(R28;Q28)
+"=""Zamień liczbę mieszaną \( ""&S29&"" \frac{""&T29&""}{""&Q29&""} \) na ułamek niewłaściwy.""","=""\( \frac{""&R29&""}{""&Q29&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q29;49)+1,=ROUNDDOWN(R29/Q29),=MOD(R29;Q29)
+"=""Zamień liczbę mieszaną \( ""&S30&"" \frac{""&T30&""}{""&Q30&""} \) na ułamek niewłaściwy.""","=""\( \frac{""&R30&""}{""&Q30&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q30;49)+1,=ROUNDDOWN(R30/Q30),=MOD(R30;Q30)
+"=""Zamień liczbę mieszaną \( ""&S31&"" \frac{""&T31&""}{""&Q31&""} \) na ułamek niewłaściwy.""","=""\( \frac{""&R31&""}{""&Q31&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q31;49)+1,=ROUNDDOWN(R31/Q31),=MOD(R31;Q31)
+,,,,,,
+Zamień ułamek niewłaściwy \( \frac{7}{3} \) na liczbę mieszaną.,\( 2 \frac{1}{3} \) ,,,,,
+Zamień liczbę mieszaną \( 3 \frac{1}{2} \) na ułamek niewłaściwy.,\( \frac{7}{2} \) ,,,,,
+,,,,,,
+Uprość ułamek \( \frac{4}{6} \) .,\( \frac{2}{3} \) ,,,,,
+Uprość ułamek \( \frac{9}{12} \) .,\( \frac{3}{4} \) ,,,,,
+Rozszerz ułamek \( \frac{1}{3} \) przez 2.,\( \frac{2}{6} \) ,,,,,
+Rozszerz ułamek \( \frac{3}{4} \) przez 3.,\( \frac{9}{12} \) ,,,,,
+Czy ułamki \( \frac{2}{5} \) i \( \frac{4}{10} \) są równe?,Tak.,,,,,
+Czy ułamki \( \frac{1}{2} \) i \( \frac{3}{5} \) są równe?,Nie.,,,,,
+Który ułamek jest większy: \( \frac{2}{7} \) czy \( \frac{5}{7} \) ?,\( \frac{5}{7} \) ,,,,,
+Który ułamek jest większy: \( \frac{12}{17} \) czy \( \frac{12}{16} \) ?,\( \frac{12}{16} \) ,,,,,
+Który ułamek jest większy: \( \frac{3}{5} \) czy \( \frac{3}{6} \) ?,\( \frac{3}{5} \) ,,,,,
+Który ułamek jest większy: \( \frac{1}{4} \) czy \( \frac{1}{3} \) ?,\( \frac{1}{3} \) ,,,,,
+Czy ułamek \( \frac{3}{9} \) jest skracalny?,Tak.,,,,,
+Czy ułamek \( \frac{7}{11} \) jest skracalny?,Nie.,,,,,
+Czy ułamek \( \frac{12}{18} \) jest skracalny?,Tak.,,,,,
+Czy ułamek \( \frac{5}{13} \) jest skracalny?,Nie.,,,,,
+Oblicz: \( \frac{1}{5} \) + \( \frac{2}{5} \) + \( \frac{1}{5} \) = ?,\( \frac{4}{5} \),,,,,
+Oblicz: \( \frac{7}{8} \) - \( \frac{3}{8} \) = ?, \( \frac{4}{8} \) (lub po skróceniu \( \frac{1}{2} \) ),,,,,
+Oblicz: \( \frac{2}{6} \) + \( \frac{4}{6} \) - \( \frac{1}{6} \) = ?,\( \frac{5}{6} \),,,,,
+Oblicz: \( \frac{9}{10} \) - \( \frac{2}{10} \) - \( \frac{3}{10} \) = ?,\( \frac{4}{10} \) (lub po skróceniu \( \frac{2}{5} \) ),,,,,
+,,,,,,
+Zamień na ułamek niewłaściwy: \( 2 \frac{1}{3} \),\( \frac{7}{3} \),,,,,
+Zamień na ułamek niewłaściwy: \( 5 \frac{2}{5} \),\( \frac{27}{5} \),,,,,
+Zamień na ułamek niewłaściwy: \( 1 \frac{7}{8} \),\( \frac{15}{8} \),,,,,
+,,,,,,
+Zamień na liczbę mieszaną: \( \frac{11}{4} \),\( 2 \frac{3}{4} \),,,,,
+Zamień na liczbę mieszaną: \( \frac{19}{6} \),\( 3 \frac{1}{6} \),,,,,
+,,,,,,
+Oblicz: \( 1 \frac{1}{2} \) + \( 1 \frac{1}{3} \),\( 2 \frac{5}{6} \),,,,,
+Oblicz: \( 2 \frac{1}{4} \) + \( 1 \frac{2}{5} \),\( 3 \frac{13}{20} \),,,,,
+Oblicz: \( 4 \frac{1}{3} \) + \( 1 \frac{1}{6} \),\( 5 \frac{3}{6} \) lub \( 5 \frac{1}{2} \),,,,,
+Oblicz: \( 3 \frac{2}{7} \) + \( 2 \frac{1}{7} \),\( 5 \frac{3}{7} \),,,,,
+Oblicz: \( 2 \frac{3}{4} \) + \( 1 \frac{2}{4} \) + \( 1 \frac{1}{4} \),\( 5 \frac{2}{4} \) lub \( 5 \frac{1}{2} \),,,,,
+Oblicz: \( 3 \frac{2}{5} \) + \( 2 \frac{1}{5} \) - \( 1 \frac{1}{5} \),\( 4 \frac{2}{5} \) lub \( \frac{22}{5} \),,,,,
+Oblicz: \( 4 \frac{5}{8} \) - \( 1 \frac{1}{8} \) + \( 2 \frac{3}{8} \),\( 5 \frac{7}{8} \) lub \( \frac{47}{8} \),,,,,
+Oblicz: \( 5 \frac{2}{3} \) - \( 2 \frac{1}{3} \) - \( 1 \frac{1}{3} \),\( 2 \frac{0}{3} \) lub \( 2 lub \frac{6}{3} \),,,,,
+,,,,,,
+"Jaką liczbę należy dodać do \( 6 \frac{5}{8} \), aby otrzymać 8?",\( 1 \frac{3}{8} \),,,,,
+"Jaką liczbę należy dodać do \( 5 \frac{3}{7} \), aby otrzymać 12",\( 6 \frac{4}{7} \),,,,,
 "Rozszerz jeden z ułamków lub oba tak, aby miały jednakowy mianownik.
-\( \frac{2}{3} \) i \( \frac{5}{6} \)",\( \frac{4}{6} \) i \( \frac{5}{6} \),,,,
+\( \frac{2}{3} \) i \( \frac{5}{6} \)",\( \frac{4}{6} \) i \( \frac{5}{6} \),,,,,
 "Rozszerz jeden z ułamków lub oba tak, aby miały jednakowy mianownik.
-\( \frac{3}{8} \) i \( \frac{5}{6} \)",\( \frac{9}{24} \) i \( \frac{20}{24} \),,,,
+\( \frac{3}{8} \) i \( \frac{5}{6} \)",\( \frac{9}{24} \) i \( \frac{20}{24} \),,,,,
 "Rozszerz jeden z ułamków lub oba tak, aby miały jednakowy mianownik.
-\( \frac{1}{7} \) i \( \frac{3}{5} \)",\( \frac{5}{35} \) i \( \frac{21}{35} \),,,,
+\( \frac{1}{7} \) i \( \frac{3}{5} \)",\( \frac{5}{35} \) i \( \frac{21}{35} \),,,,,
 "Rozszerz jeden z ułamków lub oba tak, aby miały jednakowy mianownik.
-\( \frac{2}{3} \) i \( \frac{7}{10} \)",\( \frac{20}{30} \) i \( \frac{21}{30} \),,,,
-,,,,,
+\( \frac{2}{3} \) i \( \frac{7}{10} \)",\( \frac{20}{30} \) i \( \frac{21}{30} \),,,,,
+,,,,,,
 "=""Zapisz iloraz w postaci ułamka zwykłego:
-1 : ""&Q78&""""","=""\( \frac{1}{""&Q78&""} \)""",~#place-after-tech-cols#~=RANDBETWEEN(2;10),,,
+1 : ""&Q78&""""","=""\( \frac{1}{""&Q78&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;10),,,
 "=""Zapisz iloraz w postaci ułamka zwykłego:
-1 : ""&Q79&""""","=""\( \frac{1}{""&Q79&""} \)""",~#place-after-tech-cols#~=RANDBETWEEN(2;10),,,
+1 : ""&Q79&""""","=""\( \frac{1}{""&Q79&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;10),,,
 "=""Zapisz ułamek zwykły w postaci ilorazu:
-\( \frac{""&Q80&""}{""&R80&""} \)""","=""""&Q80&"" : ""&R80&""""",~#place-after-tech-cols#~=RANDBETWEEN(2;8),=RANDBETWEEN(9;20),,
+\( \frac{""&Q80&""}{""&R80&""} \)""","=""""&Q80&"" : ""&R80&""""",,~#place-after-tech-cols#~=RANDBETWEEN(2;8),=RANDBETWEEN(9;20),,
 "=""Zapisz ułamek zwykły w postaci ilorazu:
-\( \frac{""&Q81&""}{""&R81&""} \)""","=""""&Q81&"" : ""&R81&""""",~#place-after-tech-cols#~=RANDBETWEEN(2;8),=RANDBETWEEN(9;20),,
-,,,,,
+\( \frac{""&Q81&""}{""&R81&""} \)""","=""""&Q81&"" : ""&R81&""""",,~#place-after-tech-cols#~=RANDBETWEEN(2;8),=RANDBETWEEN(9;20),,
+,,,,,,
 "=""Rozszerz jeden z ułamków lub oba tak, aby miały jednakowy mianownik.
-\( \frac{""&Q83&""}{""&R83&""} \) i \( \frac{""&S83&""}{""&T83&""} \)""","=""\( \frac{""&LCM(R83; T83)/R83*Q83&""}{""&LCM(R83; T83)&""} \) i \( \frac{""&LCM(R83; T83)/T83*S83&""}{""&LCM(R83; T83)&""} \)""",~#place-after-tech-cols#~=R83-RANDBETWEEN(1;R83-1),=RANDBETWEEN(2;10),=T83-RANDBETWEEN(1;T83-1),=RANDBETWEEN(2;10)
+\( \frac{""&Q83&""}{""&R83&""} \) i \( \frac{""&S83&""}{""&T83&""} \)""","=""\( \frac{""&LCM(R83; T83)/R83*Q83&""}{""&LCM(R83; T83)&""} \) i \( \frac{""&LCM(R83; T83)/T83*S83&""}{""&LCM(R83; T83)&""} \)""",,~#place-after-tech-cols#~=R83-RANDBETWEEN(1;R83-1),=RANDBETWEEN(2;10),=T83-RANDBETWEEN(1;T83-1),=RANDBETWEEN(2;10)
 "=""Rozszerz jeden z ułamków lub oba tak, aby miały jednakowy mianownik.
-\( \frac{""&Q84&""}{""&R84&""} \) i \( \frac{""&S84&""}{""&T84&""} \)""","=""\( \frac{""&LCM(R84; T84)/R84*Q84&""}{""&LCM(R84; T84)&""} \) i \( \frac{""&LCM(R84; T84)/T84*S84&""}{""&LCM(R84; T84)&""} \)""",~#place-after-tech-cols#~=R84-RANDBETWEEN(1;R84-1),=RANDBETWEEN(2;10),=T84-RANDBETWEEN(1;T84-1),=RANDBETWEEN(2;10)
+\( \frac{""&Q84&""}{""&R84&""} \) i \( \frac{""&S84&""}{""&T84&""} \)""","=""\( \frac{""&LCM(R84; T84)/R84*Q84&""}{""&LCM(R84; T84)&""} \) i \( \frac{""&LCM(R84; T84)/T84*S84&""}{""&LCM(R84; T84)&""} \)""",,~#place-after-tech-cols#~=R84-RANDBETWEEN(1;R84-1),=RANDBETWEEN(2;10),=T84-RANDBETWEEN(1;T84-1),=RANDBETWEEN(2;10)
 "=""Rozszerz jeden z ułamków lub oba tak, aby miały jednakowy mianownik.
-\( \frac{""&Q85&""}{""&R85&""} \) i \( \frac{""&S85&""}{""&T85&""} \)""","=""\( \frac{""&LCM(R85; T85)/R85*Q85&""}{""&LCM(R85; T85)&""} \) i \( \frac{""&LCM(R85; T85)/T85*S85&""}{""&LCM(R85; T85)&""} \)""",~#place-after-tech-cols#~=R85-RANDBETWEEN(1;R85-1),=RANDBETWEEN(2;10),=T85-RANDBETWEEN(1;T85-1),=RANDBETWEEN(2;10)
+\( \frac{""&Q85&""}{""&R85&""} \) i \( \frac{""&S85&""}{""&T85&""} \)""","=""\( \frac{""&LCM(R85; T85)/R85*Q85&""}{""&LCM(R85; T85)&""} \) i \( \frac{""&LCM(R85; T85)/T85*S85&""}{""&LCM(R85; T85)&""} \)""",,~#place-after-tech-cols#~=R85-RANDBETWEEN(1;R85-1),=RANDBETWEEN(2;10),=T85-RANDBETWEEN(1;T85-1),=RANDBETWEEN(2;10)
 "=""Rozszerz jeden z ułamków lub oba tak, aby miały jednakowy mianownik.
-\( \frac{""&Q86&""}{""&R86&""} \) i \( \frac{""&S86&""}{""&T86&""} \)""","=""\( \frac{""&LCM(R86; T86)/R86*Q86&""}{""&LCM(R86; T86)&""} \) i \( \frac{""&LCM(R86; T86)/T86*S86&""}{""&LCM(R86; T86)&""} \)""",~#place-after-tech-cols#~=R86-RANDBETWEEN(1;R86-1),=RANDBETWEEN(2;10),=T86-RANDBETWEEN(1;T86-1),=RANDBETWEEN(2;10)
+\( \frac{""&Q86&""}{""&R86&""} \) i \( \frac{""&S86&""}{""&T86&""} \)""","=""\( \frac{""&LCM(R86; T86)/R86*Q86&""}{""&LCM(R86; T86)&""} \) i \( \frac{""&LCM(R86; T86)/T86*S86&""}{""&LCM(R86; T86)&""} \)""",,~#place-after-tech-cols#~=R86-RANDBETWEEN(1;R86-1),=RANDBETWEEN(2;10),=T86-RANDBETWEEN(1;T86-1),=RANDBETWEEN(2;10)
 "=""Rozszerz jeden z ułamków lub oba tak, aby miały jednakowy mianownik.
-\( \frac{""&Q87&""}{""&R87&""} \) i \( \frac{""&S87&""}{""&T87&""} \)""","=""\( \frac{""&LCM(R87; T87)/R87*Q87&""}{""&LCM(R87; T87)&""} \) i \( \frac{""&LCM(R87; T87)/T87*S87&""}{""&LCM(R87; T87)&""} \)""",~#place-after-tech-cols#~=R87-RANDBETWEEN(1;R87-1),=RANDBETWEEN(2;10),=T87-RANDBETWEEN(1;T87-1),=RANDBETWEEN(2;10)
+\( \frac{""&Q87&""}{""&R87&""} \) i \( \frac{""&S87&""}{""&T87&""} \)""","=""\( \frac{""&LCM(R87; T87)/R87*Q87&""}{""&LCM(R87; T87)&""} \) i \( \frac{""&LCM(R87; T87)/T87*S87&""}{""&LCM(R87; T87)&""} \)""",,~#place-after-tech-cols#~=R87-RANDBETWEEN(1;R87-1),=RANDBETWEEN(2;10),=T87-RANDBETWEEN(1;T87-1),=RANDBETWEEN(2;10)
 "=""Rozszerz jeden z ułamków lub oba tak, aby miały jednakowy mianownik.
-\( \frac{""&Q88&""}{""&R88&""} \) i \( \frac{""&S88&""}{""&T88&""} \)""","=""\( \frac{""&LCM(R88; T88)/R88*Q88&""}{""&LCM(R88; T88)&""} \) i \( \frac{""&LCM(R88; T88)/T88*S88&""}{""&LCM(R88; T88)&""} \)""",~#place-after-tech-cols#~=R88-RANDBETWEEN(1;R88-1),=RANDBETWEEN(2;10),=T88-RANDBETWEEN(1;T88-1),=RANDBETWEEN(2;10)
+\( \frac{""&Q88&""}{""&R88&""} \) i \( \frac{""&S88&""}{""&T88&""} \)""","=""\( \frac{""&LCM(R88; T88)/R88*Q88&""}{""&LCM(R88; T88)&""} \) i \( \frac{""&LCM(R88; T88)/T88*S88&""}{""&LCM(R88; T88)&""} \)""",,~#place-after-tech-cols#~=R88-RANDBETWEEN(1;R88-1),=RANDBETWEEN(2;10),=T88-RANDBETWEEN(1;T88-1),=RANDBETWEEN(2;10)
 "=""Rozszerz jeden z ułamków lub oba tak, aby miały jednakowy mianownik.
-\( \frac{""&Q89&""}{""&R89&""} \) i \( \frac{""&S89&""}{""&T89&""} \)""","=""\( \frac{""&LCM(R89; T89)/R89*Q89&""}{""&LCM(R89; T89)&""} \) i \( \frac{""&LCM(R89; T89)/T89*S89&""}{""&LCM(R89; T89)&""} \)""",~#place-after-tech-cols#~=R89-RANDBETWEEN(1;R89-1),=RANDBETWEEN(2;10),=T89-RANDBETWEEN(1;T89-1),=RANDBETWEEN(2;10)
+\( \frac{""&Q89&""}{""&R89&""} \) i \( \frac{""&S89&""}{""&T89&""} \)""","=""\( \frac{""&LCM(R89; T89)/R89*Q89&""}{""&LCM(R89; T89)&""} \) i \( \frac{""&LCM(R89; T89)/T89*S89&""}{""&LCM(R89; T89)&""} \)""",,~#place-after-tech-cols#~=R89-RANDBETWEEN(1;R89-1),=RANDBETWEEN(2;10),=T89-RANDBETWEEN(1;T89-1),=RANDBETWEEN(2;10)
 "=""Rozszerz jeden z ułamków lub oba tak, aby miały jednakowy mianownik.
-\( \frac{""&Q90&""}{""&R90&""} \) i \( \frac{""&S90&""}{""&T90&""} \)""","=""\( \frac{""&LCM(R90; T90)/R90*Q90&""}{""&LCM(R90; T90)&""} \) i \( \frac{""&LCM(R90; T90)/T90*S90&""}{""&LCM(R90; T90)&""} \)""",~#place-after-tech-cols#~=R90-RANDBETWEEN(1;R90-1),=RANDBETWEEN(2;10),=T90-RANDBETWEEN(1;T90-1),=RANDBETWEEN(2;10)
+\( \frac{""&Q90&""}{""&R90&""} \) i \( \frac{""&S90&""}{""&T90&""} \)""","=""\( \frac{""&LCM(R90; T90)/R90*Q90&""}{""&LCM(R90; T90)&""} \) i \( \frac{""&LCM(R90; T90)/T90*S90&""}{""&LCM(R90; T90)&""} \)""",,~#place-after-tech-cols#~=R90-RANDBETWEEN(1;R90-1),=RANDBETWEEN(2;10),=T90-RANDBETWEEN(1;T90-1),=RANDBETWEEN(2;10)
 "=""Rozszerz jeden z ułamków lub oba tak, aby miały jednakowy mianownik.
-\( \frac{""&Q91&""}{""&R91&""} \) i \( \frac{""&S91&""}{""&T91&""} \)""","=""\( \frac{""&LCM(R91; T91)/R91*Q91&""}{""&LCM(R91; T91)&""} \) i \( \frac{""&LCM(R91; T91)/T91*S91&""}{""&LCM(R91; T91)&""} \)""",~#place-after-tech-cols#~=R91-RANDBETWEEN(1;R91-1),=RANDBETWEEN(2;10),=T91-RANDBETWEEN(1;T91-1),=RANDBETWEEN(2;10)
-,,,,,
-Oblicz: \( 1 \frac{1}{3} \) + \( 1 \frac{1}{3} \),\( 2 \frac{2}{3} \),,,,
-"Jaką liczbę należy dodać do \( 6 \frac{5}{8} \), aby otrzymać 8?",\( 1 \frac{3}{8} \),,,,
+\( \frac{""&Q91&""}{""&R91&""} \) i \( \frac{""&S91&""}{""&T91&""} \)""","=""\( \frac{""&LCM(R91; T91)/R91*Q91&""}{""&LCM(R91; T91)&""} \) i \( \frac{""&LCM(R91; T91)/T91*S91&""}{""&LCM(R91; T91)&""} \)""",,~#place-after-tech-cols#~=R91-RANDBETWEEN(1;R91-1),=RANDBETWEEN(2;10),=T91-RANDBETWEEN(1;T91-1),=RANDBETWEEN(2;10)
+,,,,,,
+Oblicz: \( 1 \frac{1}{3} \) + \( 1 \frac{1}{3} \),\( 2 \frac{2}{3} \),,,,,
+"Jaką liczbę należy dodać do \( 6 \frac{5}{8} \), aby otrzymać 8?",\( 1 \frac{3}{8} \),,,,,
 "=""Jaki jest wynik działania
-\( \frac{""&Q95&""}{""&R95&""} \) + \( \frac{""&S95&""}{""&T95&""} \)""","=""\( \frac{"" & (Q95*T95+S95*R95)/GCD(Q95*T95+S95*R95;R95*T95) & ""}{"" & (R95*T95)/GCD(Q95*T95+S95*R95;R95*T95) & ""} \)""",~#place-after-tech-cols#~=R95-RANDBETWEEN(1;R95-1),=RANDBETWEEN(2;10),=T95-RANDBETWEEN(1;T95-1),=RANDBETWEEN(2;10)
+\( \frac{""&Q95&""}{""&R95&""} \) + \( \frac{""&S95&""}{""&T95&""} \)""","=""\( \frac{"" & (Q95*T95+S95*R95)/GCD(Q95*T95+S95*R95;R95*T95) & ""}{"" & (R95*T95)/GCD(Q95*T95+S95*R95;R95*T95) & ""} \)""",,~#place-after-tech-cols#~=R95-RANDBETWEEN(1;R95-1),=RANDBETWEEN(2;10),=T95-RANDBETWEEN(1;T95-1),=RANDBETWEEN(2;10)
 "=""Jaki jest wynik działania
-\( \frac{""&Q96&""}{""&R96&""} \) + \( \frac{""&S96&""}{""&T96&""} \)""","=""\( \frac{"" & (Q96*T96+S96*R96)/GCD(Q96*T96+S96*R96;R96*T96) & ""}{"" & (R96*T96)/GCD(Q96*T96+S96*R96;R96*T96) & ""} \)""",~#place-after-tech-cols#~=R96-RANDBETWEEN(1;R96-1),=RANDBETWEEN(2;10),=T96-RANDBETWEEN(1;T96-1),=RANDBETWEEN(2;10)
+\( \frac{""&Q96&""}{""&R96&""} \) + \( \frac{""&S96&""}{""&T96&""} \)""","=""\( \frac{"" & (Q96*T96+S96*R96)/GCD(Q96*T96+S96*R96;R96*T96) & ""}{"" & (R96*T96)/GCD(Q96*T96+S96*R96;R96*T96) & ""} \)""",,~#place-after-tech-cols#~=R96-RANDBETWEEN(1;R96-1),=RANDBETWEEN(2;10),=T96-RANDBETWEEN(1;T96-1),=RANDBETWEEN(2;10)
 "=""Jaki jest wynik działania
-\( \frac{""&Q97&""}{""&R97&""} \) + \( \frac{""&S97&""}{""&T97&""} \)""","=""\( \frac{"" & (Q97*T97+S97*R97)/GCD(Q97*T97+S97*R97;R97*T97) & ""}{"" & (R97*T97)/GCD(Q97*T97+S97*R97;R97*T97) & ""} \)""",~#place-after-tech-cols#~=R97-RANDBETWEEN(1;R97-1),=RANDBETWEEN(2;10),=T97-RANDBETWEEN(1;T97-1),=RANDBETWEEN(2;10)
+\( \frac{""&Q97&""}{""&R97&""} \) + \( \frac{""&S97&""}{""&T97&""} \)""","=""\( \frac{"" & (Q97*T97+S97*R97)/GCD(Q97*T97+S97*R97;R97*T97) & ""}{"" & (R97*T97)/GCD(Q97*T97+S97*R97;R97*T97) & ""} \)""",,~#place-after-tech-cols#~=R97-RANDBETWEEN(1;R97-1),=RANDBETWEEN(2;10),=T97-RANDBETWEEN(1;T97-1),=RANDBETWEEN(2;10)
 "=""Jaki jest wynik działania
-\( \frac{""&Q98&""}{""&R98&""} \) + \( \frac{""&S98&""}{""&T98&""} \)""","=""\( \frac{"" & (Q98*T98+S98*R98)/GCD(Q98*T98+S98*R98;R98*T98) & ""}{"" & (R98*T98)/GCD(Q98*T98+S98*R98;R98*T98) & ""} \)""",~#place-after-tech-cols#~=R98-RANDBETWEEN(1;R98-1),=RANDBETWEEN(2;10),=T98-RANDBETWEEN(1;T98-1),=RANDBETWEEN(2;10)
-,,, ,,
-"=""\( \frac{""&Q100&""}{""&R100&""} \) ⋅ ""&S100&"" = ?""","=""\( \frac{""&(Q100*S100)/GCD(Q100*S100;R100*1)&""}{""&(R100*1)/GCD(Q100*S100;R100*1)&""} \)""",~#place-after-tech-cols#~=R100-RANDBETWEEN(1;R100-1),=RANDBETWEEN(2;10),=R100* RANDBETWEEN(2;15),
-"=""\( \frac{""&Q101&""}{""&R101&""} \) ⋅ ""&S101&"" = ?""","=""\( \frac{""&(Q101*S101)/GCD(Q101*S101;R101*1)&""}{""&(R101*1)/GCD(Q101*S101;R101*1)&""} \)""",~#place-after-tech-cols#~=R101-RANDBETWEEN(1;R101-1),=RANDBETWEEN(2;10),=R101* RANDBETWEEN(2;15),
-"=""\( \frac{""&Q102&""}{""&R102&""} \) ⋅ ""&S102&"" = ?""","=""\( \frac{""&(Q102*S102)/GCD(Q102*S102;R102*1)&""}{""&(R102*1)/GCD(Q102*S102;R102*1)&""} \)""",~#place-after-tech-cols#~=R102-RANDBETWEEN(1;R102-1),=RANDBETWEEN(2;10),=R102* RANDBETWEEN(2;15),
-"=""\( \frac{""&Q103&""}{""&R103&""} \) ⋅ ""&S103&"" = ?""","=""\( \frac{""&(Q103*S103)/GCD(Q103*S103;R103*1)&""}{""&(R103*1)/GCD(Q103*S103;R103*1)&""} \)""",~#place-after-tech-cols#~=R103-RANDBETWEEN(1;R103-1),=RANDBETWEEN(2;10),=R103* RANDBETWEEN(2;15),
-"=""\( \frac{""&Q104&""}{""&R104&""} \) ⋅ ""&S104&"" = ?""","=""\( \frac{""&(Q104*S104)/GCD(Q104*S104;R104*1)&""}{""&(R104*1)/GCD(Q104*S104;R104*1)&""} \)""",~#place-after-tech-cols#~=R104-RANDBETWEEN(1;R104-1),=RANDBETWEEN(2;10),=R104* RANDBETWEEN(2;15),
-,,,,,
-Ile to jest \( \frac{1}{2} \) z 10?,5,,,,
-Ile to jest \( \frac{1}{4} \) z 20?,5,,,,
-"=""Ile to jest \( \frac{""&S108&""}{""&Q108&""} \) z ""&R108&""?""",=S108/Q108*R108,~#place-after-tech-cols#~=RANDBETWEEN(2;10),= Q108*RANDBETWEEN(1;10),=Q108-RANDBETWEEN(1;Q108-1),
-"=""Ile to jest \( \frac{""&S109&""}{""&Q109&""} \) z ""&R109&""?""",=S109/Q109*R109,~#place-after-tech-cols#~=RANDBETWEEN(2;10),= Q109*RANDBETWEEN(1;10),=Q109-RANDBETWEEN(1;Q109-1),
-"=""Ile to jest \( \frac{""&S110&""}{""&Q110&""} \) z ""&R110&""?""",=S110/Q110*R110,~#place-after-tech-cols#~=RANDBETWEEN(2;10),= Q110*RANDBETWEEN(1;10),=Q110-RANDBETWEEN(1;Q110-1),
-"=""Ile to jest \( \frac{""&S111&""}{""&Q111&""} \) z ""&R111&""?""",=S111/Q111*R111,~#place-after-tech-cols#~=RANDBETWEEN(2;10),= Q111*RANDBETWEEN(1;10),=Q111-RANDBETWEEN(1;Q111-1),
-"=""Ile to jest \( \frac{""&S112&""}{""&Q112&""} \) z ""&R112&""?""",=S112/Q112*R112,~#place-after-tech-cols#~=RANDBETWEEN(2;10),= Q112*RANDBETWEEN(1;10),=Q112-RANDBETWEEN(1;Q112-1),
-"=""Ile to jest \( \frac{""&S113&""}{""&Q113&""} \) z ""&R113&""?""",=S113/Q113*R113,~#place-after-tech-cols#~=RANDBETWEEN(2;10),= Q113*RANDBETWEEN(1;10),=Q113-RANDBETWEEN(1;Q113-1),
-"=""Ile to jest \( \frac{""&S114&""}{""&Q114&""} \) z ""&R114&""?""",=S114/Q114*R114,~#place-after-tech-cols#~=RANDBETWEEN(2;10),= Q114*RANDBETWEEN(1;10),=Q114-RANDBETWEEN(1;Q114-1),
-,,,,,
-"=""\( \frac{""&Q116&""}{""&R116&""} \) ⋅ \( \frac{""&S116&""}{""&T116&""} \) = ?""","=""\( \frac{""&(Q116*S116)/GCD(Q116*S116;R116*T116)&""}{""&(R116*T116)/GCD(Q116*S116;R116*T116)&""} \)""",~#place-after-tech-cols#~=R116-RANDBETWEEN(1;R116-1),=RANDBETWEEN(2;10),=R116* RANDBETWEEN(2;9),=RANDBETWEEN(2;10)
-"=""\( \frac{""&Q117&""}{""&R117&""} \) ⋅ \( \frac{""&S117&""}{""&T117&""} \) = ?""","=""\( \frac{""&(Q117*S117)/GCD(Q117*S117;R117*T117)&""}{""&(R117*T117)/GCD(Q117*S117;R117*T117)&""} \)""",~#place-after-tech-cols#~=R117-RANDBETWEEN(1;R117-1),=RANDBETWEEN(2;10),=R117* RANDBETWEEN(2;9),=RANDBETWEEN(2;10)
-"=""\( \frac{""&Q118&""}{""&R118&""} \) ⋅ \( \frac{""&S118&""}{""&T118&""} \) = ?""","=""\( \frac{""&(Q118*S118)/GCD(Q118*S118;R118*T118)&""}{""&(R118*T118)/GCD(Q118*S118;R118*T118)&""} \)""",~#place-after-tech-cols#~=R118-RANDBETWEEN(1;R118-1),=RANDBETWEEN(2;10),=R118* RANDBETWEEN(2;9),=RANDBETWEEN(2;10)
-"=""\( \frac{""&Q119&""}{""&R119&""} \) ⋅ \( \frac{""&S119&""}{""&T119&""} \) = ?""","=""\( \frac{""&(Q119*S119)/GCD(Q119*S119;R119*T119)&""}{""&(R119*T119)/GCD(Q119*S119;R119*T119)&""} \)""",~#place-after-tech-cols#~=R119-RANDBETWEEN(1;R119-1),=RANDBETWEEN(2;10),=R119* RANDBETWEEN(2;9),=RANDBETWEEN(2;10)
-"=""\( \frac{""&Q120&""}{""&R120&""} \) ⋅ \( \frac{""&S120&""}{""&T120&""} \) = ?""","=""\( \frac{""&(Q120*S120)/GCD(Q120*S120;R120*T120)&""}{""&(R120*T120)/GCD(Q120*S120;R120*T120)&""} \)""",~#place-after-tech-cols#~=RANDBETWEEN(3;9),=RANDBETWEEN(2;10),=R120* RANDBETWEEN(2;9),=Q120 * RANDBETWEEN(1;9)
-"=""\( \frac{""&Q121&""}{""&R121&""} \) ⋅ \( \frac{""&S121&""}{""&T121&""} \) = ?""","=""\( \frac{""&(Q121*S121)/GCD(Q121*S121;R121*T121)&""}{""&(R121*T121)/GCD(Q121*S121;R121*T121)&""} \)""",~#place-after-tech-cols#~=RANDBETWEEN(3;9),=RANDBETWEEN(2;10),=R121* RANDBETWEEN(2;9),=Q121 * RANDBETWEEN(1;9)
-"=""\( \frac{""&Q122&""}{""&R122&""} \) ⋅ \( \frac{""&S122&""}{""&T122&""} \) = ?""","=""\( \frac{""&(Q122*S122)/GCD(Q122*S122;R122*T122)&""}{""&(R122*T122)/GCD(Q122*S122;R122*T122)&""} \)""",~#place-after-tech-cols#~=RANDBETWEEN(3;9),=RANDBETWEEN(2;10),=R122* RANDBETWEEN(2;9),=Q122 * RANDBETWEEN(1;9)
-"=""\( \frac{""&Q123&""}{""&R123&""} \) ⋅ \( \frac{""&S123&""}{""&T123&""} \) = ?""","=""\( \frac{""&(Q123*S123)/GCD(Q123*S123;R123*T123)&""}{""&(R123*T123)/GCD(Q123*S123;R123*T123)&""} \)""",~#place-after-tech-cols#~=RANDBETWEEN(3;9),=RANDBETWEEN(2;10),=R123* RANDBETWEEN(2;9),=Q123 * RANDBETWEEN(1;9)
-,,,,,
-"=""\( \frac{""&Q125&""}{""&R125&""} \) : ""&S125&"" = ?""","=""\( \frac{""&Q125/GCD(Q125;R125*S125)&""}{""&(R125*S125)/GCD(Q125;R125*S125)&""} \)""",~#place-after-tech-cols#~=R125-RANDBETWEEN(1;R125-1),=RANDBETWEEN(2;10),=RANDBETWEEN(2;10),
-"=""\( \frac{""&Q126&""}{""&R126&""} \) : ""&S126&"" = ?""","=""\( \frac{""&Q126/GCD(Q126;R126*S126)&""}{""&(R126*S126)/GCD(Q126;R126*S126)&""} \)""",~#place-after-tech-cols#~=R126-RANDBETWEEN(1;R126-1),=RANDBETWEEN(2;10),=RANDBETWEEN(2;10),
-"=""\( \frac{""&Q127&""}{""&R127&""} \) : ""&S127&"" = ?""","=""\( \frac{""&Q127/GCD(Q127;R127*S127)&""}{""&(R127*S127)/GCD(Q127;R127*S127)&""} \)""",~#place-after-tech-cols#~=R127-RANDBETWEEN(1;R127-1),=RANDBETWEEN(2;10),=RANDBETWEEN(2;10),
-"=""\( \frac{""&Q128&""}{""&R128&""} \) : ""&S128&"" = ?""","=""\( \frac{""&Q128/GCD(Q128;R128*S128)&""}{""&(R128*S128)/GCD(Q128;R128*S128)&""} \)""",~#place-after-tech-cols#~=R128-RANDBETWEEN(1;R128-1),=RANDBETWEEN(2;10),=RANDBETWEEN(2;10),
-"=""\( \frac{""&Q129&""}{""&R129&""} \) : ""&S129&"" = ?""","=""\( \frac{""&Q129/GCD(Q129;R129*S129)&""}{""&(R129*S129)/GCD(Q129;R129*S129)&""} \)""",~#place-after-tech-cols#~=R129-RANDBETWEEN(1;R129-1),=RANDBETWEEN(2;10),=RANDBETWEEN(2;10),
-"=""\( \frac{""&Q130&""}{""&R130&""} \) : ""&S130&"" = ?""","=""\( \frac{""&Q130/GCD(Q130;R130*S130)&""}{""&(R130*S130)/GCD(Q130;R130*S130)&""} \)""",~#place-after-tech-cols#~=R130-RANDBETWEEN(1;R130-1),=RANDBETWEEN(2;10),=R130* RANDBETWEEN(2;9),
-,,,,,
-"=""\( \frac{""&Q132&""}{""&R132&""} \) : \( \frac{""&S132&""}{""&T132&""} \) = ?""","=""\( \frac{""&(Q132*T132)/GCD(Q132*T132;R132*S132)&""}{""&(R132*S132)/GCD(Q132*T132;R132*S132)&""} \)""",~#place-after-tech-cols#~=R132-RANDBETWEEN(1;R132-1),=RANDBETWEEN(2;8),=RANDBETWEEN(2;10),=RANDBETWEEN(2;8)
-"=""\( \frac{""&Q133&""}{""&R133&""} \) : \( \frac{""&S133&""}{""&T133&""} \) = ?""","=""\( \frac{""&(Q133*T133)/GCD(Q133*T133;R133*S133)&""}{""&(R133*S133)/GCD(Q133*T133;R133*S133)&""} \)""",~#place-after-tech-cols#~=R133-RANDBETWEEN(1;R133-1),=RANDBETWEEN(2;8),=R133* RANDBETWEEN(2;9),=RANDBETWEEN(2;8)
-"=""\( \frac{""&Q134&""}{""&R134&""} \) : \( \frac{""&S134&""}{""&T134&""} \) = ?""","=""\( \frac{""&(Q134*T134)/GCD(Q134*T134;R134*S134)&""}{""&(R134*S134)/GCD(Q134*T134;R134*S134)&""} \)""",~#place-after-tech-cols#~=R134-RANDBETWEEN(1;R134-1),=RANDBETWEEN(2;8),=R134* RANDBETWEEN(2;9),=RANDBETWEEN(2;8)
-"=""\( \frac{""&Q135&""}{""&R135&""} \) : \( \frac{""&S135&""}{""&T135&""} \) = ?""","=""\( \frac{""&(Q135*T135)/GCD(Q135*T135;R135*S135)&""}{""&(R135*S135)/GCD(Q135*T135;R135*S135)&""} \)""",~#place-after-tech-cols#~=R135-RANDBETWEEN(1;R135-1),=RANDBETWEEN(2;8),=R135* RANDBETWEEN(2;9),=RANDBETWEEN(2;8)
-"=""\( \frac{""&Q136&""}{""&R136&""} \) : \( \frac{""&S136&""}{""&T136&""} \) = ?""","=""\( \frac{""&(Q136*T136)/GCD(Q136*T136;R136*S136)&""}{""&(R136*S136)/GCD(Q136*T136;R136*S136)&""} \)""",~#place-after-tech-cols#~=R136-RANDBETWEEN(1;R136-1),=RANDBETWEEN(2;8),=R136* RANDBETWEEN(2;9),=RANDBETWEEN(2;8)
-"=""\( \frac{""&Q137&""}{""&R137&""} \) : \( \frac{""&S137&""}{""&T137&""} \) = ?""","=""\( \frac{""&(Q137*T137)/GCD(Q137*T137;R137*S137)&""}{""&(R137*S137)/GCD(Q137*T137;R137*S137)&""} \)""",~#place-after-tech-cols#~=R137-RANDBETWEEN(1;R137-1),=RANDBETWEEN(2;8),=R137* RANDBETWEEN(2;9),=RANDBETWEEN(2;8)
-"=""\( \frac{""&Q138&""}{""&R138&""} \) : \( \frac{""&S138&""}{""&T138&""} \) = ?""","=""\( \frac{""&(Q138*T138)/GCD(Q138*T138;R138*S138)&""}{""&(R138*S138)/GCD(Q138*T138;R138*S138)&""} \)""",~#place-after-tech-cols#~=R138-RANDBETWEEN(1;R138-1),=RANDBETWEEN(2;8),=R138* RANDBETWEEN(2;9),=RANDBETWEEN(2;8)
-,,,,,
-Jaki jest wynik działania \( \frac{3}{4} \) + (5 - 2<sup>2</sup>)?,1 \( \frac{3}{4} \),,,,
-Oblicz: 10 - (1 + 2)<sup>2</sup> ⋅ \( \frac{1}{3} \),7,,,,
-Jaki jest wynik działania (2<sup>3</sup> + 7) ⋅ \( \frac{1}{5} \)?,3,,,,
-Oblicz wartość wyrażenia \( \frac{1}{2} \) + (8 - 2<sup>2</sup>),4 \( \frac{1}{2} \),,,,
-Oblicz wartość wyrażenia (2<sup>3</sup> + 2) ⋅ \( \frac{1}{2} \) + 5,10,,,,
-Jaki jest wynik działania 20 ⋅ \( \frac{1}{4} \) + (10 - 2<sup>2</sup>)?,11,,,,
-Oblicz: (5<sup>2</sup> - 1) : 3 ⋅ \( \frac{1}{2} \) + 6,10,,,,
-Jaki jest wynik działania (20 : 5 + 1) ⋅ \( \frac{1}{5} \) + 3<sup>2</sup>?,10,,,,
-Oblicz wartość wyrażenia 15 - (3 + 2<sup>3</sup>) : 2,9 \( \frac{1}{2} \),,,,
+\( \frac{""&Q98&""}{""&R98&""} \) + \( \frac{""&S98&""}{""&T98&""} \)""","=""\( \frac{"" & (Q98*T98+S98*R98)/GCD(Q98*T98+S98*R98;R98*T98) & ""}{"" & (R98*T98)/GCD(Q98*T98+S98*R98;R98*T98) & ""} \)""",,~#place-after-tech-cols#~=R98-RANDBETWEEN(1;R98-1),=RANDBETWEEN(2;10),=T98-RANDBETWEEN(1;T98-1),=RANDBETWEEN(2;10)
+,,,, ,,
+"=""\( \frac{""&Q100&""}{""&R100&""} \) ⋅ ""&S100&"" = ?""","=""\( \frac{""&(Q100*S100)/GCD(Q100*S100;R100*1)&""}{""&(R100*1)/GCD(Q100*S100;R100*1)&""} \)""",,~#place-after-tech-cols#~=R100-RANDBETWEEN(1;R100-1),=RANDBETWEEN(2;10),=R100* RANDBETWEEN(2;15),
+"=""\( \frac{""&Q101&""}{""&R101&""} \) ⋅ ""&S101&"" = ?""","=""\( \frac{""&(Q101*S101)/GCD(Q101*S101;R101*1)&""}{""&(R101*1)/GCD(Q101*S101;R101*1)&""} \)""",,~#place-after-tech-cols#~=R101-RANDBETWEEN(1;R101-1),=RANDBETWEEN(2;10),=R101* RANDBETWEEN(2;15),
+"=""\( \frac{""&Q102&""}{""&R102&""} \) ⋅ ""&S102&"" = ?""","=""\( \frac{""&(Q102*S102)/GCD(Q102*S102;R102*1)&""}{""&(R102*1)/GCD(Q102*S102;R102*1)&""} \)""",,~#place-after-tech-cols#~=R102-RANDBETWEEN(1;R102-1),=RANDBETWEEN(2;10),=R102* RANDBETWEEN(2;15),
+"=""\( \frac{""&Q103&""}{""&R103&""} \) ⋅ ""&S103&"" = ?""","=""\( \frac{""&(Q103*S103)/GCD(Q103*S103;R103*1)&""}{""&(R103*1)/GCD(Q103*S103;R103*1)&""} \)""",,~#place-after-tech-cols#~=R103-RANDBETWEEN(1;R103-1),=RANDBETWEEN(2;10),=R103* RANDBETWEEN(2;15),
+"=""\( \frac{""&Q104&""}{""&R104&""} \) ⋅ ""&S104&"" = ?""","=""\( \frac{""&(Q104*S104)/GCD(Q104*S104;R104*1)&""}{""&(R104*1)/GCD(Q104*S104;R104*1)&""} \)""",,~#place-after-tech-cols#~=R104-RANDBETWEEN(1;R104-1),=RANDBETWEEN(2;10),=R104* RANDBETWEEN(2;15),
+,,,,,,
+Ile to jest \( \frac{1}{2} \) z 10?,5,,,,,
+Ile to jest \( \frac{1}{4} \) z 20?,5,,,,,
+"=""Ile to jest \( \frac{""&S108&""}{""&Q108&""} \) z ""&R108&""?""",=S108/Q108*R108,,~#place-after-tech-cols#~=RANDBETWEEN(2;10),= Q108*RANDBETWEEN(1;10),=Q108-RANDBETWEEN(1;Q108-1),
+"=""Ile to jest \( \frac{""&S109&""}{""&Q109&""} \) z ""&R109&""?""",=S109/Q109*R109,,~#place-after-tech-cols#~=RANDBETWEEN(2;10),= Q109*RANDBETWEEN(1;10),=Q109-RANDBETWEEN(1;Q109-1),
+"=""Ile to jest \( \frac{""&S110&""}{""&Q110&""} \) z ""&R110&""?""",=S110/Q110*R110,,~#place-after-tech-cols#~=RANDBETWEEN(2;10),= Q110*RANDBETWEEN(1;10),=Q110-RANDBETWEEN(1;Q110-1),
+"=""Ile to jest \( \frac{""&S111&""}{""&Q111&""} \) z ""&R111&""?""",=S111/Q111*R111,,~#place-after-tech-cols#~=RANDBETWEEN(2;10),= Q111*RANDBETWEEN(1;10),=Q111-RANDBETWEEN(1;Q111-1),
+"=""Ile to jest \( \frac{""&S112&""}{""&Q112&""} \) z ""&R112&""?""",=S112/Q112*R112,,~#place-after-tech-cols#~=RANDBETWEEN(2;10),= Q112*RANDBETWEEN(1;10),=Q112-RANDBETWEEN(1;Q112-1),
+"=""Ile to jest \( \frac{""&S113&""}{""&Q113&""} \) z ""&R113&""?""",=S113/Q113*R113,,~#place-after-tech-cols#~=RANDBETWEEN(2;10),= Q113*RANDBETWEEN(1;10),=Q113-RANDBETWEEN(1;Q113-1),
+"=""Ile to jest \( \frac{""&S114&""}{""&Q114&""} \) z ""&R114&""?""",=S114/Q114*R114,,~#place-after-tech-cols#~=RANDBETWEEN(2;10),= Q114*RANDBETWEEN(1;10),=Q114-RANDBETWEEN(1;Q114-1),
+,,,,,,
+"=""\( \frac{""&Q116&""}{""&R116&""} \) ⋅ \( \frac{""&S116&""}{""&T116&""} \) = ?""","=""\( \frac{""&(Q116*S116)/GCD(Q116*S116;R116*T116)&""}{""&(R116*T116)/GCD(Q116*S116;R116*T116)&""} \)""",,~#place-after-tech-cols#~=R116-RANDBETWEEN(1;R116-1),=RANDBETWEEN(2;10),=R116* RANDBETWEEN(2;9),=RANDBETWEEN(2;10)
+"=""\( \frac{""&Q117&""}{""&R117&""} \) ⋅ \( \frac{""&S117&""}{""&T117&""} \) = ?""","=""\( \frac{""&(Q117*S117)/GCD(Q117*S117;R117*T117)&""}{""&(R117*T117)/GCD(Q117*S117;R117*T117)&""} \)""",,~#place-after-tech-cols#~=R117-RANDBETWEEN(1;R117-1),=RANDBETWEEN(2;10),=R117* RANDBETWEEN(2;9),=RANDBETWEEN(2;10)
+"=""\( \frac{""&Q118&""}{""&R118&""} \) ⋅ \( \frac{""&S118&""}{""&T118&""} \) = ?""","=""\( \frac{""&(Q118*S118)/GCD(Q118*S118;R118*T118)&""}{""&(R118*T118)/GCD(Q118*S118;R118*T118)&""} \)""",,~#place-after-tech-cols#~=R118-RANDBETWEEN(1;R118-1),=RANDBETWEEN(2;10),=R118* RANDBETWEEN(2;9),=RANDBETWEEN(2;10)
+"=""\( \frac{""&Q119&""}{""&R119&""} \) ⋅ \( \frac{""&S119&""}{""&T119&""} \) = ?""","=""\( \frac{""&(Q119*S119)/GCD(Q119*S119;R119*T119)&""}{""&(R119*T119)/GCD(Q119*S119;R119*T119)&""} \)""",,~#place-after-tech-cols#~=R119-RANDBETWEEN(1;R119-1),=RANDBETWEEN(2;10),=R119* RANDBETWEEN(2;9),=RANDBETWEEN(2;10)
+"=""\( \frac{""&Q120&""}{""&R120&""} \) ⋅ \( \frac{""&S120&""}{""&T120&""} \) = ?""","=""\( \frac{""&(Q120*S120)/GCD(Q120*S120;R120*T120)&""}{""&(R120*T120)/GCD(Q120*S120;R120*T120)&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(3;9),=RANDBETWEEN(2;10),=R120* RANDBETWEEN(2;9),=Q120 * RANDBETWEEN(1;9)
+"=""\( \frac{""&Q121&""}{""&R121&""} \) ⋅ \( \frac{""&S121&""}{""&T121&""} \) = ?""","=""\( \frac{""&(Q121*S121)/GCD(Q121*S121;R121*T121)&""}{""&(R121*T121)/GCD(Q121*S121;R121*T121)&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(3;9),=RANDBETWEEN(2;10),=R121* RANDBETWEEN(2;9),=Q121 * RANDBETWEEN(1;9)
+"=""\( \frac{""&Q122&""}{""&R122&""} \) ⋅ \( \frac{""&S122&""}{""&T122&""} \) = ?""","=""\( \frac{""&(Q122*S122)/GCD(Q122*S122;R122*T122)&""}{""&(R122*T122)/GCD(Q122*S122;R122*T122)&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(3;9),=RANDBETWEEN(2;10),=R122* RANDBETWEEN(2;9),=Q122 * RANDBETWEEN(1;9)
+"=""\( \frac{""&Q123&""}{""&R123&""} \) ⋅ \( \frac{""&S123&""}{""&T123&""} \) = ?""","=""\( \frac{""&(Q123*S123)/GCD(Q123*S123;R123*T123)&""}{""&(R123*T123)/GCD(Q123*S123;R123*T123)&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(3;9),=RANDBETWEEN(2;10),=R123* RANDBETWEEN(2;9),=Q123 * RANDBETWEEN(1;9)
+,,,,,,
+"=""\( \frac{""&Q125&""}{""&R125&""} \) : ""&S125&"" = ?""","=""\( \frac{""&Q125/GCD(Q125;R125*S125)&""}{""&(R125*S125)/GCD(Q125;R125*S125)&""} \)""",,~#place-after-tech-cols#~=R125-RANDBETWEEN(1;R125-1),=RANDBETWEEN(2;10),=RANDBETWEEN(2;10),
+"=""\( \frac{""&Q126&""}{""&R126&""} \) : ""&S126&"" = ?""","=""\( \frac{""&Q126/GCD(Q126;R126*S126)&""}{""&(R126*S126)/GCD(Q126;R126*S126)&""} \)""",,~#place-after-tech-cols#~=R126-RANDBETWEEN(1;R126-1),=RANDBETWEEN(2;10),=RANDBETWEEN(2;10),
+"=""\( \frac{""&Q127&""}{""&R127&""} \) : ""&S127&"" = ?""","=""\( \frac{""&Q127/GCD(Q127;R127*S127)&""}{""&(R127*S127)/GCD(Q127;R127*S127)&""} \)""",,~#place-after-tech-cols#~=R127-RANDBETWEEN(1;R127-1),=RANDBETWEEN(2;10),=RANDBETWEEN(2;10),
+"=""\( \frac{""&Q128&""}{""&R128&""} \) : ""&S128&"" = ?""","=""\( \frac{""&Q128/GCD(Q128;R128*S128)&""}{""&(R128*S128)/GCD(Q128;R128*S128)&""} \)""",,~#place-after-tech-cols#~=R128-RANDBETWEEN(1;R128-1),=RANDBETWEEN(2;10),=RANDBETWEEN(2;10),
+"=""\( \frac{""&Q129&""}{""&R129&""} \) : ""&S129&"" = ?""","=""\( \frac{""&Q129/GCD(Q129;R129*S129)&""}{""&(R129*S129)/GCD(Q129;R129*S129)&""} \)""",,~#place-after-tech-cols#~=R129-RANDBETWEEN(1;R129-1),=RANDBETWEEN(2;10),=RANDBETWEEN(2;10),
+"=""\( \frac{""&Q130&""}{""&R130&""} \) : ""&S130&"" = ?""","=""\( \frac{""&Q130/GCD(Q130;R130*S130)&""}{""&(R130*S130)/GCD(Q130;R130*S130)&""} \)""",,~#place-after-tech-cols#~=R130-RANDBETWEEN(1;R130-1),=RANDBETWEEN(2;10),=R130* RANDBETWEEN(2;9),
+,,,,,,
+"=""\( \frac{""&Q132&""}{""&R132&""} \) : \( \frac{""&S132&""}{""&T132&""} \) = ?""","=""\( \frac{""&(Q132*T132)/GCD(Q132*T132;R132*S132)&""}{""&(R132*S132)/GCD(Q132*T132;R132*S132)&""} \)""",,~#place-after-tech-cols#~=R132-RANDBETWEEN(1;R132-1),=RANDBETWEEN(2;8),=RANDBETWEEN(2;10),=RANDBETWEEN(2;8)
+"=""\( \frac{""&Q133&""}{""&R133&""} \) : \( \frac{""&S133&""}{""&T133&""} \) = ?""","=""\( \frac{""&(Q133*T133)/GCD(Q133*T133;R133*S133)&""}{""&(R133*S133)/GCD(Q133*T133;R133*S133)&""} \)""",,~#place-after-tech-cols#~=R133-RANDBETWEEN(1;R133-1),=RANDBETWEEN(2;8),=R133* RANDBETWEEN(2;9),=RANDBETWEEN(2;8)
+"=""\( \frac{""&Q134&""}{""&R134&""} \) : \( \frac{""&S134&""}{""&T134&""} \) = ?""","=""\( \frac{""&(Q134*T134)/GCD(Q134*T134;R134*S134)&""}{""&(R134*S134)/GCD(Q134*T134;R134*S134)&""} \)""",,~#place-after-tech-cols#~=R134-RANDBETWEEN(1;R134-1),=RANDBETWEEN(2;8),=R134* RANDBETWEEN(2;9),=RANDBETWEEN(2;8)
+"=""\( \frac{""&Q135&""}{""&R135&""} \) : \( \frac{""&S135&""}{""&T135&""} \) = ?""","=""\( \frac{""&(Q135*T135)/GCD(Q135*T135;R135*S135)&""}{""&(R135*S135)/GCD(Q135*T135;R135*S135)&""} \)""",,~#place-after-tech-cols#~=R135-RANDBETWEEN(1;R135-1),=RANDBETWEEN(2;8),=R135* RANDBETWEEN(2;9),=RANDBETWEEN(2;8)
+"=""\( \frac{""&Q136&""}{""&R136&""} \) : \( \frac{""&S136&""}{""&T136&""} \) = ?""","=""\( \frac{""&(Q136*T136)/GCD(Q136*T136;R136*S136)&""}{""&(R136*S136)/GCD(Q136*T136;R136*S136)&""} \)""",,~#place-after-tech-cols#~=R136-RANDBETWEEN(1;R136-1),=RANDBETWEEN(2;8),=R136* RANDBETWEEN(2;9),=RANDBETWEEN(2;8)
+"=""\( \frac{""&Q137&""}{""&R137&""} \) : \( \frac{""&S137&""}{""&T137&""} \) = ?""","=""\( \frac{""&(Q137*T137)/GCD(Q137*T137;R137*S137)&""}{""&(R137*S137)/GCD(Q137*T137;R137*S137)&""} \)""",,~#place-after-tech-cols#~=R137-RANDBETWEEN(1;R137-1),=RANDBETWEEN(2;8),=R137* RANDBETWEEN(2;9),=RANDBETWEEN(2;8)
+"=""\( \frac{""&Q138&""}{""&R138&""} \) : \( \frac{""&S138&""}{""&T138&""} \) = ?""","=""\( \frac{""&(Q138*T138)/GCD(Q138*T138;R138*S138)&""}{""&(R138*S138)/GCD(Q138*T138;R138*S138)&""} \)""",,~#place-after-tech-cols#~=R138-RANDBETWEEN(1;R138-1),=RANDBETWEEN(2;8),=R138* RANDBETWEEN(2;9),=RANDBETWEEN(2;8)
+,,,,,,
+Jaki jest wynik działania \( \frac{3}{4} \) + (5 - 2<sup>2</sup>)?,1 \( \frac{3}{4} \),,,,,
+Oblicz: 10 - (1 + 2)<sup>2</sup> ⋅ \( \frac{1}{3} \),7,,,,,
+Jaki jest wynik działania (2<sup>3</sup> + 7) ⋅ \( \frac{1}{5} \)?,3,,,,,
+Oblicz wartość wyrażenia \( \frac{1}{2} \) + (8 - 2<sup>2</sup>),4 \( \frac{1}{2} \),,,,,
+Oblicz wartość wyrażenia (2<sup>3</sup> + 2) ⋅ \( \frac{1}{2} \) + 5,10,,,,,
+Jaki jest wynik działania 20 ⋅ \( \frac{1}{4} \) + (10 - 2<sup>2</sup>)?,11,,,,,
+Oblicz: (5<sup>2</sup> - 1) : 3 ⋅ \( \frac{1}{2} \) + 6,10,,,,,
+Jaki jest wynik działania (20 : 5 + 1) ⋅ \( \frac{1}{5} \) + 3<sup>2</sup>?,10,,,,,
+Oblicz wartość wyrażenia 15 - (3 + 2<sup>3</sup>) : 2,9 \( \frac{1}{2} \),,,,,
+,,,,,,
+Zadania tekstowe,,,,,,
+W klasie jest 30 uczniów. \( \frac{2}{3} \) z nich to dziewczynki. Ile dziewczynek jest w klasie?,20,,,,,
+W pudełku jest 9 czerwonych i 6 zielonych piłeczek. Jaką część stanowią zielone piłeczki?,\( \frac{2}{5} \),,,,,
+W koszyku jest 80 jabłek. \( \frac{3}{5} \) z nich to jabłka czerwone. Ile jabłek jest czerwonych?,48,,,,,
+Na parkingu jest 16 samochodów i 4 motocykle. Jaką część pojazdów stanowią motocykle?,\( \frac{1}{5} \),,,,,
+"Maja zjadła \( \frac{3}{5} \) tabliczki czekolady, czyli 60 g. Ile gramów ważyła cała tabliczka?",100 g,,,,,
+Na wycieczkę pojechało 48 osób. \( \frac{5}{8} \) z nich to dzieci. Ile dzieci pojechało?,30,,,,,
+"W sadzie rośnie 56 drzew, z czego \( \frac{1}{7} \) to grusze. Ile grusz rośnie w sadzie?",8,,,,,
+Na wycieczkę pojechało 40 dzieci. \( \frac{3}{4} \) z nich to dziewczynki. Ile dziewczynek pojechało na wycieczkę?,30,,,,,
+W pudełku jest 36 lizaków. \( \frac{1}{3} \) to lizaki wiśniowe. Ile jest lizaków wiśniowych?,12,,,,,
+W sadzie jest 150 drzew. \( \frac{4}{5} \) to jabłonie. Ile jest jabłoni?,120,,,,,
+W stadzie jest 25 owiec i 5 kóz. Jaką część zwierząt stanowią kozy?,\( \frac{1}{6} \),,,,,
+W klasie jest 18 chłopców i 12 dziewczynek. Jaką część klasy stanowią dziewczynki?,\( \frac{2}{5} \),,,,,
+W teatrze jest 400 miejsc. \( \frac{7}{10} \) zostało zajętych. Ile miejsc jest zajętych?,280,,,,,
+W klasie jest 28 uczniów. \( \frac{1}{4} \) z nich ma niebieskie oczy. Ilu uczniów ma niebieskie oczy?,7,,,,,
+W bibliotece jest 200 książek. \( \frac{3}{10} \) to książki przyrodnicze. Ile ich jest?,60,,,,,
+W klasie jest 12 dziewczynek i 8 chłopców. Jaką część klasy stanowią dziewczynki?,\( \frac{3}{5} \),,,,,
+W pudełku jest 60 cukierków. \( \frac{1}{4} \) z nich to cukierki truskawkowe. Ile cukierków jest truskawkowych?,15,,,,,
+"W szafie jest 20 koszulek, z czego 8 to koszulki białe. Jaką część stanowią białe koszulki?",\( \frac{2}{5} \),,,,,
+W koszyku jest 15 jabłek i 5 gruszek. Jaką część owoców stanowią gruszki?,\( \frac{1}{4} \),,,,,
+W bibliotece jest 240 książek. \( \frac{3}{8} \) z nich to książki przygodowe. Ile to książek?,90,,,,,
+W akwarium jest 90 ryb. \( \frac{1}{3} \) to ryby złote. Ile jest ryb złotych?,30,,,,,
+W słoiku jest 120 cukierków. \( \frac{2}{3} \) to landrynki. Ile jest landrynek?,80,,,,,
+W klasie jest 40 uczniów. \( \frac{3}{8} \) ma okulary. Ilu uczniów ma okulary?,15,,,,,
+W pudełku jest 36 piłek. \( \frac{1}{3} \) z nich to piłki czerwone. Ile piłek jest czerwonych?,12,,,,,
+W szafie jest 60 koszulek. \( \frac{1}{2} \) to koszulki białe. Ile jest białych koszulek?,30,,,,,
+W pudełku jest 120 kredek. \( \frac{1}{6} \) z nich to kredki niebieskie. Ile jest niebieskich kredek?,20,,,,,
+Na boisku są 54 piłki. \( \frac{5}{9} \) to piłki do koszykówki. Ile jest piłek do koszykówki?,30,,,,,
+"W sklepie sprzedano 48 bułek, w tym 12 pełnoziarnistych. Jaką część stanowią pełnoziarniste?",\( \frac{1}{4} \),,,,,
+"W pudełku jest 30 czekoladek, z czego 18 to nadziewane. Jaką część stanowią nadziewane?",\( \frac{3}{5} \),,,,,
+Jurek przeczytał \( \frac{2}{3} \) książki liczącej 90 stron. Ile stron przeczytał?,60,,,,,
+W grupie jest 14 dziewczynek i 21 chłopców. Jaką część grupy stanowią chłopcy?,\( \frac{3}{5} \),,,,,
+Książka ma 120 stron. Adam przeczytał \( \frac{2}{5} \) z nich. Ile stron przeczytał?,48,,,,,
+"W bibliotece jest 40 książek, z czego 10 to książki historyczne. Jaką część stanowią książki historyczne?",\( \frac{1}{4} \),,,,,
+W klasie jest 20 dziewczynek i 15 chłopców. Jaką część stanowią chłopcy?,\( \frac{3}{7} \),,,,,
+W pudełku było 80 cukierków. Dzieci zjadły \( \frac{5}{8} \) z nich. Ile zostało?,30,,,,,
+W sklepie sprzedano 150 bułek. \( \frac{2}{5} \) to bułki pełnoziarniste. Ile sprzedano bułek pełnoziarnistych?,60,,,,,
+W grupie jest 72 osoby. \( \frac{1}{6} \) to nauczyciele. Ilu jest nauczycieli?,12,,,,,
+"Kuba wypił \( \frac{2}{3} \) szklanki soku, czyli 200 ml. Ile ml mieści cała szklanka?",300 ml,"Skoro \( \frac{2}{3} \) to 200 ml, to \( \frac{1}{3} \) to 100 ml. 
+Cała szklanka to 3 części: 3 ⋅ 100 = 300.",,,,
+"Basia przeczytała \( \frac{1}{4} \) książki, czyli 30 stron. Ile stron ma książka?",120 stron,"Jeśli \( \frac{1}{4} \) to 30 stron, to całość to 4 części.
+Zatem 30 ⋅ 4 = 120 ",,,,
+"Antek przejechał \( \frac{3}{8} \) trasy rowerem, czyli 15 km. Ile km liczy cała trasa?",40 km,"\( \frac{3}{8} \) = 15 km, więc \( \frac{1}{8}  \) =15 : 3 = 5 . 
+Całość to 8 ⋅ 5 = 40.",,,,
+"Zosia zjadła \( \frac{5}{6} \) pizzy, czyli 25 cm średnicy. Jaka była średnica całej pizzy?",30 cm,"\( \frac{5}{6} \) = 25 cm, więc \( \frac{1}{6} \) = 25 : 5 = 5. 
+Całość to 6 ⋅ 5 = 30.",,,,
+"Tomek wydał \( \frac{3}{4} \) swoich oszczędności, czyli 150 zł. Ile zł miał na początku?",200,"\( \frac{3}{4} \) = 150 zł, więc \( \frac{1}{4} \) = 150 : 3 = 50. 
+Całość to 4 ⋅ 50 = 200.",,,,
+"Ola przejechała \( \frac{2}{5} \) trasy autobusem, czyli 18 km. Ile km miała cała trasa?",45 km,"\( \frac{2}{5} \) = 18 km, więc \( \frac{1}{5} \) = 18 : 2 = 9. 
+Całość to 5 ⋅ 9 = 45.",,,,
+"Worek z jabłkami waży \( \frac{7}{10} \) całej wagi, czyli 14 kg. Ile kg ważą wszystkie jabłka?",20 kg,"\( \frac{7}{10} \) = 14 kg, więc \( \frac{1}{10} \) = 14 : 7 = 2.
+Całość to 10 ⋅ 2 = 20.",,,,
+"Piotrek odrobił \( \frac{4}{9} \) zadania domowego, czyli 12 przykładów. Ile przykładów jest w całym zadaniu?",27 przykładów,"\( \frac{4}{9} \) = 12, więc \( \frac{1}{9} \) = 12 : 4 = 3.
+Całość to 9 ⋅ 3 = 27.",,,,
