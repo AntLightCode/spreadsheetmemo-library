@@ -84,13 +84,13 @@ What number must be added to \( 5 \frac{3}{7} \) to get 12,\( 6 \frac{4}{7} \),,
 \( \frac{2}{3} \) and \( \frac{7}{10} \)",\( \frac{20}{30} \) and \( \frac{21}{30} \),,,,,
 ,,,,,,
 "=""Write the quotient as a common fraction:
-1 : ""&Q76&""""","=""\( \frac{1}{""&Q76&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;10),,,
+1 / ""&Q76&""""","=""\( \frac{1}{""&Q76&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;10),,,
 "=""Write the quotient as a common fraction:
-1 : ""&Q77&""""","=""\( \frac{1}{""&Q77&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;10),,,
+1 / ""&Q77&""""","=""\( \frac{1}{""&Q77&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;10),,,
 "=""Write the common fraction as a quotient:
-\( \frac{""&Q78&""}{""&R78&""} \)""","=""""&Q78&"" : ""&R78&""""",,~#place-after-tech-cols#~=RANDBETWEEN(2;8),=RANDBETWEEN(9;20),,
+\( \frac{""&Q78&""}{""&R78&""} \)""","=""""&Q78&"" / ""&R78&""""",,~#place-after-tech-cols#~=RANDBETWEEN(2;8),=RANDBETWEEN(9;20),,
 "=""Write the common fraction as a quotient:
-\( \frac{""&Q79&""}{""&R79&""} \)""","=""""&Q79&"" : ""&R79&""""",,~#place-after-tech-cols#~=RANDBETWEEN(2;8),=RANDBETWEEN(9;20),,
+\( \frac{""&Q79&""}{""&R79&""} \)""","=""""&Q79&"" / ""&R79&""""",,~#place-after-tech-cols#~=RANDBETWEEN(2;8),=RANDBETWEEN(9;20),,
 ,,,,,,
 "=""Expand one or both fractions so that they have a common denominator.
 \( \frac{""&Q81&""}{""&R81&""} \) and \( \frac{""&S81&""}{""&T81&""} \)""","=""\( \frac{""&LCM(R81; T81)/R81*Q81&""}{""&LCM(R81; T81)&""} \) and \( \frac{""&LCM(R81; T81)/T81*S81&""}{""&LCM(R81; T81)&""} \)""",,~#place-after-tech-cols#~=R81-RANDBETWEEN(1;R81-1),=RANDBETWEEN(2;10),=T81-RANDBETWEEN(1;T81-1),=RANDBETWEEN(2;10)
@@ -122,11 +122,11 @@ What number must be added to \( 6 \frac{5}{8} \) to get 8?,\( 1 \frac{3}{8} \),,
 "=""What is the result of the operation
 \( \frac{""&Q96&""}{""&R96&""} \) + \( \frac{""&S96&""}{""&T96&""} \)""","=""\( \frac{"" & (Q96*T96+S96*R96)/GCD(Q96*T96+S96*R96;R96*T96) & ""}{"" & (R96*T96)/GCD(Q96*T96+S96*R96;R96*T96) & ""} \)""",,~#place-after-tech-cols#~=R96-RANDBETWEEN(1;R96-1),=RANDBETWEEN(2;10),=T96-RANDBETWEEN(1;T96-1),=RANDBETWEEN(2;10)
 ,,,,,,
-"=""\( \frac{""&Q98&""}{""&R98&""} \) ⋅ ""&S98&"" = ?""","=""\( \frac{""&(Q98*S98)/GCD(Q98*S98;R98*1)&""}{""&(R98*1)/GCD(Q98*S98;R98*1)&""} \)""",,~#place-after-tech-cols#~=R98-RANDBETWEEN(1;R98-1),=RANDBETWEEN(2;10),=R98* RANDBETWEEN(2;15),
-"=""\( \frac{""&Q99&""}{""&R99&""} \) ⋅ ""&S99&"" = ?""","=""\( \frac{""&(Q99*S99)/GCD(Q99*S99;R99*1)&""}{""&(R99*1)/GCD(Q99*S99;R99*1)&""} \)""",,~#place-after-tech-cols#~=R99-RANDBETWEEN(1;R99-1),=RANDBETWEEN(2;10),=R99* RANDBETWEEN(2;15),
-"=""\( \frac{""&Q100&""}{""&R100&""} \) ⋅ ""&S100&"" = ?""","=""\( \frac{""&(Q100*S100)/GCD(Q100*S100;R100*1)&""}{""&(R100*1)/GCD(Q100*S100;R100*1)&""} \)""",,~#place-after-tech-cols#~=R100-RANDBETWEEN(1;R100-1),=RANDBETWEEN(2;10),=R100* RANDBETWEEN(2;15),
-"=""\( \frac{""&Q101&""}{""&R101&""} \) ⋅ ""&S101&"" = ?""","=""\( \frac{""&(Q101*S101)/GCD(Q101*S101;R101*1)&""}{""&(R101*1)/GCD(Q101*S101;R101*1)&""} \)""",,~#place-after-tech-cols#~=R101-RANDBETWEEN(1;R101-1),=RANDBETWEEN(2;10),=R101* RANDBETWEEN(2;15),
-"=""\( \frac{""&Q102&""}{""&R102&""} \) ⋅ ""&S102&"" = ?""","=""\( \frac{""&(Q102*S102)/GCD(Q102*S102;R102*1)&""}{""&(R102*1)/GCD(Q102*S102;R102*1)&""} \)""",,~#place-after-tech-cols#~=R102-RANDBETWEEN(1;R102-1),=RANDBETWEEN(2;10),=R102* RANDBETWEEN(2;15),
+"=""\( \frac{""&Q98&""}{""&R98&""} \) * ""&S98&"" = ?""","=""\( \frac{""&(Q98*S98)/GCD(Q98*S98;R98*1)&""}{""&(R98*1)/GCD(Q98*S98;R98*1)&""} \)""",,~#place-after-tech-cols#~=R98-RANDBETWEEN(1;R98-1),=RANDBETWEEN(2;10),=R98* RANDBETWEEN(2;15),
+"=""\( \frac{""&Q99&""}{""&R99&""} \) * ""&S99&"" = ?""","=""\( \frac{""&(Q99*S99)/GCD(Q99*S99;R99*1)&""}{""&(R99*1)/GCD(Q99*S99;R99*1)&""} \)""",,~#place-after-tech-cols#~=R99-RANDBETWEEN(1;R99-1),=RANDBETWEEN(2;10),=R99* RANDBETWEEN(2;15),
+"=""\( \frac{""&Q100&""}{""&R100&""} \) * ""&S100&"" = ?""","=""\( \frac{""&(Q100*S100)/GCD(Q100*S100;R100*1)&""}{""&(R100*1)/GCD(Q100*S100;R100*1)&""} \)""",,~#place-after-tech-cols#~=R100-RANDBETWEEN(1;R100-1),=RANDBETWEEN(2;10),=R100* RANDBETWEEN(2;15),
+"=""\( \frac{""&Q101&""}{""&R101&""} \) * ""&S101&"" = ?""","=""\( \frac{""&(Q101*S101)/GCD(Q101*S101;R101*1)&""}{""&(R101*1)/GCD(Q101*S101;R101*1)&""} \)""",,~#place-after-tech-cols#~=R101-RANDBETWEEN(1;R101-1),=RANDBETWEEN(2;10),=R101* RANDBETWEEN(2;15),
+"=""\( \frac{""&Q102&""}{""&R102&""} \) * ""&S102&"" = ?""","=""\( \frac{""&(Q102*S102)/GCD(Q102*S102;R102*1)&""}{""&(R102*1)/GCD(Q102*S102;R102*1)&""} \)""",,~#place-after-tech-cols#~=R102-RANDBETWEEN(1;R102-1),=RANDBETWEEN(2;10),=R102* RANDBETWEEN(2;15),
 ,,,,,,
 What is \( \frac{1}{2} \) of 10?,5,,,,,
 What is \( \frac{1}{4} \) of 20?,5,,,,,
@@ -138,39 +138,39 @@ What is \( \frac{1}{4} \) of 20?,5,,,,,
 "=""What is \( \frac{""&S111&""}{""&Q111&""} \) of ""&R111&""?""",=S111/Q111*R111,,~#place-after-tech-cols#~=RANDBETWEEN(2;10),= Q111*RANDBETWEEN(1;10),=Q111-RANDBETWEEN(1;Q111-1),
 "=""What is \( \frac{""&S112&""}{""&Q112&""} \) of ""&R112&""?""",=S112/Q112*R112,,~#place-after-tech-cols#~=RANDBETWEEN(2;10),= Q112*RANDBETWEEN(1;10),=Q112-RANDBETWEEN(1;Q112-1),
 ,,,,,,
-"=""\( \frac{""&Q114&""}{""&R114&""} \) ⋅ \( \frac{""&S114&""}{""&T114&""} \) = ?""","=""\( \frac{""&(Q114*S114)/GCD(Q114*S114;R114*T114)&""}{""&(R114*T114)/GCD(Q114*S114;R114*T114)&""} \)""",,~#place-after-tech-cols#~=R114-RANDBETWEEN(1;R114-1),=RANDBETWEEN(2;10),=R114* RANDBETWEEN(2;9),=RANDBETWEEN(2;10)
-"=""\( \frac{""&Q115&""}{""&R115&""} \) ⋅ \( \frac{""&S115&""}{""&T115&""} \) = ?""","=""\( \frac{""&(Q115*S115)/GCD(Q115*S115;R115*T115)&""}{""&(R115*T115)/GCD(Q115*S115;R115*T115)&""} \)""",,~#place-after-tech-cols#~=R115-RANDBETWEEN(1;R115-1),=RANDBETWEEN(2;10),=R115* RANDBETWEEN(2;9),=RANDBETWEEN(2;10)
-"=""\( \frac{""&Q116&""}{""&R116&""} \) ⋅ \( \frac{""&S116&""}{""&T116&""} \) = ?""","=""\( \frac{""&(Q116*S116)/GCD(Q116*S116;R116*T116)&""}{""&(R116*T116)/GCD(Q116*S116;R116*T116)&""} \)""",,~#place-after-tech-cols#~=R116-RANDBETWEEN(1;R116-1),=RANDBETWEEN(2;10),=R116* RANDBETWEEN(2;9),=RANDBETWEEN(2;10)
-"=""\( \frac{""&Q117&""}{""&R117&""} \) ⋅ \( \frac{""&S117&""}{""&T117&""} \) = ?""","=""\( \frac{""&(Q117*S117)/GCD(Q117*S117;R117*T117)&""}{""&(R117*T117)/GCD(Q117*S117;R117*T117)&""} \)""",,~#place-after-tech-cols#~=R117-RANDBETWEEN(1;R117-1),=RANDBETWEEN(2;10),=R117* RANDBETWEEN(2;9),=RANDBETWEEN(2;10)
-"=""\( \frac{""&Q118&""}{""&R118&""} \) ⋅ \( \frac{""&S118&""}{""&T118&""} \) = ?""","=""\( \frac{""&(Q118*S118)/GCD(Q118*S118;R118*T118)&""}{""&(R118*T118)/GCD(Q118*S118;R118*T118)&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(3;9),=RANDBETWEEN(2;10),=R118* RANDBETWEEN(2;9),=Q118 * RANDBETWEEN(1;9)
-"=""\( \frac{""&Q119&""}{""&R119&""} \) ⋅ \( \frac{""&S119&""}{""&T119&""} \) = ?""","=""\( \frac{""&(Q119*S119)/GCD(Q119*S119;R119*T119)&""}{""&(R119*T119)/GCD(Q119*S119;R119*T119)&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(3;9),=RANDBETWEEN(2;10),=R119* RANDBETWEEN(2;9),=Q119 * RANDBETWEEN(1;9)
-"=""\( \frac{""&Q120&""}{""&R120&""} \) ⋅ \( \frac{""&S120&""}{""&T120&""} \) = ?""","=""\( \frac{""&(Q120*S120)/GCD(Q120*S120;R120*T120)&""}{""&(R120*T120)/GCD(Q120*S120;R120*T120)&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(3;9),=RANDBETWEEN(2;10),=R120* RANDBETWEEN(2;9),=Q120 * RANDBETWEEN(1;9)
-"=""\( \frac{""&Q121&""}{""&R121&""} \) ⋅ \( \frac{""&S121&""}{""&T121&""} \) = ?""","=""\( \frac{""&(Q121*S121)/GCD(Q121*S121;R121*T121)&""}{""&(R121*T121)/GCD(Q121*S121;R121*T121)&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(3;9),=RANDBETWEEN(2;10),=R121* RANDBETWEEN(2;9),=Q121 * RANDBETWEEN(1;9)
+"=""\( \frac{""&Q114&""}{""&R114&""} \) * \( \frac{""&S114&""}{""&T114&""} \) = ?""","=""\( \frac{""&(Q114*S114)/GCD(Q114*S114;R114*T114)&""}{""&(R114*T114)/GCD(Q114*S114;R114*T114)&""} \)""",,~#place-after-tech-cols#~=R114-RANDBETWEEN(1;R114-1),=RANDBETWEEN(2;10),=R114* RANDBETWEEN(2;9),=RANDBETWEEN(2;10)
+"=""\( \frac{""&Q115&""}{""&R115&""} \) * \( \frac{""&S115&""}{""&T115&""} \) = ?""","=""\( \frac{""&(Q115*S115)/GCD(Q115*S115;R115*T115)&""}{""&(R115*T115)/GCD(Q115*S115;R115*T115)&""} \)""",,~#place-after-tech-cols#~=R115-RANDBETWEEN(1;R115-1),=RANDBETWEEN(2;10),=R115* RANDBETWEEN(2;9),=RANDBETWEEN(2;10)
+"=""\( \frac{""&Q116&""}{""&R116&""} \) * \( \frac{""&S116&""}{""&T116&""} \) = ?""","=""\( \frac{""&(Q116*S116)/GCD(Q116*S116;R116*T116)&""}{""&(R116*T116)/GCD(Q116*S116;R116*T116)&""} \)""",,~#place-after-tech-cols#~=R116-RANDBETWEEN(1;R116-1),=RANDBETWEEN(2;10),=R116* RANDBETWEEN(2;9),=RANDBETWEEN(2;10)
+"=""\( \frac{""&Q117&""}{""&R117&""} \) * \( \frac{""&S117&""}{""&T117&""} \) = ?""","=""\( \frac{""&(Q117*S117)/GCD(Q117*S117;R117*T117)&""}{""&(R117*T117)/GCD(Q117*S117;R117*T117)&""} \)""",,~#place-after-tech-cols#~=R117-RANDBETWEEN(1;R117-1),=RANDBETWEEN(2;10),=R117* RANDBETWEEN(2;9),=RANDBETWEEN(2;10)
+"=""\( \frac{""&Q118&""}{""&R118&""} \) * \( \frac{""&S118&""}{""&T118&""} \) = ?""","=""\( \frac{""&(Q118*S118)/GCD(Q118*S118;R118*T118)&""}{""&(R118*T118)/GCD(Q118*S118;R118*T118)&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(3;9),=RANDBETWEEN(2;10),=R118* RANDBETWEEN(2;9),=Q118 * RANDBETWEEN(1;9)
+"=""\( \frac{""&Q119&""}{""&R119&""} \) * \( \frac{""&S119&""}{""&T119&""} \) = ?""","=""\( \frac{""&(Q119*S119)/GCD(Q119*S119;R119*T119)&""}{""&(R119*T119)/GCD(Q119*S119;R119*T119)&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(3;9),=RANDBETWEEN(2;10),=R119* RANDBETWEEN(2;9),=Q119 * RANDBETWEEN(1;9)
+"=""\( \frac{""&Q120&""}{""&R120&""} \) * \( \frac{""&S120&""}{""&T120&""} \) = ?""","=""\( \frac{""&(Q120*S120)/GCD(Q120*S120;R120*T120)&""}{""&(R120*T120)/GCD(Q120*S120;R120*T120)&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(3;9),=RANDBETWEEN(2;10),=R120* RANDBETWEEN(2;9),=Q120 * RANDBETWEEN(1;9)
+"=""\( \frac{""&Q121&""}{""&R121&""} \) * \( \frac{""&S121&""}{""&T121&""} \) = ?""","=""\( \frac{""&(Q121*S121)/GCD(Q121*S121;R121*T121)&""}{""&(R121*T121)/GCD(Q121*S121;R121*T121)&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(3;9),=RANDBETWEEN(2;10),=R121* RANDBETWEEN(2;9),=Q121 * RANDBETWEEN(1;9)
 ,,,,,,
-"=""\( \frac{""&Q123&""}{""&R123&""} \) : ""&S123&"" = ?""","=""\( \frac{""&Q123/GCD(Q123;R123*S123)&""}{""&(R123*S123)/GCD(Q123;R123*S123)&""} \)""",,~#place-after-tech-cols#~=R123-RANDBETWEEN(1;R123-1),=RANDBETWEEN(2;10),=RANDBETWEEN(2;10),
-"=""\( \frac{""&Q124&""}{""&R124&""} \) : ""&S124&"" = ?""","=""\( \frac{""&Q124/GCD(Q124;R124*S124)&""}{""&(R124*S124)/GCD(Q124;R124*S124)&""} \)""",,~#place-after-tech-cols#~=R124-RANDBETWEEN(1;R124-1),=RANDBETWEEN(2;10),=RANDBETWEEN(2;10),
-"=""\( \frac{""&Q125&""}{""&R125&""} \) : ""&S125&"" = ?""","=""\( \frac{""&Q125/GCD(Q125;R125*S125)&""}{""&(R125*S125)/GCD(Q125;R125*S125)&""} \)""",,~#place-after-tech-cols#~=R125-RANDBETWEEN(1;R125-1),=RANDBETWEEN(2;10),=RANDBETWEEN(2;10),
-"=""\( \frac{""&Q126&""}{""&R126&""} \) : ""&S126&"" = ?""","=""\( \frac{""&Q126/GCD(Q126;R126*S126)&""}{""&(R126*S126)/GCD(Q126;R126*S126)&""} \)""",,~#place-after-tech-cols#~=R126-RANDBETWEEN(1;R126-1),=RANDBETWEEN(2;10),=RANDBETWEEN(2;10),
-"=""\( \frac{""&Q127&""}{""&R127&""} \) : ""&S127&"" = ?""","=""\( \frac{""&Q127/GCD(Q127;R127*S127)&""}{""&(R127*S127)/GCD(Q127;R127*S127)&""} \)""",,~#place-after-tech-cols#~=R127-RANDBETWEEN(1;R127-1),=RANDBETWEEN(2;10),=RANDBETWEEN(2;10),
-"=""\( \frac{""&Q128&""}{""&R128&""} \) : ""&S128&"" = ?""","=""\( \frac{""&Q128/GCD(Q128;R128*S128)&""}{""&(R128*S128)/GCD(Q128;R128*S128)&""} \)""",,~#place-after-tech-cols#~=R128-RANDBETWEEN(1;R128-1),=RANDBETWEEN(2;10),=R128* RANDBETWEEN(2;9),
+"=""\( \frac{""&Q123&""}{""&R123&""} \) / ""&S123&"" = ?""","=""\( \frac{""&Q123/GCD(Q123;R123*S123)&""}{""&(R123*S123)/GCD(Q123;R123*S123)&""} \)""",,~#place-after-tech-cols#~=R123-RANDBETWEEN(1;R123-1),=RANDBETWEEN(2;10),=RANDBETWEEN(2;10),
+"=""\( \frac{""&Q124&""}{""&R124&""} \) / ""&S124&"" = ?""","=""\( \frac{""&Q124/GCD(Q124;R124*S124)&""}{""&(R124*S124)/GCD(Q124;R124*S124)&""} \)""",,~#place-after-tech-cols#~=R124-RANDBETWEEN(1;R124-1),=RANDBETWEEN(2;10),=RANDBETWEEN(2;10),
+"=""\( \frac{""&Q125&""}{""&R125&""} \) / ""&S125&"" = ?""","=""\( \frac{""&Q125/GCD(Q125;R125*S125)&""}{""&(R125*S125)/GCD(Q125;R125*S125)&""} \)""",,~#place-after-tech-cols#~=R125-RANDBETWEEN(1;R125-1),=RANDBETWEEN(2;10),=RANDBETWEEN(2;10),
+"=""\( \frac{""&Q126&""}{""&R126&""} \) / ""&S126&"" = ?""","=""\( \frac{""&Q126/GCD(Q126;R126*S126)&""}{""&(R126*S126)/GCD(Q126;R126*S126)&""} \)""",,~#place-after-tech-cols#~=R126-RANDBETWEEN(1;R126-1),=RANDBETWEEN(2;10),=RANDBETWEEN(2;10),
+"=""\( \frac{""&Q127&""}{""&R127&""} \) / ""&S127&"" = ?""","=""\( \frac{""&Q127/GCD(Q127;R127*S127)&""}{""&(R127*S127)/GCD(Q127;R127*S127)&""} \)""",,~#place-after-tech-cols#~=R127-RANDBETWEEN(1;R127-1),=RANDBETWEEN(2;10),=RANDBETWEEN(2;10),
+"=""\( \frac{""&Q128&""}{""&R128&""} \) / ""&S128&"" = ?""","=""\( \frac{""&Q128/GCD(Q128;R128*S128)&""}{""&(R128*S128)/GCD(Q128;R128*S128)&""} \)""",,~#place-after-tech-cols#~=R128-RANDBETWEEN(1;R128-1),=RANDBETWEEN(2;10),=R128* RANDBETWEEN(2;9),
 ,,,,,,
-"=""\( \frac{""&Q130&""}{""&R130&""} \) : \( \frac{""&S130&""}{""&T130&""} \) = ?""","=""\( \frac{""&(Q130*T130)/GCD(Q130*T130;R130*S130)&""}{""&(R130*S130)/GCD(Q130*T130;R130*S130)&""} \)""",,~#place-after-tech-cols#~=R130-RANDBETWEEN(1;R130-1),=RANDBETWEEN(2;8),=RANDBETWEEN(2;10),=RANDBETWEEN(2;8)
-"=""\( \frac{""&Q131&""}{""&R131&""} \) : \( \frac{""&S131&""}{""&T131&""} \) = ?""","=""\( \frac{""&(Q131*T131)/GCD(Q131*T131;R131*S131)&""}{""&(R131*S131)/GCD(Q131*T131;R131*S131)&""} \)""",,~#place-after-tech-cols#~=R131-RANDBETWEEN(1;R131-1),=RANDBETWEEN(2;8),=R131* RANDBETWEEN(2;9),=RANDBETWEEN(2;8)
-"=""\( \frac{""&Q132&""}{""&R132&""} \) : \( \frac{""&S132&""}{""&T132&""} \) = ?""","=""\( \frac{""&(Q132*T132)/GCD(Q132*T132;R132*S132)&""}{""&(R132*S132)/GCD(Q132*T132;R132*S132)&""} \)""",,~#place-after-tech-cols#~=R132-RANDBETWEEN(1;R132-1),=RANDBETWEEN(2;8),=R132* RANDBETWEEN(2;9),=RANDBETWEEN(2;8)
-"=""\( \frac{""&Q133&""}{""&R133&""} \) : \( \frac{""&S133&""}{""&T133&""} \) = ?""","=""\( \frac{""&(Q133*T133)/GCD(Q133*T133;R133*S133)&""}{""&(R133*S133)/GCD(Q133*T133;R133*S133)&""} \)""",,~#place-after-tech-cols#~=R133-RANDBETWEEN(1;R133-1),=RANDBETWEEN(2;8),=R133* RANDBETWEEN(2;9),=RANDBETWEEN(2;8)
-"=""\( \frac{""&Q134&""}{""&R134&""} \) : \( \frac{""&S134&""}{""&T134&""} \) = ?""","=""\( \frac{""&(Q134*T134)/GCD(Q134*T134;R134*S134)&""}{""&(R134*S134)/GCD(Q134*T134;R134*S134)&""} \)""",,~#place-after-tech-cols#~=R134-RANDBETWEEN(1;R134-1),=RANDBETWEEN(2;8),=R134* RANDBETWEEN(2;9),=RANDBETWEEN(2;8)
-"=""\( \frac{""&Q135&""}{""&R135&""} \) : \( \frac{""&S135&""}{""&T135&""} \) = ?""","=""\( \frac{""&(Q135*T135)/GCD(Q135*T135;R135*S135)&""}{""&(R135*S135)/GCD(Q135*T135;R135*S135)&""} \)""",,~#place-after-tech-cols#~=R135-RANDBETWEEN(1;R135-1),=RANDBETWEEN(2;8),=R135* RANDBETWEEN(2;9),=RANDBETWEEN(2;8)
-"=""\( \frac{""&Q136&""}{""&R136&""} \) : \( \frac{""&S136&""}{""&T136&""} \) = ?""","=""\( \frac{""&(Q136*T136)/GCD(Q136*T136;R136*S136)&""}{""&(R136*S136)/GCD(Q136*T136;R136*S136)&""} \)""",,~#place-after-tech-cols#~=R136-RANDBETWEEN(1;R136-1),=RANDBETWEEN(2;8),=R136* RANDBETWEEN(2;9),=RANDBETWEEN(2;8)
+"=""\( \frac{""&Q130&""}{""&R130&""} \) / \( \frac{""&S130&""}{""&T130&""} \) = ?""","=""\( \frac{""&(Q130*T130)/GCD(Q130*T130;R130*S130)&""}{""&(R130*S130)/GCD(Q130*T130;R130*S130)&""} \)""",,~#place-after-tech-cols#~=R130-RANDBETWEEN(1;R130-1),=RANDBETWEEN(2;8),=RANDBETWEEN(2;10),=RANDBETWEEN(2;8)
+"=""\( \frac{""&Q131&""}{""&R131&""} \) / \( \frac{""&S131&""}{""&T131&""} \) = ?""","=""\( \frac{""&(Q131*T131)/GCD(Q131*T131;R131*S131)&""}{""&(R131*S131)/GCD(Q131*T131;R131*S131)&""} \)""",,~#place-after-tech-cols#~=R131-RANDBETWEEN(1;R131-1),=RANDBETWEEN(2;8),=R131* RANDBETWEEN(2;9),=RANDBETWEEN(2;8)
+"=""\( \frac{""&Q132&""}{""&R132&""} \) / \( \frac{""&S132&""}{""&T132&""} \) = ?""","=""\( \frac{""&(Q132*T132)/GCD(Q132*T132;R132*S132)&""}{""&(R132*S132)/GCD(Q132*T132;R132*S132)&""} \)""",,~#place-after-tech-cols#~=R132-RANDBETWEEN(1;R132-1),=RANDBETWEEN(2;8),=R132* RANDBETWEEN(2;9),=RANDBETWEEN(2;8)
+"=""\( \frac{""&Q133&""}{""&R133&""} \) / \( \frac{""&S133&""}{""&T133&""} \) = ?""","=""\( \frac{""&(Q133*T133)/GCD(Q133*T133;R133*S133)&""}{""&(R133*S133)/GCD(Q133*T133;R133*S133)&""} \)""",,~#place-after-tech-cols#~=R133-RANDBETWEEN(1;R133-1),=RANDBETWEEN(2;8),=R133* RANDBETWEEN(2;9),=RANDBETWEEN(2;8)
+"=""\( \frac{""&Q134&""}{""&R134&""} \) / \( \frac{""&S134&""}{""&T134&""} \) = ?""","=""\( \frac{""&(Q134*T134)/GCD(Q134*T134;R134*S134)&""}{""&(R134*S134)/GCD(Q134*T134;R134*S134)&""} \)""",,~#place-after-tech-cols#~=R134-RANDBETWEEN(1;R134-1),=RANDBETWEEN(2;8),=R134* RANDBETWEEN(2;9),=RANDBETWEEN(2;8)
+"=""\( \frac{""&Q135&""}{""&R135&""} \) / \( \frac{""&S135&""}{""&T135&""} \) = ?""","=""\( \frac{""&(Q135*T135)/GCD(Q135*T135;R135*S135)&""}{""&(R135*S135)/GCD(Q135*T135;R135*S135)&""} \)""",,~#place-after-tech-cols#~=R135-RANDBETWEEN(1;R135-1),=RANDBETWEEN(2;8),=R135* RANDBETWEEN(2;9),=RANDBETWEEN(2;8)
+"=""\( \frac{""&Q136&""}{""&R136&""} \) / \( \frac{""&S136&""}{""&T136&""} \) = ?""","=""\( \frac{""&(Q136*T136)/GCD(Q136*T136;R136*S136)&""}{""&(R136*S136)/GCD(Q136*T136;R136*S136)&""} \)""",,~#place-after-tech-cols#~=R136-RANDBETWEEN(1;R136-1),=RANDBETWEEN(2;8),=R136* RANDBETWEEN(2;9),=RANDBETWEEN(2;8)
 ,,,,,,
 What is the result of \( \frac{3}{4} \) + (5 - 2<sup>2</sup>)?,1 \( \frac{3}{4} \),,,,,
-Calculate: 10 - (1 + 2)<sup>2</sup> ⋅ \( \frac{1}{3} \),7,,,,,
-What is the result of (2<sup>3</sup> + 7) ⋅ \( \frac{1}{5} \)?,3,,,,,
+Calculate: 10 - (1 + 2)<sup>2</sup> * \( \frac{1}{3} \),7,,,,,
+What is the result of (2<sup>3</sup> + 7) * \( \frac{1}{5} \)?,3,,,,,
 Calculate the value of the expression \( \frac{1}{2} \) + (8 - 2<sup>2</sup>),4 \( \frac{1}{2} \),,,,,
-Calculate the value of the expression (2<sup>3</sup> + 2) ⋅ \( \frac{1}{2} \) + 5,10,,,,,
-What is the result of 20 ⋅ \( \frac{1}{4} \) + (10 - 2<sup>2</sup>)?,11,,,,,
-Calculate: (5<sup>2</sup> - 1) : 3 ⋅ \( \frac{1}{2} \) + 6,10,,,,,
-What is the result of (20 : 5 + 1) ⋅ \( \frac{1}{5} \) + 3<sup>2</sup>?,10,,,,,
-Calculate the value of the expression 15 - (3 + 2<sup>3</sup>) : 2,9 \( \frac{1}{2} \),,,,,
+Calculate the value of the expression (2<sup>3</sup> + 2) * \( \frac{1}{2} \) + 5,10,,,,,
+What is the result of 20 * \( \frac{1}{4} \) + (10 - 2<sup>2</sup>)?,11,,,,,
+Calculate: (5<sup>2</sup> - 1) / 3 * \( \frac{1}{2} \) + 6,10,,,,,
+What is the result of (20 / 5 + 1) * \( \frac{1}{5} \) + 3<sup>2</sup>?,10,,,,,
+Calculate the value of the expression 15 - (3 + 2<sup>3</sup>) / 2,9 \( \frac{1}{2} \),,,,,
 ,,,,,,
 Word Problems,,,,,,
 "In a class of 30 students, \( \frac{2}{3} \) are girls. How many girls are in the class?",20,,,,,
@@ -211,18 +211,18 @@ There were 80 candies in a box. Children ate \( \frac{5}{8} \) of them. How many
 A shop sold 150 rolls. \( \frac{2}{5} \) were whole grain rolls. How many whole grain rolls were sold?,60,,,,,
 There are 72 people in a group. \( \frac{1}{6} \) are teachers. How many teachers are there?,12,,,,,
 "Peter drank \( \frac{2}{3} \) of a glass of juice, which is 200 ml. How many ml does the whole glass hold?",300 ml,"Since \( \frac{2}{3} \) is 200 ml, then \( \frac{1}{3} \) is 100 ml. 
-The whole glass is 3 parts: 3 ⋅ 100 = 300.",,,,
+The whole glass is 3 parts: 3 * 100 = 300.",,,,
 "Ann read \( \frac{1}{4} \) of a book, which is 30 pages. How many pages does the book have?",120 pages,"If \( \frac{1}{4} \) is 30 pages, then the whole is 4 parts.
-So 30 ⋅ 4 = 120 ",,,,
-"John rode \( \frac{3}{8} \) of a route by bike, which is 15 km. How many km is the entire route?",40 km,"\( \frac{3}{8} \) = 15 km, so \( \frac{1}{8}  \) = 15 : 3 = 5 . 
-The whole is 8 ⋅ 5 = 40.",,,,
-"Robert ate \( \frac{5}{6} \) of a pizza, which is 25 cm of diameter. What was the diameter of the whole pizza?",30 cm,"\( \frac{5}{6} \) = 25 cm, so \( \frac{1}{6} \) = 25 : 5 = 5. 
-The whole is 6 ⋅ 5 = 30.",,,,
-"Thomas spent \( \frac{3}{4} \) of his savings, which is $150. How much money did he have at the start?",200,"\( \frac{3}{4} \) = $150, so \( \frac{1}{4} \) = 150 : 3 = 50. 
-The whole is 4 ⋅ 50 = 200.",,,,
-"Alex traveled \( \frac{2}{5} \) of a route by bus, which is 18 km. How many km was the entire route?",45 km,"\( \frac{2}{5} \) = 18 km, so \( \frac{1}{5} \) = 18 : 2 = 9. 
-The whole is 5 ⋅ 9 = 45.",,,,
-"A bag of apples weighs \( \frac{7}{10} \) of the total weight, which is 14 kg. How many kg do all the apples weigh?",20 kg,"\( \frac{7}{10} \) = 14 kg, so \( \frac{1}{10} \) = 14 : 7 = 2.
-The whole is 10 ⋅ 2 = 20.",,,,
-"Adam finished \( \frac{4}{9} \) of his homework, which is 12 problems. How many problems are in the whole assignment?",27 problems,"\( \frac{4}{9} \) = 12, so \( \frac{1}{9} \) = 12 : 4 = 3.
-The whole is 9 ⋅ 3 = 27.",,,,
+So 30 * 4 = 120 ",,,,
+"John rode \( \frac{3}{8} \) of a route by bike, which is 15 km. How many km is the entire route?",40 km,"\( \frac{3}{8} \) = 15 km, so \( \frac{1}{8}  \) = 15 / 3 = 5 . 
+The whole is 8 * 5 = 40.",,,,
+"Robert ate \( \frac{5}{6} \) of a pizza, which is 25 cm of diameter. What was the diameter of the whole pizza?",30 cm,"\( \frac{5}{6} \) = 25 cm, so \( \frac{1}{6} \) = 25 / 5 = 5. 
+The whole is 6 * 5 = 30.",,,,
+"Thomas spent \( \frac{3}{4} \) of his savings, which is $150. How much money did he have at the start?",200,"\( \frac{3}{4} \) = $150, so \( \frac{1}{4} \) = 150 / 3 = 50. 
+The whole is 4 * 50 = 200.",,,,
+"Alex traveled \( \frac{2}{5} \) of a route by bus, which is 18 km. How many km was the entire route?",45 km,"\( \frac{2}{5} \) = 18 km, so \( \frac{1}{5} \) = 18 / 2 = 9. 
+The whole is 5 * 9 = 45.",,,,
+"A bag of apples weighs \( \frac{7}{10} \) of the total weight, which is 14 kg. How many kg do all the apples weigh?",20 kg,"\( \frac{7}{10} \) = 14 kg, so \( \frac{1}{10} \) = 14 / 7 = 2.
+The whole is 10 * 2 = 20.",,,,
+"Adam finished \( \frac{4}{9} \) of his homework, which is 12 problems. How many problems are in the whole assignment?",27 problems,"\( \frac{4}{9} \) = 12, so \( \frac{1}{9} \) = 12 / 4 = 3.
+The whole is 9 * 3 = 27.",,,,
