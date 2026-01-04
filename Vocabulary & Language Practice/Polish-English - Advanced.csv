@@ -8,28 +8,28 @@ chód,gait,"~#tts:nap:en-US{Her graceful gait made her seem almost ethereal.}#~
 
 ~#tts:nap:en-US{He gazed longingly at the setting sun.}#~",,,~#ttsA:en-US#~
 bruzda,furrow,~#tts:nap:en-US{The furrow on his brow indicated his deep concern.}#~,,,~#ttsA:en-US#~
-"spokój, cisza",hush,~#tts:nap:en-US{A hush fell over the crowd as the speaker began to speak.}#~,,,~#ttsA:en-US#~
-łapówka,hush-money,~#tts:nap:en-US{The politician was accused of accepting hush-money to keep quiet about the scandal.}#~,,,~#ttsA:en-US#~
 "daremny, bezcelowy, próżny, bezowocny",futile,"~#tts:nap:en-US{His efforts were futile.}#~
 ~#tts:nap:en-US{Their attempts to rescue the trapped animals were futile.}#~",,,~#ttsA:en-US#~
 "rosły, silny, krzepki",stalwart,~#tts:nap:en-US{The stalwart soldier stood his ground against the enemy.}#~,,,~#ttsA:en-US#~
 strażnik,sentinel,~#tts:nap:en-US{The sentinel stood guard at the entrance to the castle.}#~,,,~#ttsA:en-US#~
 deszcz ze śniegiem,sleet,~#tts:nap:en-US{The sleet made driving conditions treacherous.}#~,,,~#ttsA:en-US#~
 "występ, sterczeć",jut,~#tts:nap:en-US{The rocky cliffs jutted out into the sea.}#~,,,~#ttsA:en-US#~
-żebro,rib,~#tts:nap:en-US{He felt a sharp pain in his rib.}#~,,,~#ttsA:en-US#~
+rozeznać,to discern,~#tts:nap:en-US{He discerned the truth.}#~,,,~#ttsA:en-US#~
+nieporęczny,cumbersome,~#tts:nap:en-US{The bag was cumbersome.}#~,,,~#ttsA:en-US#~
 wrzos,heather,~#tts:nap:en-US{The heather-covered hills were a beautiful sight.}#~,,,~#ttsA:en-US#~
+"zwolennik, orędownik (formalnie)",proponent,"~#tts:nap:en-US{follower, advocate, supporter}#~
+~#tts:nap:en-US{adherent, backer, partisan}#~
+
+~#tts:nap:en-US{He was a proponent of renewable energy.}#~",,,~#ttsA:en-US#~
 oszustwo,deceit,"~#tts:nap:en-US{Her deceit was finally exposed.}#~
 ~#tts:nap:en-US{He was guilty of deceit.}#~",,,~#ttsA:en-US#~
 "lęk, męka, udręka, cierpienie",anguish,"~#tts:nap:en-US{The anguish of losing a loved one is unbearable.}#~
 
 ~#tts:nap:en-US{She was in anguish over the loss of her child.}#~",,,~#ttsA:en-US#~
-Czyściec,Purgatory,"~#tts:nap:en-US{In some religions, Purgatory is a place where souls are purified before entering heaven.}#~",,,~#ttsA:en-US#~
-nawałnica,tempest,"~#tts:nap:en-US{The tempest raged outside, shaking the house to its foundations.}#~",,,~#ttsA:en-US#~
 "dym, fetor, wyziew",reek,"~#tts:nap:en-US{smoke}#~
 
 ~#tts:nap:en-US{The room reeked of cigarette smoke.}#~",,,~#ttsA:en-US#~
 smród,stench,~#tts:nap:en-US{The stench of the garbage was unbearable.}#~,,,~#ttsA:en-US#~
-"osad, kał",faeces,~#tts:nap:en-US{The dog left a pile of faeces in the yard.}#~,,,~#ttsA:en-US#~
 "wyć, ryczeć",to howl,~#tts:nap:en-US{The wolf howled at the moon.}#~,,,~#ttsA:en-US#~
 "szlochać, łkać",to sob,"~#tts:nap:en-US{to weep, to bawl}#~
 
@@ -37,7 +37,6 @@ smród,stench,~#tts:nap:en-US{The stench of the garbage was unbearable.}#~,,,~#t
 
 ~#tts:nap:en-US{She sobbed uncontrollably after hearing the bad news.}#~",,,~#ttsA:en-US#~
 "jałowy, bezpłodny",barren,~#tts:nap:en-US{The desert was barren and desolate.}#~,,,~#ttsA:en-US#~
-"drżenie, dreszcz",shiver,~#tts:nap:en-US{She shivered in the cold wind.}#~,,,~#ttsA:en-US#~
 otępienie,stupor,"~#tts:nap:en-US{state of stupefaction, state of senselessness}#~ 
 ~#tts:nap:en-US{state of unconsciousness, inertness}#~
 ~#tts:nap:en-US{torpor, insensibility, numbness, blankness}#~
@@ -50,7 +49,6 @@ otępienie,stupor,"~#tts:nap:en-US{state of stupefaction, state of senselessness
 ~#tts:nap:en-US{She was an outcast from her family.}#~",,,~#ttsA:en-US#~
 obdarty,tattered,~#tts:nap:en-US{His clothes were tattered and torn.}#~,,,~#ttsA:en-US#~
 "udawany, pośmiewisko, wykpić",to mock,~#tts:nap:en-US{He mocked her accent.}#~,,,~#ttsA:en-US#~
-litość,pity,~#tts:nap:en-US{I felt pity for the homeless man.}#~,,,~#ttsA:en-US#~
 "jelito, wnętrzności
 
 odwaga, siła",gut,"~#tts:nap:en-US{He felt a knot in his gut.}#~
@@ -66,7 +64,6 @@ bezpodstawne twierdzenie,allegation,~#tts:nap:en-US{The allegation of theft was 
 ~#tts:nap:en-US{He gasped in surprise.}#~
 
 ~#tts:nap:en-US{She gasped in astonishment.}#~",,,~#ttsA:en-US#~
-"posłuszny, usłuchany",obey,~#tts:nap:en-US{He obeyed the orders of his commanding officer.}#~,,,~#ttsA:en-US#~
 "nie pozostawać w tyle, ramię przy ramieniu",abreast,~#tts:nap:en-US{They were keeping abreast of the latest news.}#~,,,~#ttsA:en-US#~
 "zupełny, absolutny, całkowity",utter,~#tts:nap:en-US{She uttered a single word.}#~,,,~#ttsA:en-US#~
 barka,barge,"~#tts:nap:en-US{The barge was loaded with cargo.}#~
@@ -602,6 +599,7 @@ pępek,belly button,~#tts:nap:en-US{He picked his belly button.}#~,,,~#ttsA:en-U
 twierdzący,affirmative,~#tts:nap:en-US{The answer was affirmative.}#~,,,~#ttsA:en-US#~
 spóźniony,belated,~#tts:nap:en-US{The birthday card was belated.}#~,,,~#ttsA:en-US#~
 heban,ebony,~#tts:nap:en-US{She had ebony skin.}#~,,,~#ttsA:en-US#~
+"kał, fekalia, odchody",faeces,~#tts:nap:en-US{The dog left a pile of faeces in the yard.}#~,,,~#ttsA:en-US#~
 "wybaczyć, darować",to condone,~#tts:nap:en-US{I don't condone his behavior.}#~,,,~#ttsA:en-US#~
 skurcz,cramp,~#tts:nap:en-US{I have a cramp in my leg.}#~,,,~#ttsA:en-US#~
 skurcz mięśnia,contraction,~#tts:nap:en-US{She had a contraction every five minutes.}#~,,,~#ttsA:en-US#~
@@ -833,6 +831,7 @@ klasztor,monastery,~#tts:nap:en-US{The monastery was home to a group of monks.}#
 ~#tts:nap:en-US{The judge deemed the defendant guilty of the crime.}#~",,,~#ttsA:en-US#~
 "strzęp, urywek",snippet,~#tts:nap:en-US{I read a snippet of the article.}#~,,,~#ttsA:en-US#~
 "skradać się, grasować",to prowl,~#tts:nap:en-US{The tiger prowled through the jungle.}#~,,,~#ttsA:en-US#~
+"posłuszny, usłuchany",obey,~#tts:nap:en-US{He obeyed the orders of his commanding officer.}#~,,,~#ttsA:en-US#~
 "brutalny, wulgarny, ordynarny, surowy",crude,~#tts:nap:en-US{His language was crude.}#~,,,~#ttsA:en-US#~
 kusy,skimpy,~#tts:nap:en-US{Her skirt was skimpy.}#~,,,~#ttsA:en-US#~
 "szał, szaleństwo, gwałtowna emocja lub działanie",frenzy,"~#tts:nap:en-US{fury, tantrum}#~
@@ -1066,6 +1065,8 @@ miotła,"broomstick, broom","~#tts:nap:en-US{She swept the floor with a broom.}#
 ~#tts:nap:en-US{The witch flew on a broomstick.}#~",,,~#ttsA:en-US#~
 zniedołężniały,senile,~#tts:nap:en-US{He was becoming senile.}#~,,,~#ttsA:en-US#~
 ubikacja,lavatory,~#tts:nap:en-US{The lavatory was dirty.}#~,,,~#ttsA:en-US#~
+"spokój, cisza",hush,~#tts:nap:en-US{A hush fell over the crowd as the speaker began to speak.}#~,,,~#ttsA:en-US#~
+łapówka,hush-money,~#tts:nap:en-US{The politician was accused of accepting hush-money to keep quiet about the scandal.}#~,,,~#ttsA:en-US#~
 "wystawiać, wystawa, eksponat, dowód rzeczowy, dowód",exhibit,~#tts:nap:en-US{The exhibit was very interesting.}#~,,,~#ttsA:en-US#~
 "fiasko, całkowita klęska",debacle,~#tts:nap:en-US{The whole thing was a debacle.}#~,,,~#ttsA:en-US#~
 "zaćma starcza [med], katarakta",senile cataract,~#tts:nap:en-US{He had senile cataracts.}#~,,,~#ttsA:en-US#~
@@ -1459,6 +1460,8 @@ to swoon",~#tts:nap:en-US{She swooned at the sight of the handsome man.}#~,,,~#t
 ~#tts:nap:en-US{She was a fussy eater.}#~
 ~#tts:nap:en-US{She was a fussy person.}#~",,,~#ttsA:en-US#~
 "dzieciuch, dziecko, berbeć, brzdąc",brat,~#tts:nap:en-US{He was a spoiled brat.}#~,,,~#ttsA:en-US#~
+Czyściec,Purgatory,"~#tts:nap:en-US{In some religions, Purgatory is a place where souls are purified before entering heaven.}#~",,,~#ttsA:en-US#~
+nawałnica,tempest,"~#tts:nap:en-US{The tempest raged outside, shaking the house to its foundations.}#~",,,~#ttsA:en-US#~
 "zemsta, odwet (formalnie, mocno emocjonalnie)",vengeance,~#tts:nap:en-US{She sought vengeance for the death of her husband.}#~,,,~#ttsA:en-US#~
 molo,jetty,"~#tts:nap:en-US{pier}#~
 
@@ -3166,10 +3169,7 @@ kłódka,padlock,~#tts:nap:en-US{He locked the door with a padlock.}#~,,,~#ttsA:
 
 ~#tts:nap:en-US{She competed in the beauty pageant.}#~",,,~#ttsA:en-US#~
 hałaśliwy i złośliwy duch,poltergeist,~#tts:nap:en-US{Some people believe that poltergeists are responsible for unexplained noises and movements.}#~,,,~#ttsA:en-US#~
-"zwolennik, orędownik (formalnie)",proponent,"~#tts:nap:en-US{follower, advocate, supporter}#~
-~#tts:nap:en-US{adherent, backer, partisan}#~
-
-~#tts:nap:en-US{He was a proponent of renewable energy.}#~",,,~#ttsA:en-US#~
+żebro,rib,~#tts:nap:en-US{He felt a sharp pain in his rib.}#~,,,~#ttsA:en-US#~
 wieśniak,redneck (slang),~#tts:nap:en-US{He was a redneck from the country.}#~,,,~#ttsA:en-US#~
 wrzask,shriek,"~#tts:nap:en-US{scream/yell}#~
 
@@ -3369,6 +3369,7 @@ rozgniewać się",to resent,"~#tts:nap:en-US{to grudge, to begrudge, to take off
 ~#tts:nap:en-US{The tide began to recede.}#~",,,~#ttsA:en-US#~
 przypiekać,to scorch,~#tts:nap:en-US{The sun scorched the ground.}#~,,,~#ttsA:en-US#~
 języczek,uvula,~#tts:nap:en-US{The uvula hangs down at the back of the throat.}#~,,,~#ttsA:en-US#~
+"drżenie, dreszcz",shiver,~#tts:nap:en-US{She shivered in the cold wind.}#~,,,~#ttsA:en-US#~
 lękliwy,apprehensive,~#tts:nap:en-US{She was apprehensive about the future.}#~,,,~#ttsA:en-US#~
 obojętny,indifferent,"~#tts:nap:en-US{unconcerned, apathetic}#~
 
@@ -3495,7 +3496,7 @@ dziedziczyć,to inherit,~#tts:nap:en-US{He inherited a fortune.}#~,,,~#ttsA:en-U
 
 ~#tts:nap:en-US{He was a robust man.}#~",,,~#ttsA:en-US#~
 "zwykły, po prostu",sheer,~#tts:nap:en-US{The view was sheer beauty.}#~,,,~#ttsA:en-US#~
-rozeznać,to discern,~#tts:nap:en-US{He discerned the truth.}#~,,,~#ttsA:en-US#~
+litość,pity,~#tts:nap:en-US{I felt pity for the homeless man.}#~,,,~#ttsA:en-US#~
 zapisy,enrollment,~#tts:nap:en-US{She was enrolled in a college.}#~,,,~#ttsA:en-US#~
 "wypychane
 
@@ -3555,7 +3556,6 @@ ugasić,to quench,"~#tts:nap:en-US{put out, to slake, to suppress}#~
 ~#tts:nap:en-US{to extinguish}#~
 
 ~#tts:nap:en-US{He tried to quench his thirst.}#~",,,~#ttsA:en-US#~
-nieporęczny,cumbersome,~#tts:nap:en-US{The bag was cumbersome.}#~,,,~#ttsA:en-US#~
 drugi oficer,second mate,~#tts:nap:en-US{The second mate was in charge.}#~,,,~#ttsA:en-US#~
 student,undergraduate,~#tts:nap:en-US{He was an undergraduate student.}#~,,,~#ttsA:en-US#~
 alabaster,alabaster,~#tts:nap:en-US{Her skin was alabaster.}#~,,,~#ttsA:en-US#~
