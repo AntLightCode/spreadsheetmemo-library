@@ -1,0 +1,228 @@
+#SHEETINFO | name=Common Fractions,,,,,,
+What does the numerator represent?,The number of parts we take.,,,,,
+What does the denominator represent?,The number of all equal parts the whole is divided into.,,,,,
+What is a fraction called where the numerator is smaller than the denominator?,Proper fraction.,,,,,
+What is a fraction called where the numerator is greater than or equal to the denominator?,Improper fraction.,,,,,
+What is an irreducible fraction?,"A fraction whose top and bottom numbers cannot be divided by the same number (other than 1) to simplify it. It is already in its ""simplest"" form.
+
+Example:
+\( \frac{1}{2} \) (cannot be simplified)
+\( \frac{3}{5} \) (cannot be simplified)
+Not irreducible:
+
+\( \frac{2}{4} \) (numerator and denominator can be divided by 2 to get \( \frac{1}{2} \) )
+\( \frac{6}{9} \) (numerator and denominator can be divided by 3 to get \( \frac{2}{3} \) )",,,,,
+,,,,,,
+What part of the figure is one shaded part out of three equal parts?,\( \frac{1}{3} \) ,,,,,
+What part of an hour is 15 minutes?,\( \frac{1}{4} \) ,,,,,
+Give an example of a proper fraction with a denominator of 5.,"For example: \( \frac{1}{5} \) , \( \frac{2}{5} \) , \( \frac{3}{5} \) , \( \frac{4}{5} \) ",,,,,
+Give an example of an improper fraction with a numerator of 8.,"For example: \( \frac{8}{8} \) , \( \frac{8}{7} \) , \( \frac{8}{5} \) ",,,,,
+,,,,,,
+"=""Convert the improper fraction \( \frac{""&R15&""}{""&Q15&""} \) to a mixed number.""","=""\( ""&S15&"" \frac{""&T15&""}{""&Q15&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q15;49)+1,=ROUNDDOWN(R15/Q15),=MOD(R15;Q15)
+"=""Convert the improper fraction \( \frac{""&R16&""}{""&Q16&""} \) to a mixed number.""","=""\( ""&S16&"" \frac{""&T16&""}{""&Q16&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q16;49)+1,=ROUNDDOWN(R16/Q16),=MOD(R16;Q16)
+"=""Convert the improper fraction \( \frac{""&R17&""}{""&Q17&""} \) to a mixed number.""","=""\( ""&S17&"" \frac{""&T17&""}{""&Q17&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q17;49)+1,=ROUNDDOWN(R17/Q17),=MOD(R17;Q17)
+"=""Convert the improper fraction \( \frac{""&R18&""}{""&Q18&""} \) to a mixed number.""","=""\( ""&S18&"" \frac{""&T18&""}{""&Q18&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q18;49)+1,=ROUNDDOWN(R18/Q18),=MOD(R18;Q18)
+"=""Convert the improper fraction \( \frac{""&R19&""}{""&Q19&""} \) to a mixed number.""","=""\( ""&S19&"" \frac{""&T19&""}{""&Q19&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q19;49)+1,=ROUNDDOWN(R19/Q19),=MOD(R19;Q19)
+"=""Convert the improper fraction \( \frac{""&R20&""}{""&Q20&""} \) to a mixed number.""","=""\( ""&S20&"" \frac{""&T20&""}{""&Q20&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q20;49)+1,=ROUNDDOWN(R20/Q20),=MOD(R20;Q20)
+,,,,,,
+"=""Convert the mixed number \( ""&S22&"" \frac{""&T22&""}{""&Q22&""} \) to an improper fraction.""","=""\( \frac{""&R22&""}{""&Q22&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q22;49)+1,=ROUNDDOWN(R22/Q22),=MOD(R22;Q22)
+"=""Convert the mixed number \( ""&S23&"" \frac{""&T23&""}{""&Q23&""} \) to an improper fraction.""","=""\( \frac{""&R23&""}{""&Q23&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q23;49)+1,=ROUNDDOWN(R23/Q23),=MOD(R23;Q23)
+"=""Convert the mixed number \( ""&S24&"" \frac{""&T24&""}{""&Q24&""} \) to an improper fraction.""","=""\( \frac{""&R24&""}{""&Q24&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q24;49)+1,=ROUNDDOWN(R24/Q24),=MOD(R24;Q24)
+"=""Convert the mixed number \( ""&S25&"" \frac{""&T25&""}{""&Q25&""} \) to an improper fraction.""","=""\( \frac{""&R25&""}{""&Q25&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q25;49)+1,=ROUNDDOWN(R25/Q25),=MOD(R25;Q25)
+"=""Convert the mixed number \( ""&S26&"" \frac{""&T26&""}{""&Q26&""} \) to an improper fraction.""","=""\( \frac{""&R26&""}{""&Q26&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q26;49)+1,=ROUNDDOWN(R26/Q26),=MOD(R26;Q26)
+"=""Convert the mixed number \( ""&S27&"" \frac{""&T27&""}{""&Q27&""} \) to an improper fraction.""","=""\( \frac{""&R27&""}{""&Q27&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q27;49)+1,=ROUNDDOWN(R27/Q27),=MOD(R27;Q27)
+"=""Convert the mixed number \( ""&S28&"" \frac{""&T28&""}{""&Q28&""} \) to an improper fraction.""","=""\( \frac{""&R28&""}{""&Q28&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q28;49)+1,=ROUNDDOWN(R28/Q28),=MOD(R28;Q28)
+"=""Convert the mixed number \( ""&S29&"" \frac{""&T29&""}{""&Q29&""} \) to an improper fraction.""","=""\( \frac{""&R29&""}{""&Q29&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;9),=RANDBETWEEN(Q29;49)+1,=ROUNDDOWN(R29/Q29),=MOD(R29;Q29)
+,,,,,,
+Convert the improper fraction \( \frac{7}{3} \) to a mixed number.,\( 2 \frac{1}{3} \) ,,,,,
+Convert the mixed number \( 3 \frac{1}{2} \) to an improper fraction.,\( \frac{7}{2} \) ,,,,,
+,,,,,,
+Simplify the fraction \( \frac{4}{6} \) .,\( \frac{2}{3} \) ,,,,,
+Simplify the fraction \( \frac{9}{12} \) .,\( \frac{3}{4} \) ,,,,,
+Expand the fraction \( \frac{1}{3} \) by 2.,\( \frac{2}{6} \) ,,,,,
+Expand the fraction \( \frac{3}{4} \) by 3.,\( \frac{9}{12} \) ,,,,,
+Are the fractions \( \frac{2}{5} \) and \( \frac{4}{10} \) equal?,Yes.,,,,,
+Are the fractions \( \frac{1}{2} \) and \( \frac{3}{5} \) equal?,No.,,,,,
+Which fraction is larger: \( \frac{2}{7} \) or \( \frac{5}{7} \) ?,\( \frac{5}{7} \) ,,,,,
+Which fraction is larger: \( \frac{12}{17} \) or \( \frac{12}{16} \) ?,\( \frac{12}{16} \) ,,,,,
+Which fraction is larger: \( \frac{3}{5} \) or \( \frac{3}{6} \) ?,\( \frac{3}{5} \) ,,,,,
+Which fraction is larger: \( \frac{1}{4} \) or \( \frac{1}{3} \) ?,\( \frac{1}{3} \) ,,,,,
+Is the fraction \( \frac{3}{9} \) reducible?,Yes.,,,,,
+Is the fraction \( \frac{7}{11} \) reducible?,No.,,,,,
+Is the fraction \( \frac{12}{18} \) reducible?,Yes.,,,,,
+Is the fraction \( \frac{5}{13} \) reducible?,No.,,,,,
+Calculate: \( \frac{1}{5} \) + \( \frac{2}{5} \) + \( \frac{1}{5} \) = ?,\( \frac{4}{5} \),,,,,
+Calculate: \( \frac{7}{8} \) - \( \frac{3}{8} \) = ?, \( \frac{4}{8} \) (or simplified \( \frac{1}{2} \) ),,,,,
+Calculate: \( \frac{2}{6} \) + \( \frac{4}{6} \) - \( \frac{1}{6} \) = ?,\( \frac{5}{6} \),,,,,
+Calculate: \( \frac{9}{10} \) - \( \frac{2}{10} \) - \( \frac{3}{10} \) = ?,\( \frac{4}{10} \) (or simplified \( \frac{2}{5} \) ),,,,,
+,,,,,,
+Convert to an improper fraction: \( 2 \frac{1}{3} \),\( \frac{7}{3} \),,,,,
+Convert to an improper fraction: \( 5 \frac{2}{5} \),\( \frac{27}{5} \),,,,,
+Convert to an improper fraction: \( 1 \frac{7}{8} \),\( \frac{15}{8} \),,,,,
+,,,,,,
+Convert to a mixed number: \( \frac{11}{4} \),\( 2 \frac{3}{4} \),,,,,
+Convert to a mixed number: \( \frac{19}{6} \),\( 3 \frac{1}{6} \),,,,,
+,,,,,,
+Calculate: \( 1 \frac{1}{2} \) + \( 1 \frac{1}{3} \),\( 2 \frac{5}{6} \),,,,,
+Calculate: \( 2 \frac{1}{4} \) + \( 1 \frac{2}{5} \),\( 3 \frac{13}{20} \),,,,,
+Calculate: \( 4 \frac{1}{3} \) + \( 1 \frac{1}{6} \),\( 5 \frac{3}{6} \) or \( 5 \frac{1}{2} \),,,,,
+Calculate: \( 3 \frac{2}{7} \) + \( 2 \frac{1}{7} \),\( 5 \frac{3}{7} \),,,,,
+Calculate: \( 2 \frac{3}{4} \) + \( 1 \frac{2}{4} \) + \( 1 \frac{1}{4} \),\( 5 \frac{2}{4} \) or \( 5 \frac{1}{2} \),,,,,
+Calculate: \( 3 \frac{2}{5} \) + \( 2 \frac{1}{5} \) - \( 1 \frac{1}{5} \),\( 4 \frac{2}{5} \) or \( \frac{22}{5} \),,,,,
+Calculate: \( 4 \frac{5}{8} \) - \( 1 \frac{1}{8} \) + \( 2 \frac{3}{8} \),\( 5 \frac{7}{8} \) or \( \frac{47}{8} \),,,,,
+Calculate: \( 5 \frac{2}{3} \) - \( 2 \frac{1}{3} \) - \( 1 \frac{1}{3} \),\( 2 \frac{0}{3} \) or \( 2 or \frac{6}{3} \),,,,,
+,,,,,,
+What number must be added to \( 6 \frac{5}{8} \) to get 8?,\( 1 \frac{3}{8} \),,,,,
+What number must be added to \( 5 \frac{3}{7} \) to get 12,\( 6 \frac{4}{7} \),,,,,
+"Expand one or both fractions so that they have a common denominator.
+\( \frac{2}{3} \) and \( \frac{5}{6} \)",\( \frac{4}{6} \) and \( \frac{5}{6} \),,,,,
+"Expand one or both fractions so that they have a common denominator.
+\( \frac{3}{8} \) and \( \frac{5}{6} \)",\( \frac{9}{24} \) and \( \frac{20}{24} \),,,,,
+"Expand one or both fractions so that they have a common denominator.
+\( \frac{1}{7} \) and \( \frac{3}{5} \)",\( \frac{5}{35} \) and \( \frac{21}{35} \),,,,,
+"Expand one or both fractions so that they have a common denominator.
+\( \frac{2}{3} \) and \( \frac{7}{10} \)",\( \frac{20}{30} \) and \( \frac{21}{30} \),,,,,
+,,,,,,
+"=""Write the quotient as a common fraction:
+1 : ""&Q76&""""","=""\( \frac{1}{""&Q76&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;10),,,
+"=""Write the quotient as a common fraction:
+1 : ""&Q77&""""","=""\( \frac{1}{""&Q77&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(2;10),,,
+"=""Write the common fraction as a quotient:
+\( \frac{""&Q78&""}{""&R78&""} \)""","=""""&Q78&"" : ""&R78&""""",,~#place-after-tech-cols#~=RANDBETWEEN(2;8),=RANDBETWEEN(9;20),,
+"=""Write the common fraction as a quotient:
+\( \frac{""&Q79&""}{""&R79&""} \)""","=""""&Q79&"" : ""&R79&""""",,~#place-after-tech-cols#~=RANDBETWEEN(2;8),=RANDBETWEEN(9;20),,
+,,,,,,
+"=""Expand one or both fractions so that they have a common denominator.
+\( \frac{""&Q81&""}{""&R81&""} \) and \( \frac{""&S81&""}{""&T81&""} \)""","=""\( \frac{""&LCM(R81; T81)/R81*Q81&""}{""&LCM(R81; T81)&""} \) and \( \frac{""&LCM(R81; T81)/T81*S81&""}{""&LCM(R81; T81)&""} \)""",,~#place-after-tech-cols#~=R81-RANDBETWEEN(1;R81-1),=RANDBETWEEN(2;10),=T81-RANDBETWEEN(1;T81-1),=RANDBETWEEN(2;10)
+"=""Expand one or both fractions so that they have a common denominator.
+\( \frac{""&Q82&""}{""&R82&""} \) and \( \frac{""&S82&""}{""&T82&""} \)""","=""\( \frac{""&LCM(R82; T82)/R82*Q82&""}{""&LCM(R82; T82)&""} \) and \( \frac{""&LCM(R82; T82)/T82*S82&""}{""&LCM(R82; T82)&""} \)""",,~#place-after-tech-cols#~=R82-RANDBETWEEN(1;R82-1),=RANDBETWEEN(2;10),=T82-RANDBETWEEN(1;T82-1),=RANDBETWEEN(2;10)
+"=""Expand one or both fractions so that they have a common denominator.
+\( \frac{""&Q83&""}{""&R83&""} \) and \( \frac{""&S83&""}{""&T83&""} \)""","=""\( \frac{""&LCM(R83; T83)/R83*Q83&""}{""&LCM(R83; T83)&""} \) and \( \frac{""&LCM(R83; T83)/T83*S83&""}{""&LCM(R83; T83)&""} \)""",,~#place-after-tech-cols#~=R83-RANDBETWEEN(1;R83-1),=RANDBETWEEN(2;10),=T83-RANDBETWEEN(1;T83-1),=RANDBETWEEN(2;10)
+"=""Expand one or both fractions so that they have a common denominator.
+\( \frac{""&Q84&""}{""&R84&""} \) and \( \frac{""&S84&""}{""&T84&""} \)""","=""\( \frac{""&LCM(R84; T84)/R84*Q84&""}{""&LCM(R84; T84)&""} \) and \( \frac{""&LCM(R84; T84)/T84*S84&""}{""&LCM(R84; T84)&""} \)""",,~#place-after-tech-cols#~=R84-RANDBETWEEN(1;R84-1),=RANDBETWEEN(2;10),=T84-RANDBETWEEN(1;T84-1),=RANDBETWEEN(2;10)
+"=""Expand one or both fractions so that they have a common denominator.
+\( \frac{""&Q85&""}{""&R85&""} \) and \( \frac{""&S85&""}{""&T85&""} \)""","=""\( \frac{""&LCM(R85; T85)/R85*Q85&""}{""&LCM(R85; T85)&""} \) and \( \frac{""&LCM(R85; T85)/T85*S85&""}{""&LCM(R85; T85)&""} \)""",,~#place-after-tech-cols#~=R85-RANDBETWEEN(1;R85-1),=RANDBETWEEN(2;10),=T85-RANDBETWEEN(1;T85-1),=RANDBETWEEN(2;10)
+"=""Expand one or both fractions so that they have a common denominator.
+\( \frac{""&Q86&""}{""&R86&""} \) and \( \frac{""&S86&""}{""&T86&""} \)""","=""\( \frac{""&LCM(R86; T86)/R86*Q86&""}{""&LCM(R86; T86)&""} \) and \( \frac{""&LCM(R86; T86)/T86*S86&""}{""&LCM(R86; T86)&""} \)""",,~#place-after-tech-cols#~=R86-RANDBETWEEN(1;R86-1),=RANDBETWEEN(2;10),=T86-RANDBETWEEN(1;T86-1),=RANDBETWEEN(2;10)
+"=""Expand one or both fractions so that they have a common denominator.
+\( \frac{""&Q87&""}{""&R87&""} \) and \( \frac{""&S87&""}{""&T87&""} \)""","=""\( \frac{""&LCM(R87; T87)/R87*Q87&""}{""&LCM(R87; T87)&""} \) and \( \frac{""&LCM(R87; T87)/T87*S87&""}{""&LCM(R87; T87)&""} \)""",,~#place-after-tech-cols#~=R87-RANDBETWEEN(1;R87-1),=RANDBETWEEN(2;10),=T87-RANDBETWEEN(1;T87-1),=RANDBETWEEN(2;10)
+"=""Expand one or both fractions so that they have a common denominator.
+\( \frac{""&Q88&""}{""&R88&""} \) and \( \frac{""&S88&""}{""&T88&""} \)""","=""\( \frac{""&LCM(R88; T88)/R88*Q88&""}{""&LCM(R88; T88)&""} \) and \( \frac{""&LCM(R88; T88)/T88*S88&""}{""&LCM(R88; T88)&""} \)""",,~#place-after-tech-cols#~=R88-RANDBETWEEN(1;R88-1),=RANDBETWEEN(2;10),=T88-RANDBETWEEN(1;T88-1),=RANDBETWEEN(2;10)
+"=""Expand one or both fractions so that they have a common denominator.
+\( \frac{""&Q89&""}{""&R89&""} \) and \( \frac{""&S89&""}{""&T89&""} \)""","=""\( \frac{""&LCM(R89; T89)/R89*Q89&""}{""&LCM(R89; T89)&""} \) and \( \frac{""&LCM(R89; T89)/T89*S89&""}{""&LCM(R89; T89)&""} \)""",,~#place-after-tech-cols#~=R89-RANDBETWEEN(1;R89-1),=RANDBETWEEN(2;10),=T89-RANDBETWEEN(1;T89-1),=RANDBETWEEN(2;10)
+,,,,,,
+Calculate: \( 1 \frac{1}{3} \) + \( 1 \frac{1}{3} \),\( 2 \frac{2}{3} \),,,,,
+What number must be added to \( 6 \frac{5}{8} \) to get 8?,\( 1 \frac{3}{8} \),,,,,
+"=""What is the result of the operation
+\( \frac{""&Q93&""}{""&R93&""} \) + \( \frac{""&S93&""}{""&T93&""} \)""","=""\( \frac{"" & (Q93*T93+S93*R93)/GCD(Q93*T93+S93*R93;R93*T93) & ""}{"" & (R93*T93)/GCD(Q93*T93+S93*R93;R93*T93) & ""} \)""",,~#place-after-tech-cols#~=R93-RANDBETWEEN(1;R93-1),=RANDBETWEEN(2;10),=T93-RANDBETWEEN(1;T93-1),=RANDBETWEEN(2;10)
+"=""What is the result of the operation
+\( \frac{""&Q94&""}{""&R94&""} \) + \( \frac{""&S94&""}{""&T94&""} \)""","=""\( \frac{"" & (Q94*T94+S94*R94)/GCD(Q94*T94+S94*R94;R94*T94) & ""}{"" & (R94*T94)/GCD(Q94*T94+S94*R94;R94*T94) & ""} \)""",,~#place-after-tech-cols#~=R94-RANDBETWEEN(1;R94-1),=RANDBETWEEN(2;10),=T94-RANDBETWEEN(1;T94-1),=RANDBETWEEN(2;10)
+"=""What is the result of the operation
+\( \frac{""&Q95&""}{""&R95&""} \) + \( \frac{""&S95&""}{""&T95&""} \)""","=""\( \frac{"" & (Q95*T95+S95*R95)/GCD(Q95*T95+S95*R95;R95*T95) & ""}{"" & (R95*T95)/GCD(Q95*T95+S95*R95;R95*T95) & ""} \)""",,~#place-after-tech-cols#~=R95-RANDBETWEEN(1;R95-1),=RANDBETWEEN(2;10),=T95-RANDBETWEEN(1;T95-1),=RANDBETWEEN(2;10)
+"=""What is the result of the operation
+\( \frac{""&Q96&""}{""&R96&""} \) + \( \frac{""&S96&""}{""&T96&""} \)""","=""\( \frac{"" & (Q96*T96+S96*R96)/GCD(Q96*T96+S96*R96;R96*T96) & ""}{"" & (R96*T96)/GCD(Q96*T96+S96*R96;R96*T96) & ""} \)""",,~#place-after-tech-cols#~=R96-RANDBETWEEN(1;R96-1),=RANDBETWEEN(2;10),=T96-RANDBETWEEN(1;T96-1),=RANDBETWEEN(2;10)
+,,,,,,
+"=""\( \frac{""&Q98&""}{""&R98&""} \) ⋅ ""&S98&"" = ?""","=""\( \frac{""&(Q98*S98)/GCD(Q98*S98;R98*1)&""}{""&(R98*1)/GCD(Q98*S98;R98*1)&""} \)""",,~#place-after-tech-cols#~=R98-RANDBETWEEN(1;R98-1),=RANDBETWEEN(2;10),=R98* RANDBETWEEN(2;15),
+"=""\( \frac{""&Q99&""}{""&R99&""} \) ⋅ ""&S99&"" = ?""","=""\( \frac{""&(Q99*S99)/GCD(Q99*S99;R99*1)&""}{""&(R99*1)/GCD(Q99*S99;R99*1)&""} \)""",,~#place-after-tech-cols#~=R99-RANDBETWEEN(1;R99-1),=RANDBETWEEN(2;10),=R99* RANDBETWEEN(2;15),
+"=""\( \frac{""&Q100&""}{""&R100&""} \) ⋅ ""&S100&"" = ?""","=""\( \frac{""&(Q100*S100)/GCD(Q100*S100;R100*1)&""}{""&(R100*1)/GCD(Q100*S100;R100*1)&""} \)""",,~#place-after-tech-cols#~=R100-RANDBETWEEN(1;R100-1),=RANDBETWEEN(2;10),=R100* RANDBETWEEN(2;15),
+"=""\( \frac{""&Q101&""}{""&R101&""} \) ⋅ ""&S101&"" = ?""","=""\( \frac{""&(Q101*S101)/GCD(Q101*S101;R101*1)&""}{""&(R101*1)/GCD(Q101*S101;R101*1)&""} \)""",,~#place-after-tech-cols#~=R101-RANDBETWEEN(1;R101-1),=RANDBETWEEN(2;10),=R101* RANDBETWEEN(2;15),
+"=""\( \frac{""&Q102&""}{""&R102&""} \) ⋅ ""&S102&"" = ?""","=""\( \frac{""&(Q102*S102)/GCD(Q102*S102;R102*1)&""}{""&(R102*1)/GCD(Q102*S102;R102*1)&""} \)""",,~#place-after-tech-cols#~=R102-RANDBETWEEN(1;R102-1),=RANDBETWEEN(2;10),=R102* RANDBETWEEN(2;15),
+,,,,,,
+What is \( \frac{1}{2} \) of 10?,5,,,,,
+What is \( \frac{1}{4} \) of 20?,5,,,,,
+"=""What is \( \frac{""&S106&""}{""&Q106&""} \) of ""&R106&""?""",=S106/Q106*R106,,~#place-after-tech-cols#~=RANDBETWEEN(2;10),= Q106*RANDBETWEEN(1;10),=Q106-RANDBETWEEN(1;Q106-1),
+"=""What is \( \frac{""&S107&""}{""&Q107&""} \) of ""&R107&""?""",=S107/Q107*R107,,~#place-after-tech-cols#~=RANDBETWEEN(2;10),= Q107*RANDBETWEEN(1;10),=Q107-RANDBETWEEN(1;Q107-1),
+"=""What is \( \frac{""&S108&""}{""&Q108&""} \) of ""&R108&""?""",=S108/Q108*R108,,~#place-after-tech-cols#~=RANDBETWEEN(2;10),= Q108*RANDBETWEEN(1;10),=Q108-RANDBETWEEN(1;Q108-1),
+"=""What is \( \frac{""&S109&""}{""&Q109&""} \) of ""&R109&""?""",=S109/Q109*R109,,~#place-after-tech-cols#~=RANDBETWEEN(2;10),= Q109*RANDBETWEEN(1;10),=Q109-RANDBETWEEN(1;Q109-1),
+"=""What is \( \frac{""&S110&""}{""&Q110&""} \) of ""&R110&""?""",=S110/Q110*R110,,~#place-after-tech-cols#~=RANDBETWEEN(2;10),= Q110*RANDBETWEEN(1;10),=Q110-RANDBETWEEN(1;Q110-1),
+"=""What is \( \frac{""&S111&""}{""&Q111&""} \) of ""&R111&""?""",=S111/Q111*R111,,~#place-after-tech-cols#~=RANDBETWEEN(2;10),= Q111*RANDBETWEEN(1;10),=Q111-RANDBETWEEN(1;Q111-1),
+"=""What is \( \frac{""&S112&""}{""&Q112&""} \) of ""&R112&""?""",=S112/Q112*R112,,~#place-after-tech-cols#~=RANDBETWEEN(2;10),= Q112*RANDBETWEEN(1;10),=Q112-RANDBETWEEN(1;Q112-1),
+,,,,,,
+"=""\( \frac{""&Q114&""}{""&R114&""} \) ⋅ \( \frac{""&S114&""}{""&T114&""} \) = ?""","=""\( \frac{""&(Q114*S114)/GCD(Q114*S114;R114*T114)&""}{""&(R114*T114)/GCD(Q114*S114;R114*T114)&""} \)""",,~#place-after-tech-cols#~=R114-RANDBETWEEN(1;R114-1),=RANDBETWEEN(2;10),=R114* RANDBETWEEN(2;9),=RANDBETWEEN(2;10)
+"=""\( \frac{""&Q115&""}{""&R115&""} \) ⋅ \( \frac{""&S115&""}{""&T115&""} \) = ?""","=""\( \frac{""&(Q115*S115)/GCD(Q115*S115;R115*T115)&""}{""&(R115*T115)/GCD(Q115*S115;R115*T115)&""} \)""",,~#place-after-tech-cols#~=R115-RANDBETWEEN(1;R115-1),=RANDBETWEEN(2;10),=R115* RANDBETWEEN(2;9),=RANDBETWEEN(2;10)
+"=""\( \frac{""&Q116&""}{""&R116&""} \) ⋅ \( \frac{""&S116&""}{""&T116&""} \) = ?""","=""\( \frac{""&(Q116*S116)/GCD(Q116*S116;R116*T116)&""}{""&(R116*T116)/GCD(Q116*S116;R116*T116)&""} \)""",,~#place-after-tech-cols#~=R116-RANDBETWEEN(1;R116-1),=RANDBETWEEN(2;10),=R116* RANDBETWEEN(2;9),=RANDBETWEEN(2;10)
+"=""\( \frac{""&Q117&""}{""&R117&""} \) ⋅ \( \frac{""&S117&""}{""&T117&""} \) = ?""","=""\( \frac{""&(Q117*S117)/GCD(Q117*S117;R117*T117)&""}{""&(R117*T117)/GCD(Q117*S117;R117*T117)&""} \)""",,~#place-after-tech-cols#~=R117-RANDBETWEEN(1;R117-1),=RANDBETWEEN(2;10),=R117* RANDBETWEEN(2;9),=RANDBETWEEN(2;10)
+"=""\( \frac{""&Q118&""}{""&R118&""} \) ⋅ \( \frac{""&S118&""}{""&T118&""} \) = ?""","=""\( \frac{""&(Q118*S118)/GCD(Q118*S118;R118*T118)&""}{""&(R118*T118)/GCD(Q118*S118;R118*T118)&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(3;9),=RANDBETWEEN(2;10),=R118* RANDBETWEEN(2;9),=Q118 * RANDBETWEEN(1;9)
+"=""\( \frac{""&Q119&""}{""&R119&""} \) ⋅ \( \frac{""&S119&""}{""&T119&""} \) = ?""","=""\( \frac{""&(Q119*S119)/GCD(Q119*S119;R119*T119)&""}{""&(R119*T119)/GCD(Q119*S119;R119*T119)&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(3;9),=RANDBETWEEN(2;10),=R119* RANDBETWEEN(2;9),=Q119 * RANDBETWEEN(1;9)
+"=""\( \frac{""&Q120&""}{""&R120&""} \) ⋅ \( \frac{""&S120&""}{""&T120&""} \) = ?""","=""\( \frac{""&(Q120*S120)/GCD(Q120*S120;R120*T120)&""}{""&(R120*T120)/GCD(Q120*S120;R120*T120)&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(3;9),=RANDBETWEEN(2;10),=R120* RANDBETWEEN(2;9),=Q120 * RANDBETWEEN(1;9)
+"=""\( \frac{""&Q121&""}{""&R121&""} \) ⋅ \( \frac{""&S121&""}{""&T121&""} \) = ?""","=""\( \frac{""&(Q121*S121)/GCD(Q121*S121;R121*T121)&""}{""&(R121*T121)/GCD(Q121*S121;R121*T121)&""} \)""",,~#place-after-tech-cols#~=RANDBETWEEN(3;9),=RANDBETWEEN(2;10),=R121* RANDBETWEEN(2;9),=Q121 * RANDBETWEEN(1;9)
+,,,,,,
+"=""\( \frac{""&Q123&""}{""&R123&""} \) : ""&S123&"" = ?""","=""\( \frac{""&Q123/GCD(Q123;R123*S123)&""}{""&(R123*S123)/GCD(Q123;R123*S123)&""} \)""",,~#place-after-tech-cols#~=R123-RANDBETWEEN(1;R123-1),=RANDBETWEEN(2;10),=RANDBETWEEN(2;10),
+"=""\( \frac{""&Q124&""}{""&R124&""} \) : ""&S124&"" = ?""","=""\( \frac{""&Q124/GCD(Q124;R124*S124)&""}{""&(R124*S124)/GCD(Q124;R124*S124)&""} \)""",,~#place-after-tech-cols#~=R124-RANDBETWEEN(1;R124-1),=RANDBETWEEN(2;10),=RANDBETWEEN(2;10),
+"=""\( \frac{""&Q125&""}{""&R125&""} \) : ""&S125&"" = ?""","=""\( \frac{""&Q125/GCD(Q125;R125*S125)&""}{""&(R125*S125)/GCD(Q125;R125*S125)&""} \)""",,~#place-after-tech-cols#~=R125-RANDBETWEEN(1;R125-1),=RANDBETWEEN(2;10),=RANDBETWEEN(2;10),
+"=""\( \frac{""&Q126&""}{""&R126&""} \) : ""&S126&"" = ?""","=""\( \frac{""&Q126/GCD(Q126;R126*S126)&""}{""&(R126*S126)/GCD(Q126;R126*S126)&""} \)""",,~#place-after-tech-cols#~=R126-RANDBETWEEN(1;R126-1),=RANDBETWEEN(2;10),=RANDBETWEEN(2;10),
+"=""\( \frac{""&Q127&""}{""&R127&""} \) : ""&S127&"" = ?""","=""\( \frac{""&Q127/GCD(Q127;R127*S127)&""}{""&(R127*S127)/GCD(Q127;R127*S127)&""} \)""",,~#place-after-tech-cols#~=R127-RANDBETWEEN(1;R127-1),=RANDBETWEEN(2;10),=RANDBETWEEN(2;10),
+"=""\( \frac{""&Q128&""}{""&R128&""} \) : ""&S128&"" = ?""","=""\( \frac{""&Q128/GCD(Q128;R128*S128)&""}{""&(R128*S128)/GCD(Q128;R128*S128)&""} \)""",,~#place-after-tech-cols#~=R128-RANDBETWEEN(1;R128-1),=RANDBETWEEN(2;10),=R128* RANDBETWEEN(2;9),
+,,,,,,
+"=""\( \frac{""&Q130&""}{""&R130&""} \) : \( \frac{""&S130&""}{""&T130&""} \) = ?""","=""\( \frac{""&(Q130*T130)/GCD(Q130*T130;R130*S130)&""}{""&(R130*S130)/GCD(Q130*T130;R130*S130)&""} \)""",,~#place-after-tech-cols#~=R130-RANDBETWEEN(1;R130-1),=RANDBETWEEN(2;8),=RANDBETWEEN(2;10),=RANDBETWEEN(2;8)
+"=""\( \frac{""&Q131&""}{""&R131&""} \) : \( \frac{""&S131&""}{""&T131&""} \) = ?""","=""\( \frac{""&(Q131*T131)/GCD(Q131*T131;R131*S131)&""}{""&(R131*S131)/GCD(Q131*T131;R131*S131)&""} \)""",,~#place-after-tech-cols#~=R131-RANDBETWEEN(1;R131-1),=RANDBETWEEN(2;8),=R131* RANDBETWEEN(2;9),=RANDBETWEEN(2;8)
+"=""\( \frac{""&Q132&""}{""&R132&""} \) : \( \frac{""&S132&""}{""&T132&""} \) = ?""","=""\( \frac{""&(Q132*T132)/GCD(Q132*T132;R132*S132)&""}{""&(R132*S132)/GCD(Q132*T132;R132*S132)&""} \)""",,~#place-after-tech-cols#~=R132-RANDBETWEEN(1;R132-1),=RANDBETWEEN(2;8),=R132* RANDBETWEEN(2;9),=RANDBETWEEN(2;8)
+"=""\( \frac{""&Q133&""}{""&R133&""} \) : \( \frac{""&S133&""}{""&T133&""} \) = ?""","=""\( \frac{""&(Q133*T133)/GCD(Q133*T133;R133*S133)&""}{""&(R133*S133)/GCD(Q133*T133;R133*S133)&""} \)""",,~#place-after-tech-cols#~=R133-RANDBETWEEN(1;R133-1),=RANDBETWEEN(2;8),=R133* RANDBETWEEN(2;9),=RANDBETWEEN(2;8)
+"=""\( \frac{""&Q134&""}{""&R134&""} \) : \( \frac{""&S134&""}{""&T134&""} \) = ?""","=""\( \frac{""&(Q134*T134)/GCD(Q134*T134;R134*S134)&""}{""&(R134*S134)/GCD(Q134*T134;R134*S134)&""} \)""",,~#place-after-tech-cols#~=R134-RANDBETWEEN(1;R134-1),=RANDBETWEEN(2;8),=R134* RANDBETWEEN(2;9),=RANDBETWEEN(2;8)
+"=""\( \frac{""&Q135&""}{""&R135&""} \) : \( \frac{""&S135&""}{""&T135&""} \) = ?""","=""\( \frac{""&(Q135*T135)/GCD(Q135*T135;R135*S135)&""}{""&(R135*S135)/GCD(Q135*T135;R135*S135)&""} \)""",,~#place-after-tech-cols#~=R135-RANDBETWEEN(1;R135-1),=RANDBETWEEN(2;8),=R135* RANDBETWEEN(2;9),=RANDBETWEEN(2;8)
+"=""\( \frac{""&Q136&""}{""&R136&""} \) : \( \frac{""&S136&""}{""&T136&""} \) = ?""","=""\( \frac{""&(Q136*T136)/GCD(Q136*T136;R136*S136)&""}{""&(R136*S136)/GCD(Q136*T136;R136*S136)&""} \)""",,~#place-after-tech-cols#~=R136-RANDBETWEEN(1;R136-1),=RANDBETWEEN(2;8),=R136* RANDBETWEEN(2;9),=RANDBETWEEN(2;8)
+,,,,,,
+What is the result of \( \frac{3}{4} \) + (5 - 2<sup>2</sup>)?,1 \( \frac{3}{4} \),,,,,
+Calculate: 10 - (1 + 2)<sup>2</sup> ⋅ \( \frac{1}{3} \),7,,,,,
+What is the result of (2<sup>3</sup> + 7) ⋅ \( \frac{1}{5} \)?,3,,,,,
+Calculate the value of the expression \( \frac{1}{2} \) + (8 - 2<sup>2</sup>),4 \( \frac{1}{2} \),,,,,
+Calculate the value of the expression (2<sup>3</sup> + 2) ⋅ \( \frac{1}{2} \) + 5,10,,,,,
+What is the result of 20 ⋅ \( \frac{1}{4} \) + (10 - 2<sup>2</sup>)?,11,,,,,
+Calculate: (5<sup>2</sup> - 1) : 3 ⋅ \( \frac{1}{2} \) + 6,10,,,,,
+What is the result of (20 : 5 + 1) ⋅ \( \frac{1}{5} \) + 3<sup>2</sup>?,10,,,,,
+Calculate the value of the expression 15 - (3 + 2<sup>3</sup>) : 2,9 \( \frac{1}{2} \),,,,,
+,,,,,,
+Word Problems,,,,,,
+"In a class of 30 students, \( \frac{2}{3} \) are girls. How many girls are in the class?",20,,,,,
+There are 9 red and 6 green balls in a box. What part of the balls are green?,\( \frac{2}{5} \),,,,,
+There are 80 apples in a basket. \( \frac{3}{5} \) of them are red apples. How many apples are red?,48,,,,,
+There are 16 cars and 4 motorcycles in a parking lot. What part of the vehicles are motorcycles?,\( \frac{1}{5} \),,,,,
+"Maya ate \( \frac{3}{5} \) of a chocolate bar, which is 60 g. How many grams did the whole bar weigh?",100 g,,,,,
+48 people went on a trip. \( \frac{5}{8} \) of them were children. How many children went?,30,,,,,
+"56 trees grow in an orchard, of which \( \frac{1}{7} \) are pear trees. How many pear trees are there?",8,,,,,
+40 children went on a trip. \( \frac{3}{4} \) of them were girls. How many girls went on the trip?,30,,,,,
+There are 36 lollipops in a box. \( \frac{1}{3} \) are cherry lollipops. How many cherry lollipops are there?,12,,,,,
+There are 150 trees in an orchard. \( \frac{4}{5} \) are apple trees. How many apple trees are there?,120,,,,,
+There are 25 sheep and 5 goats in a herd. What part of the animals are goats?,\( \frac{1}{6} \),,,,,
+There are 18 boys and 12 girls in a class. What part of the class are girls?,\( \frac{2}{5} \),,,,,
+There are 400 seats in a theater. \( \frac{7}{10} \) are occupied. How many seats are occupied?,280,,,,,
+There are 28 students in a class. \( \frac{1}{4} \) of them have blue eyes. How many students have blue eyes?,7,,,,,
+There are 200 books in a library. \( \frac{3}{10} \) are nature books. How many of them are there?,60,,,,,
+There are 12 girls and 8 boys in a class. What part of the class are girls?,\( \frac{3}{5} \),,,,,
+There are 60 candies in a box. \( \frac{1}{4} \) of them are strawberry candies. How many strawberry candies are there?,15,,,,,
+"There are 20 T-shirts in a closet, of which 8 are white. What part are white T-shirts?",\( \frac{2}{5} \),,,,,
+There are 15 apples and 5 pears in a basket. What part of the fruit are pears?,\( \frac{1}{4} \),,,,,
+There are 240 books in a library. \( \frac{3}{8} \) of them are adventure books. How many books is that?,90,,,,,
+There are 90 fish in an aquarium. \( \frac{1}{3} \) are goldfish. How many goldfish are there?,30,,,,,
+There are 120 candies in a jar. \( \frac{2}{3} \) are hard candies. How many hard candies are there?,80,,,,,
+There are 40 students in a class. \( \frac{3}{8} \) wear glasses. How many students wear glasses?,15,,,,,
+There are 36 balls in a box. \( \frac{1}{3} \) of them are red balls. How many balls are red?,12,,,,,
+There are 60 T-shirts in a closet. \( \frac{1}{2} \) are white T-shirts. How many white T-shirts are there?,30,,,,,
+There are 120 crayons in a box. \( \frac{1}{6} \) of them are blue crayons. How many blue crayons are there?,20,,,,,
+There are 54 balls on a field. \( \frac{5}{9} \) are basketballs. How many basketballs are there?,30,,,,,
+"A shop sold 48 rolls, including 12 whole grain ones. What part were whole grain?",\( \frac{1}{4} \),,,,,
+"There are 30 chocolates in a box, of which 18 are filled. What part are filled chocolates?",\( \frac{3}{5} \),,,,,
+George read \( \frac{2}{3} \) of a book that has 90 pages. How many pages did he read?,60,,,,,
+There are 14 girls and 21 boys in a group. What part of the group are boys?,\( \frac{3}{5} \),,,,,
+A book has 120 pages. Adam read \( \frac{2}{5} \) of them. How many pages did he read?,48,,,,,
+"There are 40 books in a library, of which 10 are history books. What part are history books?",\( \frac{1}{4} \),,,,,
+There are 20 girls and 15 boys in a class. What part are boys?,\( \frac{3}{7} \),,,,,
+There were 80 candies in a box. Children ate \( \frac{5}{8} \) of them. How many are left?,30,,,,,
+A shop sold 150 rolls. \( \frac{2}{5} \) were whole grain rolls. How many whole grain rolls were sold?,60,,,,,
+There are 72 people in a group. \( \frac{1}{6} \) are teachers. How many teachers are there?,12,,,,,
+"Peter drank \( \frac{2}{3} \) of a glass of juice, which is 200 ml. How many ml does the whole glass hold?",300 ml,"Since \( \frac{2}{3} \) is 200 ml, then \( \frac{1}{3} \) is 100 ml. 
+The whole glass is 3 parts: 3 ⋅ 100 = 300.",,,,
+"Ann read \( \frac{1}{4} \) of a book, which is 30 pages. How many pages does the book have?",120 pages,"If \( \frac{1}{4} \) is 30 pages, then the whole is 4 parts.
+So 30 ⋅ 4 = 120 ",,,,
+"John rode \( \frac{3}{8} \) of a route by bike, which is 15 km. How many km is the entire route?",40 km,"\( \frac{3}{8} \) = 15 km, so \( \frac{1}{8}  \) = 15 : 3 = 5 . 
+The whole is 8 ⋅ 5 = 40.",,,,
+"Robert ate \( \frac{5}{6} \) of a pizza, which is 25 cm of diameter. What was the diameter of the whole pizza?",30 cm,"\( \frac{5}{6} \) = 25 cm, so \( \frac{1}{6} \) = 25 : 5 = 5. 
+The whole is 6 ⋅ 5 = 30.",,,,
+"Thomas spent \( \frac{3}{4} \) of his savings, which is $150. How much money did he have at the start?",200,"\( \frac{3}{4} \) = $150, so \( \frac{1}{4} \) = 150 : 3 = 50. 
+The whole is 4 ⋅ 50 = 200.",,,,
+"Alex traveled \( \frac{2}{5} \) of a route by bus, which is 18 km. How many km was the entire route?",45 km,"\( \frac{2}{5} \) = 18 km, so \( \frac{1}{5} \) = 18 : 2 = 9. 
+The whole is 5 ⋅ 9 = 45.",,,,
+"A bag of apples weighs \( \frac{7}{10} \) of the total weight, which is 14 kg. How many kg do all the apples weigh?",20 kg,"\( \frac{7}{10} \) = 14 kg, so \( \frac{1}{10} \) = 14 : 7 = 2.
+The whole is 10 ⋅ 2 = 20.",,,,
+"Adam finished \( \frac{4}{9} \) of his homework, which is 12 problems. How many problems are in the whole assignment?",27 problems,"\( \frac{4}{9} \) = 12, so \( \frac{1}{9} \) = 12 : 4 = 3.
+The whole is 9 ⋅ 3 = 27.",,,,
