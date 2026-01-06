@@ -7880,8 +7880,12 @@ chory (stan choroby),ill,"~#tts:nap:en-US{sick}#~
 Została w domu, ponieważ była chora.",,,~#ttsA:en-US#~
 młodsza siostra,little sister,"~#tts:nap:en-US{My little sister is five years old.}#~
 Moja młodsza siostra ma pięć lat.",,,~#ttsA:en-US#~
-rozładowany,out of battery,"~#tts:nap:en-US{My phone is out of battery.}#~
-Mój telefon jest rozładowany.",,,~#ttsA:en-US#~
+"rozładowane, rozładowany
+(używane, gdy urządzenie nie działa, bo skończyła się energia w baterii)","out of battery
+battery is dead
+battery has drained","~#tts:nap:en-US{My phone is out of battery.}#~
+Mój telefon jest rozładowany.",,,"~#ttsA:en-US#~
+~#no-swap#~"
 plan,plan,"~#tts:nap:en-US{What's the plan for tomorrow?}#~
 Jaki jest plan na jutro?",,,~#ttsA:en-US#~
 centrum sportowe,sports centre,"~#tts:nap:en-US{I go to the sports centre to play tennis.}#~
