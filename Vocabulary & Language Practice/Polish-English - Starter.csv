@@ -615,7 +615,11 @@ Lubię głaskać kota.",,,~#ttsA:en-US#~
 
 ~#tts:nap:en-US{The kids are playing in the park.}#~
 Dzieci bawią się w parku.",,,~#ttsA:en-US#~
-rezygnować,to quit,"~#tts:nap:en-US{I'm going to quit my job.}#~
+"odejść
+zrezygnować
+rzucić pracę",to quit,"~#tts:nap:en-US{to resign}#~
+
+~#tts:nap:en-US{I'm going to quit my job.}#~
 Zrezygnuję z pracy.",,,~#ttsA:en-US#~
 nastolatek,"teen, teenager","~#tts:nap:en-US{The teenager is very rebellious.}#~
 Nastolatek jest bardzo buntowniczy.",,,~#ttsA:en-US#~
@@ -1302,8 +1306,13 @@ trzy,three,"~#tts:nap:en-US{I have three brothers.}#~
 Mam trzech braci.",,,~#ttsA:en-US#~
 lustro,mirror,"~#tts:nap:en-US{I looked in the mirror.}#~
 Spojrzałem w lustro.",,,~#ttsA:en-US#~
-"prawo, w prawo",right,"~#tts:nap:en-US{He is right.}#~
-On ma rację.",,,~#ttsA:en-US#~
+"prawo, w prawo
+prawy
+racja, poprawny",right,"~#tts:nap:en-US{He is right.}#~
+On ma rację.
+
+~#tts:nap:en-US{Is this the right way to the station?}#~
+Czy to poprawna droga na stację?",,,~#ttsA:en-US#~
 kolacja,supper,"~#tts:nap:en-US{We had supper at 7 PM.}#~
 Mieliśmy kolację o 1900.",,,~#ttsA:en-US#~
 burza,storm,"~#tts:nap:en-US{The storm caused a lot of damage.}#~
@@ -1431,8 +1440,12 @@ powtarzać,to repeat,"~#tts:nap:en-US{Please repeat what you said.}#~
 Powtórz, co powiedziałeś.",,,~#ttsA:en-US#~
 zima,winter,"~#tts:nap:en-US{Winter is my favorite season.}#~
 Zima jest moją ulubioną porą roku.",,,~#ttsA:en-US#~
-"muszla, muszelka",shell,"~#tts:nap:en-US{The turtle has a hard shell.}#~
-Żółw ma twardy pancerz.",,,~#ttsA:en-US#~
+"muszla, muszelka
+skorupa",shell,"~#tts:nap:en-US{She collected beautiful shells on the beach.}#~
+Ona zbierała piękne muszle na plaży.
+
+~#tts:nap:en-US{The turtle has a hard shell.}#~
+Żółw ma twardą skorupę.",,,~#ttsA:en-US#~
 kamień,stone,"~#tts:nap:en-US{The stone is very heavy.}#~
 Kamień jest bardzo ciężki.
 
@@ -1470,7 +1483,8 @@ delfin,dolphin,"~#tts:nap:en-US{Dolphins are intelligent animals.}#~
 Delfiny są inteligentnymi zwierzętami.",,,~#ttsA:en-US#~
 przytulać się,to hug,"~#tts:nap:en-US{I hugged her.}#~
 Przytuliłem ją.",,,~#ttsA:en-US#~
-bardzo blisko,very close,"~#tts:nap:en-US{They are very close friends.}#~
+"bardzo blisko
+bardzo zżyci, blisko siebie",very close,"~#tts:nap:en-US{They are very close friends.}#~
 Są bardzo dobrymi przyjaciółmi.",,,~#ttsA:en-US#~
 dżungla,jungle,"~#tts:nap:en-US{The jungle is a dangerous place.}#~
 Dżungla jest niebezpiecznym miejscem.",,,~#ttsA:en-US#~
@@ -1982,7 +1996,8 @@ w przenośni: odłożyć coś (projekt, pomysł) na później","shelf
 
 to shelve","~#tts:nap:en-US{The books are on the shelf.}#~
 Książki są na półce.",,,~#ttsA:en-US#~
-"opiekun, strażnik",guardian,"~#tts:nap:en-US{My guardian is my uncle.}#~
+"opiekun,
+osoba prawnie odpowiedzialna za kogoś (np. dziecko)",guardian,"~#tts:nap:en-US{My guardian is my uncle.}#~
 Moim opiekunem jest mój wujek.",,,~#ttsA:en-US#~
 "łotr, złoczyńca",villain,"~#tts:nap:en-US{The villain in the movie is very evil.}#~
 Złoczyńca w filmie jest bardzo zły.",,,~#ttsA:en-US#~
@@ -2087,7 +2102,7 @@ Straciłem klucze.",,,~#ttsA:en-US#~
 ładować (na przykład save gry albo towar na samochód),to load,"~#tts:nap:en-US{He loaded the truck with boxes.}#~
 Załadował ciężarówkę pudełkami.",,,~#ttsA:en-US#~
 patyk,stick,"~#tts:nap:en-US{The stick is very long.}#~
-Kiść jest bardzo długa.",,,~#ttsA:en-US#~
+Kij jest bardzo długi.",,,~#ttsA:en-US#~
 aktualizacja,update,"~#tts:nap:en-US{I need to update my software.}#~
 Muszę zaktualizować oprogramowanie.",,,~#ttsA:en-US#~
 lód,ice,"~#tts:nap:en-US{The ice is melting.}#~
@@ -2289,7 +2304,8 @@ matematyka,math,"~#tts:nap:en-US{I'm not good at math.}#~
 Nie jestem dobry z matematyki.",,,~#ttsA:en-US#~
 igła,needle,"~#tts:nap:en-US{The doctor injected the medicine with a needle.}#~
 Lekarz wstrzyknął lek za pomocą igły.",,,~#ttsA:en-US#~
-"strażnik, straż",guard,"~#tts:nap:en-US{The guard is standing at the door.}#~
+"strażnik, ochroniarz
+ktoś pilnujący czegoś lub kogoś",guard,"~#tts:nap:en-US{The guard is standing at the door.}#~
 Strażnik stoi przy drzwiach.",,,~#ttsA:en-US#~
 odkrywać,to discover,"~#tts:nap:en-US{They discovered a new species of plant.}#~
 Odkryli nowy gatunek rośliny.",,,~#ttsA:en-US#~
@@ -2435,8 +2451,9 @@ Jaki jest twój wzrost?",,,~#ttsA:en-US#~
 Nauczenie się nowego języka jest wyzwaniem.",,,~#ttsA:en-US#~
 policja,police,"~#tts:nap:en-US{The police are investigating the crime.}#~
 Policja bada przestępstwo.",,,~#ttsA:en-US#~
-"buława, buzdygan",mace,"~#tts:nap:en-US{The police officer used a mace to stop the riot.}#~
-Policjant użył maczugi, aby powstrzymać zamieszki.",,,~#ttsA:en-US#~
+"buława, buzdygan
+gaz pieprzowy",mace,"~#tts:nap:en-US{The police officer used a mace to stop the riot.}#~
+Policjant użył gazu pieprzowego, aby powstrzymać zamieszki.",,,~#ttsA:en-US#~
 główny,"main, major","~#tts:nap:en-US{The main reason for his success is hard work.}#~
 Główną przyczyną jego sukcesu jest ciężka praca.",,,~#ttsA:en-US#~
 "zamężny, zamężna",married,"~#tts:nap:en-US{He is married.}#~
@@ -9258,7 +9275,7 @@ ogrzewanie,heating,"~#tts:nap:en-US{The heating is broken.}#~
 Ogrzewanie jest zepsute.",,,~#ttsA:en-US#~
 kawior,caviar,"~#tts:nap:en-US{Caviar is expensive fish eggs.}#~
 Kawior to drogie ikry ryb.",,,~#ttsA:en-US#~
-czajniczek,teapot,"~#tts:nap:en-US{A teapot is used for making tea.}#~
+czajniczek do parzenia herbaty,teapot,"~#tts:nap:en-US{A teapot is used for making tea.}#~
 Czajnik służy do robienia herbaty.",,,~#ttsA:en-US#~
 sanki,"sledge
 snow sledge","~#tts:nap:en-US{I went sledging down the hill.}#~
@@ -14571,7 +14588,7 @@ liceum,high school,"~#tts:nap:en-US{He is a student at the local high school.}#~
 Jest uczniem lokalnego liceum.",,,~#ttsA:en-US#~
 dobre dla,good for,"~#tts:nap:en-US{Eating vegetables is good for your health.}#~
 Jedzenie warzyw jest dobre dla twojego zdrowia.",,,~#ttsA:en-US#~
-"ochroniarza, ochroniarzy, ochroniarz",security guard,"~#tts:nap:en-US{A security guard patrols the building at night.}#~
+"ochroniarz, osoba pilnująca bezpieczeństwa w miejscu publicznym lub prywatnym",security guard,"~#tts:nap:en-US{A security guard patrols the building at night.}#~
 Ochroniarz patroluje budynek w nocy.",,,~#ttsA:en-US#~
 ohydny,gross,"~#tts:nap:en-US{There's a gross bug on the wall.}#~
 Na ścianie jest ohydny robak.",,,~#ttsA:en-US#~
@@ -16011,6 +16028,8 @@ wstrętny,disgusting,"~#tts:nap:en-US{The smell from the garbage was disgusting.
 Smród ze śmieci był wstrętny.",,,~#ttsA:en-US#~
 "zadania tekstowe (np. zadania matematyczne opisane słownie)",word problems,"~#tts:nap:en-US{Word problems require you to understand the text before you can do the math.}#~
 Zadania tekstowe wymagają zrozumienia tekstu, zanim będzie można przystąpić do obliczeń.",,,~#ttsA:en-US#~
+doniczka,flowerpot,"~#tts:nap:en-US{She planted the seeds in a small flowerpot.}#~
+Zasadziła nasiona w małej doniczce.",,,~#ttsA:en-US#~
 #SHEETINFO | name=Phrasal Verbs,,,,,
 "pokazać się
 pojawić się, przyjść (często niespodziewanie)
@@ -16435,6 +16454,10 @@ poprawić się (o sytuacji)
 ''(phrasal verb)''",to look up,"~#tts:nap:en-US{to search for information; to become more prosperous. (Also literal.)}#~
 
 ~#tts:nap:en-US{Sometimes when I reminisce I look up old friends on the Internet. You can always tell the tourists from the locals, because the tourists are always looking up at the skyscrapers.}#~",,,~#ttsA:en-US#~
+"opiekować się, zajmować się kimś lub czymś
+
+''(phrasal verb)''",to look after,"~#tts:nap:en-US{I have to look after my little sister tonight.}#~
+Muszę opiekować się moją młodszą siostrą dziś wieczorem.",,,~#ttsA:en-US#~
 #SHEETINFO | name=Irregular Verbs,,,,,
 ,"I forma bezokolicznik (infinitive) / II forma (past tense) / III forma (past participle)",,,,
 "być
