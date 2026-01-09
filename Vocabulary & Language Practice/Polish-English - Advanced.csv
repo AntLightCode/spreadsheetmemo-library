@@ -668,7 +668,9 @@ dawna miłość,old flame,~#tts:nap:en-US{She met her old flame at the reunion.}
 "rewolta, rebelia",mutiny,~#tts:nap:en-US{The sailors mutinied against the captain.}#~,,,~#ttsA:en-US#~
 "oszustwo, psikus, fałszywy alarm",hoax,~#tts:nap:en-US{The bomb threat was a hoax.}#~,,,~#ttsA:en-US#~
 "stosować się, podporządkować się",to comply,~#tts:nap:en-US{He refused to comply with the order.}#~,,,~#ttsA:en-US#~
-"hamować, poskromić",to curb,"~#tts:nap:en-US{to restrain, to limit, to check}#~
+"hamować, poskromić",to curb,"~#tts:nap:en-US{to impede, to hamper, to inhibit, to trammel, to hinder}#~
+~#tts:nap:en-US{to obstruct, to balk, to prevent, to foil, to delay}#~
+~#tts:nap:en-US{to restrain, to limit, to check}#~
 
 ~#tts:nap:en-US{The government tried to curb inflation.}#~",,,~#ttsA:en-US#~
 "kroczyć dumnie, puszyć się, obijać się",to strut,~#tts:nap:en-US{He strutted around like a peacock.}#~,,,~#ttsA:en-US#~
@@ -1196,7 +1198,11 @@ prom,ferry,"~#tts:nap:en-US{ford}#~
 "bród, płytkie miejsce do przejścia przez rzekę",ford,"~#tts:nap:en-US{ferry}#~
 
 ~#tts:nap:en-US{He waded through the bród.}#~",,,~#ttsA:en-US#~
-"hamować, powstrzymać",to inhibit,~#tts:nap:en-US{The drug inhibited the growth of the tumor.}#~,,,~#ttsA:en-US#~
+"hamować, powstrzymać",to inhibit,"~#tts:nap:en-US{to impede, to hamper, to trammel, to hinder}#~
+~#tts:nap:en-US{to obstruct, to balk, to prevent, to foil, to curb, to delay}#~
+~#tts:nap:en-US{to restrain, to limit, to check}#~
+
+~#tts:nap:en-US{The drug inhibited the growth of the tumor.}#~",,,~#ttsA:en-US#~
 wymię,udder,~#tts:nap:en-US{The cow's udder was full of milk.}#~,,,~#ttsA:en-US#~
 niedorzeczny,ridiculous,"~#tts:nap:en-US{preposterous}#~
 
@@ -2587,7 +2593,10 @@ lichwa,usury,~#tts:nap:en-US{He was accused of usury.}#~,,,~#ttsA:en-US#~
 ~#tts:nap:en-US{glaring, flaring, lively, gaudy}#~
 
 ~#tts:nap:en-US{The memory of the accident was still vivid in her mind.}#~",,,~#ttsA:en-US#~
-"strugać, rzeźbieć, obcinać",to whittle,~#tts:nap:en-US{He whittled a wooden toy.}#~,,,~#ttsA:en-US#~
+"strugać, rzeźbieć, obcinać",to whittle,"strugać: ~#tts:nap:en-US{to plane, to carve, to scrape}#~
+ostrugać: ~#tts:nap:en-US{to pare, to peel, to plane}#~
+
+~#tts:nap:en-US{He whittled a wooden toy.}#~",,,~#ttsA:en-US#~
 "zalecać się, zabiegać",to woo,"~#tts:nap:en-US{He wooed her with flowers and poetry.}#~
 ~#tts:nap:en-US{He tried to woo her with flowers and chocolates.}#~",,,~#ttsA:en-US#~
 astronomia,astronomy,"~#tts:nap:en-US{celestial mechanics, solar physics, astrometry, selenology}#~
@@ -3657,17 +3666,10 @@ kocioł,cauldron,"~#tts:nap:en-US{The witch stirred the potion in a bubbling cau
 ~#tts:nap:en-US{The witch was stirring a cauldron of potion.}#~",,,~#ttsA:en-US#~
 splot słoneczny,solar plexus,~#tts:nap:en-US{The boxer aimed a punch at his opponent's solar plexus.}#~,,,~#ttsA:en-US#~
 "hamować, przeszkadzać, utrudniać postęp",to hinder,"~#tts:nap:en-US{to impede, to hamper, to inhibit, to trammel}#~
+~#tts:nap:en-US{to obstruct, to balk, to prevent, to foil, to curb, to delay}#~
+~#tts:nap:en-US{to restrain, to limit, to check}#~
 
-~#tts:nap:en-US{adjective}#~
-~#tts:nap:en-US{(especially of a bodily part) rear; hind:}#~
-
-~#tts:nap:en-US{The hinder end of its body}#~
-
-~#tts:nap:en-US{verb}#~
-~#tts:nap:en-US{create difficulties for (someone or something), resulting in delay or obstruction:}#~
-
-~#tts:nap:en-US{Various family stalemates were hindering communication}#~
-~#tts:nap:en-US{synonyms: hamper, obstruct, impede, inhibit, retard, balk, prevent, thwart, foil, curb, delay}#~",,,~#ttsA:en-US#~
+~#tts:nap:en-US{Various family stalemates were hindering communication}#~",,,~#ttsA:en-US#~
 płukać,to rinse,"~#tts:nap:en-US{I need to rinse the dishes.}#~
 ~#tts:nap:en-US{She rinsed the dishes with hot water.}#~",,,~#ttsA:en-US#~
 powołanie,vocation,~#tts:nap:en-US{Teaching is a noble vocation.}#~,,,~#ttsA:en-US#~
