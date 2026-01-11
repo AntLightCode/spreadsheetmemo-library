@@ -1,4 +1,4 @@
-#SHEETINFO | name=Roman Numerals,,
+#SHEETINFO | name=Roman numerals,,
 "=""Read the Roman numeral:
 
 ""&Q4",=ARABIC(Q4),~#place-after-tech-cols#~XLVIII
