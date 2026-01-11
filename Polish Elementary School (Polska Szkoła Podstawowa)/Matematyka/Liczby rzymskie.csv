@@ -1,0 +1,190 @@
+#SHEETINFO | name=*Klasa 4: Liczby rzymskie,,
+Teoria: https://matematyka.wiki/liczby-rzymskie,,
+,,
+"=""Odczytaj liczbę zapisaną w systemie rzymskim:
+
+""&Q6",=ARABIC(Q6),~#place-after-tech-cols#~XLVIII
+"=""Odczytaj liczbę zapisaną w systemie rzymskim:
+
+""&Q7",=ARABIC(Q7),~#place-after-tech-cols#~CD
+"=""Odczytaj liczbę zapisaną w systemie rzymskim:
+
+""&Q8",=ARABIC(Q8),~#place-after-tech-cols#~MC
+"=""Odczytaj liczbę zapisaną w systemie rzymskim:
+
+""&Q9",=ARABIC(Q9),~#place-after-tech-cols#~MDI
+"=""Odczytaj liczbę zapisaną w systemie rzymskim:
+
+""&Q10",=ARABIC(Q10),~#place-after-tech-cols#~MDCXLIX
+"=""Odczytaj liczbę zapisaną w systemie rzymskim:
+
+""&Q11",=ARABIC(Q11),~#place-after-tech-cols#~LXI
+"=""Odczytaj liczbę zapisaną w systemie rzymskim:
+
+""&Q12",=ARABIC(Q12),~#place-after-tech-cols#~XLVI
+"=""Odczytaj liczbę zapisaną w systemie rzymskim:
+
+""&Q13",=ARABIC(Q13),~#place-after-tech-cols#~XLIX
+"=""Odczytaj liczbę zapisaną w systemie rzymskim:
+
+""&Q14",=ARABIC(Q14),~#place-after-tech-cols#~LXXIX
+"=""Odczytaj liczbę zapisaną w systemie rzymskim:
+
+""&Q15",=ARABIC(Q15),~#place-after-tech-cols#~XCVIII
+"=""Odczytaj liczbę zapisaną w systemie rzymskim:
+
+""&Q16",=ARABIC(Q16),~#place-after-tech-cols#~CXXXIX
+"=""Odczytaj liczbę zapisaną w systemie rzymskim:
+
+""&Q17",=ARABIC(Q17),~#place-after-tech-cols#~CXVI
+"=""Odczytaj liczbę zapisaną w systemie rzymskim:
+
+""&Q18",=ARABIC(Q18),~#place-after-tech-cols#~CIV
+"=""Odczytaj liczbę zapisaną w systemie rzymskim:
+
+""&Q19",=ARABIC(Q19),~#place-after-tech-cols#~DCCCVI
+"=""Odczytaj liczbę zapisaną w systemie rzymskim:
+
+""&Q20",=ARABIC(Q20),~#place-after-tech-cols#~DCXI
+"=""Odczytaj liczbę zapisaną w systemie rzymskim:
+
+""&Q21",=ARABIC(Q21),~#place-after-tech-cols#~DCCCXCII
+"=""Odczytaj liczbę zapisaną w systemie rzymskim:
+
+""&Q22",=ARABIC(Q22),~#place-after-tech-cols#~DCCXLVIII
+"=""Odczytaj liczbę zapisaną w systemie rzymskim:
+
+""&Q23",=ARABIC(Q23),~#place-after-tech-cols#~MCDIV
+"=""Odczytaj liczbę zapisaną w systemie rzymskim:
+
+""&Q24",=ARABIC(Q24),~#place-after-tech-cols#~CMXII
+"=""Odczytaj liczbę zapisaną w systemie rzymskim:
+
+""&Q25",=ARABIC(Q25),~#place-after-tech-cols#~MMMCDL
+"=""Odczytaj liczbę zapisaną w systemie rzymskim:
+
+""&Q26",=ARABIC(Q26),~#place-after-tech-cols#~MMCDXLVI
+"=""Odczytaj liczbę zapisaną w systemie rzymskim:
+
+""&Q27",=ARABIC(Q27),~#place-after-tech-cols#~MMMDCCCXCVI
+,,
+"=""Liczbę zapisaną w systemie arabskim zapisz w systemie rzymskim:
+
+""&Q29",=ROMAN(Q29),~#place-after-tech-cols#~42
+"=""Liczbę zapisaną w systemie arabskim zapisz w systemie rzymskim:
+
+""&Q30",=ROMAN(Q30),~#place-after-tech-cols#~499
+"=""Liczbę zapisaną w systemie arabskim zapisz w systemie rzymskim:
+
+""&Q31",=ROMAN(Q31),~#place-after-tech-cols#~51
+"=""Liczbę zapisaną w systemie arabskim zapisz w systemie rzymskim:
+
+""&Q32",=ROMAN(Q32),~#place-after-tech-cols#~68
+"=""Liczbę zapisaną w systemie arabskim zapisz w systemie rzymskim:
+
+""&Q33",=ROMAN(Q33),~#place-after-tech-cols#~79
+"=""Liczbę zapisaną w systemie arabskim zapisz w systemie rzymskim:
+
+""&Q34",=ROMAN(Q34),~#place-after-tech-cols#~99
+"=""Liczbę zapisaną w systemie arabskim zapisz w systemie rzymskim:
+
+""&Q35",=ROMAN(Q35),~#place-after-tech-cols#~101
+"=""Liczbę zapisaną w systemie arabskim zapisz w systemie rzymskim:
+
+""&Q36",=ROMAN(Q36),~#place-after-tech-cols#~25
+"=""Liczbę zapisaną w systemie arabskim zapisz w systemie rzymskim:
+
+""&Q37",=ROMAN(Q37),~#place-after-tech-cols#~38
+"=""Liczbę zapisaną w systemie arabskim zapisz w systemie rzymskim:
+
+""&Q38",=ROMAN(Q38),~#place-after-tech-cols#~567
+"=""Liczbę zapisaną w systemie arabskim zapisz w systemie rzymskim:
+
+""&Q39",=ROMAN(Q39),~#place-after-tech-cols#~729
+"=""Liczbę zapisaną w systemie arabskim zapisz w systemie rzymskim:
+
+""&Q40",=ROMAN(Q40),~#place-after-tech-cols#~881
+"=""Liczbę zapisaną w systemie arabskim zapisz w systemie rzymskim:
+
+""&Q41",=ROMAN(Q41),~#place-after-tech-cols#~979
+"=""Liczbę zapisaną w systemie arabskim zapisz w systemie rzymskim:
+
+""&Q42",=ROMAN(Q42),~#place-after-tech-cols#~1230
+"=""Liczbę zapisaną w systemie arabskim zapisz w systemie rzymskim:
+
+""&Q43",=ROMAN(Q43),~#place-after-tech-cols#~2023
+,,
+"Który to rok?
+Ok. MMM p.n.e. - powstanie pierwszych map gwiazdozbiorów","=ARABIC(Q45) &"" przed naszą erą""",~#place-after-tech-cols#~MMM
+"Który to rok?
+MDXLIII - wydanie drukiem dzieła Mikołaja Kopernika ""O obrotach sfer niebieskich.""",=ARABIC(Q46),~#place-after-tech-cols#~MDXLIII
+"Który to rok?
+MDCCLXXXIV - przybliżone określenie kształtu i rozmiarów Galaktyki.",=ARABIC(Q47),~#place-after-tech-cols#~MDCCLXXXIV
+"Który to rok?
+
+MCMLXI - pierwszy lot człowieka w kosmos.",=ARABIC(Q48),~#place-after-tech-cols#~MCMLXI
+"Który to rok?
+MCMLXIX - pierwsze lądowanie człowieka na Księżycu.",=ARABIC(Q49),~#place-after-tech-cols#~MCMLXIX
+"Który to rok?
+MCMXCVII - lądowanie sondy kosmicznej na Marsie i pierwsze badanie na powierzchni Czerwonej Planety za pomocą sterowanego z Ziemi bezzałogowego pojazdu.",=ARABIC(Q50),~#place-after-tech-cols#~MCMXCVII
+"Który to rok?
+MMXXI - pierwszy lot drona na Marsie.",=ARABIC(Q51),~#place-after-tech-cols#~MMXXI
+,,
+"Który to wiek?
+
+1387 r. ",XIV wiek (wiek 14),
+"Który to wiek?
+
+544 r.",VI wiek (wiek 6),
+"Który to wiek?
+
+1000 r.",X wiek (wiek 10),
+"Który to wiek?
+
+2023 r.",XXI wiek (wiek 21),
+"Który to wiek?
+
+3800 r.",XXXVIII wiek (wiek 38),
+"Który to wiek?
+
+1601 r.",XVII wiek (wiek 17),
+"Który to wiek?
+
+999 r.",X wiek (wiek 10),
+"Który to wiek?
+
+31 XII 2000 r.",XX wiek (wiek 20),
+"Który to wiek?
+
+4 III 2001 r.",XXI wiek (wiek 21),
+"Który to wiek?
+
+1 IX 2023 r.",XXI wiek (wiek 21),
+"Który to wiek?
+
+1 I 2101 r.",XXII wiek (wiek 22),
+"Który to wiek?
+
+1 I 2100 r.",XXI wiek (wiek 21),
+,,
+Losowe,,
+"=""Odczytaj liczbę zapisaną w systemie rzymskim:
+
+""&ROMAN(Q67)",=Q67,~#place-after-tech-cols#~=RANDBETWEEN(1;3999)
+"=""Odczytaj liczbę zapisaną w systemie rzymskim:
+
+""&ROMAN(Q68)",=Q68,~#place-after-tech-cols#~=RANDBETWEEN(1;3999)
+,,
+"=""Liczbę zapisaną w systemie arabskim zapisz w systemie rzymskim:
+
+""&Q70",=ROMAN(Q70),~#place-after-tech-cols#~=RANDBETWEEN(1;3999)
+"=""Liczbę zapisaną w systemie arabskim zapisz w systemie rzymskim:
+
+""&Q71",=ROMAN(Q71),~#place-after-tech-cols#~=RANDBETWEEN(1;3999)
+,,
+"=""Który to wiek?
+
+""&Q73","=ROUNDUP(Q73 / 100; 0) &"" wiek""",~#place-after-tech-cols#~=RANDBETWEEN(1;3999)
+"=""Który to wiek?
+
+""&Q74","=ROUNDUP(Q74 / 100; 0) &"" wiek""",~#place-after-tech-cols#~=RANDBETWEEN(1;3999)
