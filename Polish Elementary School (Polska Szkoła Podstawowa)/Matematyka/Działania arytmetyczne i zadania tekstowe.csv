@@ -1,0 +1,281 @@
+#SHEETINFO | name=Działania arytmetyczne i zadania tekstowe,,,,,,,
+Liczby,,,,,,,
+"Zastąp 💠 znakiem <, > lub = tak, aby zapis był prawdziwy:
+
+176 💠 98",176 > 98,,,,,,
+"Zastąp 💠 znakiem <, > lub = tak, aby zapis był prawdziwy:
+
+762 💠 156",762 > 156,,,,,,
+"Zastąp 💠 znakiem <, > lub = tak, aby zapis był prawdziwy:
+
+689 💠 678",689 > 678,,,,,,
+"Zastąp 💠 znakiem <, > lub = tak, aby zapis był prawdziwy:
+
+9 999 💠 19 812",9 999 < 19 812,,,,,,
+"Zastąp 💠 znakiem <, > lub = tak, aby zapis był prawdziwy:
+
+10 324 💠 10 524",10 324 < 10 524,,,,,,
+"Zastąp 💠 znakiem <, > lub = tak, aby zapis był prawdziwy:
+
+1 761 367 💠 1 761 367",1 761 367 = 1 761 367,,,,,,
+,,,,,,,
+"Zastąp znak 💟 odpowiednią cyfrą. Podaj wszystkie możliwości.
+
+2💟4 > 279","284 > 279
+294 > 279",,,,,,
+"Zastąp znak 💟 odpowiednią cyfrą. Podaj wszystkie możliwości.
+
+345 < 3💟5 < 365",345 < 355 < 365,,,,,,
+"Zastąp znak 💟 odpowiednią cyfrą. Podaj wszystkie możliwości.
+
+10💟2 < 1032","1002 < 1032
+1012 < 1032
+1022 < 1032",,,,,,
+"Zastąp znak 💟 odpowiednią cyfrą. Podaj wszystkie możliwości.
+
+💟3 823 > 89 999",93 823 > 89 999,,,,,,
+"Zastąp znak 💟 odpowiednią cyfrą. Podaj wszystkie możliwości.
+
+999 94💟 > 999 948",999 949 > 999 948,,,,,,
+"Zastąp znak 💟 odpowiednią cyfrą. Podaj wszystkie możliwości.
+
+1 000 00💟 < 1 000 001",1 000 000 < 1 000 001,,,,,,
+,,,,,,,
+"=""Odczytaj podaną liczbę:
+
+""&Q19","=LET(
+  items; SPLIT(""🪅,💝,🎉,🧃,🦖,🎈,🎁,🎊,🏆,🥳,🪄,⚡,🏀,🏎️,🎮,🐉,🚀,🪁,🏹,🎯,🦁,🐵,🏰,🛹,🏓,🐢,🦕""; "","");
+  TEXTJOIN("" ""; TRUE; INDEX(items; RANDBETWEEN(1; COUNTA(items))))
+)",,"~#place-after-tech-cols#~=TRIM(TEXT(RANDBETWEEN(100000;990000000);""### ### ### ### ###""))",,,,
+"=""Odczytaj podaną liczbę:
+
+""&Q20","=LET(
+  items; SPLIT(""🪅,💝,🎉,🧃,🦖,🎈,🎁,🎊,🏆,🥳,🪄,⚡,🏀,🏎️,🎮,🐉,🚀,🪁,🏹,🎯,🦁,🐵,🏰,🛹,🏓,🐢,🦕""; "","");
+  TEXTJOIN("" ""; TRUE; INDEX(items; RANDBETWEEN(1; COUNTA(items))))
+)",,"~#place-after-tech-cols#~=TRIM(TEXT(RANDBETWEEN(100000;99000000000);""### ### ### ### ###""))",,,,
+"Zapisz liczbę za pomocą cyfr:
+
+cztery tysiące dziewięćset jedenaście",4 911,,,,,,
+"Zapisz liczbę za pomocą cyfr:
+
+trzynaście tysięcy czterdzieści osiem",13 048,,,,,,
+"Zapisz liczbę za pomocą cyfr:
+
+trzysta tysięcy pięćset dwadzieścia cztery",300 524,,,,,,
+"Zapisz liczbę za pomocą cyfr:
+
+dwadzieścia sześć milionów siedem tysięcy dwanaście",26 007 012,,,,,,
+"Zapisz liczbę za pomocą cyfr:
+
+sto milionów jeden",100 000 001,,,,,,
+"Zapisz liczbę za pomocą cyfr:
+
+sześć miliardów osiem milionów dwa tysiące czterdzieści siedem",6 008 002 047,,,,,,
+"Zapisz liczbę za pomocą cyfr:
+
+miliard siedem",1 000 000 007,,,,,,
+,,,,,,,
+Ile zer (lub innych cyfr) ma milion?,"6 zer
+
+1 000 000",,,,,,
+Który zapis odpowiada liczbie cztery miliony czterdzieści tysięcy trzynaście?,4 040 013,,,,,,
+Ile wynosi suma cyfry setek tysięcy i cyfry jedności liczby: 12 980 457,16,,,,,,
+,,,,,,,
+Dodawanie,,,,,,,
+"Ania miała 12 jabłek, a mama dała jej jeszcze 8. Ile jabłek ma teraz Ania?",Ania ma teraz 20 jabłek.,Dodawanie liczb naturalnych,,,,,
+W klasie jest 15 chłopców i 13 dziewczynek. Ilu uczniów jest razem w klasie?,W klasie jest razem 28 uczniów.,Dodawanie liczb naturalnych,,,,,
+W szafce stały 32 książki. Adam ustawił jeszcze 8 książek. Ile książek jest teraz w szafce?,W szafce jest teraz 40 książek.,Dodawanie liczb naturalnych,,,,,
+,,,,,,,
+"=Q38 &"" + ""&R38&"" = """,=Q38+R38,,~#place-after-tech-cols#~=RANDBETWEEN(30;50),=RANDBETWEEN(30;50),,,
+"=Q39 &"" + ""&R39&"" = """,=Q39+R39,,~#place-after-tech-cols#~=RANDBETWEEN(30;60),=RANDBETWEEN(20;30),,,
+"=Q40 &"" + ""&R40&"" = """,=Q40+R40,,~#place-after-tech-cols#~=RANDBETWEEN(1;50),=RANDBETWEEN(1;50),,,
+"=Q41 &"" + ""&R41&"" = """,=Q41+R41,,~#place-after-tech-cols#~=RANDBETWEEN(30;60),=RANDBETWEEN(20;40),,,
+"=Q42 &"" + ""&R42&"" = """,=Q42+R42,,~#place-after-tech-cols#~=RANDBETWEEN(20;50),=RANDBETWEEN(20;50),,,
+"=Q43 &"" + ""&R43&"" = """,=Q43+R43,,~#place-after-tech-cols#~=RANDBETWEEN(40;80),=RANDBETWEEN(10;40),,,
+"=Q44 &"" + ""&R44&"" + ""&S44&"" = """,=Q44+R44+S44,,~#place-after-tech-cols#~=RANDBETWEEN(1;20),=RANDBETWEEN(10;20),=RANDBETWEEN(10;20),,
+"=Q45 &"" + ""&R45&"" = """,=Q45+R45,,~#place-after-tech-cols#~=RANDBETWEEN(101;799),=RANDBETWEEN(101;799),,,
+"=Q46 &"" + ""&R46&"" = """,=Q46+R46,,~#place-after-tech-cols#~=RANDBETWEEN(101;799),=RANDBETWEEN(101;799),,,
+"=Q47 &"" + ""&R47&"" = """,=Q47+R47,,~#place-after-tech-cols#~=RANDBETWEEN(101;799),=RANDBETWEEN(101;799),,,
+,,,,,,,
+Odejmowanie,,,,,,,
+"=""Oblicz, o ile liczba ""&Q50&"" jest mniejsza od liczby ""&R50&"".""",=R50-Q50,"=""Liczba ""&Q50&"" jest o '''""&R50-Q50&""''' mniejsza od liczby ""&R50&"".""",~#place-after-tech-cols#~=RANDBETWEEN(1;10),=RANDBETWEEN(11;20),,,
+"=""Oblicz, o ile liczba ""&Q51&"" jest mniejsza od liczby ""&R51&"".""",=R51-Q51,"=""Liczba ""&Q51&"" jest o '''""&R51-Q51&""''' mniejsza od liczby ""&R51&"".""",~#place-after-tech-cols#~=RANDBETWEEN(1;10),=RANDBETWEEN(11;20),,,
+"=""Oblicz, o ile liczba ""&Q52&"" jest większa od liczby ""&R52&"".""",=Q52-R52,"=""Liczba ""&Q52&"" jest o '''""&Q52-R52&""''' większa od liczby ""&R52&"".""",~#place-after-tech-cols#~=RANDBETWEEN(11;20),=RANDBETWEEN(1;10),,,
+"=""Oblicz, o ile liczba ""&Q53&"" jest większa od liczby ""&R53&"".""",=Q53-R53,"=""Liczba ""&Q53&"" jest o '''""&Q53-R53&""''' większa od liczby ""&R53&"".""",~#place-after-tech-cols#~=RANDBETWEEN(11;20),=RANDBETWEEN(1;10),,,
+,,,,,,,
+Tomek miał 25 zł. Kupił zeszyt za 7 zł. Ile pieniędzy mu zostało?,Tomkowi zostało 18 zł.,Odejmowanie liczb naturalnych,,,,,
+W pudełku były 24 kredki. Dzieci wzięły 9 kredek. Ile kredek zostało w pudełku?,W pudełku zostało 15 kredek.,Odejmowanie liczb naturalnych,,,,,
+Kasia miała 50 cukierków. Rozdała kolegom 25 cukierków. Ile jej zostało?,Kasi zostało 25 cukierków.,Odejmowanie liczb naturalnych,,,,,
+"Dzieci zebrały w lesie 28 grzybów. W domu okazało się, że 5 z nich było robaczywych i trzeba je wyrzucić. Ile dobrych grzybów zostało?",Dzieciom zostały 23 dobre grzyby.,Odejmowanie liczb naturalnych,,,,,
+Tomek miał 120 zł. Kupił grę za 85 zł. Ile pieniędzy mu zostało?,35 zł,Odejmowanie liczb naturalnych,,,,,
+"W szkole jest 45 krzeseł. W jednej sali jest 15 krzeseł, a w drugiej o 5 mniej. Ile krzeseł jest w pozostałych salach?",20,Odejmowanie i porównywanie liczb,,,,,
+"W sklepie było 30 jabłek. Sprzedano 12 jabłek, a potem dostarczono jeszcze 8. Ile jabłek jest teraz w sklepie?",W sklepie jest teraz 26 jabłek.,Dodawanie i odejmowanie liczb naturalnych,,,,,
+"W parku na jednej ławce siedziało 5 osób, a na drugiej o 3 osoby więcej. Potem z drugiej ławki odeszły 2 osoby. Ile osób zostało na obu ławkach razem?",Na obu ławkach razem zostało 11 osób.,Dodawanie i odejmowanie liczb naturalnych,,,,,
+"Kuba miał 18 cukierków. Dał siostrze 5 cukierków, a od kolegi dostał jeszcze 7. Ile cukierków ma teraz Kuba?",Kuba ma teraz 20 cukierków.,Dodawanie i odejmowanie liczb naturalnych,,,,,
+"W bibliotece było 40 książek. 15 wypożyczono, a potem dokupiono jeszcze 12 nowych. Ile książek jest teraz w bibliotece?",W bibliotece jest teraz 37 książek.,Dodawanie i odejmowanie liczb naturalnych,,,,,
+"Na podwórku bawiło się 18 dzieci. Po chwili dołączyło jeszcze 9, a potem 7 poszło do domu. Ilu zostało?",Na podwórku zostało 20 dzieci.,Dodawanie i odejmowanie,,,,,
+"W klasie było 24 uczniów. 8 wyszło na boisko, a potem przyszło jeszcze 5 nowych uczniów z innej klasy. Ilu uczniów jest teraz w klasie?",Teraz w klasie jest 21 uczniów.,Odejmowanie i dodawanie,,,,,
+"W koszu było 20 jabłek. 6 zjedzono, a potem dołożono jeszcze 9. Ile jabłek jest teraz w koszu?",W koszu jest teraz 23 jabłka.,Odejmowanie i dodawanie,,,,,
+,,,,,,,
+"=""Oblicz, o ile liczba ""&Q69&"" jest mniejsza od liczby ""&R69&"".""",=R69-Q69,"=""Liczba ""&Q69&"" jest o '''""&R69-Q69&""''' mniejsza od liczby ""&R69&"".""",~#place-after-tech-cols#~=RANDBETWEEN(1;30),=RANDBETWEEN(31;99),,,
+"=""Oblicz, o ile liczba ""&Q70&"" jest mniejsza od liczby ""&R70&"".""",=R70-Q70,"=""Liczba ""&Q70&"" jest o '''""&R70-Q70&""''' mniejsza od liczby ""&R70&"".""",~#place-after-tech-cols#~=RANDBETWEEN(1;30),=RANDBETWEEN(31;99),,,
+"=""Oblicz, o ile liczba ""&Q71&"" jest większa od liczby ""&R71&"".""",=Q71-R71,"=""Liczba ""&Q71&"" jest o '''""&Q71-R71&""''' większa od liczby ""&R71&"".""",~#place-after-tech-cols#~=RANDBETWEEN(31;99),=RANDBETWEEN(1;30),,,
+"=""Oblicz, o ile liczba ""&Q72&"" jest większa od liczby ""&R72&"".""",=Q72-R72,"=""Liczba ""&Q72&"" jest o '''""&Q72-R72&""''' większa od liczby ""&R72&"".""",~#place-after-tech-cols#~=RANDBETWEEN(31;99),=RANDBETWEEN(1;30),,,
+,,,,,,,
+73 - 16 =,57,,,,,,
+44 - 18 =,26,,,,,,
+56 - 27 =,29,,,,,,
+74 - 39 =,35,,,,,,
+78 - 14 =,64,,,,,,
+51 - 19 =,32,,,,,,
+"=Q80 &"" - ""&R80&"" = """,=Q80-R80,,~#place-after-tech-cols#~=RANDBETWEEN(30;70),=RANDBETWEEN(1;30),,,
+"=Q81 &"" - ""&R81&"" = """,=Q81-R81,,~#place-after-tech-cols#~=RANDBETWEEN(20;50),=RANDBETWEEN(1;20),,,
+"=Q82 &"" - ""&R82&"" = """,=Q82-R82,,~#place-after-tech-cols#~=RANDBETWEEN(30;80),=RANDBETWEEN(10;30),,,
+"=Q83 &"" - ""&R83&"" = """,=Q83-R83,,~#place-after-tech-cols#~=RANDBETWEEN(30;70),=RANDBETWEEN(1;30),,,
+"=Q84 &"" - ""&R84&"" = """,=Q84-R84,,~#place-after-tech-cols#~=RANDBETWEEN(30;50),=RANDBETWEEN(1;30),,,
+"=Q85 &"" - ""&R85&"" = """,=Q85-R85,,~#place-after-tech-cols#~=RANDBETWEEN(40;80),=RANDBETWEEN(10;40),,,
+"=Q86 &"" - ""&R86&"" = """,=Q86-R86,,~#place-after-tech-cols#~=RANDBETWEEN(50;90),=RANDBETWEEN(10;50),,,
+"=Q87 &"" - ""&R87&"" = """,=Q87-R87,,~#place-after-tech-cols#~=RANDBETWEEN(50;90),=RANDBETWEEN(10;50),,,
+"=Q88 &"" - ""&R88&"" = """,=Q88-R88,,~#place-after-tech-cols#~=RANDBETWEEN(30;90),=RANDBETWEEN(10;30),,,
+,,,,,,,
+"=Q90 &"" + (""&R90&"" - ""&S90&"") = """,=Q90+R90-S90,,~#place-after-tech-cols#~=RANDBETWEEN(20;60),=RANDBETWEEN(30;50),=RANDBETWEEN(20;30),,
+"=""(""& Q91 &"" - ""&R91&"") + ""&S91&"" = """,=Q91-R91+S91,,~#place-after-tech-cols#~=RANDBETWEEN(40;80),=RANDBETWEEN(20;40),=RANDBETWEEN(20;40),,
+"=Q92 &"" + ""&R92&"" - ""&S92&"" = """,=Q92+R92-S92,,~#place-after-tech-cols#~=RANDBETWEEN(1;20),=RANDBETWEEN(10;20),=RANDBETWEEN(10;20),,
+"=Q93 &"" - ""&R93&"" = """,=Q93-R93,,~#place-after-tech-cols#~=RANDBETWEEN(501;1299),=RANDBETWEEN(101;499),,,
+"=Q94 &"" - ""&R94&"" = """,=Q94-R94,,~#place-after-tech-cols#~=RANDBETWEEN(501;1299),=RANDBETWEEN(101;499),,,
+"=Q95 &"" - ""&R95&"" = """,=Q95-R95,,~#place-after-tech-cols#~=RANDBETWEEN(501;1299),=RANDBETWEEN(101;499),,,
+70027 - 5842 = ,=70027 - 5842,,,,,,
+248005 - 34929 = ,=248005 - 34929 ,,,,,,
+,,,,,,,
+Mnożenie,,,,,,,
+W szkole jest 30 ławek. W każdej ławce siedzi po 2 uczniów. Ilu uczniów jest w szkole?,W szkole jest 60 uczniów.,Mnożenie liczb naturalnych,,,,,
+"W ogrodzie rosły 4 krzaki malin, a na każdym krzaku było po 6 owoców. Dzieci zjadły 5 malin. Ile malin zostało?",W ogrodzie zostało 19 malin.,Mnożenie i odejmowanie,,,,,
+"W sadzie rosły 3 drzewa gruszy, na każdym po 8 owoców. 10 owoców spadło na ziemię. Ile gruszek pozostało na drzewach?",Na drzewach pozostało 14 gruszek.,Mnożenie i odejmowanie,,,,,
+W ogrodzie rosną 4 grządki marchewek. Na każdej grządce rośnie 5 marchewek. Ile marchewek rośnie w ogrodzie?,W ogrodzie rośnie 20 marchewek.,Mnożenie jako wielokrotne dodawanie,,,,,
+"Mama kupiła 3 paczki ciastek, w każdej paczce było po 6 ciastek. Ile ciastek kupiła mama?",Mama kupiła 18 ciastek.,Mnożenie jako wielokrotne dodawanie,,,,,
+Na stole stoją 3 talerze. Na każdym talerzu leżą 4 ciasteczka. Ile jest wszystkich ciasteczek?,Wszystkich ciasteczek jest 12.,Mnożenie jako wielokrotne dodawanie,,,,,
+Mama kupiła 3 paczki po 5 bułek i 2 paczki po 4 bułki. Ile bułek kupiła razem?,Mama kupiła razem 23 bułki.,Mnożenie i dodawanie,,,,,
+W szafie były 2 półki z 7 książkami każda. Na dolnej półce dołożono jeszcze 5 książek. Ile książek jest w szafie?,W szafie jest łącznie 19 książek.,Mnożenie i dodawanie,,,,,
+"W sklepie były 4 półki, a na każdej leżało po 8 bochenków chleba. Sprzedano 10 bochenków. Ile bochenków zostało?",W sklepie zostało 22 bochenki chleba.,Mnożenie i odejmowanie,,,,,
+"Zosia miała 5 torebek, a w każdej po 7 cukierków. 8 cukierków zjadła. Ile jej zostało?",Zosi zostało 27 cukierków.,Mnożenie i odejmowanie,,,,,
+"Tata kupił 4 zgrzewki wody, a w każdej było 6 butelek. Rozdał 5 butelek sąsiadom. Ile butelek zostało?",Tacie zostało 19 butelek wody.,Mnożenie i odejmowanie,,,,,
+"W ogrodzie rosły 4 rzędy kwiatów, po 7 w każdym. Potem dosadzono jeszcze 5 kwiatów. Ile kwiatów jest teraz w ogrodzie?",W ogrodzie są teraz 33 kwiaty.,Mnożenie i dodawanie,,,,,
+"Na półce stoi 7 rzędów książek, po 12 książek w każdym. Ile książek jest na półce?",84,Mnożenie liczb naturalnych,,,,,
+"W sadzie rośnie 6 rzędów drzew, po 9 drzew w każdym rzędzie. Ile drzew jest w sadzie?",54,Mnożenie liczb naturalnych,,,,,
+"Mama kupiła 5 koszyków truskawek, w każdym było po 9 owoców. 7 owoców się zepsuło. Ile dobrych truskawek zostało?",Zostało 38 dobrych truskawek.,Mnożenie i odejmowanie,,,,,
+"W klasie chłopcy zebrali 36 zł, a dziewczynki dwa razy więcej. Ile pieniędzy zebrały dziewczynki?",72,Mnożenie liczb naturalnych,,,,,
+"Zosia przeczytała 45 stron książki, a Basia 3 razy więcej. Ile stron przeczytała Basia?",135,Mnożenie liczb naturalnych,,,,,
+Mama upiekła 3 ciasta. Każde podzieliła na 8 równych kawałków. Ile kawałków ciasta miała razem?,24,Mnożenie liczb naturalnych,,,,,
+W klasie jest 5 rzędów po 6 ławek. Ile ławek jest razem?,30,Mnożenie liczb naturalnych,,,,,
+W klasie jest 5 rzędów ławek po 2 osoby. Ile osób mieści się w klasie?,10,Mnożenie liczb naturalnych,,,,,
+"Basen ma 25 m długości. Ile metrów przepłynie Janek, jeśli zrobi 8 długości basenu?",200 m,Mnożenie liczb naturalnych,,,,,
+"Ania ma 5 pudełek, w każdym pudełku jest 8 cukierków. Ile cukierków ma razem?",40,Mnożenie liczb naturalnych,,,,,
+Na ławce siedzi 7 dzieci. Każde trzyma 2 balony. Ile balonów mają razem?,14,Mnożenie liczb naturalnych,,,,,
+"W sklepie było 5 półek, na każdej po 8 słoików miodu. Sprzedano 9 słoików. Ile słoików zostało w sklepie?",W sklepie zostało 31 słoików miodu.,Mnożenie i odejmowanie,,,,,
+Rowerzysta jechał 2 godziny z prędkością 18 km/h. Jaką odległość przejechał?,36 km,Mnożenie i jednostki prędkości,,,,,
+Samolot leciał 3 godziny z prędkością 800 km/h. Jaką odległość pokonał?,2400 km,"Mnożenie, jednostki prędkości",,,,,
+W jednej paczce jest 250 g ryżu. Ile ryżu jest w 6 takich paczkach?,"1,5 kg","Jednostki masy, mnożenie",,,,,
+Michał ma 3 pudełka po 250 ml soku. Ile ma soku razem?,750 ml,"Jednostki objętości, mnożenie",,,,,
+Samochód spala 7 litrów paliwa na 100 km. Ile spali na 300 km?,21 litrów (l),"Proporcje, mnożenie",,,,,
+Z 5 metrów materiału można uszyć 4 bluzki. Ile materiału potrzeba na 6 bluzek?,"7,5 m","Proporcje, dzielenie i mnożenie",,,,,
+,,,,,,,
+"=""Oblicz, ile razy liczba ""&R131*Q131&"" jest większa od liczby ""&Q131&"".""",=R131*Q131/Q131,"=""Liczba ""&R131*Q131&"" jest '''""&R131&""''' razy większa od liczby ""&Q131&"".""",~#place-after-tech-cols#~=RANDBETWEEN(1;11),=RANDBETWEEN(2;11),,,
+"=""Oblicz, ile razy liczba ""&R132*Q132&"" jest większa od liczby ""&Q132&"".""",=R132*Q132/Q132,"=""Liczba ""&R132*Q132&"" jest '''""&R132&""''' razy większa od liczby ""&Q132&"".""",~#place-after-tech-cols#~=RANDBETWEEN(1;11),=RANDBETWEEN(2;11),,,
+"=""Oblicz, ile razy liczba ""&R133*Q133&"" jest większa od liczby ""&Q133&"".""",=R133*Q133/Q133,"=""Liczba ""&R133*Q133&"" jest '''""&R133&""''' razy większa od liczby ""&Q133&"".""",~#place-after-tech-cols#~=RANDBETWEEN(1;11),=RANDBETWEEN(2;11),,,
+,,,,,,,
+"=""Oblicz, ile razy liczba ""&Q135&"" jest mniejsza od liczby ""&R135*Q135&"".""",=R135*Q135/Q135,"=""Liczba ""&Q135&"" jest '''""&R135&""''' razy mniejsza od liczby ""&R135*Q135&"".""",~#place-after-tech-cols#~=RANDBETWEEN(1;11),=RANDBETWEEN(2;11),,,
+"=""Oblicz, ile razy liczba ""&Q136&"" jest mniejsza od liczby ""&R136*Q136&"".""",=R136*Q136/Q136,"=""Liczba ""&Q136&"" jest '''""&R136&""''' razy mniejsza od liczby ""&R136*Q136&"".""",~#place-after-tech-cols#~=RANDBETWEEN(1;11),=RANDBETWEEN(2;11),,,
+"=""Oblicz, ile razy liczba ""&Q137&"" jest mniejsza od liczby ""&R137*Q137&"".""",=R137*Q137/Q137,"=""Liczba ""&Q137&"" jest '''""&R137&""''' razy mniejsza od liczby ""&R137*Q137&"".""",~#place-after-tech-cols#~=RANDBETWEEN(1;11),=RANDBETWEEN(2;11),,,
+,,,,,,,
+"=Q139 &"" ⋅ ""&R139&"" = """,=Q139*R139,,~#place-after-tech-cols#~=RANDBETWEEN(20;40),=RANDBETWEEN(5;9),,,
+"=Q140 &"" ⋅ ""&R140&"" = """,=Q140*R140,"="" (""&(INT(Q140/10)*10)&"" ⋅  ""&R140&"") + (""&MOD(Q140;10)&"" ⋅  ""&R140&"") = ""& ((INT(Q140/10)*10)*R140&"" + ""&MOD(Q140;10)*R140&"""")",~#place-after-tech-cols#~=RANDBETWEEN(10;40),=RANDBETWEEN(2;9),,,
+"=Q141 &"" ⋅ ""&R141&"" = """,=Q141*R141,"="" (""&(INT(Q141/10)*10)&"" ⋅  ""&R141&"") + (""&MOD(Q141;10)&"" ⋅  ""&R141&"") = ""& ((INT(Q141/10)*10)*R141&"" + ""&MOD(Q141;10)*R141&"""")",~#place-after-tech-cols#~=RANDBETWEEN(10;40),=RANDBETWEEN(2;6),,,
+"=Q142 &"" ⋅ ""&R142&"" = """,=Q142*R142,"="" (""&(INT(Q142/10)*10)&"" ⋅  ""&R142&"") + (""&MOD(Q142;10)&"" ⋅  ""&R142&"") = ""& ((INT(Q142/10)*10)*R142&"" + ""&MOD(Q142;10)*R142&"""")",~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),,,
+"=Q143 &"" ⋅ ""&R143&"" = """,=Q143*R143,"="" (""&(INT(Q143/10)*10)&"" ⋅  ""&R143&"") + (""&MOD(Q143;10)&"" ⋅  ""&R143&"") = ""& ((INT(Q143/10)*10)*R143&"" + ""&MOD(Q143;10)*R143&"""")",~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),,,
+"=Q144 &"" ⋅ ""&R144&"" = """,=Q144*R144,"="" (""&(INT(Q144/10)*10)&"" ⋅  ""&R144&"") + (""&MOD(Q144;10)&"" ⋅  ""&R144&"") = ""& ((INT(Q144/10)*10)*R144&"" + ""&MOD(Q144;10)*R144&"""")",~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),,,
+"=Q145 &"" ⋅ ""&R145&"" = """,=Q145*R145,"="" (""&(INT(Q145/10)*10)&"" ⋅  ""&R145&"") + (""&MOD(Q145;10)&"" ⋅  ""&R145&"") = ""& ((INT(Q145/10)*10)*R145&"" + ""&MOD(Q145;10)*R145&"""")",~#place-after-tech-cols#~=RANDBETWEEN(10;40),=RANDBETWEEN(2;9),,,
+"=Q146 &"" ⋅ ""&R146&"" = """,=Q146*R146,"="" (""&(INT(Q146/10)*10)&"" ⋅  ""&R146&"") + (""&MOD(Q146;10)&"" ⋅  ""&R146&"") = ""& ((INT(Q146/10)*10)*R146&"" + ""&MOD(Q146;10)*R146&"""")",~#place-after-tech-cols#~=RANDBETWEEN(10;40),=RANDBETWEEN(2;6),,,
+"=Q147 &"" ⋅ ""&R147&"" = """,=Q147*R147,"="" (""&(INT(Q147/10)*10)&"" ⋅  ""&R147&"") + (""&MOD(Q147;10)&"" ⋅  ""&R147&"") = ""& ((INT(Q147/10)*10)*R147&"" + ""&MOD(Q147;10)*R147&"""")",~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),,,
+"=Q148 &"" ⋅ ""&R148&"" = """,=Q148*R148,"="" (""&(INT(Q148/10)*10)&"" ⋅  ""&R148&"") + (""&MOD(Q148;10)&"" ⋅  ""&R148&"") = ""& ((INT(Q148/10)*10)*R148&"" + ""&MOD(Q148;10)*R148&"""")",~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),,,
+"=Q149 &"" ⋅ ""&R149&"" = """,=Q149*R149,"="" (""&(INT(Q149/10)*10)&"" ⋅  ""&R149&"") + (""&MOD(Q149;10)&"" ⋅  ""&R149&"") = ""& ((INT(Q149/10)*10)*R149&"" + ""&MOD(Q149;10)*R149&"""")",~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),,,
+"=Q150 &"" ⋅ ""&R150&"" = """,=Q150*R150,,~#place-after-tech-cols#~=RANDBETWEEN(10;40),=RANDBETWEEN(5;9),,,
+"=Q151 &"" ⋅ ""&R151&"" = """,=Q151*R151,,~#place-after-tech-cols#~=RANDBETWEEN(10;40),=RANDBETWEEN(5;9),,,
+"=Q152 &"" ⋅ ""&R152&"" = """,=Q152*R152,,~#place-after-tech-cols#~=RANDBETWEEN(20;40),=RANDBETWEEN(5;9),,,
+"=Q153 &"" ⋅ ""&R153&"" = """,=Q153*R153,"="" (""&(INT(Q153/10)*10)&"" ⋅  ""&R153&"") + (""&MOD(Q153;10)&"" ⋅  ""&R153&"") = ""& ((INT(Q153/10)*10)*R153&"" + ""&MOD(Q153;10)*R153&"""")",~#place-after-tech-cols#~=RANDBETWEEN(10;999),=RANDBETWEEN(2;9),,,
+"=Q154 &"" ⋅ ""&R154&"" = """,=Q154*R154,"="" (""&(INT(Q154/10)*10)&"" ⋅  ""&R154&"") + (""&MOD(Q154;10)&"" ⋅  ""&R154&"") = ""& ((INT(Q154/10)*10)*R154&"" + ""&MOD(Q154;10)*R154&"""")",~#place-after-tech-cols#~=RANDBETWEEN(10;999),=RANDBETWEEN(2;9),,,
+"=Q155 &"" ⋅ ""&R155&"" = """,=Q155*R155,"="" (""&(INT(Q155/10)*10)&"" ⋅  ""&R155&"") + (""&MOD(Q155;10)&"" ⋅  ""&R155&"") = ""& ((INT(Q155/10)*10)*R155&"" + ""&MOD(Q155;10)*R155&"""")",~#place-after-tech-cols#~=RANDBETWEEN(10;999),=RANDBETWEEN(2;9),,,
+,,,,,,,
+"=Q157*10 &"" ⋅ ""&R157*10&"" = """,=Q157*10*R157*10,"=""Liczymy (""&Q157&"" ⋅ ""&R157&"") i dodajemy 0 0 zera do wyniku""",~#place-after-tech-cols#~=RANDBETWEEN(1;9),=RANDBETWEEN(2;9),,,
+"=Q158*1000 &"" ⋅ ""&R158*10&"" = """,=Q158*1000*R158*10,"=""Liczymy (""&Q158&"" ⋅ ""&R158&"") i dodajemy 000 0 zera do wyniku""",~#place-after-tech-cols#~=RANDBETWEEN(1;9),=RANDBETWEEN(2;9),,,
+"=Q159*100 &"" ⋅ ""&R159*1000&"" = """,=Q159*100*R159*1000,"=""Liczymy (""&Q159&"" ⋅ ""&R159&"") i dodajemy 00 000 zera do wyniku""",~#place-after-tech-cols#~=RANDBETWEEN(1;9),=RANDBETWEEN(2;9),,,
+,,,,,,,
+Dzielenie,,,,,,,
+W pudełku było 18 ciastek. Dzieci podzieliły je po równo między 3 osoby. Ile ciastek dostała każda osoba?,Każda osoba dostała po 6 ciastek.,Dzielenie liczb naturalnych,,,,,
+Mama kupiła 24 bułki. Spakowała je do toreb po 6 bułek. Ile torebek powstało?,Powstały 4 torebki.,Dzielenie liczb naturalnych,,,,,
+W koszyku było 36 jajek. Podzielono je po równo na 6 pudełek. Ile jajek jest w każdym pudełku?,W każdym pudełku jest po 6 jajek.,Dzielenie liczb naturalnych,,,,,
+W klasie jest 20 uczniów. Podzielono ich na 4 równe drużyny. Ile osób jest w każdej drużynie?,W każdej drużynie jest po 5 osób.,Dzielenie liczb naturalnych,,,,,
+"W sadzie były 32 jabłka. 8 sprzedano, a resztę podzielono równo na 4 skrzynki. Ile jabłek trafiło do jednej skrzynki?",Do jednej skrzynki trafiło po 6 jabłek.,Odejmowanie i dzielenie,,,,,
+"Mama upiekła 20 muffinek. 8 zjadły dzieci, a resztę zapakowała po równo do 4 pudełek. Ile muffinek było w każdym pudełku?",W każdym pudełku były po 3 muffinki.,Odejmowanie i dzielenie,,,,,
+"W ogrodzie było 25 kwiatów. 5 uschło, a pozostałe podzielono równo na 4 rabaty. Ile kwiatów było na każdej rabacie?",Na każdej rabacie było po 5 kwiatów.,Odejmowanie i dzielenie,,,,,
+Ania miała 15 cukierków. Dała 3 koleżankom po tyle samo cukierków i nie zostało jej nic. Ile cukierków dostała każda koleżanka?,Każda koleżanka dostała po 5 cukierków.,Dzielenie liczb naturalnych,,,,,
+Na stole stało 12 bananów. Dzieci wzięły po 3 banany. Ile dzieci wzięło banany?,Banany wzięło 4 dzieci.,Dzielenie liczb naturalnych,,,,,
+"Na wycieczkę pojechało 28 dzieci. Autobus mieści 7 osób. Ile kursów musi zrobić, aby przewieźć wszystkie dzieci?","Autobus musi zrobić 4 kursy, aby przewieźć wszystkie dzieci.",Dzielenie liczb naturalnych,,,,,
+"Na boisku było 36 piłek. 12 zabrano do magazynu, a resztę podzielono po równo między 4 drużyny. Ile piłek miała każda drużyna?",Każda drużyna miała po 6 piłek.,Odejmowanie i dzielenie,,,,,
+"W klasie było 28 uczniów. 10 pojechało na konkurs, a pozostałych podzielono równo na 3 grupy. Ile osób było w każdej grupie?",W każdej grupie było po 6 osób.,Odejmowanie i dzielenie,,,,,
+"Na wycieczkę pojechało 40 dzieci. 12 z nich pojechało autobusem, a reszta zmieściła się po równo do 4 busów. Ile dzieci było w każdym busie?",W każdym busie było po 7 dzieci.,Odejmowanie i dzielenie,,,,,
+"Zosia zebrała 48 orzechów. Po drodze zgubiła 8, a resztę rozdzieliła po równo na 4 słoiki. Ile orzechów było w każdym słoiku?",W każdym słoiku było po 10 orzechów.,Odejmowanie i dzielenie,,,,,
+"Na ławce siedziało 12 gołębi. 4 z nich odleciały, a resztę podzielono równo na 2 grupy. Ile gołębi było w każdej grupie?",W każdej grupie były po 4 gołębie.,Odejmowanie i dzielenie,,,,,
+"W kinie jest 60 miejsc. W pierwszym rzędzie jest 10 miejsc, a w pozostałych miejscach siedzi po równo 5 osób w każdym rzędzie. Ile rzędów zajęły te osoby?",11,Odejmowanie i dzielenie,,,,,
+"Dziadek miał 30 jajek. Rozłożył je równo do 6 koszyków, a potem do każdego koszyka dołożył po 2 jajka. Ile jajek ma teraz każdy koszyk?",Każdy koszyk ma teraz po 7 jajek.,Dzielenie i dodawanie,,,,,
+"W klasie były 24 kredki. Podzielono je równo między 4 uczniów, a potem jeden uczeń oddał 2 kredki koledze. Ile kredek ma teraz ten kolega?",Ten kolega ma teraz 8 kredek.,Dzielenie i dodawanie,,,,,
+"W szkole było 42 książki. Rozłożono je równo na 7 półek, a potem z jednej półki zabrano 3 książki. Ile zostało na tej półce?",Na tej półce zostało 3 książki.,Dzielenie i odejmowanie,,,,,
+W paczce było 19 lizaków. Rozłożono je równo na 3 talerze. Ile lizaków było na każdym talerzu i ile zostało?,"Na każdym talerzu było po 6 lizaków, a 1 lizak został.",Dzielenie z resztą,,,,,
+"Tomek kupił 27 balonów. Rozdał je równo 5 kolegom, a resztę zostawił sobie. Ile balonów dostał każdy kolega i ile zostało Tomkowi?","Każdy kolega dostał po 5 balonów, a Tomkowi zostały 2 balony.",Dzielenie z resztą,,,,,
+,,,,,,,
+"=S184 &"" : ""&R184&"" = """,=Q184,"="" (""&T184&"" : 10) + (""&S184-T184&"" : ""&R184&"") = ""& T184/10&"" + ""&(S184-T184)/R184&""""",~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),=Q184*R184,=R184*10,=S184-T184
+"=S185 &"" : ""&R185&"" = """,=Q185,"="" (""&T185&"" : 10) + (""&S185-T185&"" : ""&R185&"") = ""& T185/10&"" + ""&(S185-T185)/R185&""""",~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),=Q185*R185,=R185*10,=S185-T185
+"=S186 &"" : ""&R186&"" = """,=Q186,"="" (""&T186&"" : 10) + (""&S186-T186&"" : ""&R186&"") = ""& T186/10&"" + ""&(S186-T186)/R186&""""",~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),=Q186*R186,=R186*10,=S186-T186
+"=S187 &"" : ""&R187&"" = """,=Q187,"="" (""&T187&"" : 10) + (""&S187-T187&"" : ""&R187&"") = ""& T187/10&"" + ""&(S187-T187)/R187&""""",~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),=Q187*R187,=R187*10,=S187-T187
+"=S188 &"" : ""&R188&"" = """,=Q188,"="" (""&T188&"" : 10) + (""&S188-T188&"" : ""&R188&"") = ""& T188/10&"" + ""&(S188-T188)/R188&""""",~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),=Q188*R188,=R188*10,=S188-T188
+"=S189 &"" : ""&R189&"" = """,=Q189,"="" (""&T189&"" : 10) + (""&S189-T189&"" : ""&R189&"") = ""& T189/10&"" + ""&(S189-T189)/R189&""""",~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),=Q189*R189,=R189*10,=S189-T189
+"=S190 &"" : ""&R190&"" = """,=Q190,"="" (""&T190&"" : 10) + (""&S190-T190&"" : ""&R190&"") = ""& T190/10&"" + ""&(S190-T190)/R190&""""",~#place-after-tech-cols#~=RANDBETWEEN(10;40),=RANDBETWEEN(2;9),=Q190*R190,=R190*10,=S190-T190
+"=S191 &"" : ""&R191&"" = """,=Q191,,~#place-after-tech-cols#~=RANDBETWEEN(110;400),=RANDBETWEEN(2;9),=Q191*R191,,
+"=S192 &"" : ""&R192&"" = """,=Q192,,~#place-after-tech-cols#~=RANDBETWEEN(110;400),=RANDBETWEEN(2;9),=Q192*R192,,
+"=S193 &"" : ""&R193&"" = """,=Q193,,~#place-after-tech-cols#~=RANDBETWEEN(110;400),=RANDBETWEEN(2;9),=Q193*R193,,
+2763 : 9,=2763 / 9,,,,,,
+1648 : 8,206,,,,,,
+3642 : 6,607,,,,,,
+8296 : 17,488,,,,,,
+,,,,,,,
+5 ⋅ (4 + 6) =,=5*(4+6),,,,,,
+(75 - 25) : 5 =,=(75 - 25) / 5,,,,,,
+96 - (49 : 7) =,=96 - (49 / 7) ,,,,,,
+1016 - 466 =,=1016 - 466,,,,,,
+,,,,,,,
+36 - 6 ⋅ 4 = ,=36 - 6 * 4,,,,,,
+6 ⋅ 7 : 3 =,=6 * 7 / 3,,,,,,
+6 ⋅ 8 : 4 =,=6*8 / 4,,,,,,
+18 + 18 : 2 =,=18 + 18 / 2 ,,,,,,
+72 : 8 ⋅ 4 =,=72 / 8 * 4 ,,,,,,
+,,,,,,,
+12 ⋅ 7 - 44 + 6 =,=12 * 7 - 44 + 6,,,,,,
+3 ⋅ (3 + 6) - 17 =,=3 * (3 + 6) - 17,,,,,,
+(45 + 5) : 10 + 23 =,=(45 + 5) / 10 + 23,,,,,,
+64 : 8 + (27 : 3 + 2) =,=64 / 8 + (27 / 3 + 2) ,,,,,,
+(81 : 9 + 1) ⋅ (3 + 5) =,=(81 / 9 + 1) * (3 + 5) ,,,,,,
+(16 - 8 ⋅ 2) ⋅ 5 + 89 =,= (16 - 8 * 2) * 5 + 89 ,,,,,,
+6 + 14 : 2 + 8 =,=6 + 14 / 2 + 8 ,,,,,,
+7 ⋅ 6 + 4 ⋅ 9 =,=7 * 6 + 4 * 9 ,,,,,,
+63 - 3 ⋅ 12 : 4 + 2 =,=63 - 3 * 12 / 4 + 2 ,,,,,,
+26 - 7 + 3 ⋅ (16 : 8) =,=26 - 7 + 3 * (16 / 8) ,,,,,,
+(42 : 6 - 18 : 9) + 10 : 5 =,=(42 / 6 - 18 / 9) + 10 / 5 ,,,,,,
+(67 + 33) ⋅ 40 : 20 =,=(67 + 33) * 40 / 20,,,,,,
+,,,,,,,
+21000 : 700 = ,=21000/700,"""Skreślamy"" wszystkie wspólne zera (w tym przypadku dwa 0) i zostaje do wyliczenia jedynie 210 : 7",~#place-after-tech-cols#~=RANDBETWEEN(1;9),=RANDBETWEEN(2;9),,,
+18000 : 30 =,=18000/30,"""Skreślamy"" wszystkie wspólne zera (w tym przypadku jedno 0) i zostaje do wyliczenia jedynie 1800 : 3",~#place-after-tech-cols#~=RANDBETWEEN(1;9),=RANDBETWEEN(2;9),,,
+500000 : 10000 = ,=500000 / 10000,"""Skreślamy"" wszystkie wspólne zera (w tym przypadku cztery 0) i zostaje do wyliczenia jedynie 50 : 1",~#place-after-tech-cols#~=RANDBETWEEN(1;9),=RANDBETWEEN(2;9),,,
+,,,,,,,
+"=S227 &"" : ""&R227&"" = """,=Q227,,~#place-after-tech-cols#~=RANDBETWEEN(110;600),=RANDBETWEEN(11;19),=Q227*R227,,
+"=S228 &"" : ""&R228&"" = """,=Q228,,~#place-after-tech-cols#~=RANDBETWEEN(110;600),=RANDBETWEEN(11;19),=Q228*R228,,
+"=S229 &"" : ""&R229&"" = """,=Q229,,~#place-after-tech-cols#~=RANDBETWEEN(110;600),=RANDBETWEEN(11;19),=Q229*R229,,
+"=S230 &"" : ""&R230&"" = """,=Q230,,~#place-after-tech-cols#~=RANDBETWEEN(110;600),=RANDBETWEEN(11;19),=Q230*R230,,
