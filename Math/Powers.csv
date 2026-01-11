@@ -1,0 +1,36 @@
+#SHEETINFO | name=Powers,,,,
+Write as a product: \( 5^2 \),\( 5 \times 5 \),,,
+Write as a product: \( 2^3 \),\( 2 \times 2 \times 2 \),,,
+What is the number 5 called in \( 5^3 \)?,The base.,,,
+What is the number 3 called in \( 5^3 \)?,The exponent.,,,
+What is the value of \( 1^{100} \)?,1,,,
+What is the value of \( 0^5 \)?,0,,,
+,,,,
+"=""Calculate the square of ""&Q11",=Q11^2,,~#place-after-tech-cols#~=RANDBETWEEN(1;15),
+"=""Calculate the square of ""&Q12",=Q12^2,,~#place-after-tech-cols#~=RANDBETWEEN(1;15),
+"=""Calculate: \( ""&Q13&""^2 \)""",=Q13^2,"=""\( ""&Q13&"" \times ""&Q13&"" \)""",~#place-after-tech-cols#~=RANDBETWEEN(2;15),
+"=""Calculate: \( ""&Q14&""^2 \)""",=Q14^2,"=""\( ""&Q14&"" \times ""&Q14&"" \)""",~#place-after-tech-cols#~=RANDBETWEEN(2;15),
+"=""Calculate: \( ""&Q15&""^2 \)""",=Q15^2,"=""\( ""&Q15&"" \times ""&Q15&"" \)""",~#place-after-tech-cols#~=RANDBETWEEN(2;15),
+,,,,
+"=""Calculate the cube of ""&Q17",=Q17^3,,~#place-after-tech-cols#~=RANDBETWEEN(1;4),
+"=""Calculate: \( ""&Q18&""^3 \)""",=Q18^3,"=""\( ""&Q18&"" \times ""&Q18&"" \times ""&Q18&"" \)""",~#place-after-tech-cols#~=RANDBETWEEN(1;5),
+"=""Calculate: \( ""&Q19&""^3 \)""",=Q19^3,"=""\( ""&Q19&"" \times ""&Q19&"" \times ""&Q19&"" \)""",~#place-after-tech-cols#~=RANDBETWEEN(1;5),
+,,,,
+"=""Compare the numbers (insert <, >, or =):
+\( ""&Q21&""^2 \) ... \( 2^{""&Q21&""} \)""","=IF(Q21^2 > 2^Q21; "">""; IF(Q21^2 < 2^Q21; ""<""; ""=""))","=""Calculate separately: \( ""&Q21&""^2 = ""&Q21^2&"" \) and \( 2^{""&Q21&""} = ""&2^Q21&"" \)""",~#place-after-tech-cols#~=RANDBETWEEN(3;6),
+"=""Compare the numbers (insert <, >, or =):
+\( ""&Q22&""^2 \) ... \( ""&Q22+1&""^2 \)""",<,,~#place-after-tech-cols#~=RANDBETWEEN(2;9),
+,,,,
+"=""Calculate: ""&Q24&"" + ""&R24&""\(^2\)""",=Q24 + R24^2,Remember: exponents before addition.,~#place-after-tech-cols#~=RANDBETWEEN(10;50),=RANDBETWEEN(2;9)
+"=""Calculate: ""&Q25&"" × ""&R25&""\(^2\)""",=Q25 * R25^2,Remember: exponents before multiplication.,~#place-after-tech-cols#~=RANDBETWEEN(2;5),=RANDBETWEEN(2;6)
+"=""Calculate: (""&Q26&"" + ""&R26&"")\(^2\)""",=(Q26+R26)^2,First perform the operation inside the parentheses.,~#place-after-tech-cols#~=RANDBETWEEN(1;4),=RANDBETWEEN(1;5)
+"=""Calculate: ""&Q27&""\(^2\) - ""&R27&""\(^2\)""",=Q27^2 - R27^2,,~#place-after-tech-cols#~=RANDBETWEEN(5;10),=RANDBETWEEN(1;4)
+"=""Calculate: ""&Q28&""\(^2\) + ""&R28&""\(^3\)""",=Q28^2 + R28^3,,~#place-after-tech-cols#~=RANDBETWEEN(2;8),=RANDBETWEEN(1;3)
+"=""Calculate: (""&Q29&"" - ""&R29&"")\(^2\)""",=(Q29-R29)^2,"Parentheses first, then exponents.",~#place-after-tech-cols#~=RANDBETWEEN(6;12),=RANDBETWEEN(1;5)
+,,,,
+"=""The side of a square is ""&Q31&"" cm long. What is its area?""","=""\( ""&Q31^2&"" \text{ cm}^2 \)""",The area of a square is the side length squared.,~#place-after-tech-cols#~=RANDBETWEEN(3;12),
+"=""The side of a square is ""&Q32&"" m long. What is its area?""","=""\( ""&Q32^2&"" \text{ m}^2 \)""",The area of a square is the side length squared.,~#place-after-tech-cols#~=RANDBETWEEN(3;15),
+"=""The edge of a cube is ""&Q33&"" cm long. What is its volume?""","=""\( ""&Q33^3&"" \text{ cm}^3 \)""",The volume of a cube is the edge length cubed.,~#place-after-tech-cols#~=RANDBETWEEN(1;4),
+"=""The square of ""&Q34&"" is?""",=Q34^2,,~#place-after-tech-cols#~=RANDBETWEEN(2;13),
+"=""The cube of ""&Q35&"" is?""",=Q35^3,,~#place-after-tech-cols#~=RANDBETWEEN(1;4),
+"=""What number squared equals ""&Q36^2&""?""",=Q36,,~#place-after-tech-cols#~=RANDBETWEEN(2;12),
