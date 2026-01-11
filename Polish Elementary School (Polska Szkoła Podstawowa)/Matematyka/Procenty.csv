@@ -1,0 +1,116 @@
+#SHEETINFO | name=Kl6 Procenty,,,,,
+Teoria: https://matematyka.wiki/procenty,,,,,
+,,,,,
+"=""Ile to jest ""&Q6&""% z ""&R6&""?""",=Q6/100 * R6,"=""  \( \begin{pmatrix}
+     ""&R6&"" & : & 100 \\
+        & ⋅ &    \\
+     x & = & ""&Q6&"" 
+    \end{pmatrix} \)""",~#place-after-tech-cols#~=RANDBETWEEN(5;15),=RANDBETWEEN(1; 5) * (100 / GCD(Q6; 100)),
+"=""Ile to jest ""&Q7&""% z ""&R7&""?""",=Q7/100 * R7,"=""  \( \begin{pmatrix}
+     ""&R7&"" & : & 100 \\
+        & ⋅ &    \\
+     x & = & ""&Q7&"" 
+    \end{pmatrix} \)""",~#place-after-tech-cols#~=RANDBETWEEN(5;15),=RANDBETWEEN(1; 5) * (100 / GCD(Q7; 100)),
+"=""Ile to jest ""&Q8&""% z ""&R8&""?""",=Q8/100 * R8,"=""  \( \begin{pmatrix}
+     ""&R8&"" & : & 100 \\
+        & ⋅ &    \\
+     x & = & ""&Q8&"" 
+    \end{pmatrix} \)""",~#place-after-tech-cols#~=RANDBETWEEN(5;15),=RANDBETWEEN(1; 5) * (100 / GCD(Q8; 100)),
+"=""Ile to jest ""&Q9&""% z ""&R9&""?""",=Q9/100 * R9,"=""  \( \begin{pmatrix}
+     ""&R9&"" & : & 100 \\
+        & ⋅ &    \\
+     x & = & ""&Q9&"" 
+    \end{pmatrix} \)""",~#place-after-tech-cols#~=RANDBETWEEN(5;15),=RANDBETWEEN(5; 10) * (100 / GCD(Q9; 100)),
+"=""Ile to jest ""&Q10&""% z ""&R10&""?""",=Q10/100 * R10,"=""  \( \begin{pmatrix}
+     ""&R10&"" & : & 100 \\
+        & ⋅ &    \\
+     x & = & ""&Q10&"" 
+    \end{pmatrix} \)""",~#place-after-tech-cols#~=RANDBETWEEN(5;15),=RANDBETWEEN(5; 10) * (100 / GCD(Q10; 100)),
+"=""Ile to jest ""&Q11&""% z ""&R11&""?""",=Q11/100 * R11,"=""  \( \begin{pmatrix}
+     ""&R11&"" & : & 100 \\
+        & ⋅ &    \\
+     x & = & ""&Q11&"" 
+    \end{pmatrix} \)""",~#place-after-tech-cols#~=RANDBETWEEN(5;15),=RANDBETWEEN(5; 10) * (100 / GCD(Q11; 100)),
+"=""Ile to jest ""&Q12&""% z ""&R12&""?""",=Q12/100 * R12,"=""  \( \begin{pmatrix}
+     ""&R12&"" & : & 100 \\
+        & ⋅ &    \\
+     x & = & ""&Q12&"" 
+    \end{pmatrix} \)""",~#place-after-tech-cols#~=RANDBETWEEN(5;15),=RANDBETWEEN(5; 10) * (100 / GCD(Q12; 100)),
+"=""Ile to jest ""&Q13&""% z ""&R13&""?""",=Q13/100 * R13,"=""  \( \begin{pmatrix}
+     ""&R13&"" & : & 100 \\
+        & ⋅ &    \\
+     x & = & ""&Q13&"" 
+    \end{pmatrix} \)""",~#place-after-tech-cols#~=RANDBETWEEN(2;9)+100,=RANDBETWEEN(1; 5) * (100 / GCD(Q13; 100)),
+"=""Ile to jest ""&Q14&""% z ""&R14&""?""",=Q14/100 * R14,"=""  \( \begin{pmatrix}
+     ""&R14&"" & : & 100 \\
+        & ⋅ &    \\
+     x & = & ""&Q14&"" 
+    \end{pmatrix} \)""",~#place-after-tech-cols#~=RANDBETWEEN(2;9)+150,=RANDBETWEEN(1; 5) * (100 / GCD(Q14; 100)),
+"=""Ile to jest ""&Q15&""% z ""&R15&""?""",=Q15/100 * R15,"=""  \( \begin{pmatrix}
+     ""&R15&"" & : & 100 \\
+        & ⋅ &    \\
+     x & = & ""&Q15&"" 
+    \end{pmatrix} \)""",~#place-after-tech-cols#~=RANDBETWEEN(2;9)+200,=RANDBETWEEN(1; 3) * (100 / GCD(Q15; 100)),
+,,,,,
+"=""Oblicz ""&Q17&""% z liczby ""&R17&""""",=Q17/100 * R17,"=""  \( \begin{pmatrix}
+     ""&R17&"" & : & 100 \\
+        & ⋅ &    \\
+     x & = & ""&Q17&"" 
+    \end{pmatrix} \)""",~#place-after-tech-cols#~=RANDBETWEEN(1;6)*10,=RANDBETWEEN(5;9)*Q17,
+"=""Jaka jest wartość ""&Q18&""% z liczby ""&R18&""?""",=Q18/100 * R18,"=""  \( \begin{pmatrix}
+     ""&R18&"" & : & 100 \\
+        & ⋅ &    \\
+     x & = & ""&Q18&"" 
+    \end{pmatrix} \)""",~#place-after-tech-cols#~=RANDBETWEEN(1;6)*10,=RANDBETWEEN(5;9)*Q18,
+"=""Oblicz ""&Q19&""% z liczby ""&R19&""""",=Q19/100 * R19,"=""  \( \begin{pmatrix}
+     ""&R19&"" & : & 100 \\
+        & ⋅ &    \\
+     x & = & ""&Q19&"" 
+    \end{pmatrix} \)""",~#place-after-tech-cols#~=RANDBETWEEN(4;16)*25,=RANDBETWEEN(1;19)*4,=Q19/100*R19
+"=""Ile to jest ""&Q20&""% z liczby ""&R20&""?""",=Q20/100 * R20,"=""  \( \begin{pmatrix}
+     ""&R20&"" & : & 100 \\
+        & ⋅ &    \\
+     x & = & ""&Q20&"" 
+    \end{pmatrix} \)""",~#place-after-tech-cols#~=RANDBETWEEN(4;16)*25,=RANDBETWEEN(1;19)*4,=Q20/100*R20
+,,,,,
+"=""Jaki procent liczby ""&R22&"" stanowi liczba ""&Q22&""?""","=S22&""%""","=""  \( \begin{pmatrix}
+     ""&R22&"" & : & 100 \\
+        & ⋅ &    \\
+     ""&Q22&"" & = & x 
+    \end{pmatrix} \)""",~#place-after-tech-cols#~=S22/100*R22,=RANDBETWEEN(1;5)*20,=RANDBETWEEN(10;25)*5
+"=""Jaki procent liczby ""&R23&"" stanowi liczba ""&Q23&""?""","=S23&""%""","=""  \( \begin{pmatrix}
+     ""&R23&"" & : & 100 \\
+        & ⋅ &    \\
+     ""&Q23&"" & = & x 
+    \end{pmatrix} \)""",~#place-after-tech-cols#~=S23/100*R23,=RANDBETWEEN(1;5)*20,=RANDBETWEEN(10;25)*5
+"=""Jaki procent liczby ""&R24&"" stanowi liczba ""&Q24&""?""","=S24&""%""","=""  \( \begin{pmatrix}
+     ""&R24&"" & : & 100 \\
+        & ⋅ &    \\
+     ""&Q24&"" & = & x 
+    \end{pmatrix} \)""",~#place-after-tech-cols#~=S24/100*R24,=RANDBETWEEN(1;5)*20,=RANDBETWEEN(10;25)*5
+"=""Jaki procent liczby ""&R25&"" stanowi liczba ""&Q25&""?""","=S25&""%""","=""  \( \begin{pmatrix}
+     ""&R25&"" & : & 100 \\
+        & ⋅ &    \\
+     ""&Q25&"" & = & x 
+    \end{pmatrix} \)""",~#place-after-tech-cols#~=S25/100*R25,=RANDBETWEEN(1;5)*20,=RANDBETWEEN(10;25)*5
+,,,,,
+"=""Ile wynosi 100%, jeśli ""&Q27&""% to ""&R27&""?""",=S27,"=""  \( \begin{pmatrix}
+     x & = & 100 \\
+        & ⋅ &    \\
+     ""&R27&"" & : & ""&Q27&"" 
+    \end{pmatrix} \)""",~#place-after-tech-cols#~=RANDBETWEEN(1;50)*4,=S27*Q27/100,=RANDBETWEEN(2;20)*25
+"=""Ile wynosi 100%, jeśli ""&Q28&""% to ""&R28&""?""",=S28,"=""  \( \begin{pmatrix}
+     x & = & 100 \\
+        & ⋅ &    \\
+     ""&R28&"" & : & ""&Q28&"" 
+    \end{pmatrix} \)""",~#place-after-tech-cols#~=RANDBETWEEN(1;50)*4,=S28*Q28/100,=RANDBETWEEN(2;20)*25
+"=""Ile wynosi 100%, jeśli ""&Q29&""% to ""&R29&""?""",=S29,"=""  \( \begin{pmatrix}
+     x & = & 100 \\
+        & ⋅ &    \\
+     ""&R29&"" & : & ""&Q29&"" 
+    \end{pmatrix} \)""",~#place-after-tech-cols#~=RANDBETWEEN(1;50)*4,=S29*Q29/100,=RANDBETWEEN(2;20)*25
+"=""Ile wynosi 100%, jeśli ""&Q30&""% to ""&R30&""?""",=S30,"=""  \( \begin{pmatrix}
+     x & = & 100 \\
+        & ⋅ &    \\
+     ""&R30&"" & : & ""&Q30&"" 
+    \end{pmatrix} \)""",~#place-after-tech-cols#~=RANDBETWEEN(1;50)*4,=S30*Q30/100,=RANDBETWEEN(2;20)*25
