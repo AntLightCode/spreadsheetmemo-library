@@ -1,0 +1,188 @@
+#SHEETINFO | name=Roman Numerals,,
+"=""Read the Roman numeral:
+
+""&Q4",=ARABIC(Q4),~#place-after-tech-cols#~XLVIII
+"=""Read the Roman numeral:
+
+""&Q5",=ARABIC(Q5),~#place-after-tech-cols#~CD
+"=""Read the Roman numeral:
+
+""&Q6",=ARABIC(Q6),~#place-after-tech-cols#~MC
+"=""Read the Roman numeral:
+
+""&Q7",=ARABIC(Q7),~#place-after-tech-cols#~MDI
+"=""Read the Roman numeral:
+
+""&Q8",=ARABIC(Q8),~#place-after-tech-cols#~MDCXLIX
+"=""Read the Roman numeral:
+
+""&Q9",=ARABIC(Q9),~#place-after-tech-cols#~LXI
+"=""Read the Roman numeral:
+
+""&Q10",=ARABIC(Q10),~#place-after-tech-cols#~XLVI
+"=""Read the Roman numeral:
+
+""&Q11",=ARABIC(Q11),~#place-after-tech-cols#~XLIX
+"=""Read the Roman numeral:
+
+""&Q12",=ARABIC(Q12),~#place-after-tech-cols#~LXXIX
+"=""Read the Roman numeral:
+
+""&Q13",=ARABIC(Q13),~#place-after-tech-cols#~XCVIII
+"=""Read the Roman numeral:
+
+""&Q14",=ARABIC(Q14),~#place-after-tech-cols#~CXXXIX
+"=""Read the Roman numeral:
+
+""&Q15",=ARABIC(Q15),~#place-after-tech-cols#~CXVI
+"=""Read the Roman numeral:
+
+""&Q16",=ARABIC(Q16),~#place-after-tech-cols#~CIV
+"=""Read the Roman numeral:
+
+""&Q17",=ARABIC(Q17),~#place-after-tech-cols#~DCCCVI
+"=""Read the Roman numeral:
+
+""&Q18",=ARABIC(Q18),~#place-after-tech-cols#~DCXI
+"=""Read the Roman numeral:
+
+""&Q19",=ARABIC(Q19),~#place-after-tech-cols#~DCCCXCII
+"=""Read the Roman numeral:
+
+""&Q20",=ARABIC(Q20),~#place-after-tech-cols#~DCCXLVIII
+"=""Read the Roman numeral:
+
+""&Q21",=ARABIC(Q21),~#place-after-tech-cols#~MCDIV
+"=""Read the Roman numeral:
+
+""&Q22",=ARABIC(Q22),~#place-after-tech-cols#~CMXII
+"=""Read the Roman numeral:
+
+""&Q23",=ARABIC(Q23),~#place-after-tech-cols#~MMMCDL
+"=""Read the Roman numeral:
+
+""&Q24",=ARABIC(Q24),~#place-after-tech-cols#~MMCDXLVI
+"=""Read the Roman numeral:
+
+""&Q25",=ARABIC(Q25),~#place-after-tech-cols#~MMMDCCCXCVI
+,,
+"=""Write the number as a Roman numeral:
+
+""&Q27",=ROMAN(Q27),~#place-after-tech-cols#~42
+"=""Write the number as a Roman numeral:
+
+""&Q28",=ROMAN(Q28),~#place-after-tech-cols#~499
+"=""Write the number as a Roman numeral:
+
+""&Q29",=ROMAN(Q29),~#place-after-tech-cols#~51
+"=""Write the number as a Roman numeral:
+
+""&Q30",=ROMAN(Q30),~#place-after-tech-cols#~68
+"=""Write the number as a Roman numeral:
+
+""&Q31",=ROMAN(Q31),~#place-after-tech-cols#~79
+"=""Write the number as a Roman numeral:
+
+""&Q32",=ROMAN(Q32),~#place-after-tech-cols#~99
+"=""Write the number as a Roman numeral:
+
+""&Q33",=ROMAN(Q33),~#place-after-tech-cols#~101
+"=""Write the number as a Roman numeral:
+
+""&Q34",=ROMAN(Q34),~#place-after-tech-cols#~25
+"=""Write the number as a Roman numeral:
+
+""&Q35",=ROMAN(Q35),~#place-after-tech-cols#~38
+"=""Write the number as a Roman numeral:
+
+""&Q36",=ROMAN(Q36),~#place-after-tech-cols#~567
+"=""Write the number as a Roman numeral:
+
+""&Q37",=ROMAN(Q37),~#place-after-tech-cols#~729
+"=""Write the number as a Roman numeral:
+
+""&Q38",=ROMAN(Q38),~#place-after-tech-cols#~881
+"=""Write the number as a Roman numeral:
+
+""&Q39",=ROMAN(Q39),~#place-after-tech-cols#~979
+"=""Write the number as a Roman numeral:
+
+""&Q40",=ROMAN(Q40),~#place-after-tech-cols#~1230
+"=""Write the number as a Roman numeral:
+
+""&Q41",=ROMAN(Q41),~#place-after-tech-cols#~2023
+,,
+"What year is it?
+Approx. MMM BC - creation of the first constellation maps.","=ARABIC(Q43) &"" BC""",~#place-after-tech-cols#~MMM
+"What year is it?
+MDXLIII - publication of Nicolaus Copernicus' work ""On the Revolutions of the Heavenly Spheres"".",=ARABIC(Q44),~#place-after-tech-cols#~MDXLIII
+"What year is it?
+MDCCLXXXIV - approximate determination of the shape and size of the Galaxy.",=ARABIC(Q45),~#place-after-tech-cols#~MDCCLXXXIV
+"What year is it?
+
+MCMLXI - first human flight into space.",=ARABIC(Q46),~#place-after-tech-cols#~MCMLXI
+"What year is it?
+MCMLXIX - first human landing on the Moon.",=ARABIC(Q47),~#place-after-tech-cols#~MCMLXIX
+"What year is it?
+MCMXCVII - landing of a space probe on Mars and first exploration of the surface by a remotely controlled rover.",=ARABIC(Q48),~#place-after-tech-cols#~MCMXCVII
+"What year is it?
+MMXXI - first drone flight on Mars.",=ARABIC(Q49),~#place-after-tech-cols#~MMXXI
+,,
+"What century is it?
+
+1387",14th century,
+"What century is it?
+
+544",6th century,
+"What century is it?
+
+1000",10th century,
+"What century is it?
+
+2023",21st century,
+"What century is it?
+
+3800",38th century,
+"What century is it?
+
+1601",17th century,
+"What century is it?
+
+999",10th century,
+"What century is it?
+
+Dec 31, 2000",20th century,
+"What century is it?
+
+Mar 4, 2001",21st century,
+"What century is it?
+
+Sep 1, 2023",21st century,
+"What century is it?
+
+Jan 1, 2101",22nd century,
+"What century is it?
+
+Jan 1, 2100",21st century,
+,,
+Random,,
+"=""Read the Roman numeral:
+
+""&ROMAN(Q65)",=Q65,~#place-after-tech-cols#~=RANDBETWEEN(1;3999)
+"=""Read the Roman numeral:
+
+""&ROMAN(Q66)",=Q66,~#place-after-tech-cols#~=RANDBETWEEN(1;3999)
+,,
+"=""Write the number as a Roman numeral:
+
+""&Q68",=ROMAN(Q68),~#place-after-tech-cols#~=RANDBETWEEN(1;3999)
+"=""Write the number as a Roman numeral:
+
+""&Q69",=ROMAN(Q69),~#place-after-tech-cols#~=RANDBETWEEN(1;3999)
+,,
+"=""What century is it?
+
+""&Q71","=ROUNDUP(Q71 / 100; 0) &""th century""",~#place-after-tech-cols#~=RANDBETWEEN(1;3999)
+"=""What century is it?
+
+""&Q72","=ROUNDUP(Q72 / 100; 0) &""th century""",~#place-after-tech-cols#~=RANDBETWEEN(1;3999)
