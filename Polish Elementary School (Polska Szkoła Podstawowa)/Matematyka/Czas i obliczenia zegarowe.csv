@@ -10,14 +10,14 @@
 
 1 minuta = 🎁  sekund
 1 godzina = 💣 minut
-1 dzień = 💝  godziny
+1 doba (dzień) = 💝  godziny
 
 1 tydzień = 🌀 dni
 1 miesiąc = 🎈 dni
 1 kwartał = ❇️  miesiące
 1 rok = 🔆 miesięcy","1 minuta = 60 sekund
 1 godzina = 60 minut
-1 dzień = 24 godziny
+1 doba (dzień) = 24 godziny
 
 1 tydzień = 7 dni
 1 miesiąc = 28/29, 30, 31 dni
@@ -111,7 +111,10 @@ od 23:55 do 0:20",25 minut,,,,
 
 od 4:39 do 5:17",38 minut,,,,
 ,,,,,
-Ile godzin i minut upłynie od godziny 14:56 do godziny 17:24 ,Razem: 2 godziny 4 minuty + 24 minuty = 2 godziny 28 minut.,=$D$4,,,
+Ile godzin i minut upłynie od godziny 14:56 do godziny 17:24 ,"Od 14:56 do 17:00 mijają 2 godz. 4 min.
+Od 17:00 do 17:24 mijają 24 min.
+
+Razem: 2 godz. 4 min + 24 min = 2 godz. 28 min.",=$D$4,,,
 "=""Oblicz, ile minut upłynie od godziny ""&TEXT(Q38;""HH:MM"")&"" do ""&TEXT(R38;""HH:MM"")&""""",=S38,,~#place-after-tech-cols#~=TIME(RANDBETWEEN(0; 23); RANDBETWEEN(0; 59); 0),=Q38+ TIME(0; S38; 0),=RANDBETWEEN(24;59)
 "=""Oblicz, ile minut upłynie od godziny ""&TEXT(Q39;""HH:MM"")&"" do ""&TEXT(R39;""HH:MM"")&""""",=S39,,~#place-after-tech-cols#~=TIME(RANDBETWEEN(0; 23); RANDBETWEEN(0; 59); 0),=Q39+ TIME(0; S39; 0),=RANDBETWEEN(24;59)
 "=""Oblicz, ile minut upłynie od godziny ""&TEXT(Q40;""HH:MM"")&"" do ""&TEXT(R40;""HH:MM"")&""""",=S40,,~#place-after-tech-cols#~=TIME(RANDBETWEEN(0; 23); RANDBETWEEN(0; 59); 0),=Q40+ TIME(0; S40; 0),=RANDBETWEEN(24;59)
@@ -156,12 +159,12 @@ od 17:34 w środę do 21:35 w sobotę","Dzielimy okres na mniejsze części:
 := 75 godzin 61 minut
 := 76 godzin 1 minuta",,,,
 ,,,,,
-"=""Oblicz, ile dni minęło od ""&TEXT(R53;""DD.MM.yyyy"")&"" do ""&TEXT(S53;""DD.MM.yyyy"")&""?
+"=""Oblicz, ile dni minęło od ""&TEXT(Q53;""DD.MM.yyyy"")&"" do ""&TEXT(R53;""DD.MM.yyyy"")&""?
 
-Jakich miesięcy dotyczy to zadanie?""",=S53-R53,,,=DATE(YEAR(TODAY()); RANDBETWEEN(1;11); RANDBETWEEN(16; 31)),=R53+RANDBETWEEN(5;28)
-"=""Oblicz, ile dni minęło od ""&TEXT(R54;""DD.MM.yyyy"")&"" do ""&TEXT(S54;""DD.MM.yyyy"")&""?
+Jakich miesięcy dotyczy to zadanie?""",=R53-Q53,,~#place-after-tech-cols#~=DATE(YEAR(TODAY()); RANDBETWEEN(1;11); RANDBETWEEN(16; 31)),=Q53+RANDBETWEEN(5;28)
+"=""Oblicz, ile dni minęło od ""&TEXT(Q54;""DD.MM.yyyy"")&"" do ""&TEXT(R54;""DD.MM.yyyy"")&""?
 
-Jakich miesięcy dotyczy to zadanie?""",=S54-R54,,,=DATE(YEAR(TODAY()); RANDBETWEEN(1;11); RANDBETWEEN(16; 31)),=R54+RANDBETWEEN(5;28)
-"=""Oblicz, ile dni minęło od ""&TEXT(R55;""DD.MM.yyyy"")&"" do ""&TEXT(S55;""DD.MM.yyyy"")&""?
+Jakich miesięcy dotyczy to zadanie?""",=R54-Q54,,~#place-after-tech-cols#~=DATE(YEAR(TODAY()); RANDBETWEEN(1;11); RANDBETWEEN(16; 31)),=Q54+RANDBETWEEN(5;28)
+"=""Oblicz, ile dni minęło od ""&TEXT(Q55;""DD.MM.yyyy"")&"" do ""&TEXT(R55;""DD.MM.yyyy"")&""?
 
-Jakich miesięcy dotyczy to zadanie?""",=S55-R55,,,=DATE(YEAR(TODAY()); RANDBETWEEN(1;11); RANDBETWEEN(16; 31)),=R55+RANDBETWEEN(5;28)
+Jakich miesięcy dotyczy to zadanie?""",=R55-Q55,,~#place-after-tech-cols#~=DATE(YEAR(TODAY()); RANDBETWEEN(1;11); RANDBETWEEN(16; 31)),=Q55+RANDBETWEEN(5;28)
