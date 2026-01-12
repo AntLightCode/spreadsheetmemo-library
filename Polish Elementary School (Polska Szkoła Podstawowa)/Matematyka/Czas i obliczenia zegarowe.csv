@@ -1,0 +1,167 @@
+#SHEETINFO | name=Kl4SP Czas i obliczenia zegarowe,,,,,
+,,"Zależności między jednostkami czasu:
+* 1 min = 60 s
+* 1 kwadrans = 15 min
+* pół godz. = 30 min = 2 kwadranse
+* 1 godz. = 60 min = 4 kwadranse = 3600 s
+* 1 doba = 24 godz.",,,
+,,,,,
+"Zamiana jednostek czasu:
+
+1 minuta = 🎁  sekund
+1 godzina = 💣 minut
+1 dzień = 💝  godziny
+
+1 tydzień = 🌀 dni
+1 miesiąc = 🎈 dni
+1 kwartał = ❇️  miesiące
+1 rok = 🔆 miesięcy","1 minuta = 60 sekund
+1 godzina = 60 minut
+1 dzień = 24 godziny
+
+1 tydzień = 7 dni
+1 miesiąc = 28/29, 30, 31 dni
+1 kwartał = 3 miesiące
+1 rok = 12 miesięcy",,,,
+,,,,,
+"Ile to minut?
+
+1 godz. 13 min",73 min,=$D$4,,,
+"Ile to minut?
+
+3 godz. 10 min",190 min,=$D$4,,,
+"Ile to minut?
+
+5 godz. 46 min","346 min
+
+5 ⋅ 60 + 46 = 300 + 46 = 346",=$D$4,,,
+"Ile to minut?
+
+pół godziny",30 min,=$D$4,,,
+"Ile to minut?
+
+dwie i pół godziny",150 min,=$D$4,,,
+"Ile to minut?
+
+3 kwadranse",45 min,=$D$4,,,
+"Ile to minut?
+
+7 kwadransów",105 min,=$D$4,,,
+"Ile to minut?
+
+180 sekund",3 min,=$D$4,,,
+"Ile to minut?
+
+24 godziny","1440 min
+
+24 ⋅ 60 = 20 ⋅ 60 + 4 ⋅ 60 = 1200 + 240 = 1440",=$D$4,,,
+"=""Ile to minut?
+
+""&Q17&"" godzin ""&R17&"" minut""",=Q17*60+R17,=$D$4,~#place-after-tech-cols#~=RANDBETWEEN(1;6),=RANDBETWEEN(1;59),
+"=""Ile to minut?
+
+""&Q18&"" godzin ""&R18&"" minut""",=Q18*60+R18,=$D$4,~#place-after-tech-cols#~=RANDBETWEEN(1;6),=RANDBETWEEN(1;59),
+"=""Ile to minut?
+
+""&Q19&"" godzin ""&R19&"" minut""",=Q19*60+R19,=$D$4,~#place-after-tech-cols#~=RANDBETWEEN(1;6),=RANDBETWEEN(1;59),
+,,,,,
+"Ile to godzin i minut?
+
+75 min",1 godz. 15 min,=$D$4,,,
+"Ile to godzin i minut?
+
+123 min",2 godz. 3 min,=$D$4,,,
+"Ile to godzin i minut?
+
+1 doba i 15 minut",24 godz. 15 min,=$D$4,,,
+"Ile to godzin i minut?
+
+dwie i pół doby","60 godz.
+
+24 + 24 + 12 = 48 + 12 = 60",=$D$4,,,
+"Ile to minut:
+
+3 godziny 45 minut",225 minut,=$D$4,,,
+,,,,,
+"Oblicz, ile czasu upłynie:
+
+od 13:15 do 13:28",13 minut,,,,
+"Oblicz, ile czasu upłynie:
+
+od 18:01 do 18:55",54 minuty,,,,
+"Oblicz, ile czasu upłynie:
+
+od 17:28 do 18:13",45 minut,,,,
+"Oblicz, ile czasu upłynie:
+
+od 1:12 do 2:18",1 godzina 6 minut,,,,
+"Oblicz, ile czasu upłynie:
+
+od 22:08 do 22:42",34 minuty,,,,
+"Oblicz, ile czasu upłynie:
+
+od 15:45 do 16:20",35 minut,,,,
+"Oblicz, ile czasu upłynie:
+
+od 20:50 do 21:15",25 minut,,,,
+"Oblicz, ile czasu upłynie:
+
+od 23:55 do 0:20",25 minut,,,,
+"Oblicz, ile czasu upłynie:
+
+od 4:39 do 5:17",38 minut,,,,
+,,,,,
+Ile godzin i minut upłynie od godziny 14:56 do godziny 17:24 ,Razem: 2 godziny 4 minuty + 24 minuty = 2 godziny 28 minut.,=$D$4,,,
+"=""Oblicz, ile minut upłynie od godziny ""&TEXT(Q38;""HH:MM"")&"" do ""&TEXT(R38;""HH:MM"")&""""",=S38,,~#place-after-tech-cols#~=TIME(RANDBETWEEN(0; 23); RANDBETWEEN(0; 59); 0),=Q38+ TIME(0; S38; 0),=RANDBETWEEN(24;59)
+"=""Oblicz, ile minut upłynie od godziny ""&TEXT(Q39;""HH:MM"")&"" do ""&TEXT(R39;""HH:MM"")&""""",=S39,,~#place-after-tech-cols#~=TIME(RANDBETWEEN(0; 23); RANDBETWEEN(0; 59); 0),=Q39+ TIME(0; S39; 0),=RANDBETWEEN(24;59)
+"=""Oblicz, ile minut upłynie od godziny ""&TEXT(Q40;""HH:MM"")&"" do ""&TEXT(R40;""HH:MM"")&""""",=S40,,~#place-after-tech-cols#~=TIME(RANDBETWEEN(0; 23); RANDBETWEEN(0; 59); 0),=Q40+ TIME(0; S40; 0),=RANDBETWEEN(24;59)
+,,,,,
+"Spektakl trwający 115 minut rozpoczął się o godzinie 19:20. 
+
+O której godzinie się zakończył? ","Przeliczenie minut na godziny i minuty: 
+:115 minut to 1 godzina 55 minut (ponieważ 60 minut to 1 godzina, a zostaje nam 55 minut).
+
+Dodanie do godziny rozpoczęcia: 19:20 + 1:55 = 21:15
+
+Odp: Spektakl zakończył się o godzinie 21:15.",,,,
+Autobus wyjechał z miasta o 13:15 i jechał 2 godziny i 45 minut. O której godzinie dojechał do celu?,16:00,Obliczenia zegarowe (czas),,,
+Ola robiła zakupy przez 1 godzinę i 45 minut. Zaczęła o 10:20. O której skończyła?,12:05,Obliczenia zegarowe,,,
+Zegarek wskazuje 10:25. Ile minut minie do godziny 11:00?,35 minut,Obliczenia zegarowe,,,
+"Ciasto piekło się 1 godzinę i 20 minut. O której trzeba je wyjąć z piekarnika, jeśli wstawiono je o 15:10?",16:30,Obliczenia zegarowe,,,
+Pociąg wyjechał o 9:40 i jechał 2 godziny i 50 minut. O której godzinie dotarł?,12:30,Obliczenia zegarowe,,,
+,,,,,
+"Oblicz, ile czasu upłynie:
+
+od 5:05 w środę do 21:00 w niedzielę","Aby ułatwić obliczenia, możemy podzielić ten okres na mniejsze części:
+* Środa: od 5:05 do 24:00 (18:55 godzin)
+* Czwartek, piątek, sobota: po 24 godziny każda (łącznie 72 godziny)
+* Niedziela: od 0:00 do 21:00 (21 godzin)
+
+Łącznie: 18:55 + 72 + 21 = 111 godzin 55 minut.",,,,
+"Oblicz, ile czasu upłynie:
+
+od 12:30 w poniedziałek do 15:40 we wtorek","Przekraczamy granicę między dwoma dniami:
+* Poniedziałek: od 12:30 do 24:00 (11 godzin 30 minut)
+* Wtorek: od 0:00 do 15:40 (15 godzin 40 minut)
+
+Łącznie: 11 godzin 30 minut + 15 godzin 40 minut = 27 godzin 10 minut.",,,,
+"Oblicz, ile czasu upłynie:
+
+od 17:34 w środę do 21:35 w sobotę","Dzielimy okres na mniejsze części:
+* Środa: od 17:34 do 24:00 (6 godzin 26 minut)
+* Czwartek, piątek: 24 godziny + 24 godziny 
+* Sobota: od 0:00 do 21:35 (21 godzin 35 minut)
+
+Łącznie: 6 godzin 26 minut + 24 godziny + 24 godziny + 21 godzin 35 minut 
+:= 75 godzin 61 minut
+:= 76 godzin 1 minuta",,,,
+,,,,,
+"=""Oblicz, ile dni minęło od ""&TEXT(R53;""DD.MM.yyyy"")&"" do ""&TEXT(S53;""DD.MM.yyyy"")&""?
+
+Jakich miesięcy dotyczy to zadanie?""",=S53-R53,,,=DATE(YEAR(TODAY()); RANDBETWEEN(1;11); RANDBETWEEN(16; 31)),=R53+RANDBETWEEN(5;28)
+"=""Oblicz, ile dni minęło od ""&TEXT(R54;""DD.MM.yyyy"")&"" do ""&TEXT(S54;""DD.MM.yyyy"")&""?
+
+Jakich miesięcy dotyczy to zadanie?""",=S54-R54,,,=DATE(YEAR(TODAY()); RANDBETWEEN(1;11); RANDBETWEEN(16; 31)),=R54+RANDBETWEEN(5;28)
+"=""Oblicz, ile dni minęło od ""&TEXT(R55;""DD.MM.yyyy"")&"" do ""&TEXT(S55;""DD.MM.yyyy"")&""?
+
+Jakich miesięcy dotyczy to zadanie?""",=S55-R55,,,=DATE(YEAR(TODAY()); RANDBETWEEN(1;11); RANDBETWEEN(16; 31)),=R55+RANDBETWEEN(5;28)
