@@ -1,0 +1,170 @@
+#SHEETINFO | name=Time and clock calculations,,,,,
+,,"Relationships between time units:
+* 1 min = 60 s
+* 1 quarter = 15 min
+* half an hour = 30 min = 2 quarters
+* 1 hour = 60 min = 4 quarters = 3600 s
+* 1 day = 24 hours",,,
+,,,,,
+"Time unit conversion:
+
+1 minute = 🎁  seconds
+1 hour = 💣 minutes
+1 day = 💝  hours
+
+1 week = 🌀 days
+1 month = 🎈 days
+1 quarter = ❇️  months
+1 year = 🔆 months","1 minute = 60 seconds
+1 hour = 60 minutes
+1 day = 24 hours
+
+1 week = 7 days
+1 month = 28/29, 30, 31 days
+1 quarter = 3 months
+1 year = 12 months",,,,
+,,,,,
+"How many minutes is this?
+
+1 h 13 min",73 min,=$D$4,,,
+"How many minutes is this?
+
+3 h 10 min",190 min,=$D$4,,,
+"How many minutes is this?
+
+5 h 46 min","346 min
+
+5 × 60 + 46 = 300 + 46 = 346",=$D$4,,,
+"How many minutes is this?
+
+half an hour",30 min,=$D$4,,,
+"How many minutes is this?
+
+two and a half hours",150 min,=$D$4,,,
+"How many minutes is this?
+
+3 quarters",45 min,=$D$4,,,
+"How many minutes is this?
+
+7 quarters",105 min,=$D$4,,,
+"How many minutes is this?
+
+180 seconds",3 min,=$D$4,,,
+"How many minutes is this?
+
+24 hours","1440 min
+
+24 × 60 = 20 × 60 + 4 × 60 = 1200 + 240 = 1440",=$D$4,,,
+"=""How many minutes is this?
+
+""&Q17&"" hours ""&R17&"" minutes""",=Q17*60+R17,=$D$4,~#place-after-tech-cols#~=RANDBETWEEN(1;6),=RANDBETWEEN(1;59),
+"=""How many minutes is this?
+
+""&Q18&"" hours ""&R18&"" minutes""",=Q18*60+R18,=$D$4,~#place-after-tech-cols#~=RANDBETWEEN(1;6),=RANDBETWEEN(1;59),
+"=""How many minutes is this?
+
+""&Q19&"" hours ""&R19&"" minutes""",=Q19*60+R19,=$D$4,~#place-after-tech-cols#~=RANDBETWEEN(1;6),=RANDBETWEEN(1;59),
+,,,,,
+"How many hours and minutes is this?
+
+75 min",1 h 15 min,=$D$4,,,
+"How many hours and minutes is this?
+
+123 min",2 h 3 min,=$D$4,,,
+"How many hours and minutes is this?
+
+1 day and 15 minutes",24 h 15 min,=$D$4,,,
+"How many hours and minutes is this?
+
+two and a half days","60 h
+
+24 + 24 + 12 = 48 + 12 = 60",=$D$4,,,
+"How many minutes:
+
+3 hours 45 minutes",225 minutes,=$D$4,,,
+,,,,,
+"Calculate how much time passes:
+
+from 13:15 to 13:28",13 minutes,,,,
+"Calculate how much time passes:
+
+from 18:01 to 18:55",54 minutes,,,,
+"Calculate how much time passes:
+
+from 17:28 to 18:13",45 minutes,,,,
+"Calculate how much time passes:
+
+from 1:12 to 2:18",1 hour 6 minutes,,,,
+"Calculate how much time passes:
+
+from 22:08 to 22:42",34 minutes,,,,
+"Calculate how much time passes:
+
+from 15:45 to 16:20",35 minutes,,,,
+"Calculate how much time passes:
+
+from 20:50 to 21:15",25 minutes,,,,
+"Calculate how much time passes:
+
+from 23:55 to 0:20",25 minutes,,,,
+"Calculate how much time passes:
+
+from 4:39 to 5:17",38 minutes,,,,
+,,,,,
+How many hours and minutes pass from 14:56 to 17:24 ,"From 14:56 to 17:00, 2 h 4 min pass.
+From 17:00 to 17:24, 24 min pass.
+
+Total: 2 h 4 min + 24 min = 2 h 28 min.",=$D$4,,,
+"=""Calculate how many minutes pass from ""&TEXT(Q38;""HH:MM"")&"" to ""&TEXT(R38;""HH:MM"")&""""",=S38,,~#place-after-tech-cols#~=TIME(RANDBETWEEN(0; 23); RANDBETWEEN(0; 59); 0),=Q38+ TIME(0; S38; 0),=RANDBETWEEN(24;59)
+"=""Calculate how many minutes pass from ""&TEXT(Q39;""HH:MM"")&"" to ""&TEXT(R39;""HH:MM"")&""""",=S39,,~#place-after-tech-cols#~=TIME(RANDBETWEEN(0; 23); RANDBETWEEN(0; 59); 0),=Q39+ TIME(0; S39; 0),=RANDBETWEEN(24;59)
+"=""Calculate how many minutes pass from ""&TEXT(Q40;""HH:MM"")&"" to ""&TEXT(R40;""HH:MM"")&""""",=S40,,~#place-after-tech-cols#~=TIME(RANDBETWEEN(0; 23); RANDBETWEEN(0; 59); 0),=Q40+ TIME(0; S40; 0),=RANDBETWEEN(24;59)
+,,,,,
+"A show lasting 115 minutes started at 19:20. 
+
+What time did it end? ","Converting minutes to hours and minutes: 
+115 minutes is 1 hour 55 minutes (since 60 minutes is 1 hour, and we are left with 55 minutes).
+
+Adding to the start time: 19:20 + 1:55 = 21:15
+
+Answer: The show ended at 21:15.",,,,
+A bus left the city at 13:15 and traveled for 2 hours and 45 minutes. What time did it arrive at the destination?,16:00,Clock calculations (time),,,
+Alice was shopping for 1 hour and 45 minutes. She started at 10:20. What time did she finish?,12:05,Clock calculations,,,
+The watch shows 10:25. How many minutes until 11:00?,35 minutes,Clock calculations,,,
+"A cake baked for 1 hour and 20 minutes. What time should it be taken out of the oven if it was put in at 15:10?",16:30,Clock calculations,,,
+A train left at 9:40 and traveled for 2 hours and 50 minutes. What time did it arrive?,12:30,Clock calculations,,,
+,,,,,
+"Calculate how much time passes:
+
+from 5:05 on Wednesday to 21:00 on Sunday","To make calculations easier, we can divide this period into smaller parts:
+* Wednesday: from 5:05 to 24:00 (18:55 hours)
+* Thursday, Friday, Saturday: 24 hours each (72 hours total)
+* Sunday: from 0:00 to 21:00 (21 hours)
+
+Total: 18:55 + 72 + 21 = 111 hours 55 minutes.",,,,
+"Calculate how much time passes:
+
+from 12:30 on Monday to 15:40 on Tuesday","We are crossing the boundary between two days:
+* Monday: from 12:30 to 24:00 (11 hours 30 minutes)
+* Tuesday: from 0:00 to 15:40 (15 hours 40 minutes)
+
+Total: 11 hours 30 minutes + 15 hours 40 minutes = 27 hours 10 minutes.",,,,
+"Calculate how much time passes:
+
+from 17:34 on Wednesday to 21:35 on Saturday","We divide the period into smaller parts:
+* Wednesday: from 17:34 to 24:00 (6 hours 26 minutes)
+* Thursday, Friday: 24 hours + 24 hours 
+* Saturday: from 0:00 to 21:35 (21 hours 35 minutes)
+
+Total: 6 hours 26 minutes + 24 hours + 24 hours + 21 hours 35 minutes 
+= 75 hours 61 minutes
+= 76 hours 1 minute",,,,
+,,,,,
+"=""Calculate how many days passed from ""&TEXT(Q53;""DD/MM/yyyy"")&"" to ""&TEXT(R53;""DD/MM/yyyy"")&""?
+
+Which months are covered in this task?""",=R53-Q53,,~#place-after-tech-cols#~=DATE(YEAR(TODAY()); RANDBETWEEN(1;11); RANDBETWEEN(16; 31)),=Q53+RANDBETWEEN(5;28)
+"=""Calculate how many days passed from ""&TEXT(Q54;""DD/MM/yyyy"")&"" to ""&TEXT(R54;""DD/MM/yyyy"")&""?
+
+Which months are covered in this task?""",=R54-Q54,,~#place-after-tech-cols#~=DATE(YEAR(TODAY()); RANDBETWEEN(1;11); RANDBETWEEN(16; 31)),=Q54+RANDBETWEEN(5;28)
+"=""Calculate how many days passed from ""&TEXT(Q55;""DD/MM/yyyy"")&"" to ""&TEXT(R55;""DD/MM/yyyy"")&""?
+
+Which months are covered in this task?""",=R55-Q55,,~#place-after-tech-cols#~=DATE(YEAR(TODAY()); RANDBETWEEN(1;11); RANDBETWEEN(16; 31)),=Q55+RANDBETWEEN(5;28)
