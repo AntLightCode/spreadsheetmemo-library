@@ -910,7 +910,12 @@ to moor",~#tts:nap:en-US{The boat was moored to the dock.}#~,,,~#ttsA:en-US#~
 ~#tts:nap:en-US{heterogeneous, multifarious}#~
 
 ~#tts:nap:en-US{The box contained miscellaneous items.}#~",,,~#ttsA:en-US#~
-"przymusowy, obowiązkowy",compulsory,~#tts:nap:en-US{The course is compulsory for all students.}#~,,,~#ttsA:en-US#~
+"przymusowy,
+obowiązkowy (wymagany przez prawo, system, zasady ogólne)",compulsory,"~#tts:nap:en-US{mandatory, required, obligatory}#~
+~#tts:nap:en-US{statutory}#~ (wynikający z prawa)
+~#tts:nap:en-US{prescribed}#~ (narzucony przepisami)
+
+~#tts:nap:en-US{The course is compulsory for all students.}#~",,,~#ttsA:en-US#~
 "okrytny, nieustępliwy, bezlitosny",relentless,"~#tts:nap:en-US{unstoppable, unavoidable, persistent}#~
 ~#tts:nap:en-US{inescapable, inevitable, irrevocable, continuous, inexorable}#~
 
@@ -2375,13 +2380,8 @@ tarcza (zegara),dial,~#tts:nap:en-US{He dialed the phone number.}#~,,,~#ttsA:en-
 chłopiec na posyłki,errand boy,~#tts:nap:en-US{The errand boy delivered the packages.}#~,,,~#ttsA:en-US#~
 "mylący, błędny, błądzący",errant,~#tts:nap:en-US{The errant knight wandered through the forest.}#~,,,~#ttsA:en-US#~
 "wywoływać, przywoływać",to evoke,~#tts:nap:en-US{The music evoked memories of her childhood.}#~,,,~#ttsA:en-US#~
-"zaostrzyć
-pogarszać
-rozdrażniać",to exacerbate,"~#tts:nap:en-US{exacerbate, sharpen, sharp}#~
-
-~#tts:nap:en-US{worsen, aggravate, exacerbate, make worse}#~
-
-~#tts:nap:en-US{irritate, provoke, exasperate, exacerbate, rouse, incense}#~
+"pogarszać, zaostrzać sytuację,
+zwiększyć nasilenie problemu lub sytuacji",to exacerbate,"~#tts:nap:en-US{worsen, to aggravate, to intensify, to inflame, make worse}#~
 
 ~#tts:nap:en-US{His actions exacerbated the situation.}#~",,,~#ttsA:en-US#~
 "przesadzać, wyolbrzymiać",to exaggerate,~#tts:nap:en-US{He exaggerated the dangers of the situation.}#~,,,~#ttsA:en-US#~
@@ -2486,7 +2486,7 @@ pander",~#tts:nap:en-US{He pandered to her vanity.}#~,,,~#ttsA:en-US#~
 
 ~#tts:nap:en-US{The effects of the poison were pernicious.}#~
 ~#tts:nap:en-US{The witch was maleficent.}#~",,,~#ttsA:en-US#~
-wytrwałość,perseverance,"~#tts:nap:en-US{persistence, perseverance, grit, tenacity}#~
+"wytrwałość, cierpliwe dążenie do celu mimo trudności",perseverance,"~#tts:nap:en-US{persistence, grit, tenacity}#~
 
 ~#tts:nap:en-US{Through perseverance, she achieved her goal.}#~",,,~#ttsA:en-US#~
 "łagodzić, zjednywać sobie, udobruchać
@@ -3212,7 +3212,12 @@ nieciekawy,dull,"~#tts:nap:en-US{boring}#~
 
 ~#tts:nap:en-US{The movie was dull and boring.}#~",,,~#ttsA:en-US#~
 pochłonięty,engulfed,~#tts:nap:en-US{The flames engulfed the house.}#~,,,~#ttsA:en-US#~
-obowiązkowy,mandatory,~#tts:nap:en-US{Attendance at the meeting was mandatory.}#~,,,~#ttsA:en-US#~
+"obowiązkowy
+nakazany (często formalnie, urzędowo lub regulaminowo)",mandatory,"~#tts:nap:en-US{compulsory, required, obligatory}#~
+~#tts:nap:en-US{statutory}#~ (wynikający z prawa)
+~#tts:nap:en-US{prescribed}#~ (narzucony przepisami)
+
+~#tts:nap:en-US{Attendance at the meeting was mandatory.}#~",,,~#ttsA:en-US#~
 "osobliwość, dziwaczność",oddity,"~#tts:nap:en-US{monstrosity}#~
 
 ~#tts:nap:en-US{The oddity of the situation puzzled him.}#~",,,~#ttsA:en-US#~
@@ -3855,7 +3860,9 @@ nieczytelny,illegible,"~#tts:nap:en-US{unreadable}#~
 ~#tts:nap:en-US{convey, transmit, relay}#~
 
 ~#tts:nap:en-US{She imparted her wisdom to her students.}#~",,,~#ttsA:en-US#~
-przyznać,to concede,~#tts:nap:en-US{He conceded that he was wrong.}#~,,,~#ttsA:en-US#~
+"przyznać (często niechętnie, po sporze lub argumentach)",to concede,"~#tts:nap:en-US{to admit, to yield}#~
+
+~#tts:nap:en-US{He conceded that he was wrong.}#~",,,~#ttsA:en-US#~
 ciamajda,slouch,~#tts:nap:en-US{He had a bad habit of slouching.}#~,,,~#ttsA:en-US#~
 szkorbut,scurvy,"podły: ~#tts:nap:en-US{mean, lowdown, vile, despicable, scurvy}#~
 ~#tts:nap:en-US{awful, abominable, wicked, sordid}#~
@@ -4156,7 +4163,7 @@ grawerować,to engrave,~#tts:nap:en-US{He engraved his name on the stone.}#~,,,~
 smakołyk,titbit,~#tts:nap:en-US{The titbit was delicious.}#~,,,~#ttsA:en-US#~
 zlinczować,to lynch,~#tts:nap:en-US{They lynched the criminal.}#~,,,~#ttsA:en-US#~
 nafta oczyszczona,kerosene,~#tts:nap:en-US{Kerosene is a flammable liquid.}#~,,,~#ttsA:en-US#~
-utajony,latent,"~#tts:nap:en-US{occult, potential, delitescent}#~
+utajony,latent,"~#tts:nap:en-US{occult, concealed, potential, delitescent}#~
 
 ~#tts:nap:en-US{The danger was latent.}#~
 ~#tts:nap:en-US{The latent stage of syphilis.}#~",,,~#ttsA:en-US#~
@@ -4545,7 +4552,8 @@ zacisk,clamp,~#tts:nap:en-US{She clamped the vise on the metal piece.}#~,,,~#tts
 samozwańczy stróż prawa,vigilante,~#tts:nap:en-US{The vigilante group tried to take the law into their own hands.}#~,,,~#ttsA:en-US#~
 nędzny,wretched,~#tts:nap:en-US{She felt wretched after breaking up with her boyfriend.}#~,,,~#ttsA:en-US#~
 "obdarowany, nadany (formalnie)",bestowed,~#tts:nap:en-US{The award was bestowed upon her for her outstanding work.}#~,,,~#ttsA:en-US#~
-"imponujący, okazały, wspaniały",imposing,~#tts:nap:en-US{The castle was an imposing structure.}#~,,,~#ttsA:en-US#~
+"imponujący, okazały,
+budzący respekt (rozmiar, wygląd, postawa)",imposing,~#tts:nap:en-US{The castle was an imposing structure.}#~,,,~#ttsA:en-US#~
 szczebel drabiny,rung,"~#tts:nap:en-US{She climbed up the ladder, rung by rung.}#~",,,~#ttsA:en-US#~
 "podły, ohydny",vile,"podły: ~#tts:nap:en-US{mean, lowdown, vile, despicable, scurvy}#~
 ~#tts:nap:en-US{awful, abominable, wicked, sordid}#~
@@ -4637,7 +4645,7 @@ lepkość,viscosity,"~#tts:nap:en-US{stickiness, tack, ropines, srope}#~
 
 ~#tts:nap:en-US{The syrup had a high viscosity, making it thick and sticky.}#~",,,~#ttsA:en-US#~
 kierowca ciężarówki,lorry driver,~#tts:nap:en-US{The lorry driver delivered the goods to the warehouse.}#~,,,~#ttsA:en-US#~
-wspaniały,glorious,~#tts:nap:en-US{The sunset was a glorious spectacle of colors.}#~,,,~#ttsA:en-US#~
+"wspaniały, chwalebny, pełen splendoru lub zachwytu",glorious,~#tts:nap:en-US{The sunset was a glorious spectacle of colors.}#~,,,~#ttsA:en-US#~
 wyroby szklane,glassware,~#tts:nap:en-US{The delicate glassware was carefully packed for shipping.}#~,,,~#ttsA:en-US#~
 krzew,shrub,"~#tts:nap:en-US{bush, brake}#~
 
