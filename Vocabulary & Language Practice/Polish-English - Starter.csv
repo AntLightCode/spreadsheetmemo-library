@@ -3886,7 +3886,7 @@ Czy możesz mi pomóc napisać to słowo?",,,~#ttsA:en-US#~
 ~#no-swap#~"
 "Mamo, to jest Łukasz.","Mum, this is Lucas.",,,,"~#ttsA:en-US#~
 ~#no-swap#~"
-Miło cie poznac.,Nice to meet you.,,,,"~#ttsA:en-US#~
+Miło cię poznać.,Nice to meet you.,,,,"~#ttsA:en-US#~
 ~#no-swap#~"
 Ciebie także miło poznać.,Nice to meet you too.,,,,"~#ttsA:en-US#~
 ~#no-swap#~"
@@ -6316,8 +6316,13 @@ Codziennie nitkuję zęby.,I'm flossing my teeth every day.,,,,"~#ttsA:en-US#~
 ~#no-swap#~"
 zdrajca,traitor,"~#tts:nap:en-US{He is a traitor to his country.}#~
 Jest zdrajcą swojego kraju.",,,~#ttsA:en-US#~
-kieł,tusk,"~#tts:nap:en-US{The elephant has large tusks.}#~
-Słoń ma duże kły.",,,~#ttsA:en-US#~
+"ostry kieł drapieżnika (np. wilka) lub ząb jadowy węża, służący do gryzienia i wstrzykiwania jadu
+
+wydłużony kieł (np. słonia czy dzika), wyrastający poza pysk, używany do obrony i rycia","fang
+
+tusk","~#tts:nap:en-US{The elephant has large tusks.}#~
+Słoń ma duże kły.",,,"~#ttsA:en-US#~
+~#no-swap#~"
 szerszeń,hornet,"~#tts:nap:en-US{The hornet is a dangerous insect.}#~
 Szerszeń jest niebezpiecznym owadzie.",,,~#ttsA:en-US#~
 drabina,ladder,"~#tts:nap:en-US{I used a ladder to reach the roof.}#~
@@ -7022,15 +7027,14 @@ Używamy w:
 ~#tts:nap:en-US{Do you have any apples?}#~ (Masz jakieś jabłka?)
 ~#tts:nap:en-US{Is there any milk?}#~ (Czy jest mleko?)",,,"~#ttsA:en-US#~
 ~#no-swap#~"
-"Wyjaśnij, kiedy używamy 'a few', 'a little' i 'some'.","A few' (kilka) używamy z rzeczownikami policzalnymi 
-(np. ~#tts:nap:en-US{I have a few friends}#~). 
+"Wyjaśnij, kiedy używamy 'a few', 'a little' i 'some'.","""A few"" (kilka) używamy z rzeczownikami policzalnymi.
+np. ~#tts:nap:en-US{I have a few friends.}#~
 
-A little' (trochę) używamy z rzeczownikami niepoliczalnymi 
-(np. ~#tts:nap:en-US{I have a little money}#~). 
+""A little"" (trochę) używamy z rzeczownikami niepoliczalnymi.
+np. ~#tts:nap:en-US{I have a little money.}#~
 
-'Some' (trochę/kilka) używamy zarówno z policzalnymi w liczbie mnogiej, jak i z niepoliczalnymi 
-(np. ~#tts:nap:en-US{I have some apples}#~ lub ~#tts:nap:en-US{I have some water}#~).",,,,"~#ttsA:en-US#~
-~#no-swap#~"
+""Some"" (trochę/kilka) używamy zarówno z policzalnymi w liczbie mnogiej, jak i z niepoliczalnymi. 
+np. ~#tts:nap:en-US{I have some apples.}#~ lub ~#tts:nap:en-US{I have some water.}#~",,,,~#no-swap#~
 "How ⬜ students are in your class?
 
 ''much/many''","many
@@ -9608,7 +9612,8 @@ odrzucać,to reject,"~#tts:nap:en-US{He rejected her proposal.}#~
 Odmówił jej propozycji.",,,~#ttsA:en-US#~
 skradać się,to stalk,"~#tts:nap:en-US{The cat began to stalk the bird in the garden.}#~
 Kot zaczął skradać się do ptaka w ogrodzie.",,,~#ttsA:en-US#~
-tulić się,to huddle,"~#tts:nap:en-US{The penguins huddle together to stay warm.}#~
+"tulić się w grupie,
+lgnąć do siebie",to huddle,"~#tts:nap:en-US{The penguins huddle together to stay warm.}#~
 Pingwiny tulą się do siebie, żeby utrzymać ciepło.",,,~#ttsA:en-US#~
 "ktokolwiek, ktoś",anyone,"~#tts:nap:en-US{anybody}#~
 
@@ -16393,7 +16398,7 @@ dekomponować
 "zerwać z kimś
 rozpaść się, podzielić na kawałki 
 
-''(phrasal verb)''",to break up (two meanings),"~#tts:nap:en-US{end, fall into}#~
+''(phrasal verb)''",to break up,"~#tts:nap:en-US{end, fall into}#~
 
 ~#tts:nap:en-US{The relationship broke up. The storm broke up and the sun came out.}#~",,,~#ttsA:en-US#~
 "przezwyciężać coś, wyjść (np. z kłopotów) 
