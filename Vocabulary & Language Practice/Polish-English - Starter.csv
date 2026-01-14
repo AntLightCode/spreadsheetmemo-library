@@ -1835,11 +1835,13 @@ Mój ojciec jest bardzo miły.",,,~#ttsA:en-US#~
 
 wrzasnąć, krzyknąć","screech
 
-to screech","scream
-to scream
+to screech","~#tts:nap:en-US{scream, to scream}#~
 
 ~#tts:nap:en-US{The tires screeched as the car turned the corner.}#~
-Opony piszczały, gdy samochód skręcił w zakręt.",,,~#ttsA:en-US#~
+Opony piszczały, gdy samochód skręcił w zakręt.
+
+~#tts:nap:en-US{The child screamed when she saw the spider.}#~
+Dziecko krzyczało, gdy zobaczyło pająka.",,,~#ttsA:en-US#~
 katastrofa,disaster,"~#tts:nap:en-US{The disaster caused widespread damage.}#~
 Katastrofa spowodowała szerokie zniszczenia.",,,~#ttsA:en-US#~
 słoik,jar,"~#tts:nap:en-US{This jar is filled with honey.}#~
@@ -1849,7 +1851,7 @@ lalka na palce lub sznurki",puppet,"~#tts:nap:en-US{The child played with a pupp
 
 ~#tts:nap:en-US{He is a puppet of the government.}#~
 On jest marionetką rządu.",,,~#ttsA:en-US#~
-głupi,stupid,"~#tts:nap:en-US{​dumb, silly, foolish, idiotic}#~
+głupi,stupid,"~#tts:nap:en-US{dumb, silly, foolish, idiotic}#~
 
 ~#tts:nap:en-US{Don't be stupid!}#~
 Nie bądź głupi!",,,~#ttsA:en-US#~
@@ -1978,7 +1980,7 @@ zakład fryzjerski dla mężczyzn, golibroda","hairdresser
 hairstylist
 
 barber
-barbershop","~#tts:nap:en-US{hair saloon}#~
+barbershop","~#tts:nap:en-US{hair salon}#~
 
 ~#tts:nap:en-US{I need to get a haircut.}#~
 Muszę się obciąć.",,,"~#ttsA:en-US#~
@@ -2023,8 +2025,8 @@ fitness,fitness,"~#tts:nap:en-US{He is in good fitness.}#~
 Jest w dobrej kondycji.",,,~#ttsA:en-US#~
 rządzić,to rule,"~#tts:nap:en-US{The king ruled the country.}#~
 Król rządził krajem.",,,~#ttsA:en-US#~
-mało czasu,little time,"~#tts:nap:en-US{I have a little time to talk.}#~
-Mam trochę czasu na rozmowę.",,,~#ttsA:en-US#~
+mało czasu,little time,"~#tts:nap:en-US{I have little time to talk.}#~
+Mam mało czasu na rozmowę.",,,~#ttsA:en-US#~
 "szalony, zły, wściekły",mad,"~#tts:nap:en-US{crazy}#~
 
 ~#tts:nap:en-US{He is mad at me.}#~
@@ -2062,8 +2064,8 @@ policjant (potocznie),cop,"~#tts:nap:en-US{policeman, police officer}#~
 On jest policjantem.",,,~#ttsA:en-US#~
 deszcz,rain,"~#tts:nap:en-US{It's raining outside.}#~
 Pada na zewnątrz.",,,~#ttsA:en-US#~
-czkawka,hiccup,"~#tts:nap:en-US{I have a hiccup.}#~
-Mam czkawki.",,,~#ttsA:en-US#~
+czkawka,hiccup,"~#tts:nap:en-US{I have hiccups.}#~
+Mam czkawkę.",,,~#ttsA:en-US#~
 "smoła
 wysokość tonu dzwięku
 boisko",pitch,"~#tts:nap:en-US{The pitch of the sound is high.}#~
@@ -2131,8 +2133,8 @@ Czarownicy są złymi czarodziejami.",,,~#ttsA:en-US#~
 śmiertelnik",mortal,"~#tts:nap:en-US{All humans are mortal.}#~
 Wszyscy ludzie są śmiertelni.
 
-~#tts:nap:en-US{Mortal cobat.}#~
-Walka na śmierć i życie.",,,~#ttsA:en-US#~
+~#tts:nap:en-US{Mortal Kombat.}#~
+Mortal Kombat (gra komputerowa).",,,~#ttsA:en-US#~
 trawa,grass,"~#tts:nap:en-US{The grass is green.}#~
 Trawa jest zielona.",,,~#ttsA:en-US#~
 rzadki,rare,"~#tts:nap:en-US{This is a rare book.}#~
@@ -2160,8 +2162,8 @@ Słońce zachodzi na zachodzie.",,,~#ttsA:en-US#~
 Posłuchaj mnie!",,,~#ttsA:en-US#~
 jeleń,deer,"~#tts:nap:en-US{He saw a deer in the forest.}#~
 Widział jelenia w lesie.",,,~#ttsA:en-US#~
-plankton,plankton,"~#tts:nap:en-US{Plankton is a tiny organism.}#~
-Plankton jest mikroskopijnym organizmem.",,,~#ttsA:en-US#~
+plankton,plankton,"~#tts:nap:en-US{Plankton implies tiny organisms.}#~
+Plankton to mikroskopijne organizmy.",,,~#ttsA:en-US#~
 iluzja optyczna,optical illusion,"~#tts:nap:en-US{This is an optical illusion.}#~
 To jest złudzenie optyczne.",,,~#ttsA:en-US#~
 pomarańczowy,orange,"~#tts:nap:en-US{I like orange juice.}#~
@@ -2286,8 +2288,8 @@ znak,sign,"~#tts:nap:en-US{The sign says ""No Parking.""}#~
 Na znaku jest napisane ""Zakaz parkowania"".",,,~#ttsA:en-US#~
 dusza,soul,"~#tts:nap:en-US{Her soul is very beautiful.}#~
 Jej dusza jest bardzo piękna.",,,~#ttsA:en-US#~
-zabawa w chowanego,hide and seek,"~#tts:nap:en-US{Let's play hide and seek.}#~
-Zagrajmy w chowanego.",,,~#ttsA:en-US#~
+"zabawa w chowanego",hide and seek,"~#tts:nap:en-US{He likes to play hide and seek.}#~
+Lubi bawić się w chowanego.",,,~#ttsA:en-US#~
 tydzień,week,"~#tts:nap:en-US{The week is almost over.}#~
 Tydzień się prawie skończył.",,,~#ttsA:en-US#~
 niewidzialność,invisibility,"~#tts:nap:en-US{Invisibility is a superpower.}#~
@@ -2301,7 +2303,7 @@ Zniszczył budynek.",,,~#ttsA:en-US#~
 "Hej, Cześć","Hey, Hi","~#tts:nap:en-US{Hey, how are you?}#~
 Cześć, jak się masz?",,,~#ttsA:en-US#~
 "pocisk, kula",bullet,"~#tts:nap:en-US{The bullet hit the target.}#~
-Kula trafiła w cel.",,,~#ttsA:en-US#~
+Pocisk trafił w cel.",,,~#ttsA:en-US#~
 opowieść,tale,"~#tts:nap:en-US{He told us a funny tale.}#~
 Opowiedział nam zabawną historię.",,,~#ttsA:en-US#~
 profesor,professor,"~#tts:nap:en-US{He is a professor at the university.}#~
@@ -2390,8 +2392,8 @@ zadanie,task,"~#tts:nap:en-US{The task is very difficult.}#~
 Zadanie jest bardzo trudne.",,,~#ttsA:en-US#~
 kosz,basket,"~#tts:nap:en-US{He put the book in the basket.}#~
 Włożył książkę do koszyka.",,,~#ttsA:en-US#~
-aligator,alligator,"~#tts:nap:en-US{alligator The alligator is a large reptile.}#~
-Aligator jest dużym gadzie.",,,~#ttsA:en-US#~
+aligator,alligator,"~#tts:nap:en-US{The alligator is a large reptile.}#~
+Aligator jest dużym gadem.",,,~#ttsA:en-US#~
 kanał,channel,"~#tts:nap:en-US{He changed the channel on the TV.}#~
 Zmienił kanał na telewizorze.",,,~#ttsA:en-US#~
 "losowy, przypadkowy",random,"~#tts:nap:en-US{It was a random act of violence.}#~
@@ -2431,7 +2433,7 @@ Brud był wszędzie.",,,~#ttsA:en-US#~
 popołudnie,afternoon,"~#tts:nap:en-US{I have a meeting this afternoon.}#~
 Mam spotkanie po południu.",,,~#ttsA:en-US#~
 "doładowywać, wzmacniać",boost,"~#tts:nap:en-US{He boosted his confidence.}#~
-Zwiększył swoje zaufanie.",,,~#ttsA:en-US#~
+Zwiększył swoją pewność siebie.",,,~#ttsA:en-US#~
 rozdział,chapter,"~#tts:nap:en-US{The first chapter of the book is very interesting.}#~
 Pierwszy rozdział książki jest bardzo interesujący.",,,~#ttsA:en-US#~
 krzyż,cross,"~#tts:nap:en-US{The two roads cross just outside the city center.}#~
@@ -2804,19 +2806,19 @@ Osły są używane do przenoszenia ładunków.",,,~#ttsA:en-US#~
 owca,sheep,"~#tts:nap:en-US{Sheep are farm animals.}#~
 Owce są zwierzętami gospodarskimi.",,,~#ttsA:en-US#~
 hipopotam,hippopotamus,"~#tts:nap:en-US{Hippopotamuses are large, semi-aquatic mammals.}#~
-Hipopotam są dużymi, półwodnymi ssakami.",,,~#ttsA:en-US#~
+Hipopotamy są dużymi, półwodnymi ssakami.",,,~#ttsA:en-US#~
 kotek,kitten,"~#tts:nap:en-US{A kitten is a young cat.}#~
-Kotek to młode koty.",,,~#ttsA:en-US#~
+Kotek to młody kot.",,,~#ttsA:en-US#~
 kucyk,pony,"~#tts:nap:en-US{Ponies are small horses.}#~
 Kuce to małe konie.",,,~#ttsA:en-US#~
 szop,raccoon,"~#tts:nap:en-US{Raccoons are nocturnal animals.}#~
-Szopa pracze są zwierzętami nocnymi.",,,~#ttsA:en-US#~
+Szopy pracze są zwierzętami nocnymi.",,,~#ttsA:en-US#~
 wiewiórka,squirrel,"~#tts:nap:en-US{Squirrels are rodents.}#~
 Wiewiórki to gryzonie.",,,~#ttsA:en-US#~
 zebra,zebra,"~#tts:nap:en-US{Zebras have black and white stripes.}#~
 Zebry mają czarno-białe pasy.",,,~#ttsA:en-US#~
 wrona,crow,"~#tts:nap:en-US{Crows are large black birds.}#~
-Kruki to duże czarne ptaki.",,,~#ttsA:en-US#~
+Wrony to duże czarne ptaki.",,,~#ttsA:en-US#~
 kaczka,duck,"~#tts:nap:en-US{Ducks are water birds.}#~
 Kaczki to ptaki wodne.",,,~#ttsA:en-US#~
 orzeł,eagle,"~#tts:nap:en-US{Eagles are large birds of prey.}#~
@@ -2846,7 +2848,7 @@ Wiśnie są małe, okrągłe owoce.",,,~#ttsA:en-US#~
 cytrusy,citrus,"~#tts:nap:en-US{Citrus fruits include oranges, lemons, and grapefruits.}#~
 Owoce cytrusowe obejmują pomarańcze, cytryny i grejpfruty.",,,~#ttsA:en-US#~
 ananas,pineapple,"~#tts:nap:en-US{Pineapples are tropical fruits with a sweet and tangy flavor.}#~
-Ananas są tropikalnymi owocami o słodkim i cierpkim smaku.
+Ananasy są tropikalnymi owocami o słodkim i cierpkim smaku.
 
 ~#tts:nap:en-US{I like to eat pineapple.}#~
 Lubię jeść ananasa.",,,~#ttsA:en-US#~
@@ -2856,9 +2858,9 @@ marchewka,carrot,"~#tts:nap:en-US{Carrots are a root vegetable.}#~
 Marchew to warzywo korzeniowe.
 
 ~#tts:nap:en-US{Carrots are healthy vegetables.}#~
-Marchew to zdrowe warzywa.",,,~#ttsA:en-US#~
+Marchewki to zdrowe warzywa.",,,~#ttsA:en-US#~
 dynia,pumpkin,"~#tts:nap:en-US{Pumpkins are a type of squash.}#~
-Dynia to rodzaj dyni.",,,~#ttsA:en-US#~
+Dynia to rodzaj rośliny dyniowatej.",,,~#ttsA:en-US#~
 spaghetti,spaghetti,"~#tts:nap:en-US{Spaghetti is a type of pasta.}#~
 Spaghetti to rodzaj makaronu.",,,~#ttsA:en-US#~
 Czy lubisz (ryby)?,Do you like (fish)?,,,,"~#ttsA:en-US#~
@@ -2886,8 +2888,8 @@ rakieta do tenisa,racket,"~#tts:nap:en-US{I need a new tennis racket.}#~
 Potrzebuję nowej rakiety tenisowej.",,,~#ttsA:en-US#~
 "dywanik, dywan",rug,"~#tts:nap:en-US{The rug is on the floor.}#~
 Dywan leży na podłodze.",,,~#ttsA:en-US#~
-sopel lodu,icicle,"~#tts:nap:en-US{The icicles are hanging from the roof.}#~
-Soczle wiszą z dachu.",,,~#ttsA:en-US#~
+"sopel lodu",icicle,"~#tts:nap:en-US{The icicles are hanging from the roof.}#~
+Sople wiszą z dachu.",,,~#ttsA:en-US#~
 kamera,"camcorder, camera","~#tts:nap:en-US{I took a picture with my camera.}#~
 Zrobiłem zdjęcie aparatem.",,,~#ttsA:en-US#~
 (Lampa) jest (na) (stole).,There's a (lamp) (on) the (table).,"~#tts:nap:en-US{The lamp is on.}#~
@@ -2948,7 +2950,7 @@ Film opowiadał o walce dobra ze złem.",,,~#ttsA:en-US#~
 oparzenie,sunburn,"~#tts:nap:en-US{Don't forget to use sunscreen to avoid sunburn.}#~
 Nie zapomnij użyć kremu z filtrem, aby uniknąć oparzeń słonecznych.",,,~#ttsA:en-US#~
 krzak,bush,"~#tts:nap:en-US{A small bird was hiding in the bush.}#~
-Mały ptak ukrywał się w krzaku.",,,~#ttsA:en-US#~
+Mały ptak ukrywał się w krzakach.",,,~#ttsA:en-US#~
 witamina,vitamin,"~#tts:nap:en-US{Oranges are a good source of vitamin C.}#~
 Pomarańcze są dobrym źródłem witaminy C.",,,~#ttsA:en-US#~
 pełen nadziei,hopeful,"~#tts:nap:en-US{I'm hopeful that I'll get the job.}#~
@@ -3046,8 +3048,8 @@ cola,cola,"~#tts:nap:en-US{Cola is a soft drink.}#~
 Cola to napój gazowany.",,,~#ttsA:en-US#~
 mydło,soap,"~#tts:nap:en-US{Soap is used to wash your hands.}#~
 Mydło służy do mycia rąk.",,,~#ttsA:en-US#~
-bańka mydlana,soap bubble,"~#tts:nap:en-US{Soap bubbles are fun to play with.}#~
-Bańki mydlane są zabawne do zabawy.",,,~#ttsA:en-US#~
+"bańka mydlana",soap bubble,"~#tts:nap:en-US{Soap bubbles are fun to play with.}#~
+Puszczanie baniek mydlanych to świetna zabawa.",,,~#ttsA:en-US#~
 szampon,shampoo,"~#tts:nap:en-US{Shampoo is used to wash your hair.}#~
 Szampon służy do mycia włosów.",,,~#ttsA:en-US#~
 papier toaletowy,toilet paper,"~#tts:nap:en-US{Toilet paper is used to clean your bottom.}#~
@@ -3297,7 +3299,7 @@ Superbohater nosił pelerynę.",,,~#ttsA:en-US#~
 "rama, ramka",frame,"~#tts:nap:en-US{The picture is in a frame.}#~
 Obraz jest w ramce.",,,~#ttsA:en-US#~
 kokos,coconut,"~#tts:nap:en-US{Coconuts are large, tropical fruits.}#~
-Kokos są dużymi, tropikalnymi owocami.",,,~#ttsA:en-US#~
+Kokosy są dużymi, tropikalnymi owocami.",,,~#ttsA:en-US#~
 budzik,alarm clock,"~#tts:nap:en-US{An alarm clock is used to wake you up.}#~
 Budzik służy do budzenia.",,,~#ttsA:en-US#~
 warcaby,"~#tts:en-GB{draughts}#~ (GB)
@@ -3318,13 +3320,13 @@ gęś,goose,"wiele gęsi: geese
 ~#tts:nap:en-US{Geese are large water birds.}#~
 Gęsi to duże ptaki wodne.",,,~#ttsA:en-US#~
 limonka,lime,"~#tts:nap:en-US{Limes are citrus fruits similar to lemons, but smaller and more tart.}#~
-Limony to owoce cytrusowe podobne do cytryn, ale mniejsze i bardziej kwaśne.",,,~#ttsA:en-US#~
+Limonki to owoce cytrusowe podobne do cytryn, ale mniejsze i bardziej kwaśne.",,,~#ttsA:en-US#~
 sałata,lettuce,"~#tts:nap:en-US{Lettuce is a leafy vegetable.}#~
 Sałata to warzywo liściaste.",,,~#ttsA:en-US#~
 jadalnia,dining room,"~#tts:nap:en-US{We eat dinner in the dining room.}#~
 Jemy obiad w jadalni.",,,~#ttsA:en-US#~
-mydło w płynie,liquid soap,"~#tts:nap:en-US{Liquid soap is used to wash your hands.}#~
-Płyn do mycia rąk służy do mycia rąk.",,,~#ttsA:en-US#~
+"mydło w płynie",liquid soap,"~#tts:nap:en-US{Liquid soap is used to wash your hands.}#~
+Mydło w płynie służy do mycia rąk.",,,~#ttsA:en-US#~
 posprzątać,tidy up,"~#tts:nap:en-US{I need to tidy up my room.}#~
 Muszę posprzątać swój pokój.",,,~#ttsA:en-US#~
 tor wyścigowy,racing track,"~#tts:nap:en-US{The racing track is very long.}#~
@@ -3387,10 +3389,10 @@ orzech włoski,walnut,"~#tts:nap:en-US{Walnuts are a type of nut.}#~
 Orzechy włoskie to rodzaj orzechów.",,,~#ttsA:en-US#~
 nosorożec,rhino,"~#tts:nap:en-US{Rhinos are large mammals.}#~
 Nosorożce to duże ssaki.",,,~#ttsA:en-US#~
-śmieci,litter,"~#tts:nap:en-US{trash, garbage}#~
+"śmieci (porzucone w miejscu publicznym)",litter,"~#tts:nap:en-US{trash, garbage}#~
 
-~#tts:nap:en-US{The litter is full.}#~
-Śmietnik jest pełny.",,,~#ttsA:en-US#~
+~#tts:nap:en-US{Please don't leave your litter in the park.}#~
+Proszę, nie zostawiaj swoich śmieci w parku.",,,~#ttsA:en-US#~
 homar,lobster,"~#tts:nap:en-US{Lobster is a seafood.}#~
 Homar jest owocem morza.",,,~#ttsA:en-US#~
 serwetka,napkin,"~#tts:nap:en-US{A napkin is used to wipe your mouth.}#~
@@ -3398,7 +3400,7 @@ Serwetka służy do wycierania ust.",,,~#ttsA:en-US#~
 maszynka do golenia,razor,"~#tts:nap:en-US{A razor is used to shave hair.}#~
 Golarka służy do golenia włosów.",,,~#ttsA:en-US#~
 żyletki,razor blades,"~#tts:nap:en-US{Razor blades are used in razors.}#~
-Żylki służą do golarek.",,,~#ttsA:en-US#~
+Żyletki służą do golarek.",,,~#ttsA:en-US#~
 grzechotka,rattle,"~#tts:nap:en-US{I gave the baby a rattle to play with.}#~
 Dałem dziecku grzechotkę, aby się bawiło.",,,~#ttsA:en-US#~
 wędka,fishing rod,"~#tts:nap:en-US{I used a fishing rod to catch fish.}#~
@@ -3559,7 +3561,7 @@ Znalazłem gładki kamyk na plaży.",,,~#ttsA:en-US#~
 ryba z frytkami,fish and chips,"~#tts:nap:en-US{Fish and chips is a popular British dish.}#~
 Ryba z frytkami to popularne brytyjskie danie.",,,~#ttsA:en-US#~
 rozgwiazda,starfish,"~#tts:nap:en-US{Starfish are marine animals.}#~
-Gwiazdy morskie są zwierzętami morskimi.",,,~#ttsA:en-US#~
+Rozgwiazdy są zwierzętami morskimi.",,,~#ttsA:en-US#~
 krótki ogon,short tail,"~#tts:nap:en-US{The dog has a short tail.}#~
 Pies ma krótki ogon.",,,~#ttsA:en-US#~
 długa szyja,long neck,"~#tts:nap:en-US{The giraffe has a long neck.}#~
@@ -3597,7 +3599,7 @@ Las tropikalny jest domem dla wielu różnych zwierząt i roślin.",,,~#ttsA:en-
 rejon polarny,polar region,"~#tts:nap:en-US{The polar regions are very cold.}#~
 Regiony polarne są bardzo zimne.",,,~#ttsA:en-US#~
 błazenek,clownfish,"~#tts:nap:en-US{Clownfish live in anemones.}#~
-Klownfish żyją w anemonach.",,,~#ttsA:en-US#~
+Błazenki żyją w ukwiałach.",,,~#ttsA:en-US#~
 orangutan,orangutan,"~#tts:nap:en-US{Orangutans are apes that live in trees.}#~
 Orangutany to małpy, które żyją na drzewach.",,,~#ttsA:en-US#~
 Gdzie mieszkają pingwiny?,Where do penguins live?,,,,"~#ttsA:en-US#~
@@ -3615,7 +3617,7 @@ Samochód jest bardzo szybki.",,,~#ttsA:en-US#~
 ~#tts:nap:en-US{My room is tidy.}#~
 Mój pokój jest posprzątany.",,,~#ttsA:en-US#~
 "niechlujny, bałaganiarski",messy,"~#tts:nap:en-US{My room is messy.}#~
-Mój pokój jest bałaganiarski.",,,~#ttsA:en-US#~
+Mój pokój jest zabałaganiony.",,,~#ttsA:en-US#~
 Jest (twarde) w dotyku.,It feels (hard).,,,,"~#ttsA:en-US#~
 ~#no-swap#~"
 @,at,"~#tts:nap:en-US{You can reach me at john.doe@example.com if you have any questions.}#~
@@ -3768,7 +3770,7 @@ Bądź ostrożny!,Be careful!,,,,"~#ttsA:en-US#~
 Zajmę się tym.,I've got it.,,,,"~#ttsA:en-US#~
 ~#no-swap#~"
 najlepszy przyjaciel,best friend,"~#tts:nap:en-US{My best friend is very supportive.}#~
-Moim najlepszym przyjacielem jest bardzo wspierający.",,,~#ttsA:en-US#~
+Mój najlepszy przyjaciel jest bardzo wspierający.",,,~#ttsA:en-US#~
 urodziny,birthday,"~#tts:nap:en-US{He celebrated his birthday yesterday.}#~
 Świętował swoje urodziny wczoraj.
 
@@ -3863,8 +3865,8 @@ w domu,at home,"~#tts:nap:en-US{I'm staying at home today.}#~
 Dzisiaj zostaję w domu.",,,~#ttsA:en-US#~
 w szkole,at school,"~#tts:nap:en-US{I'm going to school now.}#~
 Idę teraz do szkoły.",,,~#ttsA:en-US#~
-w ogrodzie,in the garden,"~#tts:nap:en-US{Let's play in the garden.}#~
-Pozbawmy się w ogrodzie.",,,~#ttsA:en-US#~
+"w ogrodzie",in the garden,"~#tts:nap:en-US{Let's play in the garden.}#~
+Pobawmy się w ogrodzie.",,,~#ttsA:en-US#~
 w parku,in the park,"~#tts:nap:en-US{I like to walk in the park.}#~
 Lubię chodzić po parku.",,,~#ttsA:en-US#~
 na wakacjach,on holiday,"~#tts:nap:en-US{We are going on holiday to Spain.}#~
@@ -4346,8 +4348,8 @@ przejście dla pieszych,zebra crossing,"~#tts:nap:en-US{A zebra crossing is a pl
 Pas zebry to miejsce, gdzie piesi mogą przechodzić przez ulicę.",,,~#ttsA:en-US#~
 rondo,roundabout,"~#tts:nap:en-US{A roundabout is a circular intersection.}#~
 Rondo jest kołowym skrzyżowaniem.",,,~#ttsA:en-US#~
-skrzyżowanie dróg,crossroad,"~#tts:nap:en-US{A crossroad is a place where two roads cross.}#~
-Krzyże są miejscem, gdzie przecinają się dwie drogi.",,,~#ttsA:en-US#~
+"skrzyżowanie dróg",crossroad,"~#tts:nap:en-US{A crossroad is a place where two roads cross.}#~
+Skrzyżowanie to miejsce, gdzie przecinają się dwie drogi.",,,~#ttsA:en-US#~
 kask,helmet,"~#tts:nap:en-US{A helmet is worn to protect your head.}#~
 Kask służy do ochrony głowy.",,,~#ttsA:en-US#~
 ścieżka rowerowa,bicycle path,"~#tts:nap:en-US{A bicycle path is a path for bicycles.}#~
@@ -4529,7 +4531,7 @@ Sześcian ma sześć kwadratowych ścian.",,,~#ttsA:en-US#~
 owal,oval,"~#tts:nap:en-US{An oval is shaped like an egg.}#~
 Owal ma kształt jajka.",,,~#ttsA:en-US#~
 kula,sphere,"~#tts:nap:en-US{A sphere is round in all directions.}#~
-Sfera jest okrągła we wszystkich kierunkach.",,,~#ttsA:en-US#~
+Kula jest okrągła we wszystkich kierunkach.",,,~#ttsA:en-US#~
 fotel,armchair,"~#tts:nap:en-US{I like to sit in the armchair.}#~
 Lubię siedzieć w fotelu.",,,~#ttsA:en-US#~
 lodówka,"fridge
@@ -4621,7 +4623,7 @@ niegrzeczny,naughty,"~#tts:nap:en-US{The dog is being naughty.}#~
 Pies jest niegrzeczny.",,,~#ttsA:en-US#~
 papuga,parrot,"~#tts:nap:en-US{The parrot can talk.}#~
 Papuga potrafi mówić.",,,~#ttsA:en-US#~
-"niemądry, głupi",silly,"~#tts:nap:en-US{​stupid, silly, foolish, idiotic, dumb}#~
+"niemądry, głupi",silly,"~#tts:nap:en-US{stupid, silly, foolish, idiotic, dumb}#~
 
 ~#tts:nap:en-US{You're being silly.}#~
 Jesteś głupi.",,,~#ttsA:en-US#~
@@ -5692,8 +5694,8 @@ Jest członkiem klubu.",,,~#ttsA:en-US#~
 Jestem zmęczony, myślę, że dziś wieczorem pójdę wcześnie spać.",,,~#ttsA:en-US#~
 spotykać się z przyjaciółmi,to hang out with my friends,"~#tts:nap:en-US{I like to hang out with my friends.}#~
 Lubię spędzać czas z przyjaciółmi.",,,~#ttsA:en-US#~
-brać prysznic,to have a shower,"~#tts:nap:en-US{I have a shower every morning.}#~
-Bierę prysznic każdego ranka.",,,~#ttsA:en-US#~
+"brać prysznic",to have a shower,"~#tts:nap:en-US{I have a shower every morning.}#~
+Biorę prysznic każdego ranka.",,,~#ttsA:en-US#~
 jeść śniadanie,to have breakfast,"~#tts:nap:en-US{I have breakfast at 8 am.}#~
 Jem śniadanie o 8 rano.",,,~#ttsA:en-US#~
 "jeść kolację, jeść obiad",to have dinner,"~#tts:nap:en-US{What time do you usually have dinner?}#~
@@ -5768,7 +5770,7 @@ Gram w piłkę nożną z moim zespołem.
 ~#tts:nap:en-US{Our team won the game.}#~
 Nasza drużyna wygrała mecz.",,,~#ttsA:en-US#~
 odwiedzać,to visit,"~#tts:nap:en-US{I visited my grandparents last weekend.}#~
-Odwiedziłem moich dziadków ostatniego weekendu.
+Odwiedziłem moich dziadków w zeszły weekend.
 
 ~#tts:nap:en-US{I visited my grandparents last weekend.}#~
 Odwiedziłem dziadków w zeszły weekend.",,,~#ttsA:en-US#~
@@ -5975,7 +5977,7 @@ Kupiłem 1 litr mleka.",,,~#ttsA:en-US#~
 woda,water,"~#tts:nap:en-US{I need to drink some water.}#~
 Muszę wypić trochę wody.",,,~#ttsA:en-US#~
 jedzenie dla psa,dog food,"~#tts:nap:en-US{I buy dog food for my dog.}#~
-Kupuję karmę dla psa dla swojego psa.",,,~#ttsA:en-US#~
+Kupuję karmę dla swojego psa.",,,~#ttsA:en-US#~
 sklep zoologiczny,pet shop,"~#tts:nap:en-US{I bought my cat at a pet shop.}#~
 Kupiłem kota w sklepie zoologicznym.",,,~#ttsA:en-US#~
 wyskoczyć,to jump out,"~#tts:nap:en-US{The cat jumped out of the window.}#~
@@ -6038,7 +6040,7 @@ Nie mogę znaleźć moich kluczy.",,,~#ttsA:en-US#~
 na przykład,for example,"~#tts:nap:en-US{For example, I like dogs.}#~
 Na przykład lubię psy.",,,~#ttsA:en-US#~
 zmoknąć,to get wet,"~#tts:nap:en-US{I don't want to get wet in the rain.}#~
-Nie chcę się zmoknąć w deszczu.",,,~#ttsA:en-US#~
+Nie chcę zmoknąć w deszczu.",,,~#ttsA:en-US#~
 nienawidzić,to hate,"hejt ➟ obrażanie, ośmieszanie czy poniżanie innych w internecie; jedna z form cyberprzemocy
 
 ~#tts:nap:en-US{I hate spiders.}#~
@@ -6490,7 +6492,7 @@ kretyn,moron,"~#tts:nap:en-US{idiot, jerk}#~
 
 ~#tts:nap:en-US{He's such a moron, he doesn't understand the simplest things.}#~
 On jest takim kretynem, że nie rozumie nawet najprostszych rzeczy.",,,~#ttsA:en-US#~
-"głupi, nierozumny",dumb,"~#tts:nap:en-US{​stupid, silly, foolish, idiotic}#~
+"głupi, nierozumny",dumb,"~#tts:nap:en-US{stupid, silly, foolish, idiotic}#~
 
 ~#tts:nap:en-US{That was a really dumb thing to do.}#~
 To było naprawdę głupie posunięcie.",,,~#ttsA:en-US#~
@@ -9927,7 +9929,7 @@ Upuściła swoją książkę.",,,~#ttsA:en-US#~
 sprawdzać,to check,"~#tts:nap:en-US{He checked his email.}#~
 Sprawdził swoją pocztę elektroniczną.",,,~#ttsA:en-US#~
 "jej, ją",her,"~#tts:nap:en-US{She knew I hated her.}#~
-Wiedziała, że ​​jej nienawidzę.",,,~#ttsA:en-US#~
+Wiedziała, że jej nienawidzę.",,,~#ttsA:en-US#~
 "cokolwiek, coś (w pytaniach i przeczeniach)",anything,"~#tts:nap:en-US{Do you need anything?}#~
 Czy potrzebujesz czegoś?",,,~#ttsA:en-US#~
 "blaknąć, zanikać
@@ -13221,7 +13223,7 @@ Wykrył problem z silnikiem.",,,~#ttsA:en-US#~
 znajomy,familiar,"~#tts:nap:en-US{The face looks familiar.}#~
 Twarz wygląda znajomo.",,,~#ttsA:en-US#~
 persymona,persimmon,"~#tts:nap:en-US{Persimmons are sweet and juicy fruits.}#~
-Persimmon są słodkimi i soczystymi owocami.",,,~#ttsA:en-US#~
+Persymony są słodkimi i soczystymi owocami.",,,~#ttsA:en-US#~
 priorytet,priority,"~#tts:nap:en-US{My priority is to finish my work.}#~
 Moim priorytetem jest zakończenie pracy.",,,~#ttsA:en-US#~
 bolesne,painful,"~#tts:nap:en-US{The injury is very painful.}#~
