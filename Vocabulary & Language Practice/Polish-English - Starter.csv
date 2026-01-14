@@ -232,7 +232,7 @@ Moim ulubionym superbohaterem jest Batman.",,,~#ttsA:en-US#~
 Mam ciężką torbę.
 
 ~#tts:nap:en-US{He has a bag of chips.}#~
-Ma torbę chipsów.",,,~#ttsA:en-US#~
+Ma paczkę chipsów.",,,~#ttsA:en-US#~
 "świetny, świetnie",great,"~#tts:nap:en-US{You look great!}#~
 Wyglądasz świetnie!
 
@@ -255,7 +255,10 @@ Rzeka jest bardzo długa.",,,~#ttsA:en-US#~
 Kupiłem nowy samochód.",,,~#ttsA:en-US#~
 stary,old,"~#tts:nap:en-US{The house is very old.}#~
 Dom jest bardzo stary.",,,~#ttsA:en-US#~
-"krótki, krótko",short,"~#tts:nap:en-US{The skirt is very short.}#~
+"krótki, krótko (długość, czas)
+niski (wzrost osoby)",short,"~#tts:nap:en-US{low}#~
+
+~#tts:nap:en-US{The skirt is very short.}#~
 Spódnica jest bardzo krótka.
 
 ~#tts:nap:en-US{The movie is very short.}#~
@@ -747,7 +750,10 @@ rysować,to draw,"~#tts:nap:en-US{I like to draw.}#~
 Lubię rysować.",,,~#ttsA:en-US#~
 "móc, umieć, potrafić",can,"~#tts:nap:en-US{I can swim.}#~
 Potrafię pływać.",,,~#ttsA:en-US#~
-słyszeć,to hear,"~#tts:nap:en-US{I can hear you.}#~
+"słyszeć
+odbierać dźwięk",to hear,"~#tts:nap:en-US{to listen}#~
+
+~#tts:nap:en-US{I can hear you.}#~
 Słyszę cię.",,,~#ttsA:en-US#~
 "przychodzić, przyjść, dojść",to come,"~#tts:nap:en-US{Come here, please.}#~
 Proszę przyjdź tutaj.
@@ -987,7 +993,9 @@ Pogoda jest gorsza niż wczoraj.",,,~#ttsA:en-US#~
 Kupiłem bardzo tani t-shirt.",,,~#ttsA:en-US#~
 "trudny, trudna",difficult,"~#tts:nap:en-US{This is a very difficult question.}#~
 To jest bardzo trudne pytanie.",,,~#ttsA:en-US#~
-niski,low,"~#tts:nap:en-US{The ceiling in this room is very low.}#~
+"niski (poziom, wysokość, natężenie, dźwięk, temperatura)",low,"~#tts:nap:en-US{short}#~
+
+~#tts:nap:en-US{The ceiling in this room is very low.}#~
 Sufit w tym pokoju jest bardzo niski.",,,~#ttsA:en-US#~
 bezpieczny,safe,"~#tts:nap:en-US{It's a safe place to live.}#~
 To bezpieczne miejsce do życia.",,,~#ttsA:en-US#~
@@ -2085,8 +2093,8 @@ przekąska,snack,"~#tts:nap:en-US{I had a snack between meals.}#~
 Miałem przekąskę między posiłkami.",,,~#ttsA:en-US#~
 "wybierać, wskazywać",to select,"~#tts:nap:en-US{Please select your preferred payment method.}#~
 Proszę wybrać preferowaną metodę płatności.",,,~#ttsA:en-US#~
-junior,junior,"~#tts:nap:en-US{He is a junior in high school.}#~
-Jest w klasie maturalnej.",,,~#ttsA:en-US#~
+junior,junior,"~#tts:nap:en-US{He is a junior developer on our team.}#~
+On jest młodszym programistą w naszym zespole.",,,~#ttsA:en-US#~
 "rozwiązywać zagadkę
 rozwiązywać problem","to solve
 to resolve","~#tts:nap:en-US{We need to solve this problem.}#~
@@ -2146,7 +2154,9 @@ na dworze, na zewnątrz",outside,"~#tts:nap:en-US{It's cold outside.}#~
 Jest zimno na zewnątrz.",,,~#ttsA:en-US#~
 zachód,west,"~#tts:nap:en-US{The sun sets in the west.}#~
 Słońce zachodzi na zachodzie.",,,~#ttsA:en-US#~
-słuchać,to listen,"~#tts:nap:en-US{Listen to me!}#~
+"słuchać uważnie, świadomie",to listen,"~#tts:nap:en-US{to hear}#~
+
+~#tts:nap:en-US{Listen to me!}#~
 Posłuchaj mnie!",,,~#ttsA:en-US#~
 jeleń,deer,"~#tts:nap:en-US{He saw a deer in the forest.}#~
 Widział jelenia w lesie.",,,~#ttsA:en-US#~
@@ -9504,8 +9514,10 @@ doświadczenie,experience,"W grach: EXP
 Ma duże doświadczenie w nauczaniu.",,,~#ttsA:en-US#~
 gekon,gecko,"~#tts:nap:en-US{The gecko is climbing the wall.}#~
 Gekon wspina się po ścianie.",,,~#ttsA:en-US#~
-"stopień, ocena",grade,"~#tts:nap:en-US{The teacher gave the students their final grades.}#~
-Nauczyciel dał uczniom ich oceny końcowe.",,,~#ttsA:en-US#~
+"stopień, ocena","grade
+mark","~#tts:nap:en-US{The teacher gave the students their final grades.}#~
+Nauczyciel dał uczniom ich oceny końcowe.",,,"~#ttsA:en-US#~
+~#no-swap#~"
 "samotny, samotna",lonely,"~#tts:nap:en-US{I feel lonely.}#~
 Czuję się samotny.",,,~#ttsA:en-US#~
 pamięć,memory,"~#tts:nap:en-US{I have a good memory.}#~
