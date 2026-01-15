@@ -612,7 +612,7 @@ szeryf federalny, marszałek",marshal,"~#tts:nap:en-US{The marshal arrested the 
 
 ~#tts:nap:en-US{He had a big belly.}#~
 ~#tts:nap:en-US{Her belly was full.}#~",,,~#ttsA:en-US#~
-"czyn, wyczyn",deed,~#tts:nap:en-US{He performed a heroic czyn.}#~,,,~#ttsA:en-US#~
+"czyn, wyczyn",deed,~#tts:nap:en-US{He performed a heroic deed.}#~,,,~#ttsA:en-US#~
 "pochodzenie, genealogia, ród (częściej w kontekście rodzinnym lub etnicznym)
 
 schodzić w dół, opadać","descent
@@ -1273,10 +1273,10 @@ bezpłodny,infertile,~#tts:nap:en-US{The soil was infertile.}#~,,,~#ttsA:en-US#~
 "natrętny, nachalny",pushy,~#tts:nap:en-US{She was a pushy salesperson.}#~,,,~#ttsA:en-US#~
 "pogmatwanie, splątanie, pomieszanie, uwikłanie",entanglement,~#tts:nap:en-US{He was involved in a romantic entanglement.}#~,,,~#ttsA:en-US#~
 zaczep,hitch,~#tts:nap:en-US{There was a hitch in the plan.}#~,,,~#ttsA:en-US#~
-"kłaść się, leżeć",to plonk,~#tts:nap:en-US{He plonked himself down on the couch.}#~,,,~#ttsA:en-US#~
+"rzucić coś ciężko, klapnąć (usiąść ciężko)",to plonk,~#tts:nap:en-US{He plonked himself down on the couch.}#~,,,~#ttsA:en-US#~
 dźwięk postawienia czegoś mocno,plonk,"~#tts:nap:en-US{a sound as of something being set down heavily}#~
 
-~#tts:nap:en-US{He drank a plonk of wine.}#~",,,~#ttsA:en-US#~
+~#tts:nap:en-US{The book landed on the table with a loud plonk.}#~",,,~#ttsA:en-US#~
 pościel,bedding,~#tts:nap:en-US{The bedding was clean and fresh.}#~,,,~#ttsA:en-US#~
 wiosło,oar,"~#tts:nap:en-US{paddle}#~
 
@@ -1287,7 +1287,7 @@ spławik,"float, bob","~#tts:nap:en-US{When the fishing float goes under, you ha
 "rzeźba
 
 rzeźbić","sculpture
-to sculpture","~#tts:nap:en-US{to carve, to sculpt}#~
+to sculpt","~#tts:nap:en-US{to carve}#~
 
 ~#tts:nap:en-US{The sculpture was made of marble.}#~",,,~#ttsA:en-US#~
 "rzeźbić, wycinać",to carve,"~#tts:nap:en-US{to sculpture, to sculpt}#~
@@ -1361,7 +1361,7 @@ skąpiec,skinflint,"~#tts:nap:en-US{miser}#~
 "maść, smarowidło",ointment,~#tts:nap:en-US{She put some ointment on her sunburn.}#~,,,~#ttsA:en-US#~
 "smar, środek smarujący",lubricant,"~#tts:nap:en-US{grease}#~
 
-~#tts:nap:en-US{The cumulus clouds were white and fluffy.}#~",,,~#ttsA:en-US#~
+~#tts:nap:en-US{Oil is a common lubricant used in engines.}#~",,,~#ttsA:en-US#~
 łasica,weasel,~#tts:nap:en-US{Weasels are small mammals.}#~,,,~#ttsA:en-US#~
 "skrzele, blaszka (u grzyba)",gill,~#tts:nap:en-US{Fish breathe through their gills.}#~,,,~#ttsA:en-US#~
 "brzask, zmrok, półmrok, zmierzch",twilight,~#tts:nap:en-US{The twilight was fading.}#~,,,~#ttsA:en-US#~
@@ -1392,7 +1392,7 @@ gruczoł płciowy,gonad,~#tts:nap:en-US{The gonads are the reproductive organs.}
 starowina,crone,"~#tts:nap:en-US{geezer}#~
 
 ~#tts:nap:en-US{She was an old crone.}#~",,,~#ttsA:en-US#~
-rakotwórcze,carcinogens,"~#tts:nap:en-US{Smoking is a major carcinogen.}#~
+"substancje rakotwórcze",carcinogens,"~#tts:nap:en-US{Smoking is a major carcinogen.}#~
 
 ~#tts:nap:en-US{Carcinogens are dangerous for health.}#~
 Substancje rakotwórcze są niebezpieczne dla zdrowia.",,,~#ttsA:en-US#~
@@ -1575,7 +1575,7 @@ przerażenie",dismay,"~#tts:nap:en-US{alarm, panic}#~
 stonoga,centipede,~#tts:nap:en-US{The centipede had many legs and crawled across the floor.}#~,,,~#ttsA:en-US#~
 wieprz,hog,~#tts:nap:en-US{The farmer raised hogs for their meat.}#~,,,~#ttsA:en-US#~
 stodoła,barn,~#tts:nap:en-US{The barn was filled with hay and other supplies for the animals.}#~,,,~#ttsA:en-US#~
-"przeciążenie, przeludnienie","congestion, congest",~#tts:nap:en-US{The traffic congestion made it difficult to get through the city.}#~,,,~#ttsA:en-US#~
+"przeciążenie, zator, korek (uliczny)",congestion,~#tts:nap:en-US{The traffic congestion made it difficult to get through the city.}#~,,,~#ttsA:en-US#~
 "kwiat
 
 kwitnąć, rozkwitać","blossom
@@ -1615,7 +1615,7 @@ pewne przywileje, jakie pracownik otrzymuje (legalnie) oprócz stałego wynagrod
 
 ~#tts:nap:en-US{The dog drooled saliva as it watched the owner eat a steak.}#~",,,~#ttsA:en-US#~
 łosoś,salmon,~#tts:nap:en-US{The salmon was grilled to perfection and served with lemon and dill.}#~,,,~#ttsA:en-US#~
-szyncel cielęcy,escalope,~#tts:nap:en-US{The veal escalope was tender and juicy.}#~,,,~#ttsA:en-US#~
+"sznycel cielęcy",escalope,~#tts:nap:en-US{The veal escalope was tender and juicy.}#~,,,~#ttsA:en-US#~
 "jagnię, jagnięcina",lamb,~#tts:nap:en-US{The lamb roast was slow-cooked in the oven until it was fall-apart tender.}#~,,,~#ttsA:en-US#~
 "cielę, cielęcy, cielęcina",veal,~#tts:nap:en-US{The veal cutlet was breaded and fried until golden brown.}#~,,,~#ttsA:en-US#~
 "uważny, pilny, dbały",attentive,~#tts:nap:en-US{The nurse was attentive to the needs of the patient.}#~,,,~#ttsA:en-US#~
@@ -1624,7 +1624,7 @@ podchodzić wodą, przemoczyć",to seep,~#tts:nap:en-US{The rain seeped through 
 przemoczyć (o deszczu),"soak [soaked, soaking, soaks]",~#tts:nap:en-US{The clothes were soaked after the heavy rain.}#~,,,~#ttsA:en-US#~
 gaza,gauze,~#tts:nap:en-US{The nurse applied a bandage of gauze to the wound.}#~,,,~#ttsA:en-US#~
 "szew [med.], zszyć [med.]","suture, sutured, suturing, sutures",~#tts:nap:en-US{The doctor sutured the cut with several stitches.}#~,,,~#ttsA:en-US#~
-dysponować,to dispose,~#tts:nap:en-US{They disposed of the old furniture by donating it to charity.}#~,,,~#ttsA:en-US#~
+"pozbyć się (czegoś)",to dispose of,"~#tts:nap:en-US{They disposed of the old furniture by donating it to charity.}#~",,,~#ttsA:en-US#~
 "jednomyślny, jednogłośny",unanimous,"~#tts:nap:en-US{The decision was unanimous, with everyone agreeing on the same course of action.}#~",,,~#ttsA:en-US#~
 dosłowny,literal,"~#tts:nap:en-US{He took the saying ""eat your heart out"" literally and tried to consume a piece of his heart.}#~",,,~#ttsA:en-US#~
 szczupak,pike,~#tts:nap:en-US{The fisherman caught a large pike in the lake.}#~,,,~#ttsA:en-US#~
@@ -1640,7 +1640,10 @@ to clutch",~#tts:nap:en-US{She clutched her purse tightly as she walked through 
 pstrąg,trout,~#tts:nap:en-US{The trout was caught using a fly fishing rod.}#~,,,~#ttsA:en-US#~
 fartuch lekarza,gown,~#tts:nap:en-US{The bride wore a stunning white gown on her wedding day.}#~,,,~#ttsA:en-US#~
 "poruszenie, ruch, krzątanina, latanina, rwetes",stir,"~#tts:nap:en-US{The wind stirred the leaves of the trees, creating a rustling sound.}#~",,,~#ttsA:en-US#~
-skrytykować ostro czyjś plan lub pomysł,to shoot something/sb down in flames,~#tts:nap:en-US{The fighter pilot shot down the enemy plane in flames.}#~,,,~#ttsA:en-US#~
+"zastępczy, pośredni
+doświadczany przez obserwację innych (np. emocje, satysfakcja)",vicarious,"~#tts:nap:en-US{He got a vicarious thrill out of watching his son score the winning goal.}#~
+
+~#tts:nap:en-US{She took a vicarious pleasure in her friend's travels.}#~",,,~#ttsA:en-US#~
 "zamyślony, zadumany",pensive,"~#tts:nap:en-US{thoughtful, contemplative}#~
 
 ~#tts:nap:en-US{She stood by the window, lost in pensive thought.}#~",,,~#ttsA:en-US#~
@@ -1662,7 +1665,7 @@ rolnictwo,agriculture,"~#tts:nap:en-US{farming}#~
 dziekan,dean,~#tts:nap:en-US{The dean of the college was responsible for academic affairs.}#~,,,~#ttsA:en-US#~
 "intelektualny, mózgowy",cerebral,"~#tts:nap:en-US{He was a cerebral person, always thinking about complex philosophical questions.}#~",,,~#ttsA:en-US#~
 guz,tumor,~#tts:nap:en-US{The doctor discovered a malignant tumor in her breast.}#~,,,~#ttsA:en-US#~
-samoświadomość,self-conscious,~#tts:nap:en-US{He was so self-conscious about his weight that he refused to go to the beach.}#~,,,~#ttsA:en-US#~
+"skrępowany, zakłopotany (sobą)",self-conscious,~#tts:nap:en-US{He was so self-conscious about his weight that he refused to go to the beach.}#~,,,~#ttsA:en-US#~
 mniszek lekarski,dandelion,~#tts:nap:en-US{Dandelions are bright yellow flowers that can be found in many meadows.}#~,,,~#ttsA:en-US#~
 rzepak,rape,"~#tts:nap:en-US{colza}#~
 
@@ -1720,7 +1723,11 @@ suseł,gopher,~#tts:nap:en-US{Gophers are small rodents that dig tunnels in the 
 "wilgotny, mokrawy, zawilgły",moist,~#tts:nap:en-US{The air was moist and humid after the rain.}#~,,,~#ttsA:en-US#~
 "kawalerski, kawaler",bachelor,~#tts:nap:en-US{He is a bachelor who has never been married.}#~,,,~#ttsA:en-US#~
 "siniak, potłuczenie, stłuczenie, guz",bruise,~#tts:nap:en-US{He got a bruise on his arm when he fell.}#~,,,~#ttsA:en-US#~
-"ropniak, zajad, ropieć, zropieć",fester,~#tts:nap:en-US{The wound festered and became infected.}#~,,,~#ttsA:en-US#~
+"ropniak, zajad, ropieć, zropieć
+
+jątrzyć się","fester
+
+to fester",~#tts:nap:en-US{The wound festered and became infected.}#~,,,~#ttsA:en-US#~
 "łamliwy, nędzny, słaby, wątły",frail,~#tts:nap:en-US{She was frail and weak after her illness.}#~,,,~#ttsA:en-US#~
 rtęć,mercury,~#tts:nap:en-US{Mercury is a heavy metal that is used in thermometers and barometers.}#~,,,~#ttsA:en-US#~
 "zasobny, zamożny, majętny",affluent,"~#tts:nap:en-US{feeder, confluent}#~
@@ -1730,9 +1737,9 @@ rtęć,mercury,~#tts:nap:en-US{Mercury is a heavy metal that is used in thermome
 kostka do gry,dice,~#tts:nap:en-US{We rolled the dice to see who would go first.}#~,,,~#ttsA:en-US#~
 mors,walrus,~#tts:nap:en-US{Walruses are large marine mammals that live in the Arctic.}#~,,,~#ttsA:en-US#~
 foka,seal,~#tts:nap:en-US{Seals are marine mammals that are often found on beaches.}#~,,,~#ttsA:en-US#~
-absorbujący,engrossing,"~#tts:nap:en-US{absorbing}#~
+"wchłaniający, zajmujący, pasjonujący",engrossing,"~#tts:nap:en-US{absorbing}#~
 
-~#tts:nap:en-US{The sponge is}#~ absorbujący ~#tts:nap:en-US{and can soak up a lot of water.}#~",,,~#ttsA:en-US#~
+~#tts:nap:en-US{The book was engrossing and I couldn't put it down.}#~",,,~#ttsA:en-US#~
 "uprowadzenie, porwanie","abduction
 
 to abduct","~#tts:nap:en-US{kidnapping, snatching, carrying off, grabbing}#~
@@ -1761,9 +1768,8 @@ nieprzerwanie,incessantly,"~#tts:nap:en-US{continual, unceasing, permanent}#~
 wegetarianin (określenie prześmiewcze),sprout-head,"~#tts:nap:en-US{His meat-loving friends jokingly call him a sprout-head.}#~
 Jego uwielbiający mięso przyjaciele żartobliwie nazywają go ""kiełkożercą"".",,,~#ttsA:en-US#~
 "spłukany, bez grosza przy duszy (bez pieniędzy)",penniless,~#tts:nap:en-US{He was penniless and had no money to buy food.}#~,,,~#ttsA:en-US#~
-"przycinać, sadzić (zagajnik),
-obsadzać drzewkami zagajnik",to copse,~#tts:nap:en-US{We took a walk through the copse.}#~,,,~#ttsA:en-US#~
-"chwalić się, przechwalać się",to laud,~#tts:nap:en-US{The teacher lauded the student for his excellent work.}#~,,,~#ttsA:en-US#~
+zagajnik,copse,~#tts:nap:en-US{We took a walk through the copse.}#~,,,~#ttsA:en-US#~
+"chwalić, wychwalać (kogoś)",to laud,~#tts:nap:en-US{The teacher lauded the student for his excellent work.}#~,,,~#ttsA:en-US#~
 cierń,thorn,~#tts:nap:en-US{The rose had sharp thorns on its stem.}#~,,,~#ttsA:en-US#~
 "ubiór, strój",attire,"~#tts:nap:en-US{outfit, clothes}#~
 ~#tts:nap:en-US{clothing, apparel, garment}#~
@@ -1905,11 +1911,7 @@ wolfram,tungsten,"~#tts:nap:en-US{Tungsten is a hard, heavy metal that is used i
 ~#tts:nap:en-US{She strove to be the best student in her class.}#~",,,~#ttsA:en-US#~
 odkażenie,decontamination,~#tts:nap:en-US{Decontamination is the process of removing dangerous substances from an area.}#~,,,~#ttsA:en-US#~
 "błyskotka, świecidełko, ozdóbka, drobiazg",trinket,~#tts:nap:en-US{She bought a trinket at the souvenir shop.}#~,,,~#ttsA:en-US#~
-"poligon
-
-przemierzać","traverse
-
-to traverse",~#tts:nap:en-US{The hikers traversed the mountain trail.}#~,,,~#ttsA:en-US#~
+"przemierzać, trawersować",to traverse,~#tts:nap:en-US{The hikers traversed the mountain trail.}#~,,,~#ttsA:en-US#~
 "zająć, własność, konfiskować, aresztować",to impound,~#tts:nap:en-US{The police impounded the car because the driver was drunk.}#~,,,~#ttsA:en-US#~
 "rysa, fuga",rift,~#tts:nap:en-US{The rift between the two countries was widening.}#~,,,~#ttsA:en-US#~
 "cięcie, nacięcie, wycięcie",incision,~#tts:nap:en-US{The doctor made an incision in the patient's skin.}#~,,,~#ttsA:en-US#~
@@ -1986,7 +1988,7 @@ przysłowie,proverb,"~#tts:nap:en-US{byword, adage}#~
 "odśrodkowy, wirówkowy",centrifugal,~#tts:nap:en-US{Centrifugal force is the force that pushes objects outward from a center.}#~,,,~#ttsA:en-US#~
 "rozpuszczać się, rozpływać się, zwijać się",dissolve,~#tts:nap:en-US{The sugar dissolved in the water.}#~,,,~#ttsA:en-US#~
 powtórka (lekcji) próba na scenie,rehearsal,~#tts:nap:en-US{The band was practicing for their concert rehearsal.}#~,,,~#ttsA:en-US#~
-gwóźdź,stud,"~#tts:nap:en-US{nail}#~
+"ćwiek, kołek, słupek (w ścianie)",stud,"~#tts:nap:en-US{nail}#~
 
 ~#tts:nap:en-US{The stud in the wall was used to hang the picture.}#~",,,~#ttsA:en-US#~
 "oswojony, łagodny",tame,"~#tts:nap:en-US{lenient, meek, placid, docile}#~
@@ -2113,7 +2115,7 @@ goleń [anat.],shin,~#tts:nap:en-US{He kicked the ball off his shin.}#~,,,~#ttsA
 "tam, tamten",yonder,"~#tts:nap:en-US{there, over, thither, yonder, yon}#~
 
 ~#tts:nap:en-US{Look at that beautiful mountain yonder.}#~",,,~#ttsA:en-US#~
-"dolna spacja, łącznik, rozłącznik, kreska, dzielnik",hyphen,~#tts:nap:en-US{A hyphen is a punctuation mark used to connect words.}#~,,,~#ttsA:en-US#~
+"łącznik (znak interpunkcyjny)",hyphen,~#tts:nap:en-US{A hyphen is a punctuation mark used to connect words.}#~,,,~#ttsA:en-US#~
 "dzielność, waleczność, bitność",valor,~#tts:nap:en-US{He showed great valor in battle.}#~,,,~#ttsA:en-US#~
 "frachtowiec, kargowiec",freighter,~#tts:nap:en-US{A freighter is a large ship that carries cargo.}#~,,,~#ttsA:en-US#~
 krążeniowy,circulatory,~#tts:nap:en-US{The circulatory system is responsible for transporting blood throughout the body.}#~,,,~#ttsA:en-US#~
@@ -2284,7 +2286,7 @@ najazd,foray,~#tts:nap:en-US{He made a foray into the enemy's territory.}#~,,,~#
 "przyłączać, nawiązywać stosunki",to affiliate,"~#tts:nap:en-US{verb officially attach or connect (a subsidiary group or a person) to an organization. the college is affiliated with the University of Wisconsin synonyms: associate with, unite with, combine with, join (up) with, link up with, team up with, ally with, align with, band together with, federate with, amalgamate with, merge with, attach to, annex to, incorporate into, integrate into noun a person or organization officially attached to a larger body. the company established links with British affiliates synonyms: partner, branch, offshoot, subsidiary}#~
 
 ~#tts:nap:en-US{He is affiliated with a local charity.}#~",,,~#ttsA:en-US#~
-"przepaść, otchłań",abyss,~#tts:nap:en-US{The abbys were a place of religious retreat.}#~,,,~#ttsA:en-US#~
+"przepaść, otchłań",abyss,~#tts:nap:en-US{She looked down into the dark abyss.}#~,,,~#ttsA:en-US#~
 "czuć wstręt, brzydzić się",to abhor,"~#tts:nap:en-US{to loathe, to detest, to hate}#~
 
 ~#tts:nap:en-US{She abhorred violence.}#~",,,~#ttsA:en-US#~
@@ -2372,7 +2374,7 @@ tarcza (zegara),dial,~#tts:nap:en-US{He dialed the phone number.}#~,,,~#ttsA:en-
 "rozbieżny, odbiegający",divergent,~#tts:nap:en-US{Their opinions were divergent.}#~,,,~#ttsA:en-US#~
 "usiłowanie, staranie",endeavor,~#tts:nap:en-US{She made every endeavor to finish the project on time.}#~,,,~#ttsA:en-US#~
 "uwikłać, zaplątać, gmatwać",to entangle,~#tts:nap:en-US{The fishing line became entangled in the weeds.}#~,,,~#ttsA:en-US#~
-"jednomyślność, równowaga, spokój, opanowanie",equanimity,~#tts:nap:en-US{He maintained his equanimity even in the face of adversity.}#~,,,~#ttsA:en-US#~
+"równowaga, spokój, opanowanie",equanimity,~#tts:nap:en-US{He maintained his equanimity even in the face of adversity.}#~,,,~#ttsA:en-US#~
 "sprawiedliwość, słuszność, akcje",equity,~#tts:nap:en-US{Everyone should have equal equity in the company.}#~,,,~#ttsA:en-US#~
 "polecenie, sprawa do załatwienia, zadanie",errand,"~#tts:nap:en-US{She ran errands for her boss.}#~
 
@@ -2743,7 +2745,7 @@ walić,to whack,"~#tts:nap:en-US{hit, wham, whop, wallop}#~
 "problem, zastrzeżenie",gripe,"~#tts:nap:en-US{reservation, limitation, objection, stipulation, caveat}#~
 
 ~#tts:nap:en-US{Her gripe was that the food was cold.}#~",,,~#ttsA:en-US#~
-"dyszeć, sapać",to chug,"~#tts:nap:en-US{noise; the dull explosive noise made by an engine}#~
+"pić duszkiem, sapać (o maszynie)",to chug,"~#tts:nap:en-US{noise; the dull explosive noise made by an engine}#~
 
 ~#tts:nap:en-US{He chugged down the glass of water.}#~",,,~#ttsA:en-US#~
 "przyzwoitka, opiekun",chaperone,~#tts:nap:en-US{The chaperone accompanied the students on the field trip.}#~,,,~#ttsA:en-US#~
@@ -2832,9 +2834,7 @@ zakłócić,to disrupt,"~#tts:nap:en-US{to interrupt}#~
 konstruktywny,constructive,"~#tts:nap:en-US{creative, productive}#~
 
 ~#tts:nap:en-US{The criticism was constructive and helped him improve.}#~",,,~#ttsA:en-US#~
-"pragmatyczny, wścibski",pragmatic,"~#tts:nap:en-US{nosy, interfering}#~
-
-~#tts:nap:en-US{She was a pragmatic person who focused on practical solutions.}#~",,,~#ttsA:en-US#~
+"pragmatyczny, praktyczny",pragmatic,~#tts:nap:en-US{She was a pragmatic person who focused on practical solutions.}#~,,,~#ttsA:en-US#~
 stoicki,stoic,"~#tts:nap:en-US{impassive}#~
 
 ~#tts:nap:en-US{He was stoic and did not show any emotion.}#~",,,~#ttsA:en-US#~
@@ -2870,7 +2870,7 @@ zwolnienie,lay-off,"~#tts:nap:en-US{exemption}#~
 dyrektor naczelny,CEO,"~#tts:nap:en-US{chief executive officer}#~
 
 ~#tts:nap:en-US{The CEO of the company is responsible for its overall performance.}#~",,,~#ttsA:en-US#~
-dyrektor księgowości,CFO,"~#tts:nap:en-US{chief financial officer}#~
+"Dyrektor Finansowy",CFO,"~#tts:nap:en-US{chief financial officer}#~
 
 ~#tts:nap:en-US{The CFO is responsible for the company's finances.}#~",,,~#ttsA:en-US#~
 dyrektor operacyjny,Operations Director,~#tts:nap:en-US{The Operations Director oversees the day-to-day operations of the company.}#~,,,~#ttsA:en-US#~
@@ -3191,7 +3191,7 @@ lenistwo",sloth,"~#tts:nap:en-US{Sloths are slow-moving mammals that live in tre
 pień np. drzewa,stump,"~#tts:nap:en-US{end piece}#~
 
 ~#tts:nap:en-US{The tree stump was covered in moss.}#~",,,~#ttsA:en-US#~
-kosiarka,weed-eater,~#tts:nap:en-US{He used a weed-eater to trim the grass.}#~,,,~#ttsA:en-US#~
+podkaszarka,weed-eater,~#tts:nap:en-US{He used a weed-eater to trim the grass.}#~,,,~#ttsA:en-US#~
 estetyka,aesthetics,"~#tts:nap:en-US{beauty}#~
 
 ~#tts:nap:en-US{She has a good sense of aesthetics.}#~",,,~#ttsA:en-US#~
@@ -3437,7 +3437,7 @@ pozbawiać,to deprive,~#tts:nap:en-US{She was deprived of food.}#~,,,~#ttsA:en-U
 wytrwać,to persevere,"~#tts:nap:en-US{endure, persist, last}#~
 
 ~#tts:nap:en-US{She persevered despite the difficulties.}#~",,,~#ttsA:en-US#~
-zestawienie,tally,~#tts:nap:en-US{She was a talented artist.}#~,,,~#ttsA:en-US#~
+zestawienie,tally,~#tts:nap:en-US{Please keep a tally of the scores during the game.}#~,,,~#ttsA:en-US#~
 suwerenny,sovereign,~#tts:nap:en-US{The king was sovereign.}#~,,,~#ttsA:en-US#~
 "pchnąć, wpakować, podtykać",to shove,~#tts:nap:en-US{He shoved her out of the way.}#~,,,~#ttsA:en-US#~
 układ limbiczny,limbic system,~#tts:nap:en-US{The limbic system controls emotions.}#~,,,~#ttsA:en-US#~
@@ -3451,7 +3451,7 @@ mieszkać,to dwell,"~#tts:nap:en-US{to live, to reside}#~
 ważność,validity,~#tts:nap:en-US{The validity of the argument was questionable.}#~,,,~#ttsA:en-US#~
 łypać,to leer,~#tts:nap:en-US{He leered at her.}#~,,,~#ttsA:en-US#~
 służalczy,servile,~#tts:nap:en-US{She was servile to her employer.}#~,,,~#ttsA:en-US#~
-przejrzeć,to revise,"~#tts:nap:en-US{to review, to skim, to look through}#~
+"zrewidować, poprawić, powtórzyć materiał",to revise,"~#tts:nap:en-US{to review, to look through}#~
 
 ~#tts:nap:en-US{We need to revise the plan.}#~",,,~#ttsA:en-US#~
 wyłącznie,solely,"~#tts:nap:en-US{only, exclusively, entirely.}#~
@@ -3476,7 +3476,7 @@ lakoniczny,terse,"~#tts:nap:en-US{laconic, curt, brief, short}#~
 
 ~#tts:nap:en-US{Her email was terse, providing only the necessary information without any extra details.}#~",,,~#ttsA:en-US#~
 szydzić,to scoff,~#tts:nap:en-US{He scoffed at her idea.}#~,,,~#ttsA:en-US#~
-wyczyn,feat,~#tts:nap:en-US{She was a feat of engineering.}#~,,,~#ttsA:en-US#~
+wyczyn,feat,~#tts:nap:en-US{The bridge was a feat of engineering.}#~,,,~#ttsA:en-US#~
 "oszczerstwo, pomówienie",aspersion,"~#tts:nap:en-US{slander, libel, calumny}#~
 ~#tts:nap:en-US{defamation, obloquy}#~
 
@@ -3659,7 +3659,7 @@ uzda,bridle,"~#tts:nap:en-US{He adjusted the bridle on the horse before setting 
 ~#tts:nap:en-US{The horse was bridled.}#~",,,~#ttsA:en-US#~
 niejasny,obscure,"~#tts:nap:en-US{The meaning of the poem was obscure, even to experienced scholars.}#~",,,~#ttsA:en-US#~
 zwracać koszty,to reimburse,~#tts:nap:en-US{I will reimburse you for the cost of the repairs.}#~,,,~#ttsA:en-US#~
-przyłączeniowy,additive,~#tts:nap:en-US{The food additive caused a severe allergic reaction.}#~,,,~#ttsA:en-US#~
+"dodatek (np. do żywności)",additive,~#tts:nap:en-US{The food additive caused a severe allergic reaction.}#~,,,~#ttsA:en-US#~
 przesiać,to sift,~#tts:nap:en-US{She carefully sifted through the flour to remove any lumps.}#~,,,~#ttsA:en-US#~
 "wybitny, znakomity, czołowy w dziedzinie",eminent,"~#tts:nap:en-US{outstanding, prominent, distinguished, remarkable}#~
 
@@ -3707,7 +3707,7 @@ przedwczesny,precocious,"~#tts:nap:en-US{premature}#~
 ~#tts:nap:en-US{The child was precocious.}#~",,,~#ttsA:en-US#~
 klapka,flap,~#tts:nap:en-US{The bird flapped its wings.}#~,,,~#ttsA:en-US#~
 szpara,chink,~#tts:nap:en-US{He had a chinky smile.}#~,,,~#ttsA:en-US#~
-oczy się otworzyły,eyes peeled,~#tts:nap:en-US{Her eyes were peeled.}#~,,,~#ttsA:en-US#~
+oczy szeroko otwarte,eyes peeled,~#tts:nap:en-US{Keep your eyes peeled for the exit sign.}#~,,,~#ttsA:en-US#~
 kamienica,tenement,~#tts:nap:en-US{They lived in a tenement.}#~,,,~#ttsA:en-US#~
 "frachtować, wysłać",to consign,"~#tts:nap:en-US{to send, to dispatch}#~
 
@@ -3764,7 +3764,7 @@ refren",chorus,"~#tts:nap:en-US{The chorus sang in harmony.}#~
 ~#tts:nap:en-US{In the song, the chorus repeats the most catchy and memorable lines, making it easy for everyone to sing along.}#~",,,~#ttsA:en-US#~
 niedociągnięcie,shortcoming,~#tts:nap:en-US{The plan had several shortcomings.}#~,,,~#ttsA:en-US#~
 koncesja,concession,~#tts:nap:en-US{She made a concession.}#~,,,~#ttsA:en-US#~
-legowisko,den,~#tts:nap:en-US{The car had a dent in it.}#~,,,~#ttsA:en-US#~
+legowisko,den,~#tts:nap:en-US{The bear hibernated in its den.}#~,,,~#ttsA:en-US#~
 "chwiać się, wahać się",to waver,"~#tts:nap:en-US{to falter, to stagger}#~
 
 ~#tts:nap:en-US{She wavered in her decision.}#~",,,~#ttsA:en-US#~
@@ -3783,7 +3783,7 @@ to dissent","~#tts:nap:en-US{rebellion, revolt, mutiny, riot}#~
 ~#tts:nap:en-US{There was dissent among the group.}#~",,,~#ttsA:en-US#~
 salwa,volley,~#tts:nap:en-US{The volley of gunfire was intense.}#~,,,~#ttsA:en-US#~
 spójność,cohesion,~#tts:nap:en-US{The team lacked cohesion.}#~,,,~#ttsA:en-US#~
-zwiad,recon,~#tts:nap:en-US{They reconciled their differences.}#~,,,~#ttsA:en-US#~
+zwiad,recon,~#tts:nap:en-US{The soldiers went on a recon mission to check the area.}#~,,,~#ttsA:en-US#~
 wprost,outright,~#tts:nap:en-US{He refused outright.}#~,,,~#ttsA:en-US#~
 zdobić,to adorn,~#tts:nap:en-US{The room was adorned with flowers.}#~,,,~#ttsA:en-US#~
 "domysł, przypuszczenie",surmise,"~#tts:nap:en-US{supposition}#~
@@ -4130,9 +4130,7 @@ myopia","~#tts:nap:en-US{farsightedness}#~
 spinacz,clip,~#tts:nap:en-US{She clipped the coupon.}#~,,,~#ttsA:en-US#~
 zwierzać,to confide,~#tts:nap:en-US{She confided her secrets to her best friend.}#~,,,~#ttsA:en-US#~
 jodła,fir,~#tts:nap:en-US{The fir tree was tall and green.}#~,,,~#ttsA:en-US#~
-"obywać się
-
-wydzielać, rozdzielać, wydawać",to dispense,~#tts:nap:en-US{The doctor dispensed the medication.}#~,,,~#ttsA:en-US#~
+"wydzielać, rozdzielać, przygotowywać (leki)",to dispense,~#tts:nap:en-US{The doctor dispensed the medication.}#~,,,~#ttsA:en-US#~
 "przebywać w ciąży,  rozwijać się w łonie
 
 rozwijać się, kształtować się
@@ -6095,6 +6093,9 @@ z bardzo małą ilością pieniędzy
 cena przybliżona
 
 ''(idiom)''",ballpark figure,"~#tts:nap:en-US{The ballpark figure for the cost of the project was $100,000.}#~",,,~#ttsA:en-US#~
+"skrytykować ostro czyjś plan lub pomysł
+
+''(idiom)''",to shoot something down in flames,~#tts:nap:en-US{He shot my proposal down in flames during the meeting.}#~,,,~#ttsA:en-US#~
 ,,,,,
 Proverbs,,,,,
 Bez pracy nie ma kołaczy.,"No pain, no gain.",,,,~#ttsA:en-US#~
@@ -6126,7 +6127,8 @@ Kto rano wstaje, temu Pan Bóg daje.",Early bird catches the worm. ,,,,~#ttsA:en
 "Kto znalazł, ten zabrał.","Finders keepers, losers weepers. ",,,,~#ttsA:en-US#~
 Lepiej dmuchać na zimne.,It's better to be safe than sorry.,,,,~#ttsA:en-US#~
 Lepiej późno niż wcale.,Better late than never.,,,,~#ttsA:en-US#~
-Lepiej zapobiegać niż leczyć.,A stitch in time saves nine.,,,,~#ttsA:en-US#~
+"Działanie w porę oszczędza kłopotów.
+Lepiej zapobiegać niż leczyć",A stitch in time saves nine.,,,,~#ttsA:en-US#~
 Lepszy wróbel w garści niż gołąb na dachu.,A bird in the hand is worth two in the bush.,,,,~#ttsA:en-US#~
 Los sprzyja odważnym.,Fortune favors the bold.,,,,~#ttsA:en-US#~
 Mądrym wystarczy słowo.,A word to the wise is sufficient. ,,,,~#ttsA:en-US#~
