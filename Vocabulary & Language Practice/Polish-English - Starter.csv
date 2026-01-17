@@ -4112,11 +4112,21 @@ Smacznego!,Enjoy your meal!,(dosłownie: Ciesz się posiłkiem!),,,"~#ttsA:en-US
 ~#no-swap#~"
 Wychodzę na zewnątrz/na dwór.,I'm going outside.,,,,"~#ttsA:en-US#~
 ~#no-swap#~"
-"I - ja
+"ja
+ty
+on
+ona
+ono, to
+
+my
+wy
+oni","
+I - ja
 you - ty
 he - on
 she ona
 it - ono, to
+
 we - my
 you - wy
 they - oni","my - moje
@@ -4124,19 +4134,20 @@ your - twoje
 his - jego
 her - jej
 its - tego
+
 our - nasze
 your - wasze
-their - ich","mine - moje
+their - ich
+
+mine - moje
 yours - twoje
 his - jego
 hers - jej
 its - tego
+
 ours - nasze
 yours - wasze
-theirs - ich
-
-~#tts:nap:en-US{The book is yours.}#~
-~#tts:nap:en-US{This is your book.}#~",https://dictionary.cambridge.org/grammar/british-grammar/pronouns-possessive-my-mine-your-yours-etc,,~#no-swap#~
+theirs - ich",https://dictionary.cambridge.org/grammar/british-grammar/pronouns-possessive-my-mine-your-yours-etc,,~#no-swap#~
 Mogę/potrafię to zrobić.,I can do it.,,,,"~#ttsA:en-US#~
 ~#no-swap#~"
 Zawsze będę Cię kochał.,I will always love you.,,,,"~#ttsA:en-US#~
