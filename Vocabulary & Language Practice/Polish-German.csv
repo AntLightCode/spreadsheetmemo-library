@@ -1,7 +1,7 @@
 #SHEETINFO | name=Słownictwo i zdania,,,,,
 jeden,eins,"~#tts:nap:de-DE{Eins plus eins ist zwei.}#~
 Jeden plus jeden równa się dwa.",,,~#ttsA:de-DE#~
-mama,die Mama,"~#tts:nap:de-DE{Meine Mama kocht das Mittagessen.}#~
+"mama, mamusia",die Mutti,"~#tts:nap:de-DE{Meine Mutti kocht das Mittagessen.}#~
 Moja mama gotuje obiad.",,,~#ttsA:de-DE#~
 "obraz, ilustracja lub zdjęcie",das Bild,"~#tts:nap:de-DE{das Foto}#~
 
@@ -25,7 +25,7 @@ Spróbujmy jeszcze raz.",,,~#ttsA:de-DE#~
 Cześć, jak się masz?",,,~#ttsA:de-DE#~
 pani,die Dame,"~#tts:nap:de-DE{Die Dame am Schalter war sehr hilfsbereit.}#~
 Pani w okienku była bardzo pomocna.",,,~#ttsA:de-DE#~
-iść,gehen,"~#tts:nap:de-DE{Ich gehe zum Laden.}#~
+"iść, chodzić, wyjść",gehen,"~#tts:nap:de-DE{Ich gehe zum Laden.}#~
 Idę do sklepu.",,,~#ttsA:de-DE#~
 niebieski,blau,"~#tts:nap:de-DE{Der Himmel ist blau.}#~
 Niebo jest niebieskie.",,,~#ttsA:de-DE#~
@@ -832,10 +832,10 @@ cukier,der Zucker,"~#tts:nap:de-DE{Nimm nicht zu viel Zucker.}#~
 Nie wsypuj za dużo cukru.",,,~#ttsA:de-DE#~
 plaża,der Strand,"~#tts:nap:de-DE{Wir haben am Strand Volleyball gespielt.}#~
 Graliśmy w siatkówkę na plaży.",,,~#ttsA:de-DE#~
-"piękny, ładny, estetyczny",schön,"~#tts:nap:de-DE{wunderschön}#~
-
-~#tts:nap:de-DE{Was für ein schöner Tag!}#~
-Jaki piękny dzień!",,,~#ttsA:de-DE#~
+"uroczy, śliczny",reizend,"~#tts:nap:de-DE{Sie ist eine reizende Person.}#~
+Ona jest uroczą osobą.",,,~#ttsA:de-DE#~
+"piękny, ładny",schön,"~#tts:nap:de-DE{Das Wetter ist heute schön.}#~
+Pogoda jest dziś piękna.",,,~#ttsA:de-DE#~
 iść popływać,schwimmen gehen,"~#tts:nap:de-DE{Lass uns heute Nachmittag schwimmen gehen.}#~
 Chodźmy popływać dziś po południu.
 
@@ -3679,10 +3679,6 @@ von","~#tts:nap:de-DE{Ich komme aus Polen.}#~
 Jestem z Polski.",,,~#ttsA:de-DE#~
 Zróbmy sobie przerwę.,Lass uns eine Pause machen.,,,,"~#ttsA:de-DE#~
 ~#no-swap#~"
-"uroczy, urocza
-cudowny, cudowna","schön
-reizend","~#tts:nap:de-DE{Das Wetter ist heute schön.}#~
-Pogoda jest dziś cudowna.",,,~#ttsA:de-DE#~
 bałagan,"das Chaos
 die Unordnung","~#tts:nap:de-DE{Das Zimmer ist ein Chaos.}#~
 W pokoju panuje chaos.",,,~#ttsA:de-DE#~
@@ -4323,10 +4319,7 @@ cyrk,der Zirkus,"~#tts:nap:de-DE{Der Zirkus kommt in die Stadt.}#~
 Cyrk przyjeżdża do miasta.",,,~#ttsA:de-DE#~
 strzelanina,die Schießerei,"~#tts:nap:de-DE{Die Schießerei an der Schule war eine Tragödie.}#~
 Strzelanina w szkole była tragedią.",,,~#ttsA:de-DE#~
-"skrzyżowanie dróg
-w przenośni: punkt decyzyjny, moment wyboru",der Scheideweg,"~#tts:nap:de-DE{die Kreuzung}#~
-
-~#tts:nap:de-DE{Nach ihrem Abschluss stand sie an einem Scheideweg in ihrem Leben.}#~
+"rozdroże, rozstaje (w przenośni: moment wyboru)",der Scheideweg,"~#tts:nap:de-DE{Nach ihrem Abschluss stand sie an einem Scheideweg in ihrem Leben.}#~
 Po ukończeniu studiów znalazła się na życiowym rozdrożu.",,,~#ttsA:de-DE#~
 diabelski młyn,das Riesenrad,"~#tts:nap:de-DE{Ich bin im Vergnügungspark mit dem Riesenrad gefahren.}#~
 Jeździłem na diabelskim młynie w parku rozrywki.",,,~#ttsA:de-DE#~
@@ -4419,10 +4412,10 @@ obracać,abbiegen,"~#tts:nap:de-DE{drehen}#~
 Skręć w lewo na następnym rogu.",,,~#ttsA:de-DE#~
 reakcja,die Reaktion,"~#tts:nap:de-DE{Ihre Reaktion war unerwartet.}#~
 Jej reakcja była nieoczekiwana.",,,~#ttsA:de-DE#~
-"odkąd
-ponieważ","seit
-da, weil","~#tts:nap:de-DE{Ich habe sie seit letzter Woche nicht mehr gesehen.}#~
+"odkąd (czas)",seit,"~#tts:nap:de-DE{Ich habe sie seit letzter Woche nicht mehr gesehen.}#~
 Nie widziałem jej od zeszłego tygodnia.",,,~#ttsA:de-DE#~
+"ponieważ",da,"~#tts:nap:de-DE{Da es regnet, bleibe ich zu Hause.}#~
+Ponieważ pada, zostaję w domu.",,,~#ttsA:de-DE#~
 pokonywać,besiegen,"~#tts:nap:de-DE{Er hat seinen Gegner im Spiel besiegt.}#~
 Pokonał przeciwnika w grze.",,,~#ttsA:de-DE#~
 dział,die Abteilung,"~#tts:nap:de-DE{Er arbeitet in der Bildungsabteilung.}#~
@@ -5100,10 +5093,10 @@ klucze do domu,die Hausschlüssel,"~#tts:nap:de-DE{Wo sind meine Hausschlüssel?
 Gdzie są moje klucze do domu?",,,~#ttsA:de-DE#~
 "Dziękuję, kochanie!","Danke, mein Schatz!",,,,"~#ttsA:de-DE#~
 ~#no-swap#~"
-"mądry, sprytny,
-pomysłowy, potrafiący znaleźć szybkie rozwiązania","klug
-schlau","~#tts:nap:de-DE{Sie ist ein kluges Mädchen.}#~
-Ona jest mądrą dziewczyną.",,,~#ttsA:de-DE#~
+"mądry",klug,"~#tts:nap:de-DE{Er ist ein sehr kluger Schüler.}#~
+Jest bardzo mądrym uczniem.",,,~#ttsA:de-DE#~
+"sprytny",schlau,"~#tts:nap:de-DE{Der Fuchs ist schlau.}#~
+Lis jest sprytny.",,,~#ttsA:de-DE#~
 przyjazny,freundlich,"~#tts:nap:de-DE{Er ist eine freundliche Person.}#~
 On jest przyjazną osobą.
 
@@ -5704,9 +5697,10 @@ Mam jutro wywiad.
 ~#tts:nap:de-DE{das Vorstellungsgespräch}#~ ➟ rozmowa kwalifikacyjna o pracę",,,~#ttsA:de-DE#~
 "magazyn, czasopismo","die Zeitschrift, das Magazin","~#tts:nap:de-DE{Ich lese gerne Zeitschriften.}#~
 Lubię czytać czasopisma.",,,~#ttsA:de-DE#~
-"gracz
-odtwarzacz",der Spieler,"~#tts:nap:de-DE{Er ist ein guter Fußballspieler.}#~
+"gracz (osoba)",der Spieler,"~#tts:nap:de-DE{Er ist ein guter Fußballspieler.}#~
 On jest dobrym piłkarzem.",,,~#ttsA:de-DE#~
+"odtwarzacz (urządzenie, np. DVD)",der Player,"~#tts:nap:de-DE{Der DVD-Player ist kaputt.}#~
+Odtwarzacz DVD jest zepsuty.",,,~#ttsA:de-DE#~
 relaksować się,sich entspannen,"~#tts:nap:de-DE{Ich entspanne mich gerne beim Fernsehen.}#~
 Lubię relaksować się oglądając telewizję.
 
@@ -5995,9 +5989,6 @@ kopalnia,die Mine,"~#tts:nap:de-DE{Das Bergwerk}#~
 
 ~#tts:nap:de-DE{Die Arbeiter fördern Kohle aus der Mine.}#~
 Pracownicy wydobywają węgiel z kopalni.",,,~#ttsA:de-DE#~
-"wieś
-krajobraz wiejski",die Landschaft,"~#tts:nap:de-DE{Wir verbrachten das Wochenende auf dem ruhigen Land.}#~
-Spędziliśmy weekend na spokojnej wsi.",,,~#ttsA:de-DE#~
 portfel,die Brieftasche,"~#tts:nap:de-DE{das Portemonnaie}#~
 
 ~#tts:nap:de-DE{Ich habe meine Brieftasche verloren.}#~
@@ -6225,12 +6216,6 @@ bombki na choinkę,die Christbaumkugeln,"~#tts:nap:de-DE{Die Familie versammelte
 Rodzina zebrała się wokół drzewka, ostrożnie wieszając bombki choinkowe na gałęziach.",,,~#ttsA:de-DE#~
 dynia na halloween,die Kürbislaterne,"~#tts:nap:de-DE{Wir haben eine Kürbislaterne vor das Haus gestellt.}#~
 Postawiliśmy dynię (latarnię z dyni) przed domem.",,,~#ttsA:de-DE#~
-"to była dobra gra 
-
-''(slang graczy)''",GG,~#tts:nap:de-DE{gut gespielt}#~,,,~#ttsA:de-DE#~
-"jestem teraz z dala od klawiatury, nie ma mnie przy komputerze
-
-''(slang graczy)''",AFK,~#tts:nap:de-DE{weg von der Tastatur}#~,,,~#ttsA:de-DE#~
 sztuka (przedmiot w szkole),Kunst,"~#tts:nap:de-DE{Kunst ist mein Lieblingsfach in der Schule.}#~
 Sztuka to mój ulubiony przedmiot w szkole.",,,~#ttsA:de-DE#~
 informatyka (przedmiot w szkole),Informatik,"~#tts:nap:de-DE{Wir lernen Programmieren in Informatik.}#~
@@ -7018,7 +7003,7 @@ Czy podoba ci się tutaj?,Gefällt es dir hier?,"~#tts:nap:de-DE{Also, das ist d
 A więc to twoje nowe biuro. Czy podoba ci się tutaj?",,,~#ttsA:de-DE#~
 "lubić coś
 cieszyć się czymś",genießen,"~#tts:nap:de-DE{Ich genieße es wirklich, Musik zu hören.}#~
-Naprawdę lubię (ciesze się) słuchać muzyki.",,,~#ttsA:de-DE#~
+Naprawdę lubię słuchać muzyki.",,,~#ttsA:de-DE#~
 nie bardzo,nicht wirklich,"~#tts:nap:de-DE{Magst du Horrorfilme? Nicht wirklich.}#~
 Lubisz horrory? Nie bardzo.",,,~#ttsA:de-DE#~
 prawdziwy,echt,"~#tts:nap:de-DE{Ist das ein echter Diamant?}#~
@@ -7440,13 +7425,7 @@ pożyczyć (od kogoś),ausleihen,"~#tts:nap:de-DE{Kann ich dein Buch für einen 
 Czy mogę pożyczyć twoją książkę na jeden dzień?",,,~#ttsA:de-DE#~
 iść na przyjęcie,auf eine Party gehen,"~#tts:nap:de-DE{Wir gehen am Samstag auf eine Party.}#~
 W sobotę idziemy na przyjęcie.",,,~#ttsA:de-DE#~
-"wyjść
-odjechać",gehen,"~#tts:nap:de-DE{abfahren}#~
-
-~#tts:nap:de-DE{Ich muss jetzt gehen, sonst komme ich zu spät.}#~
-Muszę teraz wyjść, bo się spóźniłem.
-
-~#tts:nap:de-DE{Der Zug wird in 10 Minuten abfahren.}#~
+"odjechać (pojazdem)",abfahren,"~#tts:nap:de-DE{Der Zug wird in 10 Minuten abfahren.}#~
 Pociąg odjedzie za 10 minut.",,,~#ttsA:de-DE#~
 para dwóch rzeczy traktowanych jako komplet,das Paar,"~#tts:nap:de-DE{Ich muss ein neues Paar Schuhe kaufen.}#~
 Muszę kupić nową parę butów.",,,~#ttsA:de-DE#~
@@ -7931,11 +7910,8 @@ wygląd,das Aussehen,"~#tts:nap:de-DE{die Erscheinung}#~
 
 ~#tts:nap:de-DE{Ihr Aussehen ist sehr auffällig.}#~
 Jej wygląd jest bardzo uderzający.",,,~#ttsA:de-DE#~
-"obok
-za pomocą",neben,"~#tts:nap:de-DE{durch, mit}#~
-
-~#tts:nap:de-DE{Er wohnt am (neben dem) Fluss.}#~
-Mieszkam nad rzeką.",,,~#ttsA:de-DE#~
+"za pomocą, przy użyciu",mittels,"~#tts:nap:de-DE{Wir haben das Problem mittels neuer Technologie gelöst.}#~
+Rozwiązaliśmy problem za pomocą nowej technologii.",,,~#ttsA:de-DE#~
 los,das Schicksal,"~#tts:nap:de-DE{Es war das Schicksal, das sie zusammenbrachte.}#~
 To los ich połączył.",,,~#ttsA:de-DE#~
 "mieć powinność (coś zrobić)
@@ -7955,10 +7931,9 @@ Ludność zmniejsza się.",,,~#ttsA:de-DE#~
 Brakuje mu pewności siebie.",,,~#ttsA:de-DE#~
 doskonale,perfekt,"~#tts:nap:de-DE{Er spricht perfekt Englisch.}#~
 Mówi po angielsku doskonale.",,,~#ttsA:de-DE#~
-"pokład (statku)
-taras",das Deck,"~#tts:nap:de-DE{die Terrasse}#~
-
-~#tts:nap:de-DE{Er saß auf der Terrasse.}#~
+"pokład (statku)",das Deck,"~#tts:nap:de-DE{Wir gingen an Deck.}#~
+Weszliśmy na pokład.",,,~#ttsA:de-DE#~
+"taras",die Terrasse,"~#tts:nap:de-DE{Er saß auf der Terrasse.}#~
 Usiadł na tarasie.",,,~#ttsA:de-DE#~
 pracujący,arbeitend,"~#tts:nap:de-DE{Ich arbeite an einem neuen Projekt.}#~
 Pracuję nad nowym projektem.",,,~#ttsA:de-DE#~
@@ -7970,11 +7945,10 @@ Obudziliśmy się o świcie.",,,~#ttsA:de-DE#~
 Lewa strona budynku jest pomalowana na czerwono.",,,~#ttsA:de-DE#~
 twój (przed rzeczownikiem),dein,"~#tts:nap:de-DE{Das ist dein Buch.}#~
 To jest twoja książka.",,,~#ttsA:de-DE#~
-"reagować
-odpowiadać",antworten,"~#tts:nap:de-DE{reagieren}#~
-
-~#tts:nap:de-DE{Er hat auf meine E-Mail geantwortet.}#~
+"odpowiadać (na pytanie)",antworten,"~#tts:nap:de-DE{Er hat auf meine E-Mail geantwortet.}#~
 Odpowiedział na mój e-mail.",,,~#ttsA:de-DE#~
+"reagować",reagieren,"~#tts:nap:de-DE{Wie hat er reagiert?}#~
+Jak zareagował?",,,~#ttsA:de-DE#~
 łyżwiarstwo,das Schlittschuhlaufen,"~#tts:nap:de-DE{Ich gehe gerne Schlittschuhlaufen.}#~
 Lubię jeździć na łyżwach.",,,~#ttsA:de-DE#~
 dość,ziemlich,"~#tts:nap:de-DE{Es ist ziemlich kalt draußen.}#~
@@ -8438,11 +8412,10 @@ Jestem dzisiaj w dobrym nastroju.",,,~#ttsA:de-DE#~
 Ma spore szanse na wygraną.",,,~#ttsA:de-DE#~
 "jarmark, wesołe miasteczko",der Jahrmarkt,"~#tts:nap:de-DE{Der Jahrmarkt hat viel Spaß gemacht.}#~
 Jarmark był świetną zabawą.",,,~#ttsA:de-DE#~
-"świat w grach, książkach, filmach (miasta, potwory, postaci, wydarzenia)
-tradycja ludowa, wiedza o wydarzeniach",die Überlieferung,"~#tts:nap:de-DE{die Hintergrundgeschichte}#~
-
-~#tts:nap:de-DE{Die Legende von König Artus ist eine berühmte Überlieferung.}#~
-Legenda o królu Arturze jest słynną częścią folkloru.",,,~#ttsA:de-DE#~
+"tradycja, przekaz",die Überlieferung,"~#tts:nap:de-DE{Die Legende von König Artus ist eine berühmte Überlieferung.}#~
+Legenda o królu Arturze jest słynnym przekazem (tradycją).",,,~#ttsA:de-DE#~
+"wiedza o świecie gry (lore)",die Hintergrundgeschichte,"~#tts:nap:de-DE{Die Hintergrundgeschichte des Spiels ist sehr komplex.}#~
+Fabuła (tło historyczne) gry jest bardzo złożona.",,,~#ttsA:de-DE#~
 "broń, pistolet",die Waffe,"~#tts:nap:de-DE{die Pistole}#~
 
 ~#tts:nap:de-DE{Er trägt eine Waffe.}#~
@@ -9356,10 +9329,10 @@ proponować,vorschlagen,"~#tts:nap:de-DE{Ich schlage vor, wir gehen essen.}#~
 Sugeruję (proponuję), abyśmy poszli na obiad.",,,~#ttsA:de-DE#~
 projektować,entwerfen,"~#tts:nap:de-DE{Er hat ein neues Gebäude entworfen.}#~
 Zaprojektował nowy budynek.",,,~#ttsA:de-DE#~
-"żądło (np. pszczoły)
-ukłucie",der Stachel,"~#tts:nap:de-DE{der Stich}#~",,,~#ttsA:de-DE#~
-użądlić,stechen,"~#tts:nap:de-DE{Die Biene hat mich gestochen.}#~
-Pszczoła mnie użądliła.",,,~#ttsA:de-DE#~
+"żądło",der Stachel,"~#tts:nap:de-DE{Bienen haben einen Stachel.}#~
+Pszczoły mają żądło.",,,~#ttsA:de-DE#~
+"ukłucie, użądlenie",der Stich,"~#tts:nap:de-DE{Der Stich tut weh.}#~
+Ukłucie boli.",,,~#ttsA:de-DE#~
 siekać,hacken,"~#tts:nap:de-DE{Ich muss den Knoblauch hacken.}#~
 Muszę posiekać czosnek.",,,~#ttsA:de-DE#~
 "przejrzysty, czysty, wyraźny, klarowny",klar,"~#tts:nap:de-DE{Das Wasser ist klar.}#~
@@ -9567,11 +9540,8 @@ Firma jest podmiotem prawnym.",,,~#ttsA:de-DE#~
 Policja podjęła działania.",,,~#ttsA:de-DE#~
 "kupiec, handlarz",der Händler,"~#tts:nap:de-DE{Der Händler verkaufte mir eine gefälschte Uhr.}#~
 Kupiec sprzedał mi fałszywy zegarek.",,,~#ttsA:de-DE#~
-"otchłań
-stan zawieszenia",der Schwebezustand,"~#tts:nap:de-DE{die Vorhölle}#~
-
-~#tts:nap:de-DE{Limbo ist auch ein Spiel, bei dem man unter einer Stange hindurchgehen muss.}#~
-Limbo to także gra, w której trzeba przejść pod poprzeczką.",,,~#ttsA:de-DE#~
+"stan zawieszenia, niepewność",der Schwebezustand,"~#tts:nap:de-DE{Das Projekt ist im Schwebezustand.}#~
+Projekt jest w zawieszeniu.",,,~#ttsA:de-DE#~
 areszt,das Gefängnis,"~#tts:nap:de-DE{Er wurde wegen seines Verbrechens ins Gefängnis geschickt.}#~
 Został wysłany do więzienia za swoje przestępstwo.",,,~#ttsA:de-DE#~
 elitarny,die Elite,"~#tts:nap:de-DE{Er gehört zur sozialen Elite.}#~
@@ -10643,7 +10613,7 @@ Zasłony są zaciągnięte (zamknięte).",,,~#ttsA:de-DE#~
 Poprzedni właściciel domu był bardzo miły.",,,~#ttsA:de-DE#~
 "ograniczenie, zakaz, restrykcja",die Beschränkung,"~#tts:nap:de-DE{Es gibt Reisebeschränkungen für dieses Land.}#~
 Istnieją ograniczenia podróży do tego kraju.",,,~#ttsA:de-DE#~
-rekomendować,empfehlen,"~#tts:nap:de-DE{Ich kann ein gutes Restaurant empfehlen.}#~
+"polecać, rekomendować",empfehlen,"~#tts:nap:de-DE{Ich kann ein gutes Restaurant empfehlen.}#~
 Mogę polecić dobrą restaurację.",,,~#ttsA:de-DE#~
 proces,der Prozess,"~#tts:nap:de-DE{Der Prozess des Lernens einer neuen Sprache braucht Zeit.}#~
 Proces uczenia się nowego języka wymaga czasu.",,,~#ttsA:de-DE#~
@@ -11226,10 +11196,6 @@ Spóźniłem się na autobus.",,,~#ttsA:de-DE#~
 Dodaj łyżkę cukru do kawy.",,,~#ttsA:de-DE#~
 co,was,"~#tts:nap:de-DE{Was ist dein Name?}#~
 Jak masz na imię?",,,~#ttsA:de-DE#~
-"dynia
-squash (sport)
-zgniatać, miażdżyć",der Kürbis,"~#tts:nap:de-DE{Kürbis ist eine Art von Gemüse.}#~
-Dynia to rodzaj warzywa.",,,~#ttsA:de-DE#~
 działacz,der Aktivist,"~#tts:nap:de-DE{Sie ist eine Umweltaktivistin.}#~
 Jest aktywistką środowiskową.",,,~#ttsA:de-DE#~
 przyznawać się,zugeben,"~#tts:nap:de-DE{Er gab seine Schuld zu.}#~
@@ -11280,10 +11246,6 @@ spór,der Streit,"~#tts:nap:de-DE{Der Streit wurde friedlich beigelegt.}#~
 Spór został rozstrzygnięty pokojowo.",,,~#ttsA:de-DE#~
 "wybierać, zrywać, podnosić",pflücken,"~#tts:nap:de-DE{Ich habe eine Blume aus dem Garten gepflückt.}#~
 Zerwałem kwiat z ogrodu.",,,~#ttsA:de-DE#~
-"wysięgnik
-nagły wzrost, rozkwit
-huk, eksplozja",der Boom,"~#tts:nap:de-DE{Die Wirtschaft boomt.}#~
-Gospodarka kwitnie.",,,~#ttsA:de-DE#~
 "wrażliwy, czuły",empfindlich,"~#tts:nap:de-DE{Sie reagiert sehr empfindlich auf Kritik.}#~
 Jest bardzo wrażliwa na krytykę.",,,~#ttsA:de-DE#~
 mięsień,der Muskel,"~#tts:nap:de-DE{Ich habe Muskelschmerzen.}#~
@@ -11450,9 +11412,6 @@ Opóźnił spotkanie.",,,~#ttsA:de-DE#~
 Początek filmu był nudny.",,,~#ttsA:de-DE#~
 pozbywać się,befreien,"~#tts:nap:de-DE{Wir müssen die Welt von Armut befreien.}#~
 Musimy pozbyć się ubóstwa ze świata.",,,~#ttsA:de-DE#~
-"dotyczyć
-odnościć się",empfehlen,"~#tts:nap:de-DE{Kannst du mir einen guten Arzt empfehlen?}#~
-Czy możesz polecić mi dobrego lekarza?",,,~#ttsA:de-DE#~
 "codzienny, codziennie",täglich,"~#tts:nap:de-DE{Er geht täglich zur Arbeit.}#~
 Chodzi do pracy codziennie.",,,~#ttsA:de-DE#~
 "niezależny, samodzielny, niepodlegający kontroli innych",unabhängig,"~#tts:nap:de-DE{Sie ist eine unabhängige Frau.}#~
@@ -11891,9 +11850,7 @@ instruktor,der Lehrer,"~#tts:nap:de-DE{Der Lehrer ist sehr sachkundig.}#~
 Instruktor jest bardzo kompetentny.",,,~#ttsA:de-DE#~
 pierwotnie,ursprünglich,"~#tts:nap:de-DE{Ich wollte ursprünglich Jura studieren.}#~
 Początkowo chciałem studiować prawo.",,,~#ttsA:de-DE#~
-"gips (opatrunek)
-odlew
-obsada",der Gips,"~#tts:nap:de-DE{Der Gips an seinem Arm ist gebrochen.}#~
+"gips (opatrunek)",der Gips,"~#tts:nap:de-DE{Der Gips an seinem Arm ist gebrochen.}#~
 Gips na ręce jest złamany.",,,~#ttsA:de-DE#~
 romb,die Raute,"~#tts:nap:de-DE{Eine Raute hat vier gleiche Seiten, ist aber kein Quadrat.}#~
 Romb ma cztery równe boki, ale nie jest kwadratem.",,,~#ttsA:de-DE#~
@@ -12204,8 +12161,7 @@ definicja,die Definition,"~#tts:nap:de-DE{Die Definition des Wortes ist komplex.
 Definicja słowa jest złożona.",,,~#ttsA:de-DE#~
 urok,der Reiz,"~#tts:nap:de-DE{Das Gemälde hat großen Reiz.}#~
 Obraz ma wielki urok.",,,~#ttsA:de-DE#~
-"oficjalny
-urzędnik, osoba pełniąca funkcję",offiziell,"~#tts:nap:de-DE{Die offizielle Ankündigung erfolgt morgen.}#~
+oficjalny,offiziell,"~#tts:nap:de-DE{Die offizielle Ankündigung erfolgt morgen.}#~
 Oficjalne ogłoszenie zostanie dokonane jutro.",,,~#ttsA:de-DE#~
 argument,der Streit,"~#tts:nap:de-DE{Sie hatten einen heftigen Streit.}#~
 Mieli gorącą kłótnię.",,,~#ttsA:de-DE#~
@@ -12402,8 +12358,6 @@ nieprawdopodobne,unwahrscheinlich,"~#tts:nap:de-DE{Es ist unwahrscheinlich, dass
 Jest mało prawdopodobne, że wygra.",,,~#ttsA:de-DE#~
 inteligencja,die Intelligenz,"~#tts:nap:de-DE{Künstliche Intelligenz wird immer fortschrittlicher.}#~
 Sztuczna inteligencja staje się coraz bardziej zaawansowana.",,,~#ttsA:de-DE#~
-"wzmacniać, utwierdzać",verstärken,"~#tts:nap:de-DE{Wir müssen die Wände des Hauses verstärken.}#~
-Musimy wzmocnić ściany domu.",,,~#ttsA:de-DE#~
 izraelski,israelisch,"~#tts:nap:de-DE{Sie ist Israelin.}#~
 Ona jest Izraelitką.",,,~#ttsA:de-DE#~
 złożony,komplex,"~#tts:nap:de-DE{Das Problem ist sehr komplex.}#~
@@ -12929,8 +12883,6 @@ demonstracja,die Demonstration,"~#tts:nap:de-DE{Die Demonstration war friedlich.
 Demonstracja była pokojowa.",,,~#ttsA:de-DE#~
 konserwatywny,konservativ,"~#tts:nap:de-DE{Er ist ein konservativer Politiker.}#~
 On jest konserwatywnym politykiem.",,,~#ttsA:de-DE#~
-"obok, przy, w porównaniu do",neben,"~#tts:nap:de-DE{Er saß neben mir.}#~
-Usiadł obok mnie.",,,~#ttsA:de-DE#~
 rekomendacja,die Empfehlung,"~#tts:nap:de-DE{Ich folgte deiner Empfehlung.}#~
 Podążyłem za twoją rekomendacją.",,,~#ttsA:de-DE#~
 wywodzić,ableiten,"~#tts:nap:de-DE{Er leitete Vergnügen aus seiner Arbeit ab.}#~
