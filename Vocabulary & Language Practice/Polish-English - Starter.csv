@@ -493,7 +493,9 @@ jeździć konno,to ride a horse,"~#tts:nap:en-US{I want to learn to ride a horse
 Chcę nauczyć się jeździć konno.",,,~#ttsA:en-US#~
 łódź,boat,"~#tts:nap:en-US{We went for a boat ride.}#~
 Pojechaliśmy na wycieczkę łódką.",,,~#ttsA:en-US#~
-szybki,fast,"~#tts:nap:en-US{He is a fast runner.}#~
+"szybki (prędkość, ruch, tempo)",fast,"~#tts:nap:en-US{quick, rapid, swift}#~
+
+~#tts:nap:en-US{He is a fast runner.}#~
 On jest szybkim biegaczem.",,,~#ttsA:en-US#~
 kto,who,"~#tts:nap:en-US{Who is that?}#~
 Kto to jest?
@@ -863,7 +865,9 @@ iść na plażę,to go to the beach,"~#tts:nap:en-US{We went to the beach yester
 Wczoraj poszliśmy na plażę.",,,~#ttsA:en-US#~
 iść do parku,to go to the park,"~#tts:nap:en-US{I like to go to the park on weekends.}#~
 Lubię chodzić do parku w weekendy.",,,~#ttsA:en-US#~
-szybki,quick,"~#tts:nap:en-US{He made a quick breakfast.}#~
+"szybki, zręczny, bystry (reakcja, myślenie)",quick,"~#tts:nap:en-US{fast, rapid, swift}#~
+
+~#tts:nap:en-US{He made a quick breakfast.}#~
 Zrobił szybkie śniadanie.",,,~#ttsA:en-US#~
 Powodzenia!,Good luck!,"~#tts:nap:en-US{Good luck on your exam!}#~
 Powodzenia na egzaminie!",,,~#ttsA:en-US#~
@@ -1461,7 +1465,7 @@ Kamień jest bardzo ciężki.
 Statua jest wykonana z kamienia.",,,~#ttsA:en-US#~
 "płaski, płasko, płaskie",flat,"~#tts:nap:en-US{The tire is flat.}#~
 Opona jest płaska.",,,~#ttsA:en-US#~
-"zostawać, pozostawać",to stay,"stay positive ➟ pozostań pozytywny
+"zostawać, pozostawać",to stay,"~#tts:nap:en-US{stay positive}#~ ➟ pozostań pozytywny
 
 ~#tts:nap:en-US{I want to stay at home tonight.}#~
 Chcę zostać w domu dzisiaj wieczorem.",,,~#ttsA:en-US#~
@@ -1551,7 +1555,7 @@ wiedzieć,to know,"~#tts:nap:en-US{I know her very well.}#~
 Znam ją bardzo dobrze.",,,~#ttsA:en-US#~
 "myśliwy, łowca",hunter,"~#tts:nap:en-US{He is a hunter.}#~
 On jest myśliwym.",,,~#ttsA:en-US#~
-ufać,to trust,"Trust no one ➟ Nie ufaj nikomu
+ufać,to trust,"~#tts:nap:en-US{Trust no one. ➟ Nie ufaj nikomu.}#~
 
 ~#tts:nap:en-US{I trust her.}#~
 Ufam jej.",,,~#ttsA:en-US#~
@@ -2595,9 +2599,7 @@ anioł,angel,"~#tts:nap:en-US{She is an angel in disguise.}#~
 Jest aniołem w przebraniu.",,,~#ttsA:en-US#~
 "niemowlę, noworodek",baby,"~#tts:nap:en-US{She is a baby.}#~
 Ona jest niemowlakiem.",,,~#ttsA:en-US#~
-bar,bar (as a place),"belka, słupek
-
-~#tts:nap:en-US{He sat at the bar.}#~
+bar,bar (as a place),"~#tts:nap:en-US{He sat at the bar.}#~
 Usiadł przy barze.",,,~#ttsA:en-US#~
 baseball,baseball,"~#tts:nap:en-US{He loves baseball.}#~
 Kocha baseball.",,,~#ttsA:en-US#~
@@ -3164,7 +3166,7 @@ rękawice,gloves,"~#tts:nap:en-US{I am wearing gloves because it's cold.}#~
 Mam na sobie rękawiczki, bo jest zimno.",,,~#ttsA:en-US#~
 snowboard,snowboard,"~#tts:nap:en-US{I went snowboarding in the mountains.}#~
 Jeździłem na snowboardzie w górach.",,,~#ttsA:en-US#~
-sprzątaczka,cleaner,"~#tts:nap:en-US{The cleaner cleans the office every day.}#~
+"sprzątacz, sprzątaczka",cleaner,"~#tts:nap:en-US{The cleaner cleans the office every day.}#~
 Sprzątaczka sprząta biuro każdego dnia.",,,~#ttsA:en-US#~
 strażak,"fireman
 firefighter","~#tts:nap:en-US{The fireman put out the fire.}#~
@@ -3359,7 +3361,9 @@ mikrofon,microphone,"~#tts:nap:en-US{A microphone is used to record sound.}#~
 Mikrofon służy do nagrywania dźwięku.",,,~#ttsA:en-US#~
 camping,camping,"~#tts:nap:en-US{I went camping in the mountains.}#~
 Poszedłem na biwak w góry.",,,~#ttsA:en-US#~
-klocki,blocks,"~#tts:nap:en-US{I built a tower with blocks.}#~
+klocki,blocks,"~#tts:nap:en-US{LEGO bricks}#~
+
+~#tts:nap:en-US{I built a tower with blocks.}#~
 Zbudowałem wieżę z klocków.",,,~#ttsA:en-US#~
 bęben,drum,"~#tts:nap:en-US{I played the drums in a band.}#~
 Grałem na perkusji w zespole.",,,~#ttsA:en-US#~
@@ -3609,8 +3613,10 @@ materiały,materials,"~#tts:nap:en-US{Materials are used to make things.}#~
 Materiały są używane do robienia rzeczy.",,,~#ttsA:en-US#~
 To jest zrobione z (metalu).,It's made of (metal).,,,,"~#ttsA:en-US#~
 ~#no-swap#~"
-"szybki, szybko","fast, quick","~#tts:nap:en-US{The car is very fast.}#~
-Samochód jest bardzo szybki.",,,~#ttsA:en-US#~
+"szybki i płynny, elegancki w ruchu lub działaniu","swift","~#tts:nap:en-US{fast, quick, rapid}#~
+
+~#tts:nap:en-US{He made a swift decision to change his plans.}#~
+Podjął szybką decyzję o zmianie swoich planów.",,,~#ttsA:en-US#~
 "uporządkowany, schludny",tidy,"~#tts:nap:en-US{clean, pure}#~
 
 ~#tts:nap:en-US{My room is tidy.}#~
@@ -9179,9 +9185,8 @@ zmniejszać",to reduce,"~#tts:nap:en-US{We need to reduce our expenses.}#~
 Musimy obniżyć nasze wydatki.",,,~#ttsA:en-US#~
 "unikalny, jedyny w swoim rodzaju",unique,"~#tts:nap:en-US{His style is very unique.}#~
 Jego styl jest bardzo wyjątkowy.",,,~#ttsA:en-US#~
-"ważna osobistość, ważna osoba",VIP,"~#tts:nap:en-US{very important person}#~
-
-~#tts:nap:en-US{The VIPs were seated in the front row.}#~
+"ważna osobistość, ważna osoba","VIP
+Very Important Person","~#tts:nap:en-US{The VIPs were seated in the front row.}#~
 VIP-y siedzieli w pierwszym rzędzie.",,,~#ttsA:en-US#~
 ciemna materia,dark matter,"~#tts:nap:en-US{Dark matter is a mysterious substance.}#~
 Ciemna materia jest tajemniczą substancją.",,,~#ttsA:en-US#~
@@ -9786,9 +9791,9 @@ cierpieć,to suffer,"~#tts:nap:en-US{He suffered a lot from the illness.}#~
 Bardzo cierpiał z powodu choroby.",,,~#ttsA:en-US#~
 który,which,"~#tts:nap:en-US{Which color do you prefer?}#~
 Który kolor bardziej Ci się podoba?",,,~#ttsA:en-US#~
-"belka, słupek",bar,"bar
+"belka, słupek
 
-~#tts:nap:en-US{He bought a bar of chocolate.}#~
+bar",bar,"~#tts:nap:en-US{He bought a bar of chocolate.}#~
 Kupił tabliczkę czekolady.",,,~#ttsA:en-US#~
 kanapa,couch,"~#tts:nap:en-US{He sat on the couch.}#~
 Usiadł na kanapie.",,,~#ttsA:en-US#~
@@ -10294,7 +10299,7 @@ To oprogramowanie pozwala edytować filmy.",,,~#ttsA:en-US#~
 wypełniać,"to fill
 to fill out","~#tts:nap:en-US{I filled the glass with water.}#~
 Napełniłem szklankę wodą.",,,~#ttsA:en-US#~
-"trzymać, zachować",to keep,"~#tts:nap:en-US{to preserve, to retain}#~ 
+"trzymać, zachować",to keep,"~#tts:nap:en-US{to hold, to preserve, to retain}#~ 
 
 ~#tts:nap:en-US{Keep your voice down.}#~
 Mów ciszej.",,,~#ttsA:en-US#~
