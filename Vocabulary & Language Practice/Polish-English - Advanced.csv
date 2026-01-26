@@ -449,11 +449,9 @@ gruźlica,tuberculosis,~#tts:nap:en-US{Tuberculosis is a serious bacterial infec
 obrót,spin,~#tts:nap:en-US{The top was spinning.}#~,,,~#ttsA:en-US#~
 ukręcać,to wring,~#tts:nap:en-US{She wrung out the wet clothes.}#~,,,~#ttsA:en-US#~
 bardzo wietrzny,blustery,~#tts:nap:en-US{It was a blustery day.}#~,,,~#ttsA:en-US#~
-mówić zagadkami,to talk in riddles,~#tts:nap:en-US{He was talking in riddles and I couldn't understand him.}#~,,,~#ttsA:en-US#~
 "próbować, usiłować (coś zrobić)",to endeavour,"~#tts:nap:en-US{strive, try, attempt}#~
 
 ~#tts:nap:en-US{He endeavored to finish the project on time.}#~",,,~#ttsA:en-US#~
-ignorować czyjąś prośbę lub skargę,to turn a deaf ear,~#tts:nap:en-US{She turned a deaf ear to his pleas for help.}#~,,,~#ttsA:en-US#~
 słabostka,foible,~#tts:nap:en-US{His foible was a love of gambling.}#~,,,~#ttsA:en-US#~
 "kategorycznie, wprost",point-blank,~#tts:nap:en-US{He asked her point-blank if she was cheating on him.}#~,,,~#ttsA:en-US#~
 "rozmyślny, spokojny, zamierzony",deliberate,~#tts:nap:en-US{The attack was deliberate.}#~,,,~#ttsA:en-US#~
@@ -535,7 +533,6 @@ przymiotnik,adjective,"~#tts:nap:en-US{Adjectives are used to describe or specif
 
 ~#tts:nap:en-US{""Beautiful"" is an adjective.}#~",,,~#ttsA:en-US#~
 oglądalność,audience rating,~#tts:nap:en-US{The audience rating for the show was very high.}#~,,,~#ttsA:en-US#~
-cały dzień i noc,around/round the clock,~#tts:nap:en-US{The hospital staff works around the clock.}#~,,,~#ttsA:en-US#~
 "dotkliwy, szalejący, wzburzony",raging,~#tts:nap:en-US{The storm was raging.}#~,,,~#ttsA:en-US#~
 "stronniczy, tendencyjny",biased,~#tts:nap:en-US{The news report was biased.}#~,,,~#ttsA:en-US#~
 "kosmyk, pasemko
@@ -546,7 +543,6 @@ osiąść na mieliźnie",strand,"~#tts:nap:en-US{She was washed up on a deserted
 
 ~#tts:nap:en-US{The ship was stranded on a strand.}#~",,,~#ttsA:en-US#~
 prestiżowy,prestigious,~#tts:nap:en-US{Harvard is a prestigious university.}#~,,,~#ttsA:en-US#~
-"coś podobnego, coś w tym stylu",(something) along those lines,~#tts:nap:en-US{I'm looking for something along those lines.}#~,,,~#ttsA:en-US#~
 "żywotny, pełen werwy",feisty,~#tts:nap:en-US{She was a feisty old woman.}#~,,,~#ttsA:en-US#~
 "rozrzucać, rozsypywać",to scatter,~#tts:nap:en-US{The wind scattered the leaves.}#~,,,~#ttsA:en-US#~
 "prawy, dobry",righteous,~#tts:nap:en-US{She was a righteous person who always did the right thing.}#~,,,~#ttsA:en-US#~
@@ -3390,7 +3386,8 @@ obojętny,indifferent,"~#tts:nap:en-US{unconcerned, apathetic}#~
 ~#tts:nap:en-US{He was indifferent to her feelings.}#~",,,~#ttsA:en-US#~
 zmartwienie,chagrin,"~#tts:nap:en-US{worry, concern, distress}#~
 
-~#tts:nap:en-US{He felt a pang of chagrin.}#~ Poczuł ukłucie żalu.",,,~#ttsA:en-US#~
+~#tts:nap:en-US{He felt a pang of chagrin.}#~
+Poczuł ukłucie żalu.",,,~#ttsA:en-US#~
 "spokojny, nieruchomy, w stanie uśpienia (np. wulkany, procesy)",quiescent,"~#tts:nap:en-US{calm, peaceful.}#~
 
 ~#tts:nap:en-US{She was quiescent.}#~",,,~#ttsA:en-US#~
@@ -4491,10 +4488,14 @@ zarządzanie obiektami,facilities management,~#tts:nap:en-US{The company hired a
 wyniosly, zdystansowany",lofty,~#tts:nap:en-US{The mountains were lofty and majestic.}#~,,,~#ttsA:en-US#~
 kołpak,hubcap,~#tts:nap:en-US{The car's hubcap was missing.}#~,,,~#ttsA:en-US#~
 śmiały,daring,~#tts:nap:en-US{She was a daring adventurer.}#~,,,~#ttsA:en-US#~
-"oblicze, mina, fizjonomia
+"oblicze, mina, twarz, fizjonomia (znaczenie starsze, literackie)
 
-znieść, sankcjonować","countenance
-to countenance",~#tts:nap:en-US{He refused to countenance her behavior.}#~,,,~#ttsA:en-US#~
+tolerować, akceptować (często niechętnie)
+popierać coś oficjalnie, sankcjonować","countenance
+
+to countenance","(często używane w zdaniach przeczących)
+
+~#tts:nap:en-US{He refused to countenance her behavior.}#~",,,~#ttsA:en-US#~
 "wywłaszczać, konfiskować",to expropriate,~#tts:nap:en-US{The government expropriated the land for a new highway.}#~,,,~#ttsA:en-US#~
 zgodny,coherent,~#tts:nap:en-US{Her explanation was coherent and easy to understand.}#~,,,~#ttsA:en-US#~
 "kulawy, chromy
@@ -6096,6 +6097,18 @@ cena przybliżona
 "skrytykować ostro czyjś plan lub pomysł
 
 ''(idiom)''",to shoot something down in flames,~#tts:nap:en-US{He shot my proposal down in flames during the meeting.}#~,,,~#ttsA:en-US#~
+"mówić zagadkami
+
+''(idiom)''",to talk in riddles,~#tts:nap:en-US{He was talking in riddles and I couldn't understand him.}#~,,,~#ttsA:en-US#~
+"ignorować czyjąś prośbę lub skargę
+
+''(idiom)''",to turn a deaf ear,~#tts:nap:en-US{She turned a deaf ear to his pleas for help.}#~,,,~#ttsA:en-US#~
+"cały dzień i noc
+
+''(idiom)''",around/round the clock,~#tts:nap:en-US{The hospital staff works around the clock.}#~,,,~#ttsA:en-US#~
+"coś podobnego, coś w tym stylu
+
+''(idiom)''",(something) along those lines,~#tts:nap:en-US{I'm looking for something along those lines.}#~,,,~#ttsA:en-US#~
 ,,,,,
 Proverbs,,,,,
 Bez pracy nie ma kołaczy.,"No pain, no gain.",,,,~#ttsA:en-US#~
