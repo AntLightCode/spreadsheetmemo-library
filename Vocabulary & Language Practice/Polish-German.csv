@@ -262,7 +262,9 @@ Lubię sok pomarańczowy.",,,~#ttsA:de-DE#~
 To mi się bardzo podoba!,Das gefällt mir sehr!,"~#tts:nap:de-DE{Danke für das Geschenk, das gefällt mir sehr!}#~
 Dziękuję za prezent, bardzo mi się podoba!",,,"~#ttsA:de-DE#~
 ~#no-swap#~"
-"uroczy, śliczny",reizend,"~#tts:nap:de-DE{Sie ist eine reizende Person.}#~
+"uroczy, śliczny",reizend,"~#tts:nap:de-DE{süß, nett, hübsch, niedlich, entzückend, lieblich, anmutig, putzig, knuffig}#~
+
+~#tts:nap:de-DE{Sie ist eine reizende Person.}#~
 Ona jest uroczą osobą.",,,~#ttsA:de-DE#~
 Poczekaj chwilę.,Warte einen Moment.,"~#tts:nap:de-DE{Warte einen Moment, ich habe meine Schlüssel vergessen.}#~
 Poczekaj chwilę, zapomniałem kluczy.",,,~#ttsA:de-DE#~
@@ -690,6 +692,9 @@ Co dzisiaj robicie?
 Pomagam jej.",,,~#ttsA:de-DE#~
 pół,halb,"~#tts:nap:de-DE{Ich trinke nur ein halbes Glas.}#~
 Wypiję tylko pół szklanki.",,,~#ttsA:de-DE#~
+"Do jutra.
+Do zobaczenia jutro.",Bis morgen.,"~#tts:nap:de-DE{Auf Wiedersehen, bis morgen!}#~
+Do widzenia, do jutra!",,,~#ttsA:de-DE#~
 "szalony, zwariowany (często żartobliwie)",verrückt,"~#tts:nap:de-DE{wahnsinnig}#~
 
 ~#tts:nap:de-DE{Das war eine verrückte Idee!}#~
@@ -1596,7 +1601,9 @@ Idę teraz spać.",,,~#ttsA:de-DE#~
 To lękliwy pies, szczeka przy każdym hałasie.",,,~#ttsA:de-DE#~
 stopa,der Fuß,"~#tts:nap:de-DE{Mein Fuß tut weh.}#~
 Boli mnie stopa.",,,~#ttsA:de-DE#~
-"miły, uprzejmy",nett,"~#tts:nap:de-DE{Sie ist ein nettes Mädchen.}#~
+"miły, uprzejmy",nett,"~#tts:nap:de-DE{süß, hübsch, niedlich, reizend, entzückend, lieblich, anmutig, putzig, knuffig}#~
+
+~#tts:nap:de-DE{Sie ist ein nettes Mädchen.}#~
 Ona jest miłą dziewczyną.
 
 ~#tts:nap:de-DE{Sie ist eine sehr nette Person.}#~
@@ -1852,12 +1859,14 @@ brać,nehmen,"~#tts:nap:de-DE{Vergiss nicht, deinen Regenschirm mitzunehmen.}#~
 Nie zapomnij wziąć swojego parasola.",,,~#ttsA:de-DE#~
 "trudny, trudno",schwierig,"~#tts:nap:de-DE{Das ist eine sehr schwierige Frage.}#~
 To jest bardzo trudne pytanie.",,,~#ttsA:de-DE#~
-"gorszy (poważniejszy, dotkliwszy)",schlimmer,"Stopniowanie: schlecht ➟ schlimmer ➟ am schlimmsten
+"gorszy (poważniejszy, dotkliwszy)",schlimmer,"Stopniowanie: ~#tts:nap:de-DE{schlecht ➟ schlimmer ➟ am schlimmsten}#~
 
 ~#tts:nap:de-DE{Ein Unfall ist schlimmer als schlechtes Wetter.}#~
 Wypadek jest gorszy (poważniejszy) niż zła pogoda.",,,~#ttsA:de-DE#~
 "uroczy
-słodki",süß,"~#tts:nap:de-DE{Der Welpe ist sehr süß.}#~
+słodki",süß,"~#tts:nap:de-DE{nett, hübsch, niedlich, reizend, entzückend, lieblich, anmutig, putzig, knuffig}#~
+
+~#tts:nap:de-DE{Der Welpe ist sehr süß.}#~
 Szczeniak jest bardzo słodki.
 
 ~#tts:nap:de-DE{Ich mag süße Desserts.}#~
@@ -2378,7 +2387,7 @@ zwycięstwo,der Sieg,"~#tts:nap:de-DE{Das Team feierte seinen Sieg.}#~
 Drużyna świętowała zwycięstwo.",,,~#ttsA:de-DE#~
 "myśliwy, łowca",der Jäger,"~#tts:nap:de-DE{Er ist ein Jäger.}#~
 On jest myśliwym.",,,~#ttsA:de-DE#~
-ufać,vertrauen,"Vertraue niemandem ➟ Nie ufaj nikomu
+ufać,vertrauen,"~#tts:nap:de-DE{Vertraue niemandem.}#~ ➟ Nie ufaj nikomu.
 
 ~#tts:nap:de-DE{Ich vertraue ihr.}#~
 Ufam jej.",,,~#ttsA:de-DE#~
@@ -2666,6 +2675,8 @@ Zostawiłem jej wiadomość.
 
 ~#tts:nap:de-DE{Ich habe eine Nachricht erhalten.}#~
 Otrzymałem wiadomość.",,,~#ttsA:de-DE#~
+kasa,die Kasse,"~#tts:nap:de-DE{Bitte bezahlen Sie Ihre Artikel an der Kasse.}#~
+Proszę zapłacić za swoje produkty przy kasie.",,,~#ttsA:de-DE#~
 horror,der Horror,"~#tts:nap:de-DE{Horrorfilme sind gruselig.}#~
 Filmy grozy są straszne.",,,~#ttsA:de-DE#~
 myśl,der Gedanke,"~#tts:nap:de-DE{Ich dachte, du würdest kommen.}#~
@@ -4084,7 +4095,7 @@ cegła,der Ziegel,"~#tts:nap:de-DE{der Backstein}#~
 Ściana jest z cegły.",,,~#ttsA:de-DE#~
 trzmiel,die Hummel,"~#tts:nap:de-DE{Eine Hummel ist eine Bienenart.}#~
 Trzmiel jest rodzajem pszczoły.",,,~#ttsA:de-DE#~
-wymiar,die Dimension,"3D ➟ dreidimensional (trójwymiarowy)
+wymiar,die Dimension,"3D ➟ ~#tts:nap:de-DE{dreidimensional}#~ (trójwymiarowy)
 
 ~#tts:nap:de-DE{Die dritte Dimension ist schwer vorstellbar.}#~
 Trzeci wymiar jest trudny do wyobrażenia.",,,~#ttsA:de-DE#~
@@ -4703,7 +4714,7 @@ rękawice,die Handschuhe,"~#tts:nap:de-DE{Ich trage Handschuhe, weil es kalt ist
 Mam na sobie rękawiczki, bo jest zimno.",,,~#ttsA:de-DE#~
 snowboard,das Snowboard,"~#tts:nap:de-DE{Ich bin in den Bergen Snowboard gefahren.}#~
 Jeździłem na snowboardzie w górach.",,,~#ttsA:de-DE#~
-sprzątaczka,die Reinigungskraft,"~#tts:nap:de-DE{Die Reinigungskraft reinigt das Büro jeden Tag.}#~
+"sprzątacz, sprzątaczka",die Reinigungskraft,"~#tts:nap:de-DE{Die Reinigungskraft reinigt das Büro jeden Tag.}#~
 Sprzątaczka sprząta biuro każdego dnia.",,,~#ttsA:de-DE#~
 strażak,der Feuerwehrmann,"~#tts:nap:de-DE{Der Feuerwehrmann löschte das Feuer.}#~
 Strażak ugasił pożar.",,,"~#ttsA:de-DE#~
@@ -9937,9 +9948,8 @@ Jest inżynierem budowlanym.",,,~#ttsA:de-DE#~
 Musimy obniżyć nasze wydatki.",,,~#ttsA:de-DE#~
 "unikalny, jedyny w swoim rodzaju",einzigartig,"~#tts:nap:de-DE{Sein Stil ist sehr einzigartig.}#~
 Jego styl jest bardzo wyjątkowy.",,,~#ttsA:de-DE#~
-"ważna osobistość, ważna osoba",der VIP,"~#tts:nap:de-DE{die sehr wichtige Person}#~
-
-~#tts:nap:de-DE{Die VIPs saßen in der ersten Reihe.}#~
+"ważna osobistość, ważna osoba","der VIP
+die sehr wichtige Person","~#tts:nap:de-DE{Die VIPs saßen in der ersten Reihe.}#~
 VIP-y siedzieli w pierwszym rzędzie.",,,~#ttsA:de-DE#~
 ciemna materia,die dunkle Materie,"~#tts:nap:de-DE{Dunkle Materie ist eine geheimnisvolle Substanz.}#~
 Ciemna materia jest tajemniczą substancją.",,,~#ttsA:de-DE#~
@@ -15604,8 +15614,6 @@ częściej,öfter,"~#tts:nap:de-DE{Ich sollte meine Großeltern öfter besuchen.
 Powinienem częściej odwiedzać dziadków.",,,~#ttsA:de-DE#~
 kontrola paszportowa,die Passkontrolle,"~#tts:nap:de-DE{Die Schlange an der Passkontrolle war sehr lang.}#~
 Kolejka do kontroli paszportowej była bardzo długa.",,,~#ttsA:de-DE#~
-kasa,die Kasse,"~#tts:nap:de-DE{Bitte bezahlen Sie Ihre Artikel an der Kasse.}#~
-Proszę zapłacić za swoje produkty przy kasie.",,,~#ttsA:de-DE#~
 klub książki,der Buchclub,"~#tts:nap:de-DE{Ich bin einem Buchclub beigetreten, um mit anderen über Literatur zu diskutieren.}#~
 Dołączyłem do klubu książki, aby dyskutować o literaturze z innymi.",,,~#ttsA:de-DE#~
 stylowy,stilvoll,"~#tts:nap:de-DE{Er trägt immer sehr stilvolle Kleidung.}#~
@@ -15701,9 +15709,6 @@ z wyprzedzeniem,im Voraus,"~#tts:nap:de-DE{Du solltest deine Tickets im Voraus b
 Powinieneś zarezerwować bilety z wyprzedzeniem.",,,~#ttsA:de-DE#~
 południowy wschód,Südosten,"~#tts:nap:de-DE{Der Sturm bewegt sich in Richtung Südosten.}#~
 Burza przesuwa się w kierunku południowo-wschodnim.",,,~#ttsA:de-DE#~
-"Do jutra.
-Do zobaczenia jutro.",Bis morgen.,"~#tts:nap:de-DE{Auf Wiedersehen, bis morgen!}#~
-Do widzenia, do jutra!",,,~#ttsA:de-DE#~
 od tej pory,von nun an,"~#tts:nap:de-DE{Von nun an werde ich jeden Tag trainieren.}#~
 Od tej pory będę ćwiczyć każdego dnia.",,,~#ttsA:de-DE#~
 teledysk,das Musikvideo,"~#tts:nap:de-DE{Die Band hat gerade ein neues Musikvideo veröffentlicht.}#~
