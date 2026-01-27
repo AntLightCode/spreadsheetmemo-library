@@ -444,7 +444,9 @@ gruźlica,tuberculosis,~#tts:nap:en-US{Tuberculosis is a serious bacterial infec
 "wygnaniec, banita",exile,"~#tts:nap:en-US{outcast, outlaw}#~
 
 ~#tts:nap:en-US{He was exiled from his country.}#~",,,~#ttsA:en-US#~
-"katar, cieknący nos",sniffles,~#tts:nap:en-US{I have a cold and the sniffles.}#~,,,~#ttsA:en-US#~
+"katar, cieknący nos",sniffles,"~#tts:nap:en-US{runny nose, nasal discharge, cold, congestion}#~
+
+~#tts:nap:en-US{I have a cold and the sniffles.}#~",,,~#ttsA:en-US#~
 "nagły skok, przypływ",surge,~#tts:nap:en-US{There was a surge in demand for the product.}#~,,,~#ttsA:en-US#~
 obrót,spin,~#tts:nap:en-US{The top was spinning.}#~,,,~#ttsA:en-US#~
 ukręcać,to wring,~#tts:nap:en-US{She wrung out the wet clothes.}#~,,,~#ttsA:en-US#~
@@ -655,7 +657,7 @@ knot od świecy,wick,~#tts:nap:en-US{The candlewick was dripping wax.}#~,,,~#tts
 "niemądry, głupiutki, roztrzepany",nutty,~#tts:nap:en-US{He's a bit nutty.}#~,,,~#ttsA:en-US#~
 "ponury, posępny",bleak,~#tts:nap:en-US{The outlook for the economy is bleak.}#~,,,~#ttsA:en-US#~
 zwykły poseł w brytyjskim parlamencie,backbench,~#tts:nap:en-US{The backbench MP (Member of Parliament) spoke out against the government's policy.}#~,,,~#ttsA:en-US#~
-pozbyć się czegoś,to scrap,~#tts:nap:en-US{The project was scrapped due to lack of funds.}#~,,,~#ttsA:en-US#~
+"złomować, pozbyć się czegoś, odrzucić",to scrap,~#tts:nap:en-US{The project was scrapped due to lack of funds.}#~,,,~#ttsA:en-US#~
 "poplątać, powikłać, zagmatwać",to embroil,"~#tts:nap:en-US{to tangle}#~
 
 ~#tts:nap:en-US{The scandal embroiled the entire government.}#~",,,~#ttsA:en-US#~
@@ -1756,7 +1758,9 @@ nieprzerwanie,incessantly,"~#tts:nap:en-US{continual, unceasing, permanent}#~
 ~#tts:nap:en-US{ceaseless, perpetual}#~
 
 ~#tts:nap:en-US{The rain was falling incessantly}#~ (insasentli in'sesn(t)lē).",,,~#ttsA:en-US#~
-"robactwo, szkodniki",vermin,"~#tts:nap:en-US{Vermin, such as rats and cockroaches, can infest homes.}#~",,,~#ttsA:en-US#~
+"robactwo, szkodniki",vermin,"~#tts:nap:en-US{pests, parasites, rodents, insects}#~
+
+~#tts:nap:en-US{Vermin, such as rats and cockroaches, can infest homes.}#~",,,~#ttsA:en-US#~
 "znak, symbol",glyph,~#tts:nap:en-US{The ancient Egyptians used glyphs to write their language.}#~,,,~#ttsA:en-US#~
 "lekka mgiełka, drobna mgła",mist,"~#tts:nap:en-US{haze, fog}#~
 
@@ -3538,7 +3542,10 @@ pług,plow,~#tts:nap:en-US{He was plowing the field.}#~,,,~#ttsA:en-US#~
 "mizerny, wynędzniały, wychudzony",haggard,~#tts:nap:en-US{She looked haggard after the long journey.}#~,,,~#ttsA:en-US#~
 kucać,to squat,~#tts:nap:en-US{He was forced to squat down.}#~,,,~#ttsA:en-US#~
 tlenek,oxide,~#tts:nap:en-US{Oxide is a compound of oxygen.}#~,,,~#ttsA:en-US#~
-uprawniony,entitled,~#tts:nap:en-US{He felt entitled to special treatment.}#~,,,~#ttsA:en-US#~
+"uprawniony do czegoś
+roszczeniowy (potocznie, negatywnie o postawie)",entitled,"~#tts:nap:en-US{privileged, self-important, arrogant}#~
+
+~#tts:nap:en-US{He felt entitled to special treatment.}#~",,,~#ttsA:en-US#~
 "wymagać, powodować konieczność",to necessitate,~#tts:nap:en-US{It was necessary to take action.}#~,,,~#ttsA:en-US#~
 bagno,marsh,"~#tts:nap:en-US{morass, swamp, quagmire}#~
 
@@ -3783,13 +3790,13 @@ spójność,cohesion,~#tts:nap:en-US{The team lacked cohesion.}#~,,,~#ttsA:en-US
 zwiad,recon,~#tts:nap:en-US{The soldiers went on a recon mission to check the area.}#~,,,~#ttsA:en-US#~
 wprost,outright,~#tts:nap:en-US{He refused outright.}#~,,,~#ttsA:en-US#~
 zdobić,to adorn,~#tts:nap:en-US{The room was adorned with flowers.}#~,,,~#ttsA:en-US#~
-"domysł, przypuszczenie",surmise,"~#tts:nap:en-US{supposition}#~
+"domysł, przypuszczenie",surmise,"~#tts:nap:en-US{supposition, assumption, belief, hypothesis, conjecture, guess}#~
 
 ~#tts:nap:en-US{I surmise that he is lying.}#~
 
 ~#tts:nap:en-US{I surmise that she is angry.}#~
 Domyślam się, że jest zła.",,,~#ttsA:en-US#~
-"przypuszczenie, założenie, hipoteza",supposition,"~#tts:nap:en-US{surmise}#~
+"przypuszczenie, założenie, hipoteza",supposition,"~#tts:nap:en-US{assumption, surmise, belief, hypothesis, conjecture, guess}#~
 
 ~#tts:nap:en-US{It was a mere supposition.}#~",,,~#ttsA:en-US#~
 "silny, krzepki",sturdy,~#tts:nap:en-US{The table was sturdy.}#~,,,~#ttsA:en-US#~
@@ -4125,7 +4132,9 @@ myopia","~#tts:nap:en-US{farsightedness}#~
 
 ~#tts:nap:en-US{She had hyperopia, also known as farsightedness.}#~",,,~#ttsA:en-US#~
 spinacz,clip,~#tts:nap:en-US{She clipped the coupon.}#~,,,~#ttsA:en-US#~
-zwierzać,to confide,~#tts:nap:en-US{She confided her secrets to her best friend.}#~,,,~#ttsA:en-US#~
+zwierzać,to confide,"~#tts:nap:en-US{to reveal, to disclose, to entrust, to tell, to share}#~
+
+~#tts:nap:en-US{She confided her secrets to her best friend.}#~",,,~#ttsA:en-US#~
 jodła,fir,~#tts:nap:en-US{The fir tree was tall and green.}#~,,,~#ttsA:en-US#~
 "wydzielać, rozdzielać, przygotowywać (leki)",to dispense,~#tts:nap:en-US{The doctor dispensed the medication.}#~,,,~#ttsA:en-US#~
 "przebywać w ciąży,  rozwijać się w łonie
@@ -4276,7 +4285,9 @@ zgodność,conformance,"~#tts:nap:en-US{compatibility, agreement, accordance}#~
 składnik,constituent,"~#tts:nap:en-US{component, ingredient, element, principle}#~
 
 ~#tts:nap:en-US{The constituent parts of the molecule were analyzed.}#~",,,~#ttsA:en-US#~
-plama,blot,~#tts:nap:en-US{The ink blotted on the paper.}#~,,,~#ttsA:en-US#~
+plama,blot,"~#tts:nap:en-US{stain, spot, mark, smudge}#~
+
+~#tts:nap:en-US{The ink blotted on the paper.}#~",,,~#ttsA:en-US#~
 biesiada,revel,~#tts:nap:en-US{They reveled in their victory.}#~,,,~#ttsA:en-US#~
 antenowy,aerial,~#tts:nap:en-US{The aerial view of the city was breathtaking.}#~,,,~#ttsA:en-US#~
 mianowicie,namely,"~#tts:nap:en-US{The problem was, namely, that there was no money left.}#~",,,~#ttsA:en-US#~
@@ -4454,7 +4465,9 @@ kruchy,brittle,"~#tts:nap:en-US{fragile, tender}#~
 
 ~#tts:nap:en-US{The glass was brittle and shattered easily.}#~",,,~#ttsA:en-US#~
 floriografia,floriography,~#tts:nap:en-US{The florist used floriography to express her condolences.}#~,,,~#ttsA:en-US#~
-przodkowie,progenitors,~#tts:nap:en-US{His progenitors were from Scotland.}#~,,,~#ttsA:en-US#~
+przodkowie,progenitors,"~#tts:nap:en-US{ancestors, forebears, forefathers, predecessors, antecedents}#~
+
+~#tts:nap:en-US{His progenitors were from Scotland.}#~",,,~#ttsA:en-US#~
 "gorliwy, żarliwy, pełen pasji",ardent,"~#tts:nap:en-US{passionate, zealous, keen, fervent}#~
 
 ~#tts:nap:en-US{He was an ardent supporter of the cause.}#~",,,~#ttsA:en-US#~
@@ -4650,7 +4663,9 @@ krzew,shrub,"~#tts:nap:en-US{bush, brake}#~
 
 ~#tts:nap:en-US{The garden was filled with colorful shrubs and flowers.}#~",,,~#ttsA:en-US#~
 skronie,temples,~#tts:nap:en-US{The ancient temples were a testament to the skill and artistry of their builders.}#~,,,~#ttsA:en-US#~
-sprawca,perpetrator,~#tts:nap:en-US{The perpetrator of the crime was caught and arrested.}#~,,,~#ttsA:en-US#~
+"sprawca (przestępstwa lub czynu karalnego)",perpetrator,"~#tts:nap:en-US{culprit, offender, wrongdoer, lawbreaker}#~
+
+~#tts:nap:en-US{The perpetrator of the crime was caught and arrested.}#~",,,~#ttsA:en-US#~
 wątpliwy,dubious,"~#tts:nap:en-US{The claim seemed dubious, and I had doubts about its truth.}#~",,,~#ttsA:en-US#~
 "pycha, arogancja",hubris,"~#tts:nap:en-US{conceit, haughtiness}#~
 ~#tts:nap:en-US{arrogance, pride}#~ 
@@ -4709,7 +4724,7 @@ zwiastować,to herald,~#tts:nap:en-US{The ringing of the bell heralded the start
 "polecać, chwalić oficjalnie, rekomendować",to commend,"powiązane z: ~#tts:nap:en-US{to recommend}#~
 
 ~#tts:nap:en-US{The teacher commended the student for her excellent work.}#~",,,~#ttsA:en-US#~
-złom,scrap,~#tts:nap:en-US{The old car was a scrap of metal.}#~,,,~#ttsA:en-US#~
+"złom, resztki, odpadki, kawałek czegoś",scrap,~#tts:nap:en-US{The old car was a scrap of metal.}#~,,,~#ttsA:en-US#~
 "jeleń, starszy termin, najczęściej samiec jelenia",hart,~#tts:nap:en-US{The deer's hart was a target for hunters.}#~,,,~#ttsA:en-US#~
 "wykorzystać, skorzystać",to avail,"~#tts:nap:en-US{to use, to utilize, to exploit}#~
 
@@ -4742,7 +4757,6 @@ obracać się,to revolve,~#tts:nap:en-US{The Earth revolves around the Sun.}#~,,
 rakotwórczy,carcinogenic,~#tts:nap:en-US{The substance was found to be carcinogenic and could cause cancer.}#~,,,~#ttsA:en-US#~
 wapień,limestone,"~#tts:nap:en-US{The building was made of limestone, a durable and long-lasting material.}#~",,,~#ttsA:en-US#~
 cewka,coil,~#tts:nap:en-US{The garden hose was coiled up and stored in the shed.}#~,,,~#ttsA:en-US#~
-"obmyślać, rozmyślać",to mull,~#tts:nap:en-US{She mulled over the decision for several days before making her choice.}#~,,,~#ttsA:en-US#~
 strupy,scabs,~#tts:nap:en-US{The scabs on his knee were healing slowly.}#~,,,~#ttsA:en-US#~
 "kolba, fiolka, płaska butelka",flask,"~#tts:nap:en-US{bottle, vial, container}#~
 
@@ -4951,7 +4965,9 @@ pleśń,mold,~#tts:nap:en-US{The old bread was covered in mold.}#~,,,~#ttsA:en-U
 opłata pocztowa,postage,~#tts:nap:en-US{The postage for the letter was quite high.}#~,,,~#ttsA:en-US#~
 "delikatnie, z gracją",daintily,"~#tts:nap:en-US{She ate her food daintily, using a napkin.}#~",,,~#ttsA:en-US#~
 szklisty,vitreous,~#tts:nap:en-US{The glass vase was vitreous and transparent.}#~,,,~#ttsA:en-US#~
-pogmatwać,to perplex,"~#tts:nap:en-US{The riddle perplexed him, and he couldn't solve it.}#~",,,~#ttsA:en-US#~
+"pogmatwać, wprawić w zakłopotanie, zdezorientować",to perplex,"~#tts:nap:en-US{to confuse, to bewilder, to baffle, to puzzle}#~
+
+~#tts:nap:en-US{The riddle perplexed him, and he couldn't solve it.}#~",,,~#ttsA:en-US#~
 materiały piśmienne,stationery,~#tts:nap:en-US{She bought some new stationery for her office.}#~,,,~#ttsA:en-US#~
 robić na drutach,to knit,"~#tts:nap:en-US{sew, create from raw material, stitch, sew together}#~
 
@@ -5056,13 +5072,7 @@ berbeć,tad,"~#tts:nap:en-US{Adverb:}#~
 ""~#tts:nap:en-US{biscuits sweetened with a tad of honey}#~""
 
 ~#tts:nap:en-US{The soup was a tad too salty.}#~",,,~#ttsA:en-US#~
-uznaniowe,discretionary,"~#tts:nap:en-US{available for use at the discretion of the user.}#~
-""~#tts:nap:en-US{rules are inevitably less flexible than a discretionary policy}#~""
-
-
-~#tts:nap:en-US{discretionary portfolios}#~
-~#tts:nap:en-US{rules are inevitably less flexible than a discretionary policy}#~
-
+"dobrowolny, zależny od decyzji, według uznania",discretionary,"~#tts:nap:en-US{Rules are inevitably less flexible than a discretionary policy.}#~
 ~#tts:nap:en-US{The bonus was a discretionary payment.}#~",,,~#ttsA:en-US#~
 obcęgi,pincers,~#tts:nap:en-US{The crab used its pincers to catch food.}#~,,,~#ttsA:en-US#~
 "łydka
@@ -5140,7 +5150,9 @@ Gobelin kultur, ras i zwyczajów",,,~#ttsA:en-US#~
 nieokreślony",infinitive,"~#tts:nap:en-US{The basic form of a verb, without an inflection binding it to a particular subject or tense (e.g. see in we came to see, let him see ).}#~
 
 ~#tts:nap:en-US{The infinitive form of the verb 'go' is 'to go'.}#~",,,~#ttsA:en-US#~
-katar,runny nose,~#tts:nap:en-US{I have a runny nose.}#~,,,~#ttsA:en-US#~
+katar,runny nose,"~#tts:nap:en-US{sniffles, nasal discharge, cold, congestion}#~
+
+~#tts:nap:en-US{I have a runny nose.}#~",,,~#ttsA:en-US#~
 ogier,stallion,~#tts:nap:en-US{The majestic stallion galloped across the field.}#~,,,~#ttsA:en-US#~
 padlina,carrion,"~#tts:nap:en-US{carcass}#~
 
@@ -5270,7 +5282,9 @@ kąt półpełny,straight angle,~#tts:nap:en-US{A straight angle measures exactl
 kąt pełny,full angle,~#tts:nap:en-US{A full angle is a complete circle of 360 degrees.}#~,,,~#ttsA:en-US#~
 kąt wklęsły,reflex angle,~#tts:nap:en-US{A reflex angle is greater than 180 degrees.}#~,,,~#ttsA:en-US#~
 kąt wypukły,convex angle,~#tts:nap:en-US{Any angle less than 180 degrees is a convex angle.}#~,,,~#ttsA:en-US#~
-"winowajca, sprawca",culprit,~#tts:nap:en-US{The police finally caught the culprit.}#~,,,~#ttsA:en-US#~
+"winowajca, osoba odpowiedzialna za problem lub przestępstwo",culprit,"~#tts:nap:en-US{offender, wrongdoer, lawbreaker, perpetrator}#~
+
+~#tts:nap:en-US{The police finally caught the culprit.}#~",,,~#ttsA:en-US#~
 kapitał prywatny,private equity,~#tts:nap:en-US{The company was acquired by a private equity firm.}#~,,,~#ttsA:en-US#~
 kapitał wysokiego ryzyka,venture capital,~#tts:nap:en-US{The startup is seeking venture capital to expand.}#~,,,~#ttsA:en-US#~
 śluza,sluice,~#tts:nap:en-US{They opened the sluice to lower the water level.}#~,,,~#ttsA:en-US#~
@@ -5300,6 +5314,9 @@ siatkówka (część oka),retina,~#tts:nap:en-US{The retina is the light-sensiti
 "pusty w środku, wydrążony",hollow,"~#tts:nap:en-US{The old tree was hollow inside.}#~",,,~#ttsA:en-US#~
 "paniczna ucieczka, popłoch",stampede,~#tts:nap:en-US{A sudden noise caused a stampede in the crowd.}#~,,,~#ttsA:en-US#~
 godzina policyjna,curfew,~#tts:nap:en-US{My parents set a strict curfew for me on school nights.}#~,,,~#ttsA:en-US#~
+"za obopólną zgodą, dobrowolny",consensual,~#tts:nap:en-US{The police confirmed that the encounter was consensual.}#~,,,~#ttsA:en-US#~
+trąd,leprosy,"~#tts:nap:en-US{In the past, people with leprosy were often isolated from society.}#~",,,~#ttsA:en-US#~
+trędowaty,leper,"~#tts:nap:en-US{In ancient times, a leper was often an outcast.}#~",,,~#ttsA:en-US#~
 #SHEETINFO | name=Phrasal Verbs - Advanced,,,,,
 "ustąpić, ulec (komuś/czemuś) 
 
@@ -5666,6 +5683,11 @@ doprowadzić się do wyczerpania
 "odkładać na jutro
 
 ''(phrasal verb)''",to put off until tomorrow,~#tts:nap:en-US{Don't put off until tomorrow what you can do today.}#~,,,~#ttsA:en-US#~
+"obmyślać, rozmyślać
+
+''(phrasal verb)''",to mull over,"~#tts:nap:en-US{to ponder, to contemplate, to think over, to deliberate, to consider}#~
+
+~#tts:nap:en-US{She mulled over the decision for several days before making her choice.}#~",,,~#ttsA:en-US#~
 #SHEETINFO | name=Idioms & Proverbs,,,,,
 "zapunktować 
 

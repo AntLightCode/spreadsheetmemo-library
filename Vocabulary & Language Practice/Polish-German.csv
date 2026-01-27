@@ -8784,23 +8784,23 @@ Proszę nie zapomnieć się wylogować.",,,~#ttsA:de-DE#~
 Proszę dodać uwagę.",,,~#ttsA:de-DE#~
 "zasób, stan",der Bestand,"~#tts:nap:de-DE{Der Bestand an Waren ist niedrig.}#~
 Stan zapasów jest niski.",,,~#ttsA:de-DE#~
-stan faktyczny,Sachverhalt,"~#tts:nap:de-DE{Der Sachverhalt ist kompliziert.}#~
+stan faktyczny,der Sachverhalt,"~#tts:nap:de-DE{Der Sachverhalt ist kompliziert.}#~
 Stan faktyczny jest skomplikowany.",,,~#ttsA:de-DE#~
-dane obiektu,Objektdaten,"~#tts:nap:de-DE{Die Objektdaten sind in der Datenbank gespeichert.}#~
+dane obiektu,die Objektdaten,"~#tts:nap:de-DE{Die Objektdaten sind in der Datenbank gespeichert.}#~
 Dane obiektu są zapisane w bazie danych.",,,~#ttsA:de-DE#~
-przebieg planowania,Planungsverlauf,"~#tts:nap:de-DE{Der Planungsverlauf wurde im Meeting vorgestellt.}#~
+przebieg planowania,der Planungsverlauf,"~#tts:nap:de-DE{Der Planungsverlauf wurde im Meeting vorgestellt.}#~
 Przebieg planowania został przedstawiony na spotkaniu.",,,~#ttsA:de-DE#~
 "wymogi, nakazy",die Auflagen,"~#tts:nap:de-DE{Es gibt strenge Auflagen für das Bauprojekt.}#~
 Istnieją surowe wymogi dla projektu budowlanego.",,,~#ttsA:de-DE#~
-"śledzenie, nadzór",Nachverfolgung,"~#tts:nap:de-DE{Die Nachverfolgung der Aufgaben ist wichtig.}#~
+"śledzenie, nadzór",die Nachverfolgung,"~#tts:nap:de-DE{Die Nachverfolgung der Aufgaben ist wichtig.}#~
 Śledzenie zadań jest ważne.",,,~#ttsA:de-DE#~
-powierzchnia użytkowa,Nutzfläche,"~#tts:nap:de-DE{Die Nutzfläche ist größer als die Verkaufsfläche.}#~
+powierzchnia użytkowa,die Nutzfläche,"~#tts:nap:de-DE{Die Nutzfläche ist größer als die Verkaufsfläche.}#~
 Powierzchnia użytkowa jest większa niż powierzchnia sprzedaży.",,,~#ttsA:de-DE#~
 "dostęp (jako uprawnienie), odwołanie się (do danych)",der Zugriff,"~#tts:nap:de-DE{der Zugang}#~
 
 Der Zugriff auf die Datei ist gesperrt.
 Dostęp do pliku jest zablokowany.",,,~#ttsA:de-DE#~
-administrator projektu,Projektadministrator,"~#tts:nap:de-DE{Der Projektadministrator vergibt die Rollen.}#~
+administrator projektu,der Projektadministrator,"~#tts:nap:de-DE{Der Projektadministrator vergibt die Rollen.}#~
 Administrator projektu nadaje role.",,,~#ttsA:de-DE#~
 tablica (np. Jira board),das Board,"~#tts:nap:de-DE{Das Board zeigt alle Aufgaben.}#~
 Tablica pokazuje wszystkie zadania.",,,~#ttsA:de-DE#~

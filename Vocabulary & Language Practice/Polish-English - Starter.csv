@@ -2304,8 +2304,10 @@ Niewidzialność jest supermocą.",,,~#ttsA:en-US#~
 Piłka odbiła się od ściany.",,,~#ttsA:en-US#~
 niszczyć,to destroy,"~#tts:nap:en-US{He destroyed the building.}#~
 Zniszczył budynek.",,,~#ttsA:en-US#~
-"Hej, Cześć","Hey, Hi","~#tts:nap:en-US{Hey, how are you?}#~
-Cześć, jak się masz?",,,~#ttsA:en-US#~
+"kruchy, delikatny",fragile,"~#tts:nap:en-US{delicate, breakable, flimsy, brittle, frail, tender}#~
+
+~#tts:nap:en-US{This vase is very fragile, so please handle it with care.}#~
+Ten wazon jest bardzo kruchy, więc proszę obchodzić się z nim ostrożnie.",,,~#ttsA:en-US#~
 "pocisk, kula",bullet,"~#tts:nap:en-US{The bullet hit the target.}#~
 Pocisk trafił w cel.",,,~#ttsA:en-US#~
 opowieść,tale,"~#tts:nap:en-US{He told us a funny tale.}#~
@@ -3794,13 +3796,16 @@ Jestem z Polski.",,,~#ttsA:en-US#~
 Zróbmy sobie przerwę.,Let's have a break.,,,,"~#ttsA:en-US#~
 ~#no-swap#~"
 "uroczy, urocza
-cudowny, cudowna",lovely,"~#tts:nap:en-US{The weather is lovely today.}#~
+cudowny, cudowna",lovely,"~#tts:nap:en-US{wonderful, charming, delightful, beautiful, sweet}#~
+
+~#tts:nap:en-US{The weather is lovely today.}#~
 Pogoda jest dziś cudowna.",,,~#ttsA:en-US#~
 bałagan,mess,"~#tts:nap:en-US{The room is a mess.}#~
 Pokój jest w bałaganie.",,,~#ttsA:en-US#~
 "mój drogi, moja droga",my darling,"~#tts:nap:en-US{My darling, I love you.}#~
 Kochanie, kocham cię.",,,~#ttsA:en-US#~
 "prezent
+
 obecny",present,"gift
 
 ~#tts:nap:en-US{I have a present for you.}#~
@@ -6517,10 +6522,18 @@ dynia na halloween,jack-o'-lantern,"~#tts:nap:en-US{We put a jack-o'-lantern in 
 Postawiliśmy dynię jack-o'-lantern przed domem na Halloween.",,,~#ttsA:en-US#~
 "to była dobra gra 
 
-''(slang graczy)''",GG,~#tts:nap:en-US{good game}#~,,,~#ttsA:en-US#~
+''(skrót)''",GG (good game),,,,~#ttsA:en-US#~
 "jestem teraz z dala od klawiatury, nie ma mnie przy komputerze
 
-''(slang graczy)''",AFK,~#tts:nap:en-US{away from keyboard}#~,,,~#ttsA:en-US#~
+''(skrót)''",AFK (away from keyboard),,,,~#ttsA:en-US#~
+"zbyt silny, przegięty (w grze)",OP (overpowered),"~#tts:nap:en-US{That new weapon is totally OP; it kills everyone in one shot.}#~
+Ta nowa broń jest całkowicie przegięta; zabija każdego jednym strzałem.",,,~#ttsA:en-US#~
+niebieski ekran śmierci,BSOD (Blue Screen of Death),"~#tts:nap:en-US{I lost all my work when my computer got a BSOD.}#~
+Straciłem całą pracę, gdy na moim komputerze pojawił się niebieski ekran śmierci.",,,~#ttsA:en-US#~
+gracz kontra gracz,PvP (Player versus Player),"~#tts:nap:en-US{I prefer PvP games because I like competing against real people.}#~
+Wolę gry PvP, ponieważ lubię rywalizować z prawdziwymi ludźmi.",,,~#ttsA:en-US#~
+gracz kontra otoczenie,PvE (Player versus Environment),"~#tts:nap:en-US{In PvE mode, you fight against monsters controlled by the computer.}#~
+W trybie PvE walczysz z potworami sterowanymi przez komputer.",,,~#ttsA:en-US#~
 sztuka (przedmiot w szkole),Subject at school:Art,"~#tts:nap:en-US{Art is my favorite subject at school.}#~
 Sztuka to mój ulubiony przedmiot w szkole.",,,~#ttsA:en-US#~
 informatyka (przedmiot w szkole),Subject at school: Computer Studies,"~#tts:nap:en-US{We learn coding in Computer Studies.}#~
@@ -10278,7 +10291,9 @@ Boli mnie głowa.",,,~#ttsA:en-US#~
 Umiem grać na pianinie.",,,~#ttsA:en-US#~
 piksel,pixel,"~#tts:nap:en-US{The image is made up of pixels.}#~
 Obraz składa się z pikseli.",,,~#ttsA:en-US#~
-"zgniły, zepsuty",rotten,"~#tts:nap:en-US{The food is rotten.}#~
+"zgniły, zepsuty",rotten,"~#tts:nap:en-US{decayed, spoiled, putrid, decomposed, foul}#~
+
+~#tts:nap:en-US{The food is rotten.}#~
 Jedzenie jest zgniłe.",,,~#ttsA:en-US#~
 szok,shock,"~#tts:nap:en-US{The news was a shock to me.}#~
 Wiadomość była dla mnie szokiem.",,,~#ttsA:en-US#~
@@ -13224,16 +13239,12 @@ nieruchomość,estate,"~#tts:nap:en-US{He owns a large estate in the countryside
 Posiada dużą posiadłość na wsi.",,,~#ttsA:en-US#~
 ostrzegać,to warn,"~#tts:nap:en-US{I warned him about the danger.}#~
 Ostrzegałem go przed niebezpieczeństwem.",,,~#ttsA:en-US#~
-cnota,virtue,"~#tts:nap:en-US{Honesty is a virtue.}#~
-Szczerość jest zaletą.",,,~#ttsA:en-US#~
 gang,gang,"~#tts:nap:en-US{He's a member of a gang.}#~
 Jest członkiem gangu.",,,~#ttsA:en-US#~
 wykryć,to detect,"~#tts:nap:en-US{He detected a problem with the engine.}#~
 Wykrył problem z silnikiem.",,,~#ttsA:en-US#~
 znajomy,familiar,"~#tts:nap:en-US{The face looks familiar.}#~
 Twarz wygląda znajomo.",,,~#ttsA:en-US#~
-persymona,persimmon,"~#tts:nap:en-US{Persimmons are sweet and juicy fruits.}#~
-Persymony są słodkimi i soczystymi owocami.",,,~#ttsA:en-US#~
 priorytet,priority,"~#tts:nap:en-US{My priority is to finish my work.}#~
 Moim priorytetem jest zakończenie pracy.",,,~#ttsA:en-US#~
 bolesne,painful,"~#tts:nap:en-US{The injury is very painful.}#~
@@ -13732,7 +13743,9 @@ przeznaczać,to devote,"~#tts:nap:en-US{He devoted his life to helping others.}#
 Poświęcił swoje życie pomaganiu innym.",,,~#ttsA:en-US#~
 technika,technique,"~#tts:nap:en-US{His technique is very good.}#~
 Jego technika jest bardzo dobra.",,,~#ttsA:en-US#~
-okoliczność,circumstance,"~#tts:nap:en-US{The circumstances forced him to leave.}#~
+"okoliczność, sytuacja, wydarzenie, położenie",circumstance,"~#tts:nap:en-US{situation, event, condition, position, state, setting, plight}#~
+
+~#tts:nap:en-US{The circumstances forced him to leave.}#~
 Okoliczności zmusiły go do wyjazdu.",,,~#ttsA:en-US#~
 udawać,to pretend,"~#tts:nap:en-US{He is pretending to be sick.}#~
 Udawanie, że jest chory.",,,~#ttsA:en-US#~
