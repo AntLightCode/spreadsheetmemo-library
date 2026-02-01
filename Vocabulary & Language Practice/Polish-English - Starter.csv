@@ -363,7 +363,9 @@ Chciałbym gałkę lodów.
 Lubię jeść lody latem.",,,~#ttsA:en-US#~
 kanapka,sandwich,"~#tts:nap:en-US{I made a sandwich for lunch.}#~
 Zrobiłem kanapkę na lunch.",,,~#ttsA:en-US#~
-dywan,carpet,"~#tts:nap:en-US{The carpet is red.}#~
+dywan,carpet,"~#tts:nap:en-US{rug}#~
+
+~#tts:nap:en-US{The carpet is red.}#~
 Dywan jest czerwony.",,,~#ttsA:en-US#~
 lampa,lamp,"~#tts:nap:en-US{I turned on the lamp.}#~
 Włączyłem lampę.",,,~#ttsA:en-US#~
@@ -2889,7 +2891,9 @@ Półka na książki jest pełna książek.
 Półka na książki jest pełna książek.",,,~#ttsA:en-US#~
 rakieta do tenisa,racket,"~#tts:nap:en-US{I need a new tennis racket.}#~
 Potrzebuję nowej rakiety tenisowej.",,,~#ttsA:en-US#~
-"dywanik, dywan",rug,"~#tts:nap:en-US{The rug is on the floor.}#~
+"mały dywan, często dekoracyjny lub przenośny",rug,"~#tts:nap:en-US{carpet}#~
+
+~#tts:nap:en-US{The rug is on the floor.}#~
 Dywan leży na podłodze.",,,~#ttsA:en-US#~
 "sopel lodu",icicle,"~#tts:nap:en-US{The icicles are hanging from the roof.}#~
 Sople wiszą z dachu.",,,~#ttsA:en-US#~
@@ -6481,7 +6485,8 @@ wybaczać,to forgive,"~#tts:nap:en-US{I forgive you.}#~ ➟ Wybaczam Ci.
 
 ~#tts:nap:en-US{I can't forgive him for what he did.}#~
 Nie mogę mu wybaczyć za to, co zrobił.",,,~#ttsA:en-US#~
-rodzeństwo,siblings,"~#tts:nap:en-US{My siblings and I play together in the park.}#~ ➟ Moje rodzeństwo i ja bawimy się razem w parku.
+rodzeństwo,siblings,"~#tts:nap:en-US{My siblings and I play together in the park.}#~
+Moje rodzeństwo i ja bawimy się razem w parku.
 
 ~#tts:nap:en-US{I have two siblings.}#~
 Mam dwoje rodzeństwa.",,,~#ttsA:en-US#~
@@ -7493,7 +7498,9 @@ Czy on napisał list do przyjaciela?,Did he write a letter to his friend?,Past S
 ~#no-swap#~"
 "ciastko, herbatnik",biscuit,"~#tts:nap:en-US{Would you like a biscuit with your tea?}#~
 Chcesz ciastko do herbaty?",,,~#ttsA:en-US#~
-płatki śniadaniowe,cereal,"~#tts:nap:en-US{I eat cereal with milk.}#~
+"płatki śniadaniowe
+
+zboże",cereal,"~#tts:nap:en-US{I eat cereal with milk.}#~
 Jem płatki śniadaniowe z mlekiem.",,,~#ttsA:en-US#~
 tuńczyk,tuna,"~#tts:nap:en-US{Tuna is a type of fish.}#~
 Tuńczyk to rodzaj ryby.",,,~#ttsA:en-US#~
@@ -7858,7 +7865,7 @@ Moim ulubionym filmem jest Action Team, ponieważ uwielbiam aktorów.",,,"~#ttsA
 Co myślisz o kreskówkach?,What do you think of cartoons?,"~#tts:nap:en-US{What do you think of cartoons from the 90s?}#~
 Co myślisz o kreskówkach z lat 90.?",,,"~#ttsA:en-US#~
 ~#no-swap#~"
-Masz rację. są głupie.,You're right. they're silly.,"~#tts:nap:en-US{I agree with your opinion. You're right. They're silly.}#~
+"Masz rację, są głupie.","You're right, they're silly.","~#tts:nap:en-US{I agree with your opinion. You're right. They're silly.}#~
 Zgadzam się z twoją opinią. Masz rację. Są głupie.",,,"~#ttsA:en-US#~
 ~#no-swap#~"
 "szczególnie, zwłaszcza","especially

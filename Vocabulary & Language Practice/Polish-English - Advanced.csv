@@ -120,7 +120,9 @@ szelest,rustle,~#tts:nap:en-US{The leaves rustled in the wind.}#~,,,~#ttsA:en-US
 dojrzały (owoc),ripe,"~#tts:nap:en-US{mature}#~ - dojrzały człowiek
 
 ~#tts:nap:en-US{The fruit was ripe and juicy.}#~",,,~#ttsA:en-US#~
-"pragnący, tęskny",longing,~#tts:nap:en-US{She felt a longing for her homeland.}#~,,,~#ttsA:en-US#~
+"silna tęsknota, pragnienie czegoś (lub kogoś)",longing,"~#tts:nap:en-US{wistful}#~
+
+~#tts:nap:en-US{She felt a longing for her homeland.}#~",,,~#ttsA:en-US#~
 polędwica,loin,~#tts:nap:en-US{The steak was cut from the loin.}#~,,,~#ttsA:en-US#~
 "parować, wyparować",to evaporate,~#tts:nap:en-US{The water evaporated in the heat.}#~,,,~#ttsA:en-US#~
 "pobłażanie, uleganie, zaspokojenie
@@ -662,7 +664,6 @@ zwykły poseł w brytyjskim parlamencie,backbench,~#tts:nap:en-US{The backbench 
 
 ~#tts:nap:en-US{The scandal embroiled the entire government.}#~",,,~#ttsA:en-US#~
 "popijawa, obżarstwo, hulanka",binge,~#tts:nap:en-US{He went on a drinking binge.}#~,,,~#ttsA:en-US#~
-dawna miłość,old flame,~#tts:nap:en-US{She met her old flame at the reunion.}#~,,,~#ttsA:en-US#~
 "rewolta, rebelia",mutiny,~#tts:nap:en-US{The sailors mutinied against the captain.}#~,,,~#ttsA:en-US#~
 "oszustwo, psikus, fałszywy alarm",hoax,~#tts:nap:en-US{The bomb threat was a hoax.}#~,,,~#ttsA:en-US#~
 "stosować się, podporządkować się",to comply,~#tts:nap:en-US{He refused to comply with the order.}#~,,,~#ttsA:en-US#~
@@ -881,7 +882,7 @@ zemsta, odpłata",retribution,~#tts:nap:en-US{She sought retribution for the wro
 pacjent albo więzień,inmate,~#tts:nap:en-US{The inmate was released from prison.}#~,,,~#ttsA:en-US#~
 "podnosić, zwiększyć, wzmacniać",to bolster,~#tts:nap:en-US{He tried to bolster her spirits.}#~,,,~#ttsA:en-US#~
 "kiwać się, podskakiwać",to bob,~#tts:nap:en-US{He bobbed his head in agreement.}#~,,,~#ttsA:en-US#~
-dziąsło,gum,~#tts:nap:en-US{I chewed gum.}#~,,,~#ttsA:en-US#~
+dziąsło,gum,~#tts:nap:en-US{My gum is swollen and painful.}#~,,,~#ttsA:en-US#~
 "sądzić, myśleć",to reckon,"~#tts:nap:en-US{to think, to guess, to deem}#~
 
 ~#tts:nap:en-US{I reckon it's going to rain.}#~",,,~#ttsA:en-US#~
@@ -4856,7 +4857,9 @@ płaskowyż,plateau,~#tts:nap:en-US{The hikers reached a plateau at the top of t
 ~#tts:nap:en-US{The diamond's brilliance was dazzling.}#~",,,~#ttsA:en-US#~
 zasinienie,lividity,~#tts:nap:en-US{His face was contorted with lividity as he expressed his anger.}#~,,,~#ttsA:en-US#~
 domokrążca,hawker,~#tts:nap:en-US{The hawker tried to sell me a fake watch.}#~,,,~#ttsA:en-US#~
-"tęskny, zadumany",wistful,~#tts:nap:en-US{She had a wistful expression on her face as she looked back at the old photos.}#~,,,~#ttsA:en-US#~
+"melancholijny, pełen cichej tęsknoty lub zadumy",wistful,"~#tts:nap:en-US{longing}#~
+
+~#tts:nap:en-US{She had a wistful expression on her face as she looked back at the old photos.}#~",,,~#ttsA:en-US#~
 niespokojny,antsy,~#tts:nap:en-US{The children were getting antsy and restless while waiting for the movie to start.}#~,,,~#ttsA:en-US#~
 ucieleśniać,to embody,~#tts:nap:en-US{The statue embodied the spirit of freedom and justice.}#~,,,~#ttsA:en-US#~
 uosobienie,epitome,"~#tts:nap:en-US{The Mona Lisa is often considered the epitome of Renaissance art, showcasing the skill and creativity of the era's painters.}#~
@@ -5827,7 +5830,7 @@ doprowadzić się do wyczerpania
 ''(idiom)''",to pigeonhole someone,~#tts:nap:en-US{It's unfair to pigeonhole someone based solely on their previous job title.}#~,,,~#ttsA:en-US#~
 "dopasować się do formy 
 
-''(idiom)''",to fit the mould ,"~#tts:nap:en-US{He struggled to fit the mould of the traditional corporate executive, preferring a more creative approach.}#~",,,~#ttsA:en-US#~
+''(idiom)''",to fit the mould,"~#tts:nap:en-US{He struggled to fit the mould of the traditional corporate executive, preferring a more creative approach.}#~",,,~#ttsA:en-US#~
 "spełniać oczekiwania 
 
 ''(idiom)''",to live up to expectations,~#tts:nap:en-US{She worked tirelessly to live up to expectations set by her predecessor in the role.}#~,,,~#ttsA:en-US#~
@@ -6131,20 +6134,23 @@ cena przybliżona
 "coś podobnego, coś w tym stylu
 
 ''(idiom)''",(something) along those lines,~#tts:nap:en-US{I'm looking for something along those lines.}#~,,,~#ttsA:en-US#~
+"dawna miłość
+
+''(idiom)''",an old flame,~#tts:nap:en-US{She met her old flame at the reunion.}#~,,,~#ttsA:en-US#~
 ,,,,,
 Proverbs,,,,,
 Bez pracy nie ma kołaczy.,"No pain, no gain.",,,,~#ttsA:en-US#~
 Chcieć to móc.,"Where there's a will, there's a way. ",,,,~#ttsA:en-US#~
 "Ciche wody głębokie.
 
-Cicha woda brzegi rwie.",Still waters run deep. ,,,,~#ttsA:en-US#~
+Cicha woda brzegi rwie.",Still waters run deep.,,,,~#ttsA:en-US#~
 Ciekawość to pierwszy stopień do piekła.,Curiosity killed the cat.,,,,~#ttsA:en-US#~
 "Co dwie głowy, to nie jedna.",Two heads are better than one.,,,,~#ttsA:en-US#~
-"Co siejesz, to zbierasz.",You reap what you sow. ,,,,~#ttsA:en-US#~
-Ćwiczenie czyni mistrza.,Practice makes perfect. ,,,,~#ttsA:en-US#~
+"Co siejesz, to zbierasz.",You reap what you sow.,,,,~#ttsA:en-US#~
+Ćwiczenie czyni mistrza.,Practice makes perfect.,,,,~#ttsA:en-US#~
 Czas leczy rany.,Time heals all wounds.,,,,~#ttsA:en-US#~
-Czas to pieniądz.,Time is money. ,,,,~#ttsA:en-US#~
-Czyny mówią głośniej niż słowa.,Actions speak louder than words. ,,,,~#ttsA:en-US#~
+Czas to pieniądz.,Time is money.,,,,~#ttsA:en-US#~
+Czyny mówią głośniej niż słowa.,Actions speak louder than words.,,,,~#ttsA:en-US#~
 "Fachowiec do wszystkiego, mistrz niczego.","Jack of all trades, master of none. ",,,,~#ttsA:en-US#~
 "Gdzie dym, tam ogień.","Where there's smoke, there's fire.",,,,~#ttsA:en-US#~
 Grosz oszczędzony to grosz zarobiony.,A penny saved is a penny earned.,,,,~#ttsA:en-US#~
@@ -6153,12 +6159,12 @@ Grosz oszczędzony to grosz zarobiony.,A penny saved is a penny earned.,,,,~#tts
 
 Każda chmura ma srebrną obwódkę (pozytywną stronę medalu).
 
-Po każdej burzy wychodzi słońce.",Every cloud has a silver lining. ,,,,~#ttsA:en-US#~
+Po każdej burzy wychodzi słońce.",Every cloud has a silver lining.,,,,~#ttsA:en-US#~
 "Ptak, który wcześnie wstaje, złapie robaka.
 
 Kto rano wstaje, zdrowie zbiera.
 
-Kto rano wstaje, temu Pan Bóg daje.",Early bird catches the worm. ,,,,~#ttsA:en-US#~
+Kto rano wstaje, temu Pan Bóg daje.",Early bird catches the worm.,,,,~#ttsA:en-US#~
 "Kto znalazł, ten zabrał.","Finders keepers, losers weepers. ",,,,~#ttsA:en-US#~
 Lepiej dmuchać na zimne.,It's better to be safe than sorry.,,,,~#ttsA:en-US#~
 Lepiej późno niż wcale.,Better late than never.,,,,~#ttsA:en-US#~
@@ -6166,7 +6172,7 @@ Lepiej późno niż wcale.,Better late than never.,,,,~#ttsA:en-US#~
 Lepiej zapobiegać niż leczyć",A stitch in time saves nine.,,,,~#ttsA:en-US#~
 Lepszy wróbel w garści niż gołąb na dachu.,A bird in the hand is worth two in the bush.,,,,~#ttsA:en-US#~
 Los sprzyja odważnym.,Fortune favors the bold.,,,,~#ttsA:en-US#~
-Mądrym wystarczy słowo.,A word to the wise is sufficient. ,,,,~#ttsA:en-US#~
+Mądrym wystarczy słowo.,A word to the wise is sufficient.,,,,~#ttsA:en-US#~
 Mierz siły na zamiary.,Look before you leap.,,,,~#ttsA:en-US#~
 "Nie gryź więcej niż możesz przeżuć.
 
@@ -6175,25 +6181,26 @@ Nie bierz na siebie więcej, niż możesz udźwignąć.",Don't bite off more tha
 
 Nie dziel skóry na niedźwiedziu.
 
-Nie chwal dnia przed zachodem słońca.",Don't count your chickens before they hatch. ,,,,~#ttsA:en-US#~
+Nie chwal dnia przed zachodem słońca.",Don't count your chickens before they hatch.,,,,~#ttsA:en-US#~
 Nie można mieć ciastka i zjeść ciastka.,You can't have your cake and eat it too.,,,,~#ttsA:en-US#~
 Nie oceniaj książki po okładce.,You can't judge a book by its cover.,,,,~#ttsA:en-US#~
-"Nie odkładaj na jutro tego, co możesz zrobić dzisiaj.",Don't put off until tomorrow what you can do today. ,,,,~#ttsA:en-US#~
+"Nie odkładaj na jutro tego, co możesz zrobić dzisiaj.",Don't put off until tomorrow what you can do today.,,,,~#ttsA:en-US#~
 Nie płacz nad rozlanym mlekiem.,Don't cry over spilled milk.,,,,~#ttsA:en-US#~
 Nie wkładaj wszystkich jajek do jednego koszyka.,Don't put all your eggs in one basket.,,,,~#ttsA:en-US#~
-Nigdy nie jest za późno na naukę.,It's never too late to learn. ,,,,~#ttsA:en-US#~
-Rzym nie został zbudowany w jeden dzień.,Rome wasn't built in a day. ,,,,~#ttsA:en-US#~
-Szczerość to najlepsza polityka.,Honesty is the best policy. ,,,,~#ttsA:en-US#~
+Nigdy nie jest za późno na naukę.,It's never too late to learn.,,,,~#ttsA:en-US#~
+Rzym nie został zbudowany w jeden dzień.,Rome wasn't built in a day.,,,,~#ttsA:en-US#~
+Szczerość to najlepsza polityka.,Honesty is the best policy.,,,,~#ttsA:en-US#~
 Szukać w niewłaściwym miejscu.,Barking up the wrong tree.,,,,~#ttsA:en-US#~
 W Rzymie zachowuj się jak Rzymianie.,"When in Rome, do as the Romans do.",,,,~#ttsA:en-US#~
-Wiele rąk czyni pracę lekką.,Many hands make light work. ,,,,~#ttsA:en-US#~
+Wiele rąk czyni pracę lekką.,Many hands make light work.,,,,~#ttsA:en-US#~
 "Wszędzie dobrze, gdzie nas nie ma.
 
 Zawsze trawa jest zielniejsza po drugiej stronie.",The grass is always greener on the other side.,,,,~#ttsA:en-US#~
-"Wszystko dobrze, co się dobrze kończy.",All's well that ends well. ,,,,~#ttsA:en-US#~
+"Wszystko dobrze, co się dobrze kończy.",All's well that ends well.,,,,~#ttsA:en-US#~
 "Z oczu, z serca.
 
 Czego oczy nie widzą, tego sercu nie żal.","Out of sight, out of mind. ",,,,~#ttsA:en-US#~
 "Za dużo kucharzy psuje zupę.
 
-Gdzie kucharek sześć tam nie ma gdzie jeść.",Too many cooks spoil the broth. ,,,,~#ttsA:en-US#~
+Gdzie kucharek sześć tam nie ma gdzie jeść.",Too many cooks spoil the broth.,,,,~#ttsA:en-US#~
+"Prawdziwego przyjaciela poznaje się w biedzie.","A friend in need is a friend indeed.",,,,~#ttsA:en-US#~
