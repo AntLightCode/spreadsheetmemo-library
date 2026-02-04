@@ -655,6 +655,15 @@ tam,dort,"~#tts:nap:de-DE{da drüben}#~
 
 ~#tts:nap:de-DE{Mein Haus steht dort auf dem Hügel.}#~
 Mój dom stoi tam na wzgórzu.",,,~#ttsA:de-DE#~
+"płacić
+
+zapłacić za coś konkretnego","zahlen
+
+bezahlen","~#tts:nap:de-DE{Wir möchten bitte zahlen.}#~
+Chcielibyśmy zapłacić.
+
+~#tts:nap:de-DE{Ich muss die Rechnung bezahlen.}#~
+Muszę zapłacić rachunek.",,,~#ttsA:de-DE#~
 "poszukiwać
 szukać
 przeszukiwać",suchen,"~#tts:nap:de-DE{Ich suche eine neue Arbeit.}#~
@@ -662,8 +671,6 @@ Szukam nowej pracy.
 
 ~#tts:nap:de-DE{Ich habe eine Stunde lang nach meinen Schlüsseln gesucht.}#~
 Szukałem kluczy przez godzinę.",,,~#ttsA:de-DE#~
-ssak,der Sauger,"~#tts:nap:de-DE{Der Wal ist ein Meeressäuger.}#~
-Wieloryb jest ssakiem morskim.",,,~#ttsA:de-DE#~
 dzisiaj,heute,"~#tts:nap:de-DE{Heute ist ein schöner Tag.}#~
 Dziś jest piękny dzień.",,,~#ttsA:de-DE#~
 pilot,"der Pilot, die Pilotin","~#tts:nap:de-DE{Der Pilot hat das Flugzeug sicher gelandet.}#~
@@ -7420,6 +7427,8 @@ portfel,die Brieftasche,"~#tts:nap:de-DE{das Portemonnaie}#~
 
 ~#tts:nap:de-DE{Ich habe meine Brieftasche verloren.}#~
 Zgubiłem portfel.",,,~#ttsA:de-DE#~
+ssak,der Sauger,"~#tts:nap:de-DE{Der Wal ist ein Meeressäuger.}#~
+Wieloryb jest ssakiem morskim.",,,~#ttsA:de-DE#~
 pierwsza pomoc,die Erste Hilfe,"~#tts:nap:de-DE{Ich habe einen Erste-Hilfe-Kurs gemacht.}#~
 Ukończyłem kurs pierwszej pomocy.",,,~#ttsA:de-DE#~
 popiół,die Asche,"~#tts:nap:de-DE{Der Kamin war voller Asche.}#~
@@ -10209,8 +10218,6 @@ napotykać,begegnen,"~#tts:nap:de-DE{stoßen auf}#~
 
 ~#tts:nap:de-DE{Sie sind während ihrer Reise auf einige Probleme gestoßen.}#~
 Napotkali pewne problemy podczas podróży.",,,~#ttsA:de-DE#~
-płacić,bezahlen,"~#tts:nap:de-DE{Ich muss die Rechnung bezahlen.}#~
-Muszę zapłacić rachunek.",,,~#ttsA:de-DE#~
 zabezpieczać,sichern,"~#tts:nap:de-DE{Wir müssen das Gelände sichern.}#~
 Musimy zabezpieczyć teren.",,,~#ttsA:de-DE#~
 trik,der Trick,"~#tts:nap:de-DE{Er hat mir einen Streich (Trick) gespielt.}#~

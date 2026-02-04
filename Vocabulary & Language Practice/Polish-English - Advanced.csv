@@ -601,8 +601,14 @@ spóźniony,belated,~#tts:nap:en-US{The birthday card was belated.}#~,,,~#ttsA:e
 heban,ebony,~#tts:nap:en-US{She had ebony skin.}#~,,,~#ttsA:en-US#~
 "kał, fekalia, odchody",faeces,~#tts:nap:en-US{The dog left a pile of faeces in the yard.}#~,,,~#ttsA:en-US#~
 "wybaczyć, darować",to condone,~#tts:nap:en-US{I don't condone his behavior.}#~,,,~#ttsA:en-US#~
-skurcz,cramp,~#tts:nap:en-US{I have a cramp in my leg.}#~,,,~#ttsA:en-US#~
-skurcz mięśnia,contraction,~#tts:nap:en-US{She had a contraction every five minutes.}#~,,,~#ttsA:en-US#~
+"bolesny, nagły skurcz mięśnia",cramp,"~#tts:nap:en-US{contraction, spasm}#~
+
+~#tts:nap:en-US{I have a cramp in my leg.}#~",,,~#ttsA:en-US#~
+"skurcz (np. mięśnia)
+
+także skrót językowy (np. don't = do not)",contraction,"~#tts:nap:en-US{cramp, spasm}#~
+
+~#tts:nap:en-US{She had a contraction every five minutes.}#~",,,~#ttsA:en-US#~
 "zrzęda, maruda
 zgryźliwy",sourpuss,~#tts:nap:en-US{Don't be such a sourpuss.}#~,,,~#ttsA:en-US#~
 "urzędnik sądowy, egzekutor sądowy, 
@@ -3811,7 +3817,9 @@ podstawowe, fundamentalne ",staple,"~#tts:nap:en-US{The staple held the papers t
 
 ~#tts:nap:en-US{Rice is a staple food in many countries.}#~",,,~#ttsA:en-US#~
 "antykoncepcja, zapobieganie ciąży",contraception,~#tts:nap:en-US{She is using a new method of contraception.}#~,,,~#ttsA:en-US#~
-"przyrząd, mechanizm",contraption,"~#tts:nap:en-US{instrument, device, apparatus}#~
+"przyrząd, mechanizm
+
+skomplikowane, często dziwaczne urządzenie",contraption,"~#tts:nap:en-US{instrument, device, apparatus}#~
 ~#tts:nap:en-US{appliance, gadget, contrivance}#~
 ~#tts:nap:en-US{fixture}#~
 
@@ -4499,7 +4507,7 @@ opłata,fare,~#tts:nap:en-US{The bus fare was $2.}#~,,,~#ttsA:en-US#~
 zarządzanie obiektami,facilities management,~#tts:nap:en-US{The company hired a facilities management firm to maintain their buildings.}#~,,,~#ttsA:en-US#~
 "wysoki, wzniosły
 
-wyniosly, zdystansowany",lofty,~#tts:nap:en-US{The mountains were lofty and majestic.}#~,,,~#ttsA:en-US#~
+wyniosły, zdystansowany",lofty,~#tts:nap:en-US{The mountains were lofty and majestic.}#~,,,~#ttsA:en-US#~
 kołpak,hubcap,~#tts:nap:en-US{The car's hubcap was missing.}#~,,,~#ttsA:en-US#~
 śmiały,daring,~#tts:nap:en-US{She was a daring adventurer.}#~,,,~#ttsA:en-US#~
 "oblicze, mina, twarz, fizjonomia (znaczenie starsze, literackie)
