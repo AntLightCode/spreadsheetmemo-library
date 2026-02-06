@@ -3003,8 +3003,6 @@ niezdecydowany,hesitant,~#tts:nap:en-US{She was hesitant to make a decision.}#~,
 
 ~#tts:nap:en-US{He was an industrious worker who put in long hours.}#~",,,~#ttsA:en-US#~
 jakiś czas temu,some time back,"~#tts:nap:en-US{Some time back, I met a very interesting person.}#~",,,~#ttsA:en-US#~
-"wpaść w złość, zrobić awanturę (potocznie, lekko żartobliwie)",to throw a hissy,~#tts:nap:en-US{She threw a hissy fit when she didn't get what she wanted.}#~,,,~#ttsA:en-US#~
-"dostać napadu złości, zrobić foch, wybuchnąć (często o dzieciach, ale też dorosłych w potocznym kontekście)",to throw a tantrum,~#tts:nap:en-US{The child threw a tantrum when he didn't get a candy.}#~,,,~#ttsA:en-US#~
 dąsać się,to sulk,~#tts:nap:en-US{He sulked in his room after he got in trouble.}#~,,,~#ttsA:en-US#~
 "napad złości, dziecięca złość, wybuch emocji",tantrum,"~#tts:nap:en-US{fury, frenzy}#~
 
@@ -3670,7 +3668,7 @@ uzda,bridle,"~#tts:nap:en-US{He adjusted the bridle on the horse before setting 
 ~#tts:nap:en-US{The horse was bridled.}#~",,,~#ttsA:en-US#~
 niejasny,obscure,"~#tts:nap:en-US{The meaning of the poem was obscure, even to experienced scholars.}#~",,,~#ttsA:en-US#~
 zwracać koszty,to reimburse,~#tts:nap:en-US{I will reimburse you for the cost of the repairs.}#~,,,~#ttsA:en-US#~
-"dodatek (np. do żywności)",additive,~#tts:nap:en-US{The food additive caused a severe allergic reaction.}#~,,,~#ttsA:en-US#~
+"dodatek, substancja dodawana w celu poprawy lub zmiany właściwości (np. żywności, paliwa)",additive,~#tts:nap:en-US{The food additive caused a severe allergic reaction.}#~,,,~#ttsA:en-US#~
 przesiać,to sift,~#tts:nap:en-US{She carefully sifted through the flour to remove any lumps.}#~,,,~#ttsA:en-US#~
 "wybitny, znakomity, czołowy w dziedzinie",eminent,"~#tts:nap:en-US{outstanding, prominent, distinguished, remarkable}#~
 
@@ -3718,7 +3716,6 @@ przedwczesny,precocious,"~#tts:nap:en-US{premature}#~
 ~#tts:nap:en-US{The child was precocious.}#~",,,~#ttsA:en-US#~
 klapka,flap,~#tts:nap:en-US{The bird flapped its wings.}#~,,,~#ttsA:en-US#~
 szpara,chink,~#tts:nap:en-US{He had a chinky smile.}#~,,,~#ttsA:en-US#~
-oczy szeroko otwarte,eyes peeled,~#tts:nap:en-US{Keep your eyes peeled for the exit sign.}#~,,,~#ttsA:en-US#~
 kamienica,tenement,~#tts:nap:en-US{They lived in a tenement.}#~,,,~#ttsA:en-US#~
 "frachtować, wysłać",to consign,"~#tts:nap:en-US{to send, to dispatch}#~
 
@@ -4273,7 +4270,7 @@ obwód koła lub okręgu,circumference,"obwód elektryczny: ~#tts:nap:en-US{circ
 "tusza, ścierwo, padlina, zwłoki, ciało martwe, kadłub zwierzęcia",carcass,"~#tts:nap:en-US{carrion}#~
 
 ~#tts:nap:en-US{The carcass of the deer lay in the forest.}#~",,,~#ttsA:en-US#~
-łamać,to infringe,"~#tts:nap:en-US{to break, to crack}#~
+"naruszać (prawo, zasady, czyjeś prawa), łamać",to infringe,"~#tts:nap:en-US{to break, to crack}#~
 
 ~#tts:nap:en-US{He infringed on her privacy by reading her emails.}#~",,,~#ttsA:en-US#~
 wyniosły,haughty,~#tts:nap:en-US{She had a haughty attitude towards her subordinates.}#~,,,~#ttsA:en-US#~
@@ -4542,6 +4539,7 @@ wilgoć,damp,~#tts:nap:en-US{The weather was damp and foggy.}#~,,,~#ttsA:en-US#~
 
 ~#tts:nap:en-US{She worked hard to attain her goals.}#~",,,~#ttsA:en-US#~
 uprawa,cultivation,"~#tts:nap:en-US{crop, harvest}#~
+
 ~#tts:nap:en-US{The farmer was busy with the cultivation of his crops.}#~",,,~#ttsA:en-US#~
 utrzymanie,livelihood,~#tts:nap:en-US{Fishing was his livelihood.}#~,,,~#ttsA:en-US#~
 zasadniczy,underlying,~#tts:nap:en-US{There was an underlying tension between the two countries.}#~,,,~#ttsA:en-US#~
@@ -6147,6 +6145,16 @@ cena przybliżona
 "odwrócić wzrok
 
 ''(idiom)''","to avert one's eyes",~#tts:nap:en-US{She averted her eyes from the gruesome scene.}#~,,,~#ttsA:en-US#~
+"wpaść w złość, zrobić awanturę (potocznie, lekko żartobliwie)
+
+''(idiom)''",to throw a hissy fit,~#tts:nap:en-US{She threw a hissy fit when she didn't get what she wanted.}#~,,,~#ttsA:en-US#~
+"dostać napadu złości, zrobić foch, wybuchnąć (często o dzieciach, ale też dorosłych w potocznym kontekście)
+
+''(idiom)''",to throw a tantrum,~#tts:nap:en-US{The child threw a tantrum when he didn't get a candy.}#~,,,~#ttsA:en-US#~
+"być bardzo czujnym, uważnie się rozglądać, mieć oczy szeroko otwarte
+
+''(idiom)''","keep your eyes peeled
+have your eyes peeled",~#tts:nap:en-US{Keep your eyes peeled for the train.}#~,,,~#ttsA:en-US#~
 ,,,,,
 Proverbs,,,,,
 Bez pracy nie ma kołaczy.,"No pain, no gain.",,,,~#ttsA:en-US#~

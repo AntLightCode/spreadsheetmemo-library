@@ -679,8 +679,6 @@ Jestem z Polski.,Ich komme aus Polen.,,,,"~#ttsA:de-DE#~
 ~#no-swap#~"
 najedzony,satt,"~#tts:nap:de-DE{Ich kann nicht mehr essen, ich bin satt.}#~
 Nie mogę już jeść, jestem najedzony.",,,~#ttsA:de-DE#~
-obcy,der Außerirdische,"~#tts:nap:de-DE{Der Film handelte von einem Außerirdischen von einem anderen Planeten.}#~
-Film był o obcym z innej planety.",,,~#ttsA:de-DE#~
 kiedy,wann,"~#tts:nap:de-DE{Wann gehst du?}#~
 Kiedy wyjeżdżasz (idziesz)?",,,~#ttsA:de-DE#~
 mój,mein,"~#tts:nap:de-DE{Das ist mein Buch.}#~
@@ -4803,6 +4801,8 @@ gorąca czekolada,die heiße Schokolade,"~#tts:nap:de-DE{Heiße Schokolade ist e
 Gorąca czekolada to ciepły napój.",,,~#ttsA:de-DE#~
 herbata mrożona,der Eistee,"~#tts:nap:de-DE{Eistee ist ein kaltes Getränk.}#~
 Herbata lodowa to zimny napój.",,,~#ttsA:de-DE#~
+"obcy (kosmita)",der Außerirdische,"~#tts:nap:de-DE{Der Film handelte von einem Außerirdischen von einem anderen Planeten.}#~
+Film był o obcym z innej planety.",,,~#ttsA:de-DE#~
 baterie,die Batterien,"~#tts:nap:de-DE{Batterien werden verwendet, um elektronische Geräte mit Strom zu versorgen.}#~
 Baterie służą do zasilania urządzeń elektronicznych.",,,~#ttsA:de-DE#~
 suszarka do włosów,der Föhn,"~#tts:nap:de-DE{Ein Föhn wird verwendet, um deine Haare zu trocknen.}#~
