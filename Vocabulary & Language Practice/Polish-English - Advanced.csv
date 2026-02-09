@@ -643,7 +643,7 @@ za wszelką cenę,at any price,~#tts:nap:en-US{He was determined to get the job 
 
 ~#tts:nap:en-US{She was dispirited by the news.}#~",,,~#ttsA:en-US#~
 "niegrzeczny, grubiański",churlish,~#tts:nap:en-US{He was a churlish and rude person.}#~,,,~#ttsA:en-US#~
-lichy,crummy,~#tts:nap:en-US{The weather was crummy.}#~,,,~#ttsA:en-US#~
+"lichy, kiepski, beznadziejny, marnej jakości (potocznie)",crummy,~#tts:nap:en-US{The weather was crummy.}#~,,,~#ttsA:en-US#~
 "narodziny Jezusa Chrystusa, scena Bożego Narodzenia w szopce",the Nativity,~#tts:nap:en-US{The Nativity scene depicts the birth of Jesus.}#~,,,~#ttsA:en-US#~
 pościć,to fast,~#tts:nap:en-US{She was fasting for religious reasons.}#~,,,~#ttsA:en-US#~
 "szalony, zwariowany",nutty as a fruitcake,~#tts:nap:en-US{He's as nutty as a fruitcake.}#~,,,~#ttsA:en-US#~
@@ -2122,7 +2122,16 @@ goleń [anat.],shin,~#tts:nap:en-US{He kicked the ball off his shin.}#~,,,~#ttsA
 "tam, tamten",yonder,"~#tts:nap:en-US{there, over, thither, yonder, yon}#~
 
 ~#tts:nap:en-US{Look at that beautiful mountain yonder.}#~",,,~#ttsA:en-US#~
-"łącznik (znak interpunkcyjny)",hyphen,~#tts:nap:en-US{A hyphen is a punctuation mark used to connect words.}#~,,,~#ttsA:en-US#~
+łącznik (znak interpunkcyjny),hyphen,"~#tts:nap:en-US{A hyphen is a punctuation mark used to connect words.}#~
+
+Before noun:
+~#tts:nap:en-US{beautiful-looking flowers ➟ The flowers are beautiful looking.}#~
+
+Numbers:
+~#tts:nap:en-US{seven-year-old child ➟ The child is seven years old.}#~
+
+Prefixes:
+~#tts:nap:en-US{anti-nuclear ➟ Not needed in ""cooperate.""}#~",,,~#ttsA:en-US#~
 "dzielność, waleczność, bitność",valor,~#tts:nap:en-US{He showed great valor in battle.}#~,,,~#ttsA:en-US#~
 "frachtowiec, kargowiec",freighter,~#tts:nap:en-US{A freighter is a large ship that carries cargo.}#~,,,~#ttsA:en-US#~
 krążeniowy,circulatory,~#tts:nap:en-US{The circulatory system is responsible for transporting blood throughout the body.}#~,,,~#ttsA:en-US#~
@@ -2293,7 +2302,9 @@ najazd,foray,~#tts:nap:en-US{He made a foray into the enemy's territory.}#~,,,~#
 "przyłączać, nawiązywać stosunki",to affiliate,"~#tts:nap:en-US{verb officially attach or connect (a subsidiary group or a person) to an organization. the college is affiliated with the University of Wisconsin synonyms: associate with, unite with, combine with, join (up) with, link up with, team up with, ally with, align with, band together with, federate with, amalgamate with, merge with, attach to, annex to, incorporate into, integrate into noun a person or organization officially attached to a larger body. the company established links with British affiliates synonyms: partner, branch, offshoot, subsidiary}#~
 
 ~#tts:nap:en-US{He is affiliated with a local charity.}#~",,,~#ttsA:en-US#~
-"przepaść, otchłań",abyss,~#tts:nap:en-US{She looked down into the dark abyss.}#~,,,~#ttsA:en-US#~
+"przepaść, otchłań",abyss,"~#tts:nap:en-US{gulf, chasm, precipice, maw}#~
+
+~#tts:nap:en-US{She looked down into the dark abyss.}#~",,,~#ttsA:en-US#~
 "czuć wstręt, brzydzić się",to abhor,"~#tts:nap:en-US{to loathe, to detest, to hate}#~
 
 ~#tts:nap:en-US{She abhorred violence.}#~",,,~#ttsA:en-US#~
@@ -2874,13 +2885,9 @@ fiskalny,fiscal,"~#tts:nap:en-US{budget, finanncial}#~
 zwolnienie,lay-off,"~#tts:nap:en-US{exemption}#~
 
 ~#tts:nap:en-US{The company had to lay off workers due to the recession.}#~",,,~#ttsA:en-US#~
-dyrektor naczelny,CEO,"~#tts:nap:en-US{chief executive officer}#~
-
-~#tts:nap:en-US{The CEO of the company is responsible for its overall performance.}#~",,,~#ttsA:en-US#~
-"Dyrektor Finansowy",CFO,"~#tts:nap:en-US{chief financial officer}#~
-
-~#tts:nap:en-US{The CFO is responsible for the company's finances.}#~",,,~#ttsA:en-US#~
-dyrektor operacyjny,Operations Director,~#tts:nap:en-US{The Operations Director oversees the day-to-day operations of the company.}#~,,,~#ttsA:en-US#~
+Dyrektor Naczelny,CEO (Chief Executive Officer),~#tts:nap:en-US{The CEO of the company is responsible for its overall performance.}#~,,,~#ttsA:en-US#~
+Dyrektor Finansowy,CFO (Chief Financial Officer),~#tts:nap:en-US{The CFO is responsible for the company's finances.}#~,,,~#ttsA:en-US#~
+Dyrektor Operacyjny,Operations Director,~#tts:nap:en-US{The Operations Director oversees the day-to-day operations of the company.}#~,,,~#ttsA:en-US#~
 kadry,HR,"~#tts:nap:en-US{human resources}#~
 
 ~#tts:nap:en-US{The HR department handles employee relations.}#~",,,~#ttsA:en-US#~
@@ -5260,8 +5267,10 @@ sztućce,"~#tts:en-GB{cutlery}#~ (GB)
 szewc,cobbler,~#tts:nap:en-US{The cobbler repaired my old shoes.}#~,,,~#ttsA:en-US#~
 jadalny,edible,~#tts:nap:en-US{These mushrooms are edible.}#~,,,~#ttsA:en-US#~
 ospa prawdziwa,variola,~#tts:nap:en-US{Variola was eradicated in the 20th century.}#~,,,~#ttsA:en-US#~
-dyrektor marketingu,"marketing director
-CMO - Chief Marketing Officer","~#tts:nap:en-US{The marketing director presented the new strategy.}#~
+Dyrektor Marketingu,"Marketing Director
+
+CMO (Chief Marketing Officer)","~#tts:nap:en-US{The Marketing Director presented the new strategy.}#~
+Dyrektor marketingu przedstawił nową strategię.
 
 ~#tts:nap:en-US{The CMO is responsible for the company's marketing.}#~",,,~#ttsA:en-US#~
 "zaraza, zakażenie",contagion,~#tts:nap:en-US{The contagion spread quickly.}#~,,,~#ttsA:en-US#~

@@ -841,8 +841,8 @@ matka,die Mutter,"~#tts:nap:de-DE{Meine Mutter ist sehr nett.}#~
 Moja matka jest bardzo miła.",,,~#ttsA:de-DE#~
 biały,weiß,"~#tts:nap:de-DE{Der Schnee ist weiß.}#~
 Śnieg jest biały.",,,~#ttsA:de-DE#~
-najgorszy,der Schlimmste,"~#tts:nap:de-DE{Das ist der schlimmste Film, den ich je gesehen habe.}#~
-To najgorszy film, jaki kiedykolwiek widziałem.",,,~#ttsA:de-DE#~
+"najgorszy (pod względem szkodliwości, powagi sytuacji)",der Schlimmste,"~#tts:nap:de-DE{Das war der schlimmste Tag meines Lebens.}#~
+To był najgorszy dzień mojego życia.",,,~#ttsA:de-DE#~
 z,mit,"~#tts:nap:de-DE{Ich ging mit meinen Freunden zur Party.}#~
 Poszedłem na imprezę z przyjaciółmi.",,,~#ttsA:de-DE#~
 hotel,das Hotel,"~#tts:nap:de-DE{Sie übernachten in einem schönen Hotel in der Nähe des Strandes.}#~
@@ -859,8 +859,6 @@ Kocham cię.,Ich liebe dich.,,,,"~#ttsA:de-DE#~
 ~#no-swap#~"
 nastolatek,der Teenager,"~#tts:nap:de-DE{Der Teenager ist sehr rebellisch.}#~
 Nastolatek jest bardzo buntowniczy.",,,~#ttsA:de-DE#~
-gospodarstwo rolne,der Bauernhof,"~#tts:nap:de-DE{Meine Großeltern leben auf einem Bauernhof.}#~
-Moi dziadkowie mieszkają na gospodarstwie rolnym.",,,~#ttsA:de-DE#~
 iść jeść,essen gehen,"~#tts:nap:de-DE{Wir gehen heute Abend essen.}#~
 Dziś wieczorem idziemy coś zjeść.",,,~#ttsA:de-DE#~
 jeździć na nartach,Ski fahren,"~#tts:nap:de-DE{Ich fahre gerne Ski.}#~
@@ -1606,6 +1604,8 @@ Idę teraz spać.",,,~#ttsA:de-DE#~
 To lękliwy pies, szczeka przy każdym hałasie.",,,~#ttsA:de-DE#~
 stopa,der Fuß,"~#tts:nap:de-DE{Mein Fuß tut weh.}#~
 Boli mnie stopa.",,,~#ttsA:de-DE#~
+"najgorszy (pod względem jakości, standardu)",der schlechteste,"~#tts:nap:de-DE{Das war der schlechteste Film, den ich je gesehen habe.}#~
+To był najgorszy film, jaki kiedykolwiek widziałem.",,,~#ttsA:de-DE#~
 "miły, uprzejmy",nett,"~#tts:nap:de-DE{süß, hübsch, niedlich, reizend, entzückend, lieblich, anmutig, putzig, knuffig}#~
 
 ~#tts:nap:de-DE{Sie ist ein nettes Mädchen.}#~
@@ -4801,6 +4801,8 @@ gorąca czekolada,die heiße Schokolade,"~#tts:nap:de-DE{Heiße Schokolade ist e
 Gorąca czekolada to ciepły napój.",,,~#ttsA:de-DE#~
 herbata mrożona,der Eistee,"~#tts:nap:de-DE{Eistee ist ein kaltes Getränk.}#~
 Herbata lodowa to zimny napój.",,,~#ttsA:de-DE#~
+"zostać odwołanym, wypadać",ausfallen,"~#tts:nap:de-DE{Der Unterricht fällt heute leider aus.}#~
+Lekcje są dzisiaj niestety odwołane.",,,~#ttsA:de-DE#~
 "obcy (kosmita)",der Außerirdische,"~#tts:nap:de-DE{Der Film handelte von einem Außerirdischen von einem anderen Planeten.}#~
 Film był o obcym z innej planety.",,,~#ttsA:de-DE#~
 baterie,die Batterien,"~#tts:nap:de-DE{Batterien werden verwendet, um elektronische Geräte mit Strom zu versorgen.}#~
@@ -6013,6 +6015,8 @@ strona internetowa (cały serwis),die Website,"~#tts:nap:de-DE{Die Website befin
 Strona internetowa jest w budowie.",,,~#ttsA:de-DE#~
 kontekst,der Kontext,"~#tts:nap:de-DE{In diesem Kontext bedeutet es etwas anderes.}#~
 W tym kontekście oznacza coś innego.",,,~#ttsA:de-DE#~
+"farma, gospodarstwo rolne",der Bauernhof,"~#tts:nap:de-DE{Meine Großeltern leben auf einem Bauernhof.}#~
+Moi dziadkowie mieszkają na gospodarstwie rolnym.",,,~#ttsA:de-DE#~
 portret,das Porträt,"~#tts:nap:de-DE{Das Porträt ist sehr realistisch.}#~
 Portret jest bardzo realistyczny.",,,~#ttsA:de-DE#~
 horyzont,der Horizont,"~#tts:nap:de-DE{Der Horizont ist klar.}#~

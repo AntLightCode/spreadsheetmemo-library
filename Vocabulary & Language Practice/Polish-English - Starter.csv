@@ -329,14 +329,23 @@ mleko,milk,"~#tts:nap:en-US{I drink milk every day.}#~
 Piję mleko codziennie.",,,~#ttsA:en-US#~
 sok pomarańczowy,orange juice,"~#tts:nap:en-US{I like to drink orange juice.}#~
 Lubię pić sok pomarańczowy.",,,~#ttsA:en-US#~
-telefon,"phone, smartphone","~#tts:nap:en-US{I need to call my friend.}#~
-Muszę zadzwonić do przyjaciela.
+"telefon
+
+telefon komórkowy","phone
+
+mobile phone
+cellphone
+smartphone","~#tts:nap:en-US{I can't live without my mobile phone.}#~
+Nie mogę żyć bez mojego telefonu komórkowego.
 
 ~#tts:nap:en-US{A smartphone is a mobile phone with advanced features.}#~
 Smartfon to telefon komórkowy z zaawansowanymi funkcjami.
 
 ~#tts:nap:en-US{I need to charge my phone.}#~
-Muszę naładować telefon.",,,~#ttsA:en-US#~
+Muszę naładować telefon.
+
+~#tts:nap:en-US{My cellphone is broken.}#~
+Mój telefon komórkowy jest zepsuty.",,,~#ttsA:en-US#~
 zły,bad,"~#tts:nap:en-US{That's a bad idea.}#~
 To zły pomysł.
 
@@ -4027,8 +4036,6 @@ zespół szkolny,school band,"~#tts:nap:en-US{He plays in the school band.}#~
 Gra w szkolnym zespole.",,,~#ttsA:en-US#~
 laptop,"laptop, laptop computer","~#tts:nap:en-US{I use my laptop computer for work and school.}#~
 Używam laptopa do pracy i szkoły.",,,~#ttsA:en-US#~
-telefon komórkowy,"mobile phone, cellphone","~#tts:nap:en-US{I can't live without my mobile phone.}#~
-Nie mogę żyć bez mojego telefonu komórkowego.",,,~#ttsA:en-US#~
 rower górski,mountain bike,"~#tts:nap:en-US{I like to ride my mountain bike in the forest.}#~
 Lubię jeździć na rowerze górskim po lesie.",,,~#ttsA:en-US#~
 "deskorolka
@@ -6449,6 +6456,8 @@ Nie mam nic przeciwko twojemu planowi.",,,~#ttsA:en-US#~
 
 ~#tts:nap:en-US{I object to your proposal.}#~
 Przeciwiam się twojej propozycji.",,,~#ttsA:en-US#~
+"oszołomić, ogłuszyć",to stun,"~#tts:nap:en-US{The blow to the head was enough to stun him.}#~
+Uderzenie w głowę wystarczyło, by go ogłuszyć.",,,~#ttsA:en-US#~
 "oszalały, szalony, wściekły",frantic,"~#tts:nap:en-US{She was frantic with worry.}#~
 Była wściekła ze zmartwienia.",,,~#ttsA:en-US#~
 trzustka,pancreas,"~#tts:nap:en-US{The pancreas is an organ that produces insulin.}#~
@@ -8256,7 +8265,7 @@ jechać pod namiot,to go camping,"~#tts:nap:en-US{We will go camping in the summ
 Pojedziemy pod namiot latem.",,,~#ttsA:en-US#~
 iść na spacer,to go for a walk,"~#tts:nap:en-US{Let's go for a walk in the park.}#~
 Chodźmy na spacer do parku.",,,~#ttsA:en-US#~
-pojechać w góry,go to the mountains,"~#tts:nap:en-US{We are planning to go to the mountains.}#~
+pojechać w góry,to go to the mountains,"~#tts:nap:en-US{We are planning to go to the mountains.}#~
 Planujemy pojechać w góry.",,,~#ttsA:en-US#~
 przeziębić się,to have a cold,"~#tts:nap:en-US{I think I have a cold.}#~
 Chyba się przeziębiłem.",,,~#ttsA:en-US#~
@@ -8549,8 +8558,15 @@ Na koncercie był duży tłum.",,,~#ttsA:en-US#~
 Opłata wstępu wynosi 10 dolarów.",,,~#ttsA:en-US#~
 odcinek,episode,"~#tts:nap:en-US{I watched the latest episode of the show.}#~
 Obejrzałem najnowszy odcinek serialu.",,,~#ttsA:en-US#~
-fit,fit,"~#tts:nap:en-US{The clothes fit me perfectly.}#~
-Ubrania pasują mi idealnie.",,,~#ttsA:en-US#~
+"być w formie
+
+pasować (rozmiarem)","fit
+
+to fit","~#tts:nap:en-US{She is very fit because she runs every day.}#~
+Ona jest bardzo wysportowana, ponieważ codziennie biega.
+
+~#tts:nap:en-US{These shoes don't fit me anymore.}#~
+Te buty już na mnie nie pasują.",,,~#ttsA:en-US#~
 lokalizować,to locate,"~#tts:nap:en-US{The police are trying to locate the missing person.}#~
 Policja próbuje zlokalizować zaginioną osobę.",,,~#ttsA:en-US#~
 "podstawowy, bazowy",basic,"~#tts:nap:en-US{fundamental}#~
@@ -8998,7 +9014,7 @@ Może jutro będzie padać.",,,~#ttsA:en-US#~
 "firma
 
 mocny, stanowczy, twardy, jędrny, zdecydowany",firm,"~#tts:nap:en-US{The company is a very successful firm.}#~
-Firma jest bardzo udana.",,,~#ttsA:en-US#~
+Firma odnosi duże sukcesy.",,,~#ttsA:en-US#~
 transformować,to transform,"~#tts:nap:en-US{The town has been transformed in recent years.}#~
 Miasto zostało przekształcone w ostatnich latach.",,,~#ttsA:en-US#~
 mechanizm,mechanism,"~#tts:nap:en-US{The mechanism is broken.}#~
@@ -9238,8 +9254,8 @@ Zwrócił uwagę na szczegóły.",,,~#ttsA:en-US#~
 "podwójny
 podwójnie",double,"~#tts:nap:en-US{The room has a double bed.}#~
 Pokój ma łóżko podwójne.",,,~#ttsA:en-US#~
-fantasy,fantasy,"~#tts:nap:en-US{The story is a fantasy.}#~
-Historia jest fantastyczna.",,,~#ttsA:en-US#~
+"fantastyka, fantazja",fantasy,"~#tts:nap:en-US{I love reading fantasy novels with dragons and magic.}#~
+Uwielbiam czytać powieści fantasy ze smokami i magią.",,,~#ttsA:en-US#~
 "oszust
 ktoś kto się podszywa pod kogoś innego",impostor,"~#tts:nap:en-US{He is an impostor.}#~
 On jest oszustem.",,,~#ttsA:en-US#~
@@ -9705,12 +9721,6 @@ Pobrali się w zeszłym roku.",,,~#ttsA:en-US#~
 Silnik samochodu jest zepsuty.",,,~#ttsA:en-US#~
 płatność,payment,"~#tts:nap:en-US{The payment is due next month.}#~
 Płatność jest wymagana w przyszłym miesiącu.",,,~#ttsA:en-US#~
-"telefon
-telefon komórkowy","phone
-telephone
-cellphone
-smartphone","~#tts:nap:en-US{My smartphone is broken.}#~
-Mój smartfon jest zepsuty.",,,~#ttsA:en-US#~
 wstążka,ribbon,"~#tts:nap:en-US{The ribbon is red.}#~
 Wstążka jest czerwona.",,,~#ttsA:en-US#~
 "sezon, pora roku
@@ -11044,7 +11054,7 @@ Morał historii jest taki, że uczciwość to najlepsza polityka.",,,~#ttsA:en-U
 pakować,to pack,"~#tts:nap:en-US{I'm packing for my trip.}#~
 Pakuję się na wyjazd.",,,~#ttsA:en-US#~
 dragonfruit,dragonfruit,"~#tts:nap:en-US{Dragonfruits are exotic fruits with pink skin and white flesh.}#~
-Smoki to egzotyczne owoce o różowej skórce i białym miąższu.",,,~#ttsA:en-US#~
+Smocze owoce (pitaje) to egzotyczne owoce o różowej skórce i białym miąższu.",,,~#ttsA:en-US#~
 "propozycja, wniosek, deklaracja
 oświadczyny",proposal,"~#tts:nap:en-US{The proposal was rejected.}#~
 Propozycja została odrzucona.",,,~#ttsA:en-US#~
@@ -14499,7 +14509,7 @@ Podziwiam nowoczesną architekturę tego budynku.",,,~#ttsA:en-US#~
 w przeszłości,in the past,"~#tts:nap:en-US{In the past, people used to write letters instead of emails.}#~
 W przeszłości ludzie pisali listy zamiast e-maili.",,,~#ttsA:en-US#~
 ogólnoświatowy,worldwide,"~#tts:nap:en-US{The company has a worldwide reputation for quality.}#~
-Uwielbiam ścieżkę dźwiękową z tego filmu.",,,~#ttsA:en-US#~
+Firma ma ogólnoświatową reputację pod względem jakości.",,,~#ttsA:en-US#~
 meczet,mosque,"~#tts:nap:en-US{We visited a beautiful mosque during our trip.}#~
 Podczas naszej wycieczki odwiedziliśmy piękny meczet.",,,~#ttsA:en-US#~
 "przed chwilą, chwilę temu, przed momentem",just now,"~#tts:nap:en-US{I spoke to him just now.}#~
@@ -14870,7 +14880,7 @@ Załóż kurtkę, bo zmarzniesz.",,,~#ttsA:en-US#~
 cały czas,the whole time,"~#tts:nap:en-US{He was talking on the phone the whole time.}#~
 On rozmawiał przez telefon przez cały czas.",,,~#ttsA:en-US#~
 w tamtych czasach,in those days,"~#tts:nap:en-US{In those days, we didn't have mobile phones.}#~
-Firma ma ogólnoświatową reputację pod względem jakości.",,,~#ttsA:en-US#~
+W tamtych czasach nie mieliśmy telefonów komórkowych.",,,~#ttsA:en-US#~
 na szczycie,on top of,"~#tts:nap:en-US{There is a cherry on top of the cake.}#~
 Na torcie jest wisienka.",,,~#ttsA:en-US#~
 wpływowy,influential,"~#tts:nap:en-US{He is a very influential figure in politics.}#~
@@ -14962,7 +14972,7 @@ Co jest dziś wieczorem w telewizji?",,,~#ttsA:en-US#~
 "maksimum, maksymalny, maksymalnie",maximum,"~#tts:nap:en-US{The maximum speed on this road is 50 mph.}#~
 Maksymalna prędkość na tej drodze wynosi 50 mil na godzinę.",,,~#ttsA:en-US#~
 wielkie otwarcie,grand opening,"~#tts:nap:en-US{The grand opening of the new store is on Saturday.}#~
-Ratownik uważnie obserwował pływających.",,,~#ttsA:en-US#~
+Wielkie otwarcie nowego sklepu jest w sobotę.",,,~#ttsA:en-US#~
 "północno-zachodni, północny zachód",northwest,"~#tts:nap:en-US{The company is expanding into the northwest region.}#~
 Firma rozszerza działalność na region północno-zachodni.",,,~#ttsA:en-US#~
 termometr,thermometer,"~#tts:nap:en-US{The thermometer shows it's 25 degrees Celsius.}#~
@@ -15009,7 +15019,7 @@ Byłem zachwycony, słysząc twoje dobre wieści.",,,~#ttsA:en-US#~
 "rajstop, rajstopy, rajtuzy",tights,"~#tts:nap:en-US{She wore black tights with her skirt.}#~
 Do spódnicy założyła czarne rajstopy.",,,~#ttsA:en-US#~
 hipis,hippie,"~#tts:nap:en-US{My uncle was a hippie in the 1960s.}#~
-W tamtych czasach nie mieliśmy telefonów komórkowych.",,,~#ttsA:en-US#~
+Mój wujek był hipisem w latach 60.",,,~#ttsA:en-US#~
 "mop, mopować",to mop,"~#tts:nap:en-US{I need to mop the floor; it's dirty.}#~
 Muszę umyć podłogę mopem; jest brudna.",,,~#ttsA:en-US#~
 "grillować, piec lub smażyć na grillu",to grill,"~#tts:nap:en-US{Let's grill some burgers for dinner.}#~
@@ -15373,7 +15383,7 @@ about to happen","~#tts:nap:en-US{Hurry up, the movie is about to start!}#~
 Pospiesz się, film zaraz się zacznie!",,,"~#ttsA:en-US#~
 ~#no-swap#~"
 dowód zakupu,proof of purchase,"~#tts:nap:en-US{You will need the proof of purchase to return the item.}#~
-Ten stary klucz jest całkowicie bezużyteczny.",,,~#ttsA:en-US#~
+Będziesz potrzebować dowodu zakupu, aby zwrócić przedmiot.",,,~#ttsA:en-US#~
 smoothie,smoothie,"~#tts:nap:en-US{I like to make a fruit smoothie for breakfast.}#~
 Lubię robić owocowe smoothie na śniadanie.",,,~#ttsA:en-US#~
 podręcznik,textbook,"~#tts:nap:en-US{Please open your textbook to page 50.}#~
@@ -15403,7 +15413,7 @@ Czy skończyłeś z zadaniem domowym?",,,~#ttsA:en-US#~
 "zdarzył się, zdarzył",there has been,"~#tts:nap:en-US{There has been an accident on the main road.}#~
 Na głównej drodze zdarzył się wypadek.",,,~#ttsA:en-US#~
 autor piosenek,songwriter,"~#tts:nap:en-US{She is a talented songwriter and musician.}#~
-Mój wujek był hipisem w latach 60.",,,~#ttsA:en-US#~
+Ona jest utalentowaną autorką piosenek i muzykiem.",,,~#ttsA:en-US#~
 jeśli chcesz,"If you like
 if you want","~#tts:nap:en-US{We can go to the park, if you like.}#~
 Możemy iść do parku, jeśli chcesz.",,,"~#ttsA:en-US#~
@@ -15954,7 +15964,7 @@ Dzieci bawią się na podwórku.",,,~#ttsA:en-US#~
 ateista,atheist,"~#tts:nap:en-US{As an atheist, he does not believe in God.}#~
 Jako ateista, nie wierzy w Boga.",,,~#ttsA:en-US#~
 bezużyteczny,useless,"~#tts:nap:en-US{This old key is completely useless.}#~
-Zdobyła złoty medal w zawodach.",,,~#ttsA:en-US#~
+Ten stary klucz jest całkowicie bezużyteczny.",,,~#ttsA:en-US#~
 "masaż
 
 masować","massage
@@ -15970,7 +15980,7 @@ Słucham podcastu w drodze do pracy.",,,~#ttsA:en-US#~
 spontaniczny,spontaneous,"~#tts:nap:en-US{We made a spontaneous decision to go to the beach.}#~
 Podjęliśmy spontaniczną decyzję o wyjeździe na plażę.",,,~#ttsA:en-US#~
 ratownik,lifeguard,"~#tts:nap:en-US{The lifeguard watched the swimmers carefully.}#~
-Jest utalentowaną autorką piosenek i muzykiem.",,,~#ttsA:en-US#~
+Ratownik uważnie obserwował pływających.",,,~#ttsA:en-US#~
 "kaszel
 
 kaszleć","cough
@@ -16083,6 +16093,10 @@ Smród ze śmieci był wstrętny.",,,~#ttsA:en-US#~
 Zadania tekstowe wymagają zrozumienia tekstu, zanim będzie można przystąpić do obliczeń.",,,~#ttsA:en-US#~
 doniczka,flowerpot,"~#tts:nap:en-US{She planted the seeds in a small flowerpot.}#~
 Zasadziła nasiona w małej doniczce.",,,~#ttsA:en-US#~
+kisiel,"kissel, thick fruit jelly","~#tts:nap:en-US{Strawberry kissel is a popular dessert in Poland.}#~
+Kisiel truskawkowy to popularny deser w Polsce.",,,~#ttsA:en-US#~
+budyń,"pudding, custard","~#tts:nap:en-US{I love eating warm chocolate pudding.}#~
+Uwielbiam jeść ciepły budyń czekoladowy.",,,~#ttsA:en-US#~
 #SHEETINFO | name=Phrasal Verbs,,,,,
 "pokazać się
 pojawić się, przyjść (często niespodziewanie)
