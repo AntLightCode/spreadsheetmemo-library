@@ -2744,7 +2744,7 @@ urok,charm,"~#tts:nap:en-US{magic, glamour}#~
 wybrukować,paved,"~#tts:nap:en-US{brick}#~
 
 ~#tts:nap:en-US{The road was paved with asphalt.}#~",,,~#ttsA:en-US#~
-"chodnik, przejście dla pieszych",walkway,"~#tts:nap:en-US{gallery, mall, sidewalk}#~
+"ciąg pieszy, przejście dla pieszych, ścieżka (ogólnie, niekoniecznie przy ulicy)",walkway,"~#tts:nap:en-US{sidewalk, pavement}#~
 
 ~#tts:nap:en-US{The walkway led to the beach.}#~",,,~#ttsA:en-US#~
 "pęczek, kiść",tuft,"~#tts:nap:en-US{clustering}#~

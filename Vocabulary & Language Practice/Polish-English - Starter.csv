@@ -428,7 +428,7 @@ Jej włosy są rude.",,,~#ttsA:en-US#~
 ~#tts:nap:en-US{I need to exercise more.}#~
 Muszę więcej ćwiczyć.",,,~#ttsA:en-US#~
 palec (u ręki),finger,"~#tts:nap:en-US{I cut my finger.}#~
-Pokroiłem palec.",,,~#ttsA:en-US#~
+Skaleczyłem się w palec.",,,~#ttsA:en-US#~
 stopa,foot,"~#tts:nap:en-US{My foot hurts.}#~
 Boli mnie stopa.",,,~#ttsA:en-US#~
 ręka,hand,"~#tts:nap:en-US{I shook his hand.}#~
@@ -1452,7 +1452,7 @@ Wirus szybko się rozprzestrzenia.",,,~#ttsA:en-US#~
 prezent,gift,"~#tts:nap:en-US{I received a gift for my birthday.}#~
 Otrzymałem prezent na urodziny.",,,~#ttsA:en-US#~
 zupa,soup,"~#tts:nap:en-US{I made chicken soup for dinner.}#~
-Zrobiłem na obiad zupę kurczątkową.",,,~#ttsA:en-US#~
+Zrobiłem na obiad zupę z kurczaka.",,,~#ttsA:en-US#~
 poszukiwać,to seek,"~#tts:nap:en-US{to search}#~
 
 ~#tts:nap:en-US{I am seeking a new job.}#~
@@ -1571,7 +1571,7 @@ ufać,to trust,"~#tts:nap:en-US{Trust no one. ➟ Nie ufaj nikomu.}#~
 ~#tts:nap:en-US{I trust her.}#~
 Ufam jej.",,,~#ttsA:en-US#~
 skrót,shortcut,"~#tts:nap:en-US{Do you know a shortcut to the city center?}#~
-Znasz jakąś skrótę do centrum miasta?",,,~#ttsA:en-US#~
+Znasz jakiś skrót do centrum miasta?",,,~#ttsA:en-US#~
 połowa,half,"~#tts:nap:en-US{I'll take half of the pizza.}#~
 Wezmę połowę pizzy.",,,~#ttsA:en-US#~
 tragedia,tragedy,"~#tts:nap:en-US{The tragedy shocked the nation.}#~
@@ -1667,7 +1667,7 @@ biały,white,"~#tts:nap:en-US{The snow is white.}#~
 jednorożec,unicorn,"~#tts:nap:en-US{Unicorns are mythical creatures.}#~
 Jednorożce są mitycznymi stworzeniami.",,,~#ttsA:en-US#~
 kłamać,to lie,"~#tts:nap:en-US{He is lying to me.}#~
-On kłamie mnie.",,,~#ttsA:en-US#~
+On mnie okłamuje.",,,~#ttsA:en-US#~
 pojazd,vehicle,"~#tts:nap:en-US{The vehicle is very old.}#~
 Pojazd jest bardzo stary.",,,~#ttsA:en-US#~
 "orzech
@@ -1746,7 +1746,7 @@ Medycyna jest potężnym narzędziem.",,,~#ttsA:en-US#~
 "kolorowy, kolorowa, kolorowe",colorful,"~#tts:nap:en-US{The picture is colorful.}#~
 Obraz jest kolorowy.",,,~#ttsA:en-US#~
 misja,mission,"~#tts:nap:en-US{The mission was a success.}#~
-Misja była sukcesem.",,,~#ttsA:en-US#~
+Misja zakończyła się sukcesem.",,,~#ttsA:en-US#~
 lotnisko,airport,"~#tts:nap:en-US{We arrived at the airport on time.}#~
 Dotarliśmy na lotnisko na czas.",,,~#ttsA:en-US#~
 nieśmiały,shy,"~#tts:nap:en-US{She is a very shy person.}#~
@@ -2058,8 +2058,9 @@ baza,base,"~#tts:nap:en-US{The base of the pyramid is square.}#~
 Podstawa piramidy jest kwadratowa.",,,~#ttsA:en-US#~
 nadzieja,hope,"~#tts:nap:en-US{I hope you have a good day.}#~
 Mam nadzieję, że będziesz miał dobry dzień.",,,~#ttsA:en-US#~
-"pojedynczy, jednoosobowy",single,"~#tts:nap:en-US{I am single.}#~
-Jestem samotny.",,,~#ttsA:en-US#~
+"pojedynczy, jednoosobowy
+wolny (o statusie związku)",single,"~#tts:nap:en-US{I am single.}#~
+Jestem singlem.",,,~#ttsA:en-US#~
 herbata,tea,"~#tts:nap:en-US{I would like a cup of tea, please.}#~
 Chciałbym filiżankę herbaty, proszę.",,,~#ttsA:en-US#~
 dziwny,strange,"~#tts:nap:en-US{weird}#~
@@ -2107,7 +2108,7 @@ Stół jest wykonany z drewna.",,,~#ttsA:en-US#~
 nie,no,"~#tts:nap:en-US{No, I don't want to go.}#~
 Nie, nie chcę iść.",,,~#ttsA:en-US#~
 przekąska,snack,"~#tts:nap:en-US{I had a snack between meals.}#~
-Miałem przekąskę między posiłkami.",,,~#ttsA:en-US#~
+Zjadłem przekąskę między posiłkami.",,,~#ttsA:en-US#~
 "wybierać, wskazywać",to select,"~#tts:nap:en-US{Please select your preferred payment method.}#~
 Proszę wybrać preferowaną metodę płatności.",,,~#ttsA:en-US#~
 junior,junior,"~#tts:nap:en-US{He is a junior developer on our team.}#~
@@ -2294,7 +2295,7 @@ Potrzebuję wiadra, aby przenosić wodę.",,,~#ttsA:en-US#~
 twarz,face,"~#tts:nap:en-US{She has a beautiful face.}#~
 Ma piękną twarz.",,,~#ttsA:en-US#~
 ropucha,toad,"~#tts:nap:en-US{Toads are amphibians.}#~
-Ropy są płazami.",,,~#ttsA:en-US#~
+Ropuchy są płazami.",,,~#ttsA:en-US#~
 schody,stairs,"~#tts:nap:en-US{staircase}#~
 
 ~#tts:nap:en-US{The stairs are very steep.}#~
@@ -4196,7 +4197,9 @@ bikini,bikini,"~#tts:nap:en-US{I am wearing a bikini.}#~
 Mam na sobie bikini.",,,~#ttsA:en-US#~
 kaptur,hood,"~#tts:nap:en-US{The hood of the jacket is up.}#~
 Kaptur kurtki jest podciągnięty.",,,~#ttsA:en-US#~
-strój kąpielowy,swimsuit,"~#tts:nap:en-US{I am wearing a swimsuit.}#~
+strój kąpielowy,swimsuit,"~#tts:nap:en-US{bathing suit}#~
+
+~#tts:nap:en-US{I am wearing a swimsuit.}#~
 Mam na sobie strój kąpielowy.",,,~#ttsA:en-US#~
 grzebień,comb,"~#tts:nap:en-US{I am combing my hair.}#~
 Czeszę włosy.",,,~#ttsA:en-US#~
@@ -4376,8 +4379,12 @@ pani pomagająca dzieciom przejść przez ulicę,lollipop lady,"~#tts:nap:en-US{
 Pani z lizakiem to osoba, która pomaga dzieciom przechodzić przez ulicę.",,,~#ttsA:en-US#~
 znak stopu,stop sign,"~#tts:nap:en-US{A stop sign tells drivers to stop.}#~
 Znak stop nakazuje kierowcom zatrzymanie się.",,,~#ttsA:en-US#~
-przejście dla pieszych,zebra crossing,"~#tts:nap:en-US{A zebra crossing is a place where pedestrians can cross the street.}#~
-Pas zebry to miejsce, gdzie piesi mogą przechodzić przez ulicę.",,,~#ttsA:en-US#~
+przejście dla pieszych,"~#tts:en-GB{zebra crossing}#~ (GB)
+~#tts:en-US{crosswalk}#~ (US)","~#tts:nap:en-GB{A zebra crossing is a place where pedestrians can cross the street.}#~
+Pasy to miejsce, gdzie piesi mogą przechodzić przez ulicę.
+
+~#tts:nap:en-US{I used the crosswalk to cross the street.}#~
+Przechodziłem przez ulicę na pasach.",,,~#no-swap#~
 rondo,roundabout,"~#tts:nap:en-US{A roundabout is a circular intersection.}#~
 Rondo jest kołowym skrzyżowaniem.",,,~#ttsA:en-US#~
 "skrzyżowanie dróg",crossroad,"~#tts:nap:en-US{A crossroad is a place where two roads cross.}#~
@@ -4386,8 +4393,12 @@ kask,helmet,"~#tts:nap:en-US{A helmet is worn to protect your head.}#~
 Kask służy do ochrony głowy.",,,~#ttsA:en-US#~
 ścieżka rowerowa,bicycle path,"~#tts:nap:en-US{A bicycle path is a path for bicycles.}#~
 Droga rowerowa to ścieżka dla rowerów.",,,~#ttsA:en-US#~
-sklep z zabawkami,toy shop,"~#tts:nap:en-US{A toy shop sells toys.}#~
-Sklep z zabawkami sprzedaje zabawki.",,,~#ttsA:en-US#~
+sklep z zabawkami,"~#tts:en-GB{toy shop}#~ (GB)
+~#tts:en-US{toy store}#~ (US)","~#tts:nap:en-GB{A toy shop sells toys.}#~
+Sklep z zabawkami sprzedaje zabawki.
+
+~#tts:nap:en-US{I need to go to the toy store to buy a birthday present.}#~
+Muszę iść do sklepu z zabawkami, żeby kupić prezent urodzinowy.",,,~#no-swap#~
 korek samochodowy (zablokowana droga przez inne samochody),traffic jam,"~#tts:nap:en-US{There was a traffic jam on the highway.}#~
 Na autostradzie był korek.",,,~#ttsA:en-US#~
 Tu jest (poczta).,There's a (post office).,,,,"~#ttsA:en-US#~
@@ -6365,7 +6376,7 @@ tusk","~#tts:nap:en-US{The elephant has large tusks.}#~
 Słoń ma duże kły.",,,"~#ttsA:en-US#~
 ~#no-swap#~"
 szerszeń,hornet,"~#tts:nap:en-US{The hornet is a dangerous insect.}#~
-Szerszeń jest niebezpiecznym owadzie.",,,~#ttsA:en-US#~
+Szerszeń jest niebezpiecznym owadem.",,,~#ttsA:en-US#~
 drabina,ladder,"~#tts:nap:en-US{I used a ladder to reach the roof.}#~
 Użyłem drabiny, aby dotrzeć na dach.",,,~#ttsA:en-US#~
 "zemsta, odwet",revenge,"~#tts:nap:en-US{He wants revenge for what they did to him.}#~
@@ -8766,9 +8777,6 @@ więź,bond,"~#tts:nap:en-US{They have a strong bond.}#~
 Mają silną więź.",,,~#ttsA:en-US#~
 raz,once,"~#tts:nap:en-US{I saw her once.}#~
 Widziałem ją raz.",,,~#ttsA:en-US#~
-"przejście dla pieszych
-chodnik",crosswalk,"~#tts:nap:en-US{I used the crosswalk to cross the street.}#~
-Przechodziłem przez ulicę na pasach.",,,~#ttsA:en-US#~
 przewidywać,to predict,"~#tts:nap:en-US{He predicted that the team would win.}#~
 Przewidywał, że drużyna wygra.",,,~#ttsA:en-US#~
 płynąć,to flow,"~#tts:nap:en-US{The river flows into the sea.}#~
@@ -9340,7 +9348,7 @@ Rodzynki to suszone winogrona.",,,~#ttsA:en-US#~
 ogrzewanie,heating,"~#tts:nap:en-US{The heating is broken.}#~
 Ogrzewanie jest zepsute.",,,~#ttsA:en-US#~
 kawior,caviar,"~#tts:nap:en-US{Caviar is expensive fish eggs.}#~
-Kawior to drogie ikry ryb.",,,~#ttsA:en-US#~
+Kawior to droga rybia ikra.",,,~#ttsA:en-US#~
 czajniczek do parzenia herbaty,teapot,"~#tts:nap:en-US{A teapot is used for making tea.}#~
 Czajnik służy do robienia herbaty.",,,~#ttsA:en-US#~
 sanki,"sledge
@@ -9397,7 +9405,7 @@ krewetka,"~#tts:en-GB{prawn}#~ (GB)
 ~#tts:en-US{shrimp}#~ (US)","~#tts:nap:en-US{Shrimp is a seafood.}#~
 Krewetka jest owocem morza.",,,~#no-swap#~
 maszynka do mielenia mięsa,meat mincer,"~#tts:nap:en-US{A meat mincer is used to grind meat.}#~
-Młynarka do mięsa służy do mielenia mięsa.",,,~#ttsA:en-US#~
+Maszynka do mięsa służy do mielenia mięsa.",,,~#ttsA:en-US#~
 gepard,cheetah,"~#tts:nap:en-US{Cheetahs are the fastest land animals.}#~
 Gepardy są najszybszymi zwierzętami lądowymi.",,,~#ttsA:en-US#~
 fosa,moat,"~#tts:nap:en-US{A moat is a deep ditch around a castle.}#~
@@ -9942,10 +9950,10 @@ niech spoczywa w pokoju",RIP,"~#tts:nap:en-US{rest in peace}#~
 
 ~#tts:nap:en-US{Rest in peace.}#~
 Spoczywaj w pokoju.",,,~#ttsA:en-US#~
-szabla,sabre,"~#tts:nap:en-US{tygrys szablozębny}#~ ➟ sabre-tooth
+szabla,sabre,"~#tts:nap:en-US{sabre-tooth}#~ ➟ tygrys szablozębny
 
 ~#tts:nap:en-US{The soldier is carrying a sabre.}#~
-Żołnierz nosi szabrę.",,,~#ttsA:en-US#~
+Żołnierz nosi szablę.",,,~#ttsA:en-US#~
 próżnia,vacuum,"~#tts:nap:en-US{The vacuum is very powerful.}#~
 Odkurzacz jest bardzo wydajny.",,,~#ttsA:en-US#~
 pchać,to push,"~#tts:nap:en-US{Push the door open.}#~
@@ -10022,7 +10030,7 @@ wokół,around,"~#tts:nap:en-US{They sat around the campfire.}#~
 Siedzieli wokół ogniska.",,,~#ttsA:en-US#~
 "świetlik
 robaczek świętojański",firefly,"~#tts:nap:en-US{The firefly is a beautiful insect that glows in the dark.}#~
-Świetlik jest pięknym owadzie, który świeci w ciemności.",,,~#ttsA:en-US#~
+Świetlik jest pięknym owadem, który świeci w ciemności.",,,~#ttsA:en-US#~
 "pacjent
 cierpliwy",patient,"~#tts:nap:en-US{He is a very patient person.}#~
 Jest bardzo cierpliwą osobą.",,,~#ttsA:en-US#~
@@ -10646,7 +10654,7 @@ Jego wiedza jest ograniczona.",,,~#ttsA:en-US#~
 dzbanek,jug,"~#tts:nap:en-US{A jug is a container used for storing liquids.}#~
 Dzbanek służy do przechowywania płynów.",,,~#ttsA:en-US#~
 talia,waist,"~#tts:nap:en-US{My waist is small.}#~
-Mam mały talia.",,,~#ttsA:en-US#~
+Mam małą talię.",,,~#ttsA:en-US#~
 łata,patch,"~#tts:nap:en-US{I need a patch to fix my clothes.}#~
 Potrzebuję łatki, aby naprawić ubrania.",,,~#ttsA:en-US#~
 "krytyczny, istotny, decydujący",critical,"~#tts:nap:en-US{The situation is critical.}#~
@@ -10972,7 +10980,7 @@ Scena w parku była piękna.",,,~#ttsA:en-US#~
 ~#tts:nap:en-US{I assessed the situation.}#~
 Oceniłem sytuację.",,,~#ttsA:en-US#~
 wyrzynarka,jigsaw,"~#tts:nap:en-US{A jigsaw is used to cut wood into shapes.}#~
-Wycinarka służy do wycinania drewna w kształty.",,,~#ttsA:en-US#~
+Wyrzynarka służy do wycinania drewna w kształty.",,,~#ttsA:en-US#~
 grejpfrut,grapefruit,"~#tts:nap:en-US{Grapefruits are large, citrus fruits.}#~
 Grejpfruty to duże owoce cytrusowe.",,,~#ttsA:en-US#~
 terytorium,territory,"~#tts:nap:en-US{The territory is very large.}#~
@@ -11730,7 +11738,7 @@ To jest mój własny dom.",,,~#ttsA:en-US#~
 bezpośrednio,directly,"~#tts:nap:en-US{He went directly to the point.}#~
 Poszedł bezpośrednio do sedna sprawy.",,,~#ttsA:en-US#~
 agrest,gooseberry,"~#tts:nap:en-US{Gooseberries are small, round fruits.}#~
-Agrest są małe, okrągłe owoce.",,,~#ttsA:en-US#~
+Agrest to małe, okrągłe owoce.",,,~#ttsA:en-US#~
 "solidny, trwały, mocny",solid,"~#tts:nap:en-US{robust}#~
 
 ~#tts:nap:en-US{The table is made of solid wood.}#~
@@ -11822,8 +11830,8 @@ satelita,satellite,"~#tts:nap:en-US{The satellite is orbiting the Earth.}#~
 Satelita krąży wokół Ziemi.",,,~#ttsA:en-US#~
 pomidorki koktajlowe,cherry tomato,"~#tts:nap:en-US{Cherry tomatoes are small, round tomatoes.}#~
 Pomidorki cherry są małe, okrągłe pomidory.",,,~#ttsA:en-US#~
-zapowiedź,announce,"~#tts:nap:en-US{The government announced a new policy.}#~
-Rząd ogłosił nową politykę.",,,~#ttsA:en-US#~
+"ogłoszenie, komunikat",announcement,"~#tts:nap:en-US{The principal made an announcement over the intercom.}#~
+Dyrektor wydał ogłoszenie przez radiowęzeł.",,,~#ttsA:en-US#~
 fortuna,fortune,"~#tts:nap:en-US{He made a fortune selling his company.}#~
 Zrobił fortunę sprzedając swoją firmę.",,,~#ttsA:en-US#~
 ultramaryna,ultramarine,"~#tts:nap:en-US{Ultramarine is a color.}#~
@@ -12041,7 +12049,9 @@ szacować,to estimate,"~#tts:nap:en-US{We estimate that the cost will be around 
 Szacujemy, że koszt będzie wynosił około 500 dolarów.",,,~#ttsA:en-US#~
 model,model,"~#tts:nap:en-US{She is a fashion model.}#~
 Jest modelką.",,,~#ttsA:en-US#~
-słupy,poles,"~#tts:nap:en-US{I used poles to help me climb the mountain.}#~
+"kijki trekkingowe
+
+słupy",poles,"~#tts:nap:en-US{I used poles to help me climb the mountain.}#~
 Użyłem kijków, aby pomóc mi wspiąć się na górę.",,,~#ttsA:en-US#~
 imigracja,immigration,"~#tts:nap:en-US{Immigration is a complex issue.}#~
 Imigracja jest złożonym problemem.",,,~#ttsA:en-US#~
@@ -12455,7 +12465,7 @@ USB,USB - Universal Serial Bus,"~#tts:nap:en-US{USB (Universal Serial Bus) is a 
 USB (Uniwersalna Magistrala Szeregowa) to standard służący do podłączania urządzeń, takich jak klawiatury, myszki, dyski przenośne i inne peryferia, do komputerów lub innych urządzeń. Umożliwia przesyłanie danych i zasilanie urządzeń.",,,"~#ttsA:en-US#~
 ~#no-swap#~"
 otwieracz do butelek,bottle opener,"~#tts:nap:en-US{A bottle opener is used to open bottles.}#~
-Otwaracz do butelek służy do otwierania butelek.",,,~#ttsA:en-US#~
+Otwieracz do butelek służy do otwierania butelek.",,,~#ttsA:en-US#~
 karuzela bagażowa,baggage carousel,"~#tts:nap:en-US{The baggage carousel is moving slowly.}#~
 Taśma bagażowa porusza się powoli.",,,~#ttsA:en-US#~
 ważyć,weigh,"~#tts:nap:en-US{I weigh 70 kg.}#~
@@ -12514,7 +12524,7 @@ Przyniósł mi prezent.",,,~#ttsA:en-US#~
 warunek,condition,"~#tts:nap:en-US{His condition is improving.}#~
 Jego stan się poprawia.",,,~#ttsA:en-US#~
 słuchawka prysznicowa,shower head,"~#tts:nap:en-US{A shower head is used to control the flow of water in a shower.}#~
-Natrysk służy do kontrolowania przepływu wody w prysznicu.",,,~#ttsA:en-US#~
+Słuchawka prysznicowa służy do kontrolowania przepływu wody w prysznicu.",,,~#ttsA:en-US#~
 rozdzielać,to distribute,"~#tts:nap:en-US{They distributed food to the victims of the disaster.}#~
 Rozdali żywność ofiarom katastrofy.",,,~#ttsA:en-US#~
 żurawina,cranberry,"~#tts:nap:en-US{Cranberry juice is very healthy.}#~
@@ -13017,7 +13027,7 @@ Przemysł turystyczny jest ważny dla gospodarki.",,,~#ttsA:en-US#~
 już,already,"~#tts:nap:en-US{I've already eaten.}#~
 Już zjadłem.",,,~#ttsA:en-US#~
 klucz do rur,pipe wrench,"~#tts:nap:en-US{A pipe wrench is used to tighten and loosen pipes.}#~
-Klucz rurkowy służy do dokręcania i odkręcania rur.",,,~#ttsA:en-US#~
+Klucz hydrauliczny (do rur) służy do dokręcania i odkręcania rur.",,,~#ttsA:en-US#~
 trampki,sneakers,"~#tts:nap:en-US{I am wearing sneakers.}#~
 Mam na sobie buty sportowe.",,,~#ttsA:en-US#~
 "ukończyć, zakończyć coś",to complete,"~#tts:nap:en-US{He completed the task on time.}#~
@@ -13369,7 +13379,7 @@ Sztandar jest bardzo wysoki.",,,~#ttsA:en-US#~
 materia,matter,"~#tts:nap:en-US{It doesn't matter to me.}#~
 Nie ma to dla mnie znaczenia.",,,~#ttsA:en-US#~
 zmiana biegów,gear shift,"~#tts:nap:en-US{The gear shift is broken.}#~
-Lewer zmiany biegów jest zepsuty.",,,~#ttsA:en-US#~
+Drążek zmiany biegów jest zepsuty.",,,~#ttsA:en-US#~
 "pomoc, wsparcie
 środek wspomagający",aid,"~#tts:nap:en-US{assistance}#~
 
@@ -13451,7 +13461,7 @@ Polityka rządu dotycząca imigracji jest kontrowersyjna.",,,~#ttsA:en-US#~
 ponadto,furthermore,"~#tts:nap:en-US{Furthermore, we need to consider this factor.}#~
 Ponadto musimy uwzględnić ten czynnik.",,,~#ttsA:en-US#~
 czerwona porzeczka,redcurrant,"~#tts:nap:en-US{Redcurrants are small, red fruits.}#~
-Porzeczki czerwone są małe, czerwone owoce.",,,~#ttsA:en-US#~
+Porzeczki czerwone to małe, czerwone owoce.",,,~#ttsA:en-US#~
 western,western,"~#tts:nap:en-US{I like watching western movies.}#~
 Lubię oglądać westerny.",,,~#ttsA:en-US#~
 "płeć
@@ -13765,7 +13775,7 @@ Jego technika jest bardzo dobra.",,,~#ttsA:en-US#~
 ~#tts:nap:en-US{The circumstances forced him to leave.}#~
 Okoliczności zmusiły go do wyjazdu.",,,~#ttsA:en-US#~
 udawać,to pretend,"~#tts:nap:en-US{He is pretending to be sick.}#~
-Udawanie, że jest chory.",,,~#ttsA:en-US#~
+Udaje, że jest chory.",,,~#ttsA:en-US#~
 rozprzestrzeniać,to spread,"~#tts:nap:en-US{The fire spread quickly through the forest.}#~
 Ogień szybko rozprzestrzenił się po lesie.",,,~#ttsA:en-US#~
 "bodziec, motywacja, zachęta do działania",incentive,"~#tts:nap:en-US{The incentive for working hard is a raise.}#~
@@ -13798,7 +13808,7 @@ hipoteza,hypothesis,"~#tts:nap:en-US{The hypothesis was proven wrong.}#~
 Hipoteza okazała się błędna.",,,~#ttsA:en-US#~
 "korkociąg
 narzędzie do wyciągania korków z butelek",corkscrew,"~#tts:nap:en-US{A corkscrew is used to open wine bottles.}#~
-Otwaracz do butelek służy do otwierania butelek wina.",,,~#ttsA:en-US#~
+Korkociąg służy do otwierania butelek wina.",,,~#ttsA:en-US#~
 energia,energy,"~#tts:nap:en-US{We need to find new sources of energy.}#~
 Musimy znaleźć nowe źródła energii.",,,~#ttsA:en-US#~
 atrakcyjny,attractive,"~#tts:nap:en-US{She is attractive.}#~
@@ -14296,7 +14306,7 @@ Aby skutecznie uczyć się z fiszek, należy systematycznie używać aplikacji S
 
 ~#tts:nap:en-US{An angry mob gathered outside the courthouse.}#~
 Wściekły tłum zebrał się przed budynkiem sądu.",,,~#ttsA:en-US#~
-chodnik,sidewalk,"~#tts:nap:en-US{gallery, mall, walkway}#~
+chodnik wzdłuż ulicy,sidewalk,"~#tts:nap:en-US{walkway, pavement}#~
 
 ~#tts:nap:en-US{You should always walk on the sidewalk, not in the street.}#~
 Zawsze powinieneś chodzić po chodniku, a nie po ulicy.",,,~#ttsA:en-US#~
@@ -14933,8 +14943,12 @@ strona internetowa,website,"~#tts:nap:en-US{You can find more information on our
 Więcej informacji można znaleźć na naszej oficjalnej stronie internetowej.",,,~#ttsA:en-US#~
 zasnąć,to fall asleep,"~#tts:nap:en-US{I couldn't fall asleep last night.}#~
 Nie mogłem zasnąć zeszłej nocy.",,,~#ttsA:en-US#~
-"zadowolić, spełnić (wymagania, potrzeby, oczekiwania)",to satisfy,"~#tts:nap:en-US{The meal did not satisfy my hunger.}#~
-Posiłek nie zaspokoił mojego głodu.",,,~#ttsA:en-US#~
+"zadowolić, satysfakcjonować
+spełnić (wymagania, potrzeby, oczekiwania)",to satisfy,"~#tts:nap:en-US{The meal did not satisfy my hunger.}#~
+Posiłek nie zaspokoił mojego głodu.
+
+~#tts:nap:en-US{I was satisfied with the meal.}#~
+Byłem zadowolony z posiłku.",,,~#ttsA:en-US#~
 burza z piorunami,thunderstorm,"~#tts:nap:en-US{The thunderstorm was so loud it woke me up.}#~
 Burza z piorunami była tak głośna, że mnie obudziła.",,,~#ttsA:en-US#~
 ubezpieczenie zdrowotne,health insurance,"~#tts:nap:en-US{My company provides good health insurance.}#~
@@ -15398,7 +15412,7 @@ bukiet,bouquet,"~#tts:nap:en-US{He gave her a beautiful bouquet of roses.}#~
 Podarował jej piękny bukiet róż.",,,~#ttsA:en-US#~
 przed snem,before bed,"~#tts:nap:en-US{I always read a book for a few minutes before bed.}#~
 Zawsze czytam książkę przez kilka minut przed snem.",,,~#ttsA:en-US#~
-warzywnym ogrodzie,vegetable garden,"~#tts:nap:en-US{We grow our own tomatoes in our vegetable garden.}#~
+ogród warzywny,vegetable garden,"~#tts:nap:en-US{We grow our own tomatoes in our vegetable garden.}#~
 Uprawiamy własne pomidory w naszym ogrodzie warzywnym.",,,~#ttsA:en-US#~
 niedługo,sometime soon,"~#tts:nap:en-US{Let's meet up for coffee sometime soon.}#~
 Spotkajmy się na kawie niedługo.",,,~#ttsA:en-US#~
@@ -15791,8 +15805,6 @@ prawo jazdy,driver's license,"~#tts:nap:en-US{I finally got my driver's license.
 W końcu dostałem prawo jazdy.",,,~#ttsA:en-US#~
 synagoga,synagogue,"~#tts:nap:en-US{The family goes to the synagogue every Saturday.}#~
 Rodzina chodzi do synagogi w każdą sobotę.",,,~#ttsA:en-US#~
-sklepu z zabawkami,toy store,"~#tts:nap:en-US{I need to go to the toy store to buy a birthday present.}#~
-Muszę iść do sklepu z zabawkami, żeby kupić prezent urodzinowy.",,,~#ttsA:en-US#~
 "serek kanapkowy, serek śmietankowy",cream cheese,"~#tts:nap:en-US{I like to eat a bagel with cream cheese.}#~
 Lubię jeść bajgla z serkiem śmietankowym.",,,~#ttsA:en-US#~
 "miałbym, miałaby, mielibyśmy",would have had,"~#tts:nap:en-US{If I had known, I would have had more time to prepare.}#~
@@ -15805,7 +15817,7 @@ napisy (na ekranie w filmach lub programach),subtitles,"~#tts:nap:en-US{I prefer
 Wolę oglądać zagraniczne filmy z napisami.",,,~#ttsA:en-US#~
 biedactwo,poor thing,"~#tts:nap:en-US{The little kitten was lost. Poor thing!}#~
 Mały kotek się zgubił. Biedactwo!",,,~#ttsA:en-US#~
-"prognoza pogody, prognozie",forecast,"~#tts:nap:en-US{The weather forecast for tomorrow is sunny.}#~
+prognoza pogody,forecast,"~#tts:nap:en-US{The weather forecast for tomorrow is sunny.}#~
 Prognoza pogody na jutro jest słoneczna.",,,~#ttsA:en-US#~
 wychowanie,upbringing,"~#tts:nap:en-US{He had a very strict upbringing.}#~
 Miał bardzo surowe wychowanie.",,,~#ttsA:en-US#~
@@ -15827,7 +15839,7 @@ Proszę włączyć mikrofon, gdy chcesz mówić.",,,~#ttsA:en-US#~
 Chodźmy na spacer, a potem możemy pójść na lody.",,,~#ttsA:en-US#~
 "choć, chociaż, mimo, że",even though,"~#tts:nap:en-US{He went to work even though he was sick.}#~
 Poszedł do pracy, mimo że był chory.",,,~#ttsA:en-US#~
-służba w ławie przysięgły,jury duty,"~#tts:nap:en-US{I have been called for jury duty next week.}#~
+służba w ławie przysięgłych,jury duty,"~#tts:nap:en-US{I have been called for jury duty next week.}#~
 W przyszłym tygodniu zostałem wezwany do pełnienia służby w ławie przysięgłych.",,,~#ttsA:en-US#~
 "w końcu, mimo wszystko, jednak",after all,"~#tts:nap:en-US{I decided to go to the party after all.}#~
 Mimo wszystko zdecydowałem się iść na imprezę.",,,~#ttsA:en-US#~
@@ -16002,7 +16014,7 @@ Powinieneś zarezerwować bilety z wyprzedzeniem.",,,~#ttsA:en-US#~
 południowy wschód,southeast,"~#tts:nap:en-US{The storm is moving towards the southeast.}#~
 Burza przesuwa się w kierunku południowo-wschodnim.",,,~#ttsA:en-US#~
 "Do jutra.
-So zobaczenia jutro.",See you tomorrow.,"~#tts:nap:en-US{Goodbye, see you tomorrow!}#~
+Do zobaczenia jutro.",See you tomorrow.,"~#tts:nap:en-US{Goodbye, see you tomorrow!}#~
 Do widzenia, do jutra!",,,~#ttsA:en-US#~
 od tej pory,from now on,"~#tts:nap:en-US{From now on, I will exercise every day.}#~
 Od tej pory będę ćwiczyć każdego dnia.",,,~#ttsA:en-US#~
@@ -16032,13 +16044,13 @@ biografia,biography,"~#tts:nap:en-US{I'm reading a biography of Marie Curie.}#~
 Czytam biografię Marii Curie.",,,~#ttsA:en-US#~
 brelok do kluczy,keychain,"~#tts:nap:en-US{I have a small Eiffel Tower on my keychain.}#~
 Na moim breloku mam małą wieżę Eiffla.",,,~#ttsA:en-US#~
-"stroju kąpielowym, stroju kąpielowego, strój kąpielowy",bathing suit,"~#tts:nap:en-US{I forgot to pack my bathing suit.}#~
+"strój kąpielowy",bathing suit,"~#tts:nap:en-US{I forgot to pack my bathing suit.}#~
 Zapomniałem spakować mój strój kąpielowy.",,,~#ttsA:en-US#~
 wilgotny,humid,"~#tts:nap:en-US{The air is very hot and humid today.}#~
 Powietrze jest dziś bardzo gorące i wilgotne.",,,~#ttsA:en-US#~
 baraż,playoff,"~#tts:nap:en-US{Our team made it to the playoffs.}#~
 Nasza drużyna dostała się do baraży.",,,~#ttsA:en-US#~
-"media społecznościowe, social media",social media,"~#tts:nap:en-US{He spends too much time on social media.}#~
+"media społecznościowe",social media,"~#tts:nap:en-US{He spends too much time on social media.}#~
 On spędza za dużo czasu w mediach społecznościowych.",,,~#ttsA:en-US#~
 "zgubić się
 w potocznym użyciu: spadaj, wynoś się","to get lost
