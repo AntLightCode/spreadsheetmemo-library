@@ -3,40 +3,40 @@ What is a polygon?,"A part of a plane bounded by a simple closed polygonal chain
 What do we call the endpoints of the sides of a polygon?,The vertices of the polygon.,,,
 What are the interior angles of a polygon?,The angles formed between adjacent sides of a polygon.,,,
 What do we call the angles between consecutive sides of a polygon?,Interior angles.,,,
-"What is the name of a polygon that has all sides of equal length and all angles of equal measure?",A regular polygon.,,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Regular_polygons_qtl1.svg/2560px-Regular_polygons_qtl1.svg.png
+What is the name of a polygon that has all sides of equal length and all angles of equal measure?,A regular polygon.,,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Regular_polygons_qtl1.svg/2560px-Regular_polygons_qtl1.svg.png
 What is the perimeter of a polygon?,The sum of the lengths of all its sides.,,,
 "How many sides, angles, and vertices does a heptagon have?",7,,,
 How many diagonals does a quadrilateral have?,2,,,
 "Calculate the perimeter of a triangle with side lengths of 4 cm, 5 cm, and 6 cm",15 cm,,,
 Calculate the perimeter of a square with a side of 7 cm,28 cm,,,
 What is the perimeter of a regular pentagon with a side length of 6 cm?,30 cm,,,
-"Give an example of a quadrilateral that is a regular polygon.",A square,,,
+Give an example of a quadrilateral that is a regular polygon.,A square,,,
 How many diagonals can be drawn from a single vertex in a hexagon?,3,,,
 Calculate the perimeter of a rectangle with sides of 5 cm and 8 cm,26 cm,,,
-"What do we call a line segment connecting two vertices of a polygon that is not a side?",A diagonal.,,,
-What are the sides of a polygon?,"The line segments that form the closed polygonal chain bounding the polygon.",,,
-"What do we call the segments that make up the closed polygonal chain of a polygon?",Sides.,,,
-What are the vertices of a polygon?,"The points where the sides of a polygon meet.",,,
+What do we call a line segment connecting two vertices of a polygon that is not a side?,A diagonal.,,,
+What are the sides of a polygon?,The line segments that form the closed polygonal chain bounding the polygon.,,,
+What do we call the segments that make up the closed polygonal chain of a polygon?,Sides.,,,
+What are the vertices of a polygon?,The points where the sides of a polygon meet.,,,
 "What is the sum of the interior angles of any quadrilateral (e.g., square, rectangle, rhombus)?",360°,,,
 ,,,,
 What is the sum of the interior angles of any triangle?,180°,,,
-"What do we call a parallelogram that has all sides of equal length?",A rhombus.,,,
+What do we call a parallelogram that has all sides of equal length?,A rhombus.,,,
 ,,,,
-"What do we call a triangle that has all sides of different lengths?",A scalene triangle.,,,
-"What do we call a triangle that has at least two sides of equal length?",An isosceles triangle.,,,
-"What do we call a triangle that has all sides of equal length?",An equilateral triangle.,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Equilateral_Triangle.svg/2560px-Equilateral_Triangle.svg.png
+What do we call a triangle that has all sides of different lengths?,A scalene triangle.,,,
+What do we call a triangle that has at least two sides of equal length?,An isosceles triangle.,,,
+What do we call a triangle that has all sides of equal length?,An equilateral triangle.,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Equilateral_Triangle.svg/2560px-Equilateral_Triangle.svg.png
 What are the characteristics of an equilateral triangle?,All its sides are equal in length and all its interior angles have the same measure.,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Equilateral_Triangle.svg/2560px-Equilateral_Triangle.svg.png
 Are the base angles in an isosceles triangle equal?,Yes.,,,https://upload.wikimedia.org/wikipedia/commons/1/14/Triangle.Isosceles.svg
 What is the measure of each interior angle in an equilateral triangle?,60°,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Equilateral_Triangle.svg/2560px-Equilateral_Triangle.svg.png
 ,,,,
-"What do we call a triangle where all interior angles are acute?",An acute triangle.,,,"https://upload.wikimedia.org/wikipedia/commons/e/ed/Triangle.Acute.svg"
-What are the characteristics of an acute triangle?,All of its interior angles are acute (less than 90°).,,,"https://upload.wikimedia.org/wikipedia/commons/e/ed/Triangle.Acute.svg"
-"What do we call a triangle in which one of the angles is a right angle?",A right triangle.,,,"https://upload.wikimedia.org/wikipedia/commons/7/72/Triangle.Right.svg"
-What are the characteristics of a right triangle?,One of its interior angles is a right angle (90°).,,,"https://upload.wikimedia.org/wikipedia/commons/7/72/Triangle.Right.svg"
+What do we call a triangle where all interior angles are acute?,An acute triangle.,,,https://upload.wikimedia.org/wikipedia/commons/e/ed/Triangle.Acute.svg
+What are the characteristics of an acute triangle?,All of its interior angles are acute (less than 90°).,,,https://upload.wikimedia.org/wikipedia/commons/e/ed/Triangle.Acute.svg
+What do we call a triangle in which one of the angles is a right angle?,A right triangle.,,,https://upload.wikimedia.org/wikipedia/commons/7/72/Triangle.Right.svg
+What are the characteristics of a right triangle?,One of its interior angles is a right angle (90°).,,,https://upload.wikimedia.org/wikipedia/commons/7/72/Triangle.Right.svg
 What do we call the sides forming the right angle in a right triangle?,Legs.,,,https://upload.wikimedia.org/wikipedia/commons/7/72/Triangle.Right.svg
 What do we call the side opposite the right angle in a right triangle?,The hypotenuse.,,,https://upload.wikimedia.org/wikipedia/commons/7/72/Triangle.Right.svg
-"What do we call a triangle that has one obtuse interior angle?",An obtuse triangle.,,,"https://upload.wikimedia.org/wikipedia/commons/0/05/Triangle.Obtuse.svg"
-What are the characteristics of an obtuse triangle?,One of its interior angles is obtuse (greater than 90°).,,,"https://upload.wikimedia.org/wikipedia/commons/0/05/Triangle.Obtuse.svg"
+What do we call a triangle that has one obtuse interior angle?,An obtuse triangle.,,,https://upload.wikimedia.org/wikipedia/commons/0/05/Triangle.Obtuse.svg
+What are the characteristics of an obtuse triangle?,One of its interior angles is obtuse (greater than 90°).,,,https://upload.wikimedia.org/wikipedia/commons/0/05/Triangle.Obtuse.svg
 Can a triangle have two right angles?,"No, it can only have one right angle.",,,
 Can a triangle have two obtuse angles?,"No, it can only have one obtuse angle.",,,
 "A triangle has angles measuring 40°, 60°, and 80°. What type of triangle is it based on its angles?",An acute triangle,,,
@@ -45,13 +45,13 @@ Is every equilateral triangle an acute triangle?,"Yes, because all of its angles
 ,,,,
 Describe what vertical angles are.,They are a pair of non-adjacent angles with equal measures formed by two intersecting lines.,,,
 Describe what a linear pair of angles is.,"They are adjacent angles whose non-common sides form a straight line, summing to 180°.",α + β = 180°,,
-Describe what corresponding angles are.,"They are a pair of angles in the same relative position at each intersection where a straight line (transversal) crosses two others.","If the two lines are parallel, then the corresponding angles are equal.
+Describe what corresponding angles are.,They are a pair of angles in the same relative position at each intersection where a straight line (transversal) crosses two others.,"If the two lines are parallel, then the corresponding angles are equal.
 
 If the lines are not parallel, the corresponding angles have different measures.",,
-Describe what alternate interior angles are.,"They are a pair of angles on opposite sides of the transversal and between the two lines.","If the two lines are parallel, then the alternate angles are equal.
+Describe what alternate interior angles are.,They are a pair of angles on opposite sides of the transversal and between the two lines.,"If the two lines are parallel, then the alternate angles are equal.
 If the lines are not parallel, the alternate angles have different measures.",,
 ,,,,
-"What condition must the lengths of three segments meet to form a triangle?",The sum of the lengths of the two shorter segments must be greater than the length of the longest segment.,,,
+What condition must the lengths of three segments meet to form a triangle?,The sum of the lengths of the two shorter segments must be greater than the length of the longest segment.,,,
 "Does a triangle with sides 4 cm, 9 cm, and 4 cm exist?",No (because 4 + 4 < 9),,,
 "Can a triangle be built from segments of lengths 2 cm, 6 cm, and 3 cm?","No, because 2 + 3 < 6",,,
 "Can a triangle be built from segments of lengths 3 cm, 4 cm, and 5 cm?","Yes, because 3 + 4 > 5",,,
@@ -60,22 +60,22 @@ If the lines are not parallel, the alternate angles have different measures.",,
 ,,,,
 What is the sum of the angles adjacent to the same leg in any trapezoid?,180°,,,
 What are the properties of an isosceles trapezoid?,It has equal legs and equal angles at each base.,,,
-"What condition must a trapezoid meet to be a right trapezoid?",It must have at least one right angle (in practice it has two at one leg).,,,
-"What do we call a quadrilateral that has two pairs of parallel sides?",A parallelogram.,,,
+What condition must a trapezoid meet to be a right trapezoid?,It must have at least one right angle (in practice it has two at one leg).,,,
+What do we call a quadrilateral that has two pairs of parallel sides?,A parallelogram.,,,
 ,,,,
 Two angles in a triangle measure 50° and 70°. What is the measure of the third angle?,60°,,,
 What is the measure of an interior angle in a square or a rectangle?,90°,,,
-In a parallelogram, an acute angle measures 60°. What is the measure of the adjacent obtuse angle?,120°,,,
+In a parallelogram, an acute angle measures 60°. What is the measure of the adjacent obtuse angle?,120°,,
 One of the acute angles in a right triangle is 20°. What is the measure of the other acute angle?,70°,,,
-In an isosceles triangle, the angle between the legs is 100°. What are the measures of the base angles?,40° each,,,
-In an isosceles triangle, one of the base angles is 55°. What is the measure of the angle between the legs?,70°,,,
-In a parallelogram, an acute angle is 50°. What is the measure of the obtuse angle on the same side?,130°,,,
+In an isosceles triangle, the angle between the legs is 100°. What are the measures of the base angles?,40° each,,
+In an isosceles triangle, one of the base angles is 55°. What is the measure of the angle between the legs?,70°,,
+In a parallelogram, an acute angle is 50°. What is the measure of the obtuse angle on the same side?,130°,,
 An obtuse angle of a rhombus is 140°. What is the measure of the acute angle of this rhombus?,40°,,,
-In an isosceles trapezoid, the angle at the lower base is 75°. What is the measure of the angle at the upper base?,105°,,,
-In a right trapezoid, the obtuse angle is 110°. What is the measure of the acute angle in this trapezoid?,70°,,,
+In an isosceles trapezoid, the angle at the lower base is 75°. What is the measure of the angle at the upper base?,105°,,
+In a right trapezoid, the obtuse angle is 110°. What is the measure of the acute angle in this trapezoid?,70°,,
 The sum of three angles in a certain quadrilateral is 260°. What is the measure of the fourth angle?,100°,,,
 An isosceles right triangle has one 90° angle. What are the measures of the other two angles?,45° each,,,
-In a parallelogram, the sum of two acute angles is 80°. What is the measure of one obtuse angle?,140°,,,
+In a parallelogram, the sum of two acute angles is 80°. What is the measure of one obtuse angle?,140°,,
 One of the angles adjacent to the leg of a trapezoid is 60°. What is the sum of both angles at that leg?,180°,,,
 ,,,,
 "In a parallelogram, one side is 5 cm longer than the other, and its perimeter is 38 cm. Calculate the lengths of the sides of this parallelogram",7 cm and 12 cm,"Given: 
@@ -105,7 +105,7 @@ Solution:
 * For the parallelogram: a + b = 120, b - a = 20
 * b = a + 20 → a + (a + 20) = 120 → 2a = 100 → a = 50 cm, b = 70 cm
 Answer: 50 cm and 70 cm",,
-"One side of a parallelogram is 7 cm shorter than the other. What are the lengths of the sides if the perimeter is 50 cm?",9 cm and 16 cm,"Given: 
+One side of a parallelogram is 7 cm shorter than the other. What are the lengths of the sides if the perimeter is 50 cm?,9 cm and 16 cm,"Given: 
 * perimeter = 50 cm
 * difference between sides = 7 cm
 Solution:
