@@ -575,6 +575,8 @@ Mam kota.
 Kot śpi.",,,~#ttsA:en-US#~
 pies,dog,"~#tts:nap:en-US{I like dogs.}#~
 Lubię psy.",,,~#ttsA:en-US#~
+co,what,"~#tts:nap:en-US{What are you doing today?}#~
+Co dzisiaj robisz?",,,~#ttsA:en-US#~
 chomik,hamster,"~#tts:nap:en-US{Hamsters are small rodents.}#~
 Chomiki to małe gryzonie.",,,~#ttsA:en-US#~
 królik,rabbit,"~#tts:nap:en-US{bunny, pet rabbit}#~
@@ -1076,7 +1078,7 @@ kawiarnia,"café
 coffee shop","~#tts:nap:en-US{Let's meet at the café for a coffee.}#~
 Spotkajmy się w kawiarni na kawę.",,,~#ttsA:en-US#~
 kino,"~#tts:en-GB{cinema}#~ (GB)
-~#tts:en-US{movie theater}#~ (US)","~#tts:nap:en-US{We are going to the cinema to watch a new movie.}#~
+~#tts:en-US{movie theater}#~ (US)","~#tts:nap:en-GB{We are going to the cinema to watch a new movie.}#~
 Idziemy do kina obejrzeć nowy film.",,,~#no-swap#~
 szpital,hospital,"~#tts:nap:en-US{He was taken to the hospital after the accident.}#~
 Zabrano go do szpitala po wypadku.",,,~#ttsA:en-US#~
@@ -1421,10 +1423,15 @@ Spójrz na zdjęcie.",,,~#ttsA:en-US#~
 Muzyka jest za głośna.",,,~#ttsA:en-US#~
 piasek,sand,"~#tts:nap:en-US{The beach is full of sand.}#~
 Plaża jest pełna piasku.",,,~#ttsA:en-US#~
-"ubranie
-ubrania","cloth
-clothes","~#tts:nap:en-US{She is wearing a beautiful cloth.}#~
-Ma na sobie piękny materiał.",,,~#ttsA:en-US#~
+"ubranie, ubrania
+
+materiał, ścierka","clothes
+
+cloth","~#tts:nap:en-US{She is wearing beautiful clothes.}#~
+Ona ma na sobie piękne ubrania.
+
+~#tts:nap:en-US{Use a clean cloth to wipe the table.}#~
+Użyj czystej ścierki, żeby wytrzeć stół.",,,~#ttsA:en-US#~
 syrena (dźwiękowa),siren,"~#tts:nap:en-US{The ambulance siren was very loud.}#~
 Syrena karetki pogotowia była bardzo głośna.",,,~#ttsA:en-US#~
 planować,to plan,"~#tts:nap:en-US{We are planning a party.}#~
@@ -1549,8 +1556,8 @@ English language","~#tts:nap:en-US{I am learning English.}#~
 Uczę się angielskiego.",,,~#ttsA:en-US#~
 umierać,to die,"~#tts:nap:en-US{He died of cancer.}#~
 Zmarł na raka.",,,~#ttsA:en-US#~
-pomijać,to skip,"~#tts:nap:en-US{I skipped school yesterday.}#~
-Wczoraj przeskoczyłem szkołę.",,,~#ttsA:en-US#~
+pomijać,to skip,"~#tts:nap:en-US{I decided to skip the last chapter of the book.}#~
+Zdecydowałem się pominąć ostatni rozdział książki.",,,~#ttsA:en-US#~
 "bakteria, bakterie",bacteria,"~#tts:nap:en-US{Bacteria can cause illness.}#~
 Bakterie mogą powodować choroby.",,,~#ttsA:en-US#~
 dotykać,to touch,"~#tts:nap:en-US{Please don't touch the painting.}#~
@@ -1643,9 +1650,12 @@ Ma dziś wieczorem randkę z nią.",,,"~#ttsA:en-US#~
 obiekt, do którego się dąży",target,"~#tts:nap:en-US{The target is very small.}#~
 Cel jest bardzo mały.",,,~#ttsA:en-US#~
 "trochę
-trochę czegoś","bit
+trochę czegoś","a bit
 a bit of something","~#tts:nap:en-US{He ate a bit of cake.}#~
-Zjadł trochę ciasta.",,,~#ttsA:en-US#~
+Zjadł trochę ciasta.
+
+~#tts:nap:en-US{I need a bit of time to think about your offer.}#~
+Potrzebuję trochę czasu, aby przemyśleć twoją ofertę.",,,~#ttsA:en-US#~
 przerwa,break,"~#tts:nap:en-US{Let's take a fifteen-minute break.}#~
 Zróbmy sobie piętnastominutową przerwę.",,,~#ttsA:en-US#~
 jeśli,if,"~#tts:nap:en-US{If it rains, we will stay inside.}#~
@@ -1768,7 +1778,7 @@ wanted
 most wanted","~#tts:nap:en-US{The police are looking for a wanted criminal.}#~
 Policja szuka poszukiwanego przestępcy.",,,~#ttsA:en-US#~
 "codzienny, zwyczajny, pospolity",everyday,"~#tts:nap:en-US{This is an everyday occurrence.}#~
-To jest zwyczajny wypadek.",,,~#ttsA:en-US#~
+To jest codzienne zjawisko.",,,~#ttsA:en-US#~
 koszmar,nightmare,"~#tts:nap:en-US{I had a nightmare last night.}#~
 Miałem koszmar w nocy.",,,~#ttsA:en-US#~
 uderzać,to hit,"~#tts:nap:en-US{to strike, to punch}#~
@@ -2000,7 +2010,15 @@ barbershop","~#tts:nap:en-US{hair salon}#~
 ~#tts:nap:en-US{I need to get a haircut.}#~
 Muszę się obciąć.",,,"~#ttsA:en-US#~
 ~#no-swap#~"
-kąpać się,to bath,"~#tts:nap:en-US{She took a bath.}#~
+"kąpać się, obmywać
+brać kąpiel","to bathe
+to take a bath","~#tts:nap:en-US{The doctor told him to bathe the wound in warm water.}#~
+Lekarz kazał mu przemywać ranę ciepłą wodą.
+
+~#tts:nap:en-US{I like to take a long, hot bath after a stressful day.}#~
+Po stresującym dniu lubię wziąć długą, gorącą kąpiel.
+
+~#tts:nap:en-US{She took a bath.}#~
 Wzięła kąpiel.",,,~#ttsA:en-US#~
 niebezpieczeństwo,danger,"~#tts:nap:en-US{There is a danger of fire.}#~
 Istnieje niebezpieczeństwo pożaru.",,,~#ttsA:en-US#~
@@ -2190,7 +2208,7 @@ pięćdziesiąt,fifty,"~#tts:nap:en-US{He is fifty years old.}#~
 Ma pięćdziesiąt lat.",,,~#ttsA:en-US#~
 łabędź,swan,"~#tts:nap:en-US{Swans are beautiful birds.}#~
 Łabędzie są pięknymi ptakami.",,,~#ttsA:en-US#~
-"reguła, konkretne przepis",rule,"~#tts:nap:en-US{principle}#~
+"reguła, konkretny przepis",rule,"~#tts:nap:en-US{principle}#~
 
 ~#tts:nap:en-US{The rule is that you must be quiet in the library.}#~
 Zasada jest taka, że musisz być cicho w bibliotece.",,,~#ttsA:en-US#~
@@ -2453,7 +2471,11 @@ Mam spotkanie po południu.",,,~#ttsA:en-US#~
 Zwiększył swoją pewność siebie.",,,~#ttsA:en-US#~
 rozdział,chapter,"~#tts:nap:en-US{The first chapter of the book is very interesting.}#~
 Pierwszy rozdział książki jest bardzo interesujący.",,,~#ttsA:en-US#~
-krzyż,cross,"~#tts:nap:en-US{The two roads cross just outside the city center.}#~
+"krzyż
+
+krzyżować, przecinać","cross
+
+to cross","~#tts:nap:en-US{The two roads cross just outside the city center.}#~
 Te dwie drogi krzyżują się tuż poza centrum miasta.
 
 ~#tts:nap:en-US{He crossed the street.}#~
@@ -2477,7 +2499,7 @@ Mam ból głowy.",,,~#ttsA:en-US#~
 wysokość,height,"~#tts:nap:en-US{What is your height?}#~
 Jaki jest twój wzrost?",,,~#ttsA:en-US#~
 "nauka, uczenie się",learning,"~#tts:nap:en-US{Learning a new language is challenging.}#~
-Nauczenie się nowego języka jest wyzwaniem.",,,~#ttsA:en-US#~
+Nauka nowego języka jest wyzwaniem.",,,~#ttsA:en-US#~
 policja,police,"~#tts:nap:en-US{The police are investigating the crime.}#~
 Policja bada przestępstwo.",,,~#ttsA:en-US#~
 "buława, buzdygan
@@ -2485,14 +2507,19 @@ gaz pieprzowy",mace,"~#tts:nap:en-US{The police officer used a mace to stop the 
 Policjant użył gazu pieprzowego, aby powstrzymać zamieszki.",,,~#ttsA:en-US#~
 główny,"main, major","~#tts:nap:en-US{The main reason for his success is hard work.}#~
 Główną przyczyną jego sukcesu jest ciężka praca.",,,~#ttsA:en-US#~
-"zamężny, zamężna",married,"~#tts:nap:en-US{He is married.}#~
+"żonaty, zamężna",married,"~#tts:nap:en-US{He is married.}#~
 Jest żonaty.",,,~#ttsA:en-US#~
 "misja zakończyła się sukcesem
 misja powiodła się",mission succeeded,"~#tts:nap:en-US{The mission succeeded.}#~
 Misja się powiodła.",,,~#ttsA:en-US#~
 "wsparcie
+
 wspierać","support
-to support","~#tts:nap:en-US{I support his decision.}#~
+
+to support","~#tts:nap:en-US{I support my local football team.}#~
+Wspieram moją lokalną drużynę piłkarską.
+
+~#tts:nap:en-US{I support his decision.}#~
 Popieram jego decyzję.",,,~#ttsA:en-US#~
 mrugać,to blink,"~#tts:nap:en-US{He blinked his eyes.}#~
 Zamrugał oczami.",,,~#ttsA:en-US#~
@@ -2857,7 +2884,7 @@ Ważki to duże owady z długimi skrzydłami.",,,~#ttsA:en-US#~
 arbuz,watermelon,"~#tts:nap:en-US{Watermelons are large, juicy fruits.}#~
 Arbuzy to duże, soczyste owoce.",,,~#ttsA:en-US#~
 awokado,avocado,"~#tts:nap:en-US{Avocados are a healthy fruit.}#~
-Awokado są zdrowym owocem.",,,~#ttsA:en-US#~
+Awokado to zdrowy owoc.",,,~#ttsA:en-US#~
 "wiśnia, czereśnia",cherry,"~#tts:nap:en-US{Cherries are small, round fruits.}#~
 Wiśnie są małe, okrągłe owoce.",,,~#ttsA:en-US#~
 cytrusy,citrus,"~#tts:nap:en-US{Citrus fruits include oranges, lemons, and grapefruits.}#~
@@ -3963,8 +3990,12 @@ dres,tracksuit,"~#tts:nap:en-US{I'm wearing a tracksuit to go to the gym.}#~
 Mam na sobie dres, żeby iść na siłownię.",,,~#ttsA:en-US#~
 "trampki, buty sportowe",trainers,"~#tts:nap:en-US{I'm wearing trainers because I'm going for a run.}#~
 Mam na sobie buty sportowe, bo idę biegać.",,,~#ttsA:en-US#~
-spodnie,trousers,"~#tts:nap:en-US{I'm wearing black trousers.}#~
-Mam na sobie czarne spodnie.",,,~#ttsA:en-US#~
+spodnie,"~#tts:en-GB{trousers}#~ (GB)
+~#tts:en-US{pants}#~ (US)","~#tts:nap:en-GB{I need new trousers.}#~
+Potrzebuję nowych spodni.
+
+~#tts:nap:en-US{Pants are a type of clothing worn on the lower body.}#~
+Spodnie to rodzaj odzieży noszonej na dolną część ciała.",,,~#no-swap#~
 w weekend,at the weekend,"~#tts:nap:en-US{I'm going to the beach at the weekend.}#~
 Jadę na plażę w weekend.
 
@@ -4032,7 +4063,7 @@ kamień",rock,"~#tts:nap:en-US{I like to listen to rock music.}#~
 Lubię słuchać muzyki rockowej.
 
 ~#tts:nap:en-US{I threw a rock into the water.}#~
-Rzuciłem kamień do wody.""",,,~#ttsA:en-US#~
+Rzuciłem kamień do wody.",,,~#ttsA:en-US#~
 zespół szkolny,school band,"~#tts:nap:en-US{He plays in the school band.}#~
 Gra w szkolnym zespole.",,,~#ttsA:en-US#~
 laptop,"laptop, laptop computer","~#tts:nap:en-US{I use my laptop computer for work and school.}#~
@@ -4069,11 +4100,6 @@ Zmarzłeś/Zmarzłaś.,You're cold.,,,,"~#ttsA:en-US#~
 ~#no-swap#~"
 Czy jesteś gotowy?,Are you ready?,,,,"~#ttsA:en-US#~
 ~#no-swap#~"
-"spodnie
-majtki",pants,"~#tts:nap:en-US{trousers}#~ ➟  spodnie
-
-~#tts:nap:en-US{Pants are a type of clothing worn on the lower body.}#~
-Spodnie to rodzaj odzieży noszonej na dolną część ciała.",,,~#ttsA:en-US#~
 "krótkie spodnie, szorty",shorts,"~#tts:nap:en-US{Shorts are short pants.}#~
 Szorty to krótkie spodnie.",,,~#ttsA:en-US#~
 sandały,sandals,"~#tts:nap:en-US{Sandals are open-toed shoes.}#~
@@ -4387,8 +4413,15 @@ Pasy to miejsce, gdzie piesi mogą przechodzić przez ulicę.
 Przechodziłem przez ulicę na pasach.",,,~#no-swap#~
 rondo,roundabout,"~#tts:nap:en-US{A roundabout is a circular intersection.}#~
 Rondo jest kołowym skrzyżowaniem.",,,~#ttsA:en-US#~
-"skrzyżowanie dróg",crossroad,"~#tts:nap:en-US{A crossroad is a place where two roads cross.}#~
-Skrzyżowanie to miejsce, gdzie przecinają się dwie drogi.",,,~#ttsA:en-US#~
+"skrzyżowanie dróg
+
+w przenośni: punkt decyzyjny, moment wyboru",crossroads,"~#tts:nap:en-US{intersection}#~
+
+~#tts:nap:en-US{A crossroads is a place where two roads cross.}#~
+Skrzyżowanie to miejsce, gdzie przecinają się dwie drogi.
+
+~#tts:nap:en-US{After graduating, she was at a crossroads in her life.}#~
+Po ukończeniu studiów znalazła się na życiowym rozdrożu.",,,~#ttsA:en-US#~
 kask,helmet,"~#tts:nap:en-US{A helmet is worn to protect your head.}#~
 Kask służy do ochrony głowy.",,,~#ttsA:en-US#~
 ścieżka rowerowa,bicycle path,"~#tts:nap:en-US{A bicycle path is a path for bicycles.}#~
@@ -4504,11 +4537,6 @@ cyrk,circus,"~#tts:nap:en-US{The circus is coming to town.}#~
 Cyrk przyjeżdża do miasta.",,,~#ttsA:en-US#~
 strzelanie,shooting,"~#tts:nap:en-US{The shooting at the school was a tragedy.}#~
 Strzelanina w szkole była tragedią.",,,~#ttsA:en-US#~
-"skrzyżowanie dróg
-w przenośni: punkt decyzyjny, moment wyboru",crossroads,"~#tts:nap:en-US{intersection}#~
-
-~#tts:nap:en-US{After graduating, she was at a crossroads in her life.}#~
-Po ukończeniu studiów znalazła się na życiowym rozdrożu.",,,~#ttsA:en-US#~
 diabelski młyn,ferris wheel,"~#tts:nap:en-US{I rode the Ferris wheel at the amusement park.}#~
 Jeździłem na karuzeli w parku rozrywki.",,,~#ttsA:en-US#~
 kwiaciarnia,flower shop,"~#tts:nap:en-US{I bought flowers at the flower shop.}#~
@@ -6459,8 +6487,8 @@ pistolet maszynowy,SMG,"~#tts:nap:en-US{Small Machine Gun}#~
 Jestem bardzo spragniony.",,,~#ttsA:en-US#~
 wystarczająco dobrze,good enough,"~#tts:nap:en-US{This is good enough for now.}#~
 To jest wystarczająco dobre na razie.",,,~#ttsA:en-US#~
-"dostrzeć, zauważyć",to spot,"~#tts:nap:en-US{I spotted a bear in the woods.}#~
-Zobaczyłem niedźwiedzia w lesie.",,,~#ttsA:en-US#~
+"dostrzec, zauważyć",to spot,"~#tts:nap:en-US{I spotted a bear in the woods.}#~
+Dostrzegłem niedźwiedzia w lesie.",,,~#ttsA:en-US#~
 sprzeciw,objection,"~#tts:nap:en-US{I have no objection to your plan.}#~
 Nie mam nic przeciwko twojemu planowi.",,,~#ttsA:en-US#~
 "sprzeciwiać się, zgłaszać zastrzeżenia",to object,"~#tts:nap:en-US{to oppose}#~
@@ -6590,10 +6618,13 @@ Potrzebuję gumki, żeby poprawić błąd.",,,~#ttsA:en-US#~
 nożyczki,scissors,"~#tts:nap:en-US{Use scissors to cut the paper.}#~
 Użyj nożyczek, żeby przeciąć papier.",,,~#ttsA:en-US#~
 podkładka,pad,"~#tts:nap:en-US{He padded the cushion.}#~
-Wyściełał poduszkę.",,,~#ttsA:en-US#~
-stołówka,"canteen
-cafeteria","~#tts:nap:en-US{We eat lunch in the canteen.}#~
-Jemy obiad w stołówce.",,,~#ttsA:en-US#~
+Wyściełał poduszkę.
+
+~#tts:nap:en-US{I need a new mouse pad for my computer.}#~
+Potrzebuję nowej podkładki pod mysz do mojego komputera.",,,~#ttsA:en-US#~
+stołówka,"~#tts:en-GB{canteen}#~ (GB)
+~#tts:en-US{cafeteria}#~ (US)","~#tts:nap:en-GB{We eat lunch in the canteen.}#~
+Jemy obiad w stołówce.",,,~#no-swap#~
 pracownia komputerowa,computer room,"~#tts:nap:en-US{We go to the computer room for IT lessons.}#~
 Chodzimy do pracowni komputerowej na informatykę.",,,~#ttsA:en-US#~
 korytarz,hall,"~#tts:nap:en-US{I met him in the school hall.}#~
@@ -6609,10 +6640,13 @@ formalne zebranie lub zgromadzenie, akt zbierania się
 
 zbierać się, gromadzić się, składać (coś z części)","assembly
 
-to assembly","~#tts:nap:en-US{to rally, to gather, to collect}#~
+to assemble","~#tts:nap:en-US{to rally, to gather, to collect}#~
 
 ~#tts:nap:en-US{We have assembly every Monday morning.}#~
-Mamy apel w każdy poniedziałek rano.",,,~#ttsA:en-US#~
+Mamy apel w każdy poniedziałek rano.
+
+~#tts:nap:en-US{We need to assemble the furniture.}#~
+Musimy złożyć meble.",,,~#ttsA:en-US#~
 dzwonek,bell,"~#tts:nap:en-US{The bell rang at 8 o'clock.}#~
 Dzwonek zadzwonił o ósmej.",,,~#ttsA:en-US#~
 tańczyć w balecie,to do ballet,"~#tts:nap:en-US{My sister does ballet every weekend.}#~
@@ -8474,17 +8508,15 @@ finał turnieju piłkarskiego,football cup final,"~#tts:nap:en-US{We are going t
 Będziemy oglądać finał turnieju piłkarskiego.",,,~#ttsA:en-US#~
 wpół do siódmej,half past six,"~#tts:nap:en-US{The train leaves at half past six.}#~
 Pociąg odjeżdża wpół do siódmej.",,,~#ttsA:en-US#~
-wspierać,support,"~#tts:nap:en-US{I support my local football team.}#~
-Wspieram moją lokalną drużynę piłkarską.",,,~#ttsA:en-US#~
 w wieku 7-11 lat,aged 7-11,"~#tts:nap:en-US{This book is for children aged 7-11.}#~
 Ta książka jest dla dzieci w wieku 7-11 lat.",,,~#ttsA:en-US#~
 o północy,at midnight,"~#tts:nap:en-US{The party will start at midnight.}#~
 Impreza rozpocznie się o północy.",,,~#ttsA:en-US#~
-eksplorować,explore,"~#tts:nap:en-US{Let's explore the new city.}#~
+"badać, eksplorować",to explore,"~#tts:nap:en-US{Let's explore the new city.}#~
 Eksplorujmy nowe miasto.",,,~#ttsA:en-US#~
-przygotować się do,get ready for,"~#tts:nap:en-US{We need to get ready for the trip.}#~
+przygotować się do,to get ready for,"~#tts:nap:en-US{We need to get ready for the trip.}#~
 Musimy przygotować się do podróży.",,,~#ttsA:en-US#~
-zwiedzić akwarium,have a tour of the aquarium,"~#tts:nap:en-US{Let's have a tour of the aquarium.}#~
+zwiedzić akwarium,to have a tour of the aquarium,"~#tts:nap:en-US{Let's have a tour of the aquarium.}#~
 Zwiedźmy akwarium.",,,~#ttsA:en-US#~
 podwodne stworzenie,underwater creature,"~#tts:nap:en-US{We saw an underwater creature.}#~
 Widzieliśmy podwodne stworzenie.",,,~#ttsA:en-US#~
@@ -8529,12 +8561,6 @@ Przednie drzwi są otwarte.",,,~#ttsA:en-US#~
 
 ~#tts:nap:en-US{Perhaps we should go out for dinner.}#~
 Może powinniśmy wyjść na kolację.",,,~#ttsA:en-US#~
-panna,"miss
-Ms.","~#tts:nap:en-US{I miss my old friends.}#~
-Tęsknię za moimi starymi przyjaciółmi.
-
-~#tts:nap:en-US{Ms. Brown is a lawyer.}#~
-Pani Brown jest prawniczką.",,,~#ttsA:en-US#~
 widz,viewer,"~#tts:nap:en-US{The viewer is watching the news.}#~
 Widz ogląda wiadomości.",,,~#ttsA:en-US#~
 "wzdychać
@@ -8860,7 +8886,7 @@ styl życia,lifestyle,"~#tts:nap:en-US{Her lifestyle is very healthy.}#~
 Jej styl życia jest bardzo zdrowy.",,,~#ttsA:en-US#~
 inwestycja,investment,"~#tts:nap:en-US{Investing in real estate can be risky.}#~
 Inwestowanie w nieruchomości może być ryzykowne.",,,~#ttsA:en-US#~
-okazjonalnie,occasion,"~#tts:nap:en-US{We should celebrate this occasion.}#~
+okazja,occasion,"~#tts:nap:en-US{We should celebrate this occasion.}#~
 Powinniśmy uczcić tę okazję.",,,~#ttsA:en-US#~
 piłka nożna,soccer,"~#tts:nap:en-US{Soccer is the most popular sport in the world.}#~
 Piłka nożna jest najpopularniejszym sportem na świecie.",,,~#ttsA:en-US#~
@@ -8876,7 +8902,9 @@ Okres czasu był bardzo krótki.",,,~#ttsA:en-US#~
 Sprzeciwił się planowi.",,,~#ttsA:en-US#~
 stan,state,"~#tts:nap:en-US{The state of the economy is improving.}#~
 Stan gospodarki się poprawia.",,,~#ttsA:en-US#~
-nieparzyste,odd,"~#tts:nap:en-US{He is an odd person.}#~
+"nieparzyste
+
+dziwny",odd,"~#tts:nap:en-US{He is an odd person.}#~
 Jest dziwną osobą.",,,~#ttsA:en-US#~
 różnorodny,diverse,"~#tts:nap:en-US{The population of the city is very diverse.}#~
 Ludność miasta jest bardzo różnorodna.",,,~#ttsA:en-US#~
@@ -8890,7 +8918,9 @@ wygodny,comfortable,"~#tts:nap:en-US{The chair is very comfortable.}#~
 Krzesło jest bardzo wygodne.",,,~#ttsA:en-US#~
 szlafrok,bathrobe,"~#tts:nap:en-US{I am wearing a bathrobe.}#~
 Mam na sobie szlafrok.",,,~#ttsA:en-US#~
-strzał,shot,"~#tts:nap:en-US{The shot of the sunset was beautiful.}#~
+"strzał
+
+ujęcie (zdjęcie, film)",shot,"~#tts:nap:en-US{The shot of the sunset was beautiful.}#~
 Zdjęcie zachodu słońca było piękne.",,,~#ttsA:en-US#~
 poślizgnąć,to slip,"~#tts:nap:en-US{I slipped on the ice and fell.}#~
 Poślizgnąłem się na lodzie i upadłem.",,,~#ttsA:en-US#~
@@ -8951,7 +8981,7 @@ Za lasem jest jezioro.",,,~#ttsA:en-US#~
 kryzys,crisis,"~#tts:nap:en-US{The country is facing a crisis.}#~
 Kraj stoi w obliczu kryzysu.",,,~#ttsA:en-US#~
 gapić się,to stare,"~#tts:nap:en-US{Don't stare at me like that!}#~
-Nie patrz na mnie tak!",,,~#ttsA:en-US#~
+Nie gap się tak na mnie!",,,~#ttsA:en-US#~
 umowa,contract,"~#tts:nap:en-US{He signed a contract with the company.}#~
 Podpisał kontrakt z firmą.",,,~#ttsA:en-US#~
 "pozwolić sobie (na coś), mieć możliwość finansową lub czasową",to afford,"~#tts:nap:en-US{I can't afford a new car.}#~
@@ -8964,7 +8994,11 @@ podróż,journey,"~#tts:nap:en-US{The journey was long and tiring.}#~
 Podróż była długa i męcząca.",,,~#ttsA:en-US#~
 kultura,culture,"~#tts:nap:en-US{He loves Polish culture.}#~
 Kocha polską kulturę.",,,~#ttsA:en-US#~
-nagrywanie,recording,"~#tts:nap:en-US{The recording of the concert is available online.}#~
+"nagranie
+
+nagrywać","recording
+
+to record","~#tts:nap:en-US{The recording of the concert is available online.}#~
 Nagranie koncertu jest dostępne online.",,,~#ttsA:en-US#~
 "ciągnąć, wlec, przeciągać",to drag,"~#tts:nap:en-US{to pull}#~
 
@@ -8997,7 +9031,7 @@ Wazon był rozbity.",,,~#ttsA:en-US#~
 ~#tts:nap:en-US{Safety is important.}#~
 Bezpieczeństwo jest ważne.",,,~#ttsA:en-US#~
 podbródek,chin,"~#tts:nap:en-US{I have a beard on my chin.}#~
-Mam brodę na brodzie.",,,~#ttsA:en-US#~
+Mam zarost na brodzie (podbródku).",,,~#ttsA:en-US#~
 dzielić się,to share,"~#tts:nap:en-US{We shared a pizza for dinner.}#~
 Podzieliliśmy się pizzą na kolację.",,,~#ttsA:en-US#~
 zakańczać,to finish,"~#tts:nap:en-US{I finished my book.}#~
@@ -9057,8 +9091,8 @@ Ma spore szanse na wygraną.
 ~#tts:nap:en-US{The fair was a lot of fun.}#~
 Jarmark był świetną zabawą.",,,~#ttsA:en-US#~
 "świat w grach, książkach, filmach (miasta, potwory, postaci, wydarzenia)
-tradycja ludowa, wiedza o wydarzeniach",lore,"~#tts:nap:en-US{The legend of King Arthur is a famous piece of folklore.}#~
-Legenda o królu Arturze jest słynną częścią folkloru.",,,~#ttsA:en-US#~
+tradycja ludowa, wiedza o wydarzeniach",lore,"~#tts:nap:en-US{I enjoy reading the lore of this game world.}#~
+Lubię czytać o historii (lore) świata tej gry.",,,~#ttsA:en-US#~
 "broń, pistolet",gun,"~#tts:nap:en-US{He is carrying a gun.}#~
 On nosi broń.",,,~#ttsA:en-US#~
 rynek,market,"~#tts:nap:en-US{The market is full of people.}#~
@@ -9103,7 +9137,9 @@ podrapać, drapać","scratch
 
 to scratch","~#tts:nap:en-US{The cat scratched the couch.}#~
 Kot podrapał kanapę.",,,~#ttsA:en-US#~
-"zbiornik
+"czołg
+
+zbiornik
 bak na paliwo",tank,"~#tts:nap:en-US{The tank is a powerful weapon.}#~
 Czołg jest potężną bronią.",,,~#ttsA:en-US#~
 ewolucja,evolution,"~#tts:nap:en-US{Evolution is the process of change over time.}#~
@@ -9606,8 +9642,14 @@ zwykle,usual,"~#tts:nap:en-US{It's unusual for him to be late.}#~
 To niezwykłe, że się spóźnia.",,,~#ttsA:en-US#~
 czujny,vigilant,"~#tts:nap:en-US{The guards are very vigilant.}#~
 Strażnicy są bardzo czujni.",,,~#ttsA:en-US#~
-bicz,whiplash,"~#tts:nap:en-US{He suffered from whiplash in the accident.}#~
-Odniósł uraz w związku z wypadkiem.",,,~#ttsA:en-US#~
+"smagnięcie biczem
+
+uraz kręgosłupa szyjnego
+
+nagła zmiana",whiplash,"~#tts:nap:en-US{He suffered from whiplash in the accident.}#~
+Doznał urazu kręgosłupa w wypadku.",,,~#ttsA:en-US#~
+bicz,whip,"~#tts:nap:en-US{Indiana Jones uses a whip.}#~
+Indiana Jones używa bicza.",,,~#ttsA:en-US#~
 "szeroki, przestronny, rozległy",wide,"~#tts:nap:en-US{broad}#~
 
 ~#tts:nap:en-US{The river is very wide.}#~
@@ -10733,8 +10775,8 @@ tradycyjny,traditional,"~#tts:nap:en-US{The dance is a traditional one.}#~
 Taniec jest tradycyjny.",,,~#ttsA:en-US#~
 rodzic,parent,"~#tts:nap:en-US{My parents are very loving.}#~
 Moi rodzice są bardzo kochający.",,,~#ttsA:en-US#~
-United,United,"~#tts:nap:en-US{The United States is a large country.}#~
-Stany Zjednoczone są dużym krajem.",,,~#ttsA:en-US#~
+"łączyć, jednoczyć (ludzi, grupy, kraje), zjednoczyć",to unite,"~#tts:nap:en-US{The common goal helped to unite the community.}#~
+Wspólny cel pomógł zjednoczyć społeczność.",,,~#ttsA:en-US#~
 nieznajomy,stranger,"~#tts:nap:en-US{The stranger asked me for directions.}#~
 Nieznajomy zapytał mnie o drogę.",,,~#ttsA:en-US#~
 "ważność, istotność",importance,"~#tts:nap:en-US{The importance of education cannot be overstated.}#~
@@ -11091,8 +11133,8 @@ kiedykolwiek,ever,"~#tts:nap:en-US{Have you ever been to Paris?}#~
 Czy kiedykolwiek byłeś w Paryżu?",,,~#ttsA:en-US#~
 istotny,substantial,"~#tts:nap:en-US{There was a substantial increase in sales last month.}#~
 Odnotowano znaczący wzrost sprzedaży w zeszłym miesiącu.",,,~#ttsA:en-US#~
-skład,composition,"~#tts:nap:en-US{He needs better concentration.}#~
-Potrzebuje lepszej koncentracji.",,,~#ttsA:en-US#~
+skład,composition,"~#tts:nap:en-US{The chemical composition of water is simple.}#~
+Skład chemiczny wody jest prosty.",,,~#ttsA:en-US#~
 myśl,thought,"~#tts:nap:en-US{I thought you were coming.}#~
 Myślałem, że przyjdziesz.",,,~#ttsA:en-US#~
 osobiście,"personally
@@ -11237,8 +11279,6 @@ otaczać,to surround,"~#tts:nap:en-US{The forest surrounds the village.}#~
 Las otacza wioskę.",,,~#ttsA:en-US#~
 kontrola,control,"~#tts:nap:en-US{He has control over the situation.}#~
 Ma kontrolę nad sytuacją.",,,~#ttsA:en-US#~
-"badać, eksplorować",to explore,"~#tts:nap:en-US{They explored the jungle.}#~
-Odkryli dżunglę.",,,~#ttsA:en-US#~
 w toku,ongoing,"~#tts:nap:en-US{The investigation is ongoing.}#~
 Śledztwo jest w toku.",,,~#ttsA:en-US#~
 spojrzenie,glance,"~#tts:nap:en-US{She glanced at her watch.}#~
@@ -11903,12 +11943,15 @@ akademicki,academic,"~#tts:nap:en-US{She is an academic.}#~
 Jest akademikiem.",,,~#ttsA:en-US#~
 konstytucyjny,constitutional,"~#tts:nap:en-US{The government is a constitutional monarchy.}#~
 Rząd jest monarchią konstytucyjną.",,,~#ttsA:en-US#~
-tęsknić,to miss,"~#tts:nap:en-US{I missed the bus.}#~
+"tęsknić
+
+spóźnić się (na środek transportu), przegapić",to miss,"~#tts:nap:en-US{I miss my old friends.}#~
+Tęsknię za moimi starymi przyjaciółmi.
+
+~#tts:nap:en-US{I missed the bus.}#~
 Spóźniłem się na autobus.",,,~#ttsA:en-US#~
 łyżka stołowa,tablespoon,"~#tts:nap:en-US{Add a tablespoon of sugar to the coffee.}#~
 Dodaj łyżkę cukru do kawy.",,,~#ttsA:en-US#~
-co,what,"~#tts:nap:en-US{What is your name?}#~
-Jak masz na imię?",,,~#ttsA:en-US#~
 "dynia
 squash (sport)
 zgniatać, miażdżyć",squash,"~#tts:nap:en-US{Squash is a type of vegetable.}#~
@@ -12081,7 +12124,9 @@ To rzeczywiście piękny dzień.",,,~#ttsA:en-US#~
 On jest moim przeciwnikiem w grze.",,,~#ttsA:en-US#~
 dotacja,grant,"~#tts:nap:en-US{I received a grant to study abroad.}#~
 Otrzymałem stypendium na studia zagraniczne.",,,~#ttsA:en-US#~
-obcas,heel,"~#tts:nap:en-US{My heel hurts.}#~
+"obcas
+
+pięta",heel,"~#tts:nap:en-US{My heel hurts.}#~
 Boli mnie pięta.",,,~#ttsA:en-US#~
 interakcja,interaction,"~#tts:nap:en-US{The interaction between the two countries is important.}#~
 Interakcja między dwoma krajami jest ważna.",,,~#ttsA:en-US#~
@@ -12127,8 +12172,8 @@ ubóstwo,poverty,"~#tts:nap:en-US{Poverty is a serious problem in many countries
 Ubóstwo jest poważnym problemem w wielu krajach.",,,~#ttsA:en-US#~
 publikacja,publication,"~#tts:nap:en-US{The publication of the book was delayed.}#~
 Publikacja książki została opóźniona.",,,~#ttsA:en-US#~
-komponować,to compose,"~#tts:nap:en-US{He tried to concentrate on his work.}#~
-Próbował skoncentrować się na swojej pracy.",,,~#ttsA:en-US#~
+"komponować, składać, tworzyć",to compose,"~#tts:nap:en-US{She sat down to compose a new piece of music.}#~
+Usiadła, aby skomponować nowy utwór muzyczny.",,,~#ttsA:en-US#~
 "radość, szczęście",joy,"~#tts:nap:en-US{She is filled with joy.}#~
 Jest pełna radości.",,,~#ttsA:en-US#~
 "działać, operować narzędziem",to operate,"~#tts:nap:en-US{The machine is not operating correctly.}#~
@@ -13521,7 +13566,9 @@ wiązać,to bind,"~#tts:nap:en-US{He bound the book with a ribbon.}#~
 Związał książkę wstążką.",,,~#ttsA:en-US#~
 naruszać,to violate,"~#tts:nap:en-US{The company violated the law.}#~
 Firma złamała prawo.",,,~#ttsA:en-US#~
-wspólny,joint,"~#tts:nap:en-US{He broke his joint.}#~
+"wspólny
+
+staw (w ciele)",joint,"~#tts:nap:en-US{He broke his joint.}#~
 Złamał sobie staw.",,,~#ttsA:en-US#~
 struktura,structure,"~#tts:nap:en-US{The structure of the building is very complex.}#~
 Struktura budynku jest bardzo złożona.",,,~#ttsA:en-US#~
@@ -13580,8 +13627,8 @@ Praktycznie niemożliwe jest znalezienie miejsca parkingowego w centrum miasta w
 ~#no-swap#~"
 bariera,barrier,"~#tts:nap:en-US{The barrier was blocking the road.}#~
 Bariera blokowała drogę.",,,~#ttsA:en-US#~
-koncentrować się,to concentrate,"~#tts:nap:en-US{He is concerned about his future.}#~
-Martwi się o swoją przyszłość.",,,~#ttsA:en-US#~
+koncentrować się,to concentrate,"~#tts:nap:en-US{He tried to concentrate on his work.}#~
+Próbował skoncentrować się na swojej pracy.",,,~#ttsA:en-US#~
 "środowisko, otoczenie",environment,"~#tts:nap:en-US{We need to protect the environment.}#~
 Musimy chronić środowisko.",,,~#ttsA:en-US#~
 "nietypowy, niezwykły",unusual,"~#tts:nap:en-US{It's unusual for him to be late.}#~
@@ -13613,7 +13660,7 @@ Ceny różnią się w zależności od rozmiaru.",,,~#ttsA:en-US#~
 prezes zarządu,"CEO
 Chief Executive Officer","~#tts:nap:en-US{He is the CEO of the company.}#~
 On jest dyrektorem generalnym firmy.",,,~#ttsA:en-US#~
-lina do skakania,skipping rope,"~#tts:nap:en-US{I skipped rope as a child.}#~
+skakanka,skipping rope,"~#tts:nap:en-US{I skipped rope as a child.}#~
 Przeskakiwałem przez skakankę jako dziecko.",,,~#ttsA:en-US#~
 populacja,population,"~#tts:nap:en-US{The population of the city is increasing.}#~
 Liczba ludności miasta rośnie.",,,~#ttsA:en-US#~
@@ -13660,7 +13707,9 @@ islamski,Islamic,"~#tts:nap:en-US{He is Islamic.}#~
 On jest muzułmaninem.",,,~#ttsA:en-US#~
 "punkt widzenia, perspektywa",perspective,"~#tts:nap:en-US{His perspective on the issue is different.}#~
 Jego perspektywa na tę kwestię jest inna.",,,~#ttsA:en-US#~
-przegrana,lost,"~#tts:nap:en-US{I'm lost.}#~
+"przegrana
+
+zagubiony, stracony",lost,"~#tts:nap:en-US{I'm lost.}#~
 Jestem zgubiony.",,,~#ttsA:en-US#~
 zarządzać,to manage,"~#tts:nap:en-US{I can manage on my own.}#~
 Dam sobie radę sam.",,,~#ttsA:en-US#~
@@ -13819,8 +13868,8 @@ kalafior,cauliflower,"~#tts:nap:en-US{Cauliflower is a cruciferous vegetable.}#~
 Kalafior to warzywo kapustne.",,,~#ttsA:en-US#~
 gest,gesture,"~#tts:nap:en-US{He made a gesture of frustration.}#~
 Zrobił gest frustracji.",,,~#ttsA:en-US#~
-miliard,billion,"~#tts:nap:en-US{He is a billionaire.}#~
-Jest miliarderem.",,,~#ttsA:en-US#~
+miliard,billion,"~#tts:nap:en-US{The population is over a billion.}#~
+Populacja wynosi ponad miliard.",,,~#ttsA:en-US#~
 edukacyjny,educational,"~#tts:nap:en-US{The documentary was very educational.}#~
 Dokument był bardzo edukacyjny.",,,~#ttsA:en-US#~
 rozważania,consideration,"~#tts:nap:en-US{He gave the matter careful consideration.}#~
@@ -13864,7 +13913,7 @@ wół,ox,"woły ➟ ~#tts:nap:en-US{oxen}#~
 Woły ciągnęły pług przez pole.
 
 ~#tts:nap:en-US{The ox is a strong animal.}#~
-Byk jest silnym zwierzęciem.",,,~#ttsA:en-US#~
+Wół jest silnym zwierzęciem.",,,~#ttsA:en-US#~
 "laska, kula do podpierania",cane,"~#tts:nap:en-US{pole, rode, walking stik}#~
 
 ~#tts:nap:en-US{The old man used a cane to walk.}#~
@@ -14298,7 +14347,7 @@ Ziemia jest mokra po deszczu.",,,~#ttsA:en-US#~
 Choruje na poważną chorobę.",,,~#ttsA:en-US#~
 zjawisko,phenomenon,"~#tts:nap:en-US{This is a natural phenomenon.}#~
 To jest zjawisko naturalne.",,,~#ttsA:en-US#~
-"musimy mieć, muszą mieć, musieli",must have,"~#tts:nap:en-US{The ground is wet. It must have rained.}#~
+"musieć (wniosek, że coś się stało na pewno)",must have,"~#tts:nap:en-US{The ground is wet. It must have rained.}#~
 Ziemia jest mokra. Musiało padać.",,,~#ttsA:en-US#~
 systematycznie,systematically,"~#tts:nap:en-US{To effectively learn from flashcards, you should use the SpreadsheetMemo app systematically.}#~
 Aby skutecznie uczyć się z fiszek, należy systematycznie używać aplikacji SpreadsheetMemo.",,,~#ttsA:en-US#~
@@ -14537,7 +14586,7 @@ Sklep sprzedaje książki, jak również czasopisma.",,,~#ttsA:en-US#~
 czekać w kolejce,to wait in line,"~#tts:nap:en-US{We had to wait in line for an hour to get tickets.}#~
 Musieliśmy czekać w kolejce godzinę, żeby dostać bilety.",,,~#ttsA:en-US#~
 straż pożarna,fire department,"~#tts:nap:en-US{Call the fire department immediately!}#~
-Sprawdziłem skrzynkę pocztową, ale nie było żadnych listów.",,,~#ttsA:en-US#~
+Zadzwoń natychmiast po straż pożarną!",,,~#ttsA:en-US#~
 wyciszony,on mute,"~#tts:nap:en-US{You are on mute, we can't hear you.}#~
 Jesteś wyciszony, nie słyszymy cię.",,,~#ttsA:en-US#~
 lata pięćdziesiąte,fifties,"~#tts:nap:en-US{Rock and roll music became popular in the fifties.}#~
@@ -14796,7 +14845,7 @@ gabinet lekarski,doctor's office,"~#tts:nap:en-US{I have an appointment at the d
 Jutro mam wizytę w gabinecie lekarskim.",,,~#ttsA:en-US#~
 za pół ceny,half price,"~#tts:nap:en-US{All the tickets for the show are half price today.}#~
 Dziś wszystkie bilety na przedstawienie są za pół ceny.",,,~#ttsA:en-US#~
-kostium,costume,"#tts:nap:-US{What costume will you wear for Halloween?}#~
+kostium,costume,"~#tts:nap:en-US{What costume will you wear for Halloween?}#~
 Jaki kostium założysz na Halloween?",,,~#ttsA:en-US#~
 "australijski, Australijczyk, Australijka",Australian,"~#tts:nap:en-US{Kangaroos are a well-known Australian animal.}#~
 Kangury są dobrze znanym australijskim zwierzęciem.",,,~#ttsA:en-US#~
@@ -15159,7 +15208,7 @@ Na urodziny dostałem kartę podarunkową.",,,~#ttsA:en-US#~
 wracać do domu,to get home,"~#tts:nap:en-US{What time did you get home last night?}#~
 O której godzinie wróciłeś wczoraj do domu?",,,~#ttsA:en-US#~
 nawiedzony,haunted,"~#tts:nap:en-US{They say the old castle is haunted.}#~
-Zaparkował samochód na podjeździe.",,,~#ttsA:en-US#~
+Mówią, że ten stary zamek jest nawiedzony.",,,~#ttsA:en-US#~
 nazwisko,last name,"~#tts:nap:en-US{Please spell your last name for me.}#~
 Proszę przeliterować mi swoje nazwisko.",,,~#ttsA:en-US#~
 przerażający,creepy,"~#tts:nap:en-US{That old abandoned house looks creepy.}#~
@@ -15591,8 +15640,6 @@ szczerze mówiąc,"frankly
 to be honest","~#tts:nap:en-US{To be honest, I don't really like this movie.}#~
 Szczerze mówiąc, nie bardzo podoba mi się ten film.",,,"~#ttsA:en-US#~
 ~#no-swap#~"
-brać kąpiel,to take a bath,"~#tts:nap:en-US{I like to take a long, hot bath after a stressful day.}#~
-Po stresującym dniu lubię wziąć długą, gorącą kąpiel.",,,~#ttsA:en-US#~
 w kontakcie,in contact,"~#tts:nap:en-US{Let's stay in contact after you move.}#~
 Pozostańmy w kontakcie, gdy się przeprowadzisz.",,,~#ttsA:en-US#~
 szkoła podstawowa,elementary school,"~#tts:nap:en-US{My daughter just started elementary school.}#~
@@ -18417,8 +18464,8 @@ Past (Stung):
 Ukąsiła go pszczoła podczas ogrodnictwa.
 
 Past participle (Stung):
-~#tts:nap:en-US{The rash has been caused by a stung.}#~
-Wysypka została spowodowana przez ukąszenie.",,,"~#ttsA:en-US#~
+~#tts:nap:en-US{He has been stung by a wasp.}#~
+Został użądlony przez osę.",,,"~#ttsA:en-US#~
 ~#no-swap#~"
 "zmagać się z czymś, dążyć, starać się, podejmować wysiłek
 
