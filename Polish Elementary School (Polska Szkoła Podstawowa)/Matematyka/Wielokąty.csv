@@ -1,0 +1,169 @@
+#SHEETINFO | name=Kl5SP Wielokąty,,,,
+,"Teoria:
+
+https://zpe.gov.pl/a/wielokaty-i-ich-wlasnosci/DlPZe6xCl
+https://zpe.gov.pl/a/wielokaty-foremne/DyKt6AbYX
+https://zpe.gov.pl/a/przeczytaj/DwdmuPmu8
+https://zpe.gov.pl/a/suma-katow-wewnetrznych-trojkata/DzoGUlRjq
+https://www.medianauka.pl/wielokat",,,
+,,,,
+Co to jest wielokąt?,"Część płaszczyzny ograniczona łamaną (zwyczajną zamkniętą), wraz z tą łamaną.",,,
+Jak nazywamy końce boków wielokąta?,Wierzchołki wielokąta.,,,
+Co to są kąty wewnętrzne wielokąta?,Kąty utworzone między sąsiednimi bokami wielokąta.,,,
+Jak nazywamy kąty między kolejnymi bokami wielokąta?,Kąty wewnętrzne wielokąta.,,,
+"Jak nazywa się wielokąt, który ma wszystkie boki równej długości i wszystkie kąty równej miary?",Wielokąt foremny.,,,https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Regular_polygons_qtl1.svg/2560px-Regular_polygons_qtl1.svg.png
+Czym jest obwód wielokąta?,Suma długości wszystkich jego boków.,,,
+"Ile boków, kątów i wierzchołków ma siedmiokąt?",7,,,
+Ile przekątnych ma czworokąt?,2,,,
+"Oblicz obwód trójkąta o bokach długości 4 cm, 5 cm i 6 cm",15 cm,,,
+Oblicz obwód kwadratu o boku 7 cm,28 cm,,,
+Jaki jest obwód pięciokąta foremnego o boku długości 6 cm?,30 cm,,,
+"Podaj przykład czworokąta, który jest wielokątem foremnym.",Kwadrat,,,
+Ile przekątnych wychodzi z jednego wierzchołka w sześciokącie?,3,,,
+Oblicz obwód prostokąta o bokach 5 cm i 8 cm,26 cm,,,
+"Jak nazywamy odcinek łączący dwa wierzchołki wielokąta, który nie jest jego bokiem?",Przekątna.,,,
+Co to są boki wielokąta?,"Odcinki, z których składa się łamana zamknięta ograniczająca wielokąt.",,,
+"Jak nazywamy odcinki, z których składa się łamana zamknięta wielokąta?",Boki wielokąta.,,,
+Co to są wierzchołki wielokąta?,"Punkty, w których łączą się boki wielokąta.",,,
+"Jaka jest suma miar kątów w dowolnym czworokącie (np. w kwadracie, prostokącie, rombie)?",360°,,,
+,,,,
+Ile wynosi suma miar kątów wewnętrznych w dowolnym trójkącie?,180°,,,
+"Jak nazywamy równoległobok, który ma wszystkie boki równej długości?",Romb.,,,
+,,,,
+"Jak nazywamy trójkąt, który ma wszystkie boki różnej długości?",Trójkąt różnoboczny.,,,
+"Jak nazywamy trójkąt, który ma co najmniej dwa boki równej długości?",Trójkąt równoramienny.,,,
+"Jak nazywamy trójkąt, który ma wszystkie boki jednakowej długości?",Trójkąt równoboczny.,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Equilateral_Triangle.svg/2560px-Equilateral_Triangle.svg.png
+Czym charakteryzuje się trójkąt równoboczny?,Ma wszystkie boki oraz kąty wewnętrzne równej długości i miary.,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Equilateral_Triangle.svg/2560px-Equilateral_Triangle.svg.png
+Czy kąty przy podstawie w trójkącie równoramiennym mają równe miary?,Tak.,,,https://upload.wikimedia.org/wikipedia/commons/1/14/Triangle.Isosceles.svg
+Jaką miarę ma każdy kąt wewnętrzny w trójkącie równobocznym?,60°,,,https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Equilateral_Triangle.svg/2560px-Equilateral_Triangle.svg.png
+,,,,
+"Jak nazywamy trójkąt, którego wszystkie kąty wewnętrzne są ostre?",Trójkąt ostrokątny.,,,"https://upload.wikimedia.org/wikipedia/commons/e/ed/Triangle.Acute.svg"
+Czym charakteryzuje się trójkąt ostrokątny?,Wszystkie jego kąty wewnętrzne są ostre.,,,"https://upload.wikimedia.org/wikipedia/commons/e/ed/Triangle.Acute.svg"
+"Jak nazywamy trójkąt, w którym jeden z kątów jest prosty?",Trójkąt prostokątny.,,,"https://upload.wikimedia.org/wikipedia/commons/7/72/Triangle.Right.svg"
+Czym charakteryzuje się trójkąt prostokątny?,Jeden z jego kątów wewnętrznych jest kątem prostym.,,,"https://upload.wikimedia.org/wikipedia/commons/7/72/Triangle.Right.svg"
+Jak nazywamy boki tworzące kąt prosty w trójkącie prostokątnym?,Przyprostokątne.,,,https://upload.wikimedia.org/wikipedia/commons/7/72/Triangle.Right.svg
+Jak nazywamy bok leżący naprzeciwko kąta prostego w trójkącie prostokątnym?,Przeciwprostokątna.,,,https://upload.wikimedia.org/wikipedia/commons/7/72/Triangle.Right.svg
+"Jak nazywamy trójkąt, którego jeden kąt wewnętrzny jest rozwarty?",Trójkąt rozwartokątny.,,,"https://upload.wikimedia.org/wikipedia/commons/0/05/Triangle.Obtuse.svg"
+Czym charakteryzuje się trójkąt rozwartokątny?,Jeden z jego kątów wewnętrznych jest rozwarty.,,,"https://upload.wikimedia.org/wikipedia/commons/0/05/Triangle.Obtuse.svg"
+Czy trójkąt może mieć dwa kąty proste?,"Nie, może mieć tylko jeden kąt prosty",,,
+Czy trójkąt może mieć dwa kąty rozwarte?,"Nie, może mieć tylko jeden kąt rozwarty",,,
+"Trójkąt ma kąty o miarach 40°, 60° i 80°. Jaki to rodzaj trójkąta ze względu na kąty?",Trójkąt ostrokątny,,,
+"Trójkąt ma kąty o miarach 30°, 120° i 30°. Jaki to rodzaj trójkąta?",Trójkąt rozwartokątny,,,
+Czy każdy trójkąt równoboczny jest trójkątem ostrokątnym?,"Tak, ponieważ wszystkie jego kąty mają po 60°",,,
+,,,,
+Opisz czym są kąty wierzchołkowe.,To kąty tej samej miary utworzone przez przecinające się proste.,,https://www.matemaks.pl/katy-wierzcholkowe-przylegle-odpowiadajace-i-naprzemianlegle.html,
+Opisz czym są kąty przyległe.,"To kąty, które mają wspólne ramię i tworzą razem kąt półpełny.",α+β=180°,https://www.matemaks.pl/katy-wierzcholkowe-przylegle-odpowiadajace-i-naprzemianlegle.html,
+Opisz czym są kąty odpowiadające.,"To para kątów utworzonych przez przecięcie dwóch prostych m i n trzecią prostą k, leżące po tej samej stronie prostej k.","Jeżeli proste m i n są równoległe, to wówczas kąty odpowiadające są równe.
+
+W przypadku gdy proste m i n nie są równoległe, to kąty odpowiadające mają różną miarę.",https://www.matemaks.pl/katy-wierzcholkowe-przylegle-odpowiadajace-i-naprzemianlegle.html,
+Opisz czym są kąty naprzemianległe.,"To para kątów utworzonych przez przecięcie dwóch prostych m i n trzecią prostą k, leżące po przeciwnych stronach prostej k.","Jeżeli proste m i n są równoległe, to wówczas kąty naprzemianległe są równe:
+W przypadku gdy proste m i n nie są równoległe, to kąty naprzemianległe mają różną miarę.",https://www.matemaks.pl/katy-wierzcholkowe-przylegle-odpowiadajace-i-naprzemianlegle.html,
+,,,,
+"Jaki warunek muszą spełniać długości trzech odcinków, aby można było zbudować z nich trójkąt?",Suma długości dwóch krótszych odcinków musi być większa od długości najdłuższego odcinka,,,
+"Czy istnieje trójkąt o bokach 4 cm, 9 cm i 4 cm?",Nie (bo 4 + 4 < 9),,,
+"Czy z odcinków o długościach 2 cm, 6 cm i 3 cm można zbudować trójkąt?","Nie, ponieważ 2 + 3 < 6",,,
+"Czy z odcinków o długościach 3 cm, 4 cm i 5 cm można zbudować trójkąt?","Tak, ponieważ 3 + 4 > 5",,,
+"Mamy odcinki długości 5 cm, 5 cm i 10 cm. Czy powstanie z nich trójkąt równoramienny?","Nie, ponieważ 5 + 5 nie jest większe od 10",,,
+"Czy można zbudować trójkąt z odcinków: 1 m, 2 m i 3 m?","Nie, bo 1 + 2 = 3 (suma musi być większa)",,,
+,,,,
+Jaka jest suma miar kątów leżących przy jednym ramieniu w dowolnym trapezie?,180°,,,
+Jakie własności ma trapez równoramienny?,Ma równe ramiona i równe kąty przy tej samej podstawie.,,,
+"Jaki warunek musi spełniać trapez, aby był prostokątny?",Musi mieć co najmniej jeden kąt prosty (w praktyce ma dwa przy jednym ramieniu).,,,
+"Jak nazywamy czworokąt, który ma dwie pary boków równoległych?",Równoległobok.,,,
+,,,,
+Dwa kąty w trójkącie mają miary 50° i 70°. Jaką miarę ma trzeci kąt?,60°,,,
+Jaka jest miara kąta wewnętrznego w kwadracie lub prostokącie?,90°,,,
+W równoległoboku kąt ostry ma miarę 60°. Jaką miarę ma sąsiadujący z nim kąt rozwarty?,120°,,,
+Jeden z kątów ostrych w trójkącie prostokątnym ma 20°. Ile stopni ma drugi kąt ostry?,70°,,,
+W trójkącie równoramiennym kąt między ramionami ma 100°. Jakie miary mają kąty przy podstawie?,Po 40°,,,
+W trójkącie równoramiennym jeden z kątów przy podstawie ma 55°. Jaką miarę ma kąt między ramionami?,70°,,,
+W równoległoboku kąt ostry ma 50°. Jaką miarę ma kąt rozwarty leżący przy tym samym boku?,130°,,,
+Kąt rozwarty rombu ma miarę 140°. Jaką miarę ma kąt ostry tego rombu?,40°,,,
+W trapezie równoramiennym kąt przy dolnej podstawie ma 75°. Jaką miarę ma kąt przy górnej podstawie?,105°,,,
+W trapezie prostokątnym kąt rozwarty ma 110°. Jaką miarę ma kąt ostry w tym trapezie?,70°,,,
+Suma trzech kątów w pewnym czworokącie wynosi 260°. Jaką miarę ma czwarty kąt?,100°,,,
+Trójkąt prostokątny równoramienny ma jeden kąt 90°. Jakie miary mają pozostałe dwa kąty?,Po 45°,,,
+W równoległoboku suma dwóch kątów ostrych wynosi 80°. Jaką miarę ma jeden kąt rozwarty?,140°,,,
+Jeden z kątów przyległych do ramienia trapezu ma 60°. Ile wynosi suma miar obu kątów przy tym ramieniu?,180°,,,
+,,,,
+"W równoległoboku jeden bok jest o 5 cm dłuższy od drugiego, a jego obwód wynosi 3 dm 8 cm. Oblicz długości boków tego równoległoboku",7 cm i 12 cm,"Dane: 
+* obwód = 38 cm
+* różnica boków = 5 cm
+Rozwiązanie:
+2a + 2b = 38, więc a + b = 19
+b = a + 5
+a + (a + 5) = 19 → 2a = 14 → a = 7 cm, b = 12 cm
+
+Odpowiedź: 7 cm i 12 cm",,
+"Obwód równoległoboku wynosi 64 cm, a jeden jego bok jest 3 razy krótszy od drugiego. Podaj długości sąsiednich boków tego równoległoboku",8 cm i 24 cm,"Dane: 
+* obwód = 64 cm
+* jeden bok 3 razy krótszy
+Rozwiązanie:
+2a + 2b = 64, więc a + b = 32
+b = 3a
+a + 3a = 32 → 4a = 16 → a = 8 cm, b = 24 cm
+
+Odpowiedź: 8 cm i 24 cm",,
+Romb ma bok o długości 60 cm. Równoległobok o takim samym obwodzie ma boki różniące się o 20 cm. Ustal wymiary równoległoboku,50 cm i 70 cm,"Dane: 
+* romb ma bok 60 cm
+* równoległobok ma taki sam obwód
+* różnica boków = 20 cm
+Rozwiązanie:
+* Obwód rombu = 4 × 60 = 240 cm
+* Dla równoległoboku: a + b = 120, b - a = 20
+* b = a + 20 → a + (a + 20) = 120 → 2a = 100 → a = 50 cm, b = 70 cm
+Odpowiedź: 50 cm i 70 cm",,
+"Jeden z boków równoległoboku jest o 7 cm krótszy od drugiego. Jakie długości mają boki tego równoległoboku, jeśli wiadomo, że jego obwód wynosi 50 cm?",9 cm i 16 cm,"Dane: 
+* obwód = 50 cm
+* różnica boków = 7 cm
+Rozwiązanie:
+a + b = 25, b - a = 7
+b = a + 7 → a + (a + 7) = 25 → 2a = 18 → a = 9 cm, b = 16 cm
+
+Odpowiedź: 9 cm i 16 cm",,
+Kąt rozwarty w rombie ma miarę dwa razy większą niż kąt ostry. Podaj miary wszystkich kątów tego rombu,"60°, 120°, 60°, 120°","Dane: 
+* w rombie kąt rozwarty jest 2 razy większy od ostrego
+Rozwiązanie:
+α + β = 180° (kąty przyległe)
+β = 2α
+α + 2α = 180° → 3α = 180° → α = 60°, β = 120°
+
+Odpowiedź: 60°, 120°, 60°, 120° ",,
+"Oblicz obwód trapezu równoramiennego, którego krótsza podstawa i ramię mają długość 6 cm każde, a dłuższa podstawa jest 2 razy dłuższa od krótszej",30 cm,"Dane: 
+* trapez równoramienny: krótsza podstawa = ramię = 6 cm, dłuższa podstawa = 2 × 6 = 12 cm
+Rozwiązanie:
+Obwód = 6 + 6 + 12 + 6 = 30 cm
+
+Odpowiedź: 30 cm",,
+Obwód trapezu równoramiennego jest równy 1 m. Suma długości jego podstaw wynosi 68 cm. Jaką długość ma ramię tego trapezu?,16 cm,"Dane:
+* obwód = 100 cm
+* suma podstaw = 68 cm
+Rozwiązanie:
+Obwód = a + b + 2r = 100
+a + b = 68
+68 + 2r = 100 → 2r = 32 → r = 16 cm
+
+Odpowiedź: 16 cm",,
+Obwód trapezu prostokątnego wynosi 36 cm. Krótsze ramię i krótsza podstawa są tej samej długości i mają łącznie 12 cm. Dłuższa podstawa jest o 4 cm dłuższa od drugiego ramienia. Oblicz długość dłuższego ramienia,10 cm,"Dane:
+* obwód = 36 cm
+* krótsze ramię + krótsza podstawa = 12 cm
+* dłuższa podstawa o 4 cm dłuższa od drugiego ramienia
+Rozwiązanie:
+Niech:
+* a = krótsza podstawa
+* r₁ = krótsze ramię (prostopadłe)
+* r₂ = dłuższe ramię
+* b = dłuższa podstawa
+a = r₁ i a + r₁ = 12 → 2a = 12 → a = r₁ = 6 cm
+b = r₂ + 4
+
+Obwód: 6 + 6 + r₂ + (r₂ + 4) = 36 → 16 + 2r₂ = 36 → r₂ = 10 cm
+
+Odpowiedź: 10 cm",,
+Miara kąta rozwartego trapezu równoramiennego jest dwukrotnie większa niż miara kąta ostrego. Jakie miary mają kąty tego trapezu?,"60°, 120°, 60°, 120°","Dane: W trapezie równoramiennym kąt rozwarty jest 2 razy większy od ostrego
+Rozwiązanie:
+
+α + β = 180° (kąty przyległe przy ramieniu)
+β = 2α
+α + 2α = 180° → α = 60°, β = 120°
+Odpowiedź: 60°, 120°, 60°, 120°",,
