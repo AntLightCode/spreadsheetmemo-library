@@ -12,10 +12,10 @@ dziękuję,danke,"~#tts:nap:de-DE{Danke für die Hilfe.}#~
 Dziękuję za pomoc.",,,~#ttsA:de-DE#~
 "cześć, halo",hallo,"~#tts:nap:de-DE{Hallo, wie geht es dir?}#~
 Cześć, jak się masz?",,,~#ttsA:de-DE#~
-do widzenia,auf Wiedersehen,"~#tts:nap:de-DE{Auf Wiedersehen, bis zum nächsten Mal.}#~
+Do widzenia.,Auf Wiedersehen.,"~#tts:nap:de-DE{Auf Wiedersehen, bis zum nächsten Mal.}#~
 Do widzenia, do następnego razu.",,,"~#ttsA:de-DE#~
 ~#no-swap#~"
-Dzień dobry.,Guten Tag,"~#tts:nap:de-DE{Guten Tag, kann ich Ihnen helfen?}#~
+Dzień dobry.,Guten Tag.,"~#tts:nap:de-DE{Guten Tag, kann ich Ihnen helfen?}#~
 Dzień dobry, w czym mogę pomóc?",,,~#ttsA:de-DE#~
 jeden,eins,"~#tts:nap:de-DE{Eins plus eins ist zwei.}#~
 Jeden plus jeden równa się dwa.",,,~#ttsA:de-DE#~
@@ -47,7 +47,7 @@ Kto to jest?
 Kto to twoją ulubioną osobą?",,,~#ttsA:de-DE#~
 gdzie,wo,"~#tts:nap:de-DE{Wo wohnst du?}#~
 Gdzie mieszkasz?",,,~#ttsA:de-DE#~
-Dobranoc,Gute Nacht,,,,"~#ttsA:de-DE#~
+Dobranoc.,Gute Nacht.,,,,"~#ttsA:de-DE#~
 ~#no-swap#~"
 "mama, mamusia",die Mutti,"~#tts:nap:de-DE{Meine Mutti kocht das Mittagessen.}#~
 Moja mama gotuje obiad.",,,~#ttsA:de-DE#~
@@ -147,7 +147,9 @@ na górze,oben,"~#tts:nap:de-DE{Die Lampe hängt oben an der Decke.}#~
 Lampa wisi na górze, przy suficie.",,,~#ttsA:de-DE#~
 deszcz,der Regen,"~#tts:nap:de-DE{Es regnet draußen.}#~
 Pada na zewnątrz.",,,~#ttsA:de-DE#~
-niedaleko,in the nähe,"~#tts:nap:de-DE{Die Schule ist in der Nähe.}#~
+"niedaleko, w pobliżu",in der Nähe,"~#tts:nap:de-DE{nicht weit}#~
+
+~#tts:nap:de-DE{Die Schule ist in der Nähe.}#~
 Szkoła jest niedaleko.",,,~#ttsA:de-DE#~
 pogoda,das Wetter,"~#tts:nap:de-DE{Das Wetter ist heute schön.}#~
 Pogoda jest dzisiaj piękna.",,,~#ttsA:de-DE#~
@@ -515,7 +517,7 @@ Dzisiaj jest ciepło.",,,~#ttsA:de-DE#~
 "szafa, kredens",der Schrank,"~#tts:nap:de-DE{der Kleiderschrank}#~
 
 ~#tts:nap:de-DE{Ich legte meine Kleidung in den Schrank.}#~
-Wkładam ubrania do szafy.",,,~#ttsA:de-DE#~
+Włożyłem ubrania do szafy.",,,~#ttsA:de-DE#~
 najlepszy,der Beste,"~#tts:nap:de-DE{Das ist die beste Pizza, die ich je gegessen habe.}#~
 To najlepsza pizza, jaką kiedykolwiek jadłem.",,,~#ttsA:de-DE#~
 "kwaśny, zły",sauer,"~#tts:nap:de-DE{Die Milch ist sauer.}#~
@@ -2733,7 +2735,7 @@ Jest wspaniałą gospodynią.",,,~#ttsA:de-DE#~
 "zapoczątkowywać, zaczynać, rozpoczynać",beginnen,"~#tts:nap:de-DE{Er begann zu sprechen.}#~
 Zaczął mówić.",,,~#ttsA:de-DE#~
 "odpoczywać, odzyskiwać",sich erholen,"~#tts:nap:de-DE{Er erholt sich von einer Verletzung.}#~
-Wyzdrowieje po urazie.",,,~#ttsA:de-DE#~
+Wraca do zdrowia po urazie.",,,~#ttsA:de-DE#~
 telefon komórkowy,das Handy,"~#tts:nap:de-DE{Ich kann ohne mein Handy nicht leben.}#~
 Nie mogę żyć bez mojego telefonu komórkowego.",,,~#ttsA:de-DE#~
 "tajemnica
@@ -2935,7 +2937,7 @@ zwycięzca,der Gewinner,"~#tts:nap:de-DE{Der Gewinner des Wettbewerbs erhält ei
 Zwycięzca konkursu otrzyma nagrodę.",,,~#ttsA:de-DE#~
 bomba,die Bombe,"~#tts:nap:de-DE{Die Bombe explodierte.}#~
 Bomba wybuchła.",,,~#ttsA:de-DE#~
-urodzić,geboren werden,"~#tts:nap:de-DE{Er wurde in Polen geboren.}#~
+urodzić się,geboren werden,"~#tts:nap:de-DE{Er wurde in Polen geboren.}#~
 Urodził się w Polsce.",,,~#ttsA:de-DE#~
 laser,der Laser,"~#tts:nap:de-DE{Der Laserstrahl ist sehr stark.}#~
 Promień lasera jest bardzo potężny.",,,~#ttsA:de-DE#~
@@ -3605,8 +3607,8 @@ Usłyszałem dziwny hałas dochodzący z piwnicy.
 Jest dziwną osobą.",,,~#ttsA:de-DE#~
 "z powrotem, wstecz",zurück,"~#tts:nap:de-DE{Er ging nach Hause zurück.}#~
 Poszedł z powrotem do domu.",,,~#ttsA:de-DE#~
-temperatura,die Temperatur,"~#tts:nap:de-DE{Die Temperatur ist heute sehr kalt.}#~
-Dziś jest bardzo zimno.",,,~#ttsA:de-DE#~
+temperatura,die Temperatur,"~#tts:nap:de-DE{Die Temperatur liegt heute bei 20 Grad.}#~
+Temperatura wynosi dzisiaj 20 stopni.",,,~#ttsA:de-DE#~
 najgorszy dzień,der schlimmste Tag überhaupt,"~#tts:nap:de-DE{Das ist der schlimmste Tag überhaupt.}#~
 To najgorszy dzień w życiu.",,,~#ttsA:de-DE#~
 policjant (potocznie),der Bulle,"~#tts:nap:de-DE{der Polizist}#~
@@ -4152,9 +4154,7 @@ alarm,der Alarm,"~#tts:nap:de-DE{Die Polizei gab einen Vermisstenalarm heraus.}#
 Policja wydała alert zaginięcia osoby.",,,~#ttsA:de-DE#~
 anioł,der Engel,"~#tts:nap:de-DE{Sie ist ein Engel in Verkleidung.}#~
 Jest aniołem w przebraniu.",,,~#ttsA:de-DE#~
-bar,die Bar,"belka, słupek
-
-~#tts:nap:de-DE{Er saß an der Bar.}#~
+bar,die Bar,"~#tts:nap:de-DE{Er saß an der Bar.}#~
 Usiadł przy barze.",,,~#ttsA:de-DE#~
 baseball,der Baseball,"~#tts:nap:de-DE{Er liebt Baseball.}#~
 Kocha baseball.",,,~#ttsA:de-DE#~
@@ -8059,7 +8059,7 @@ Czy on śpi?,Schläft er?,,,,"~#ttsA:de-DE#~
 ~#no-swap#~"
 Co robimy teraz?,Was machen wir jetzt?,,,,"~#ttsA:de-DE#~
 ~#no-swap#~"
-Anglia jest większa niż Polska.,England ist größer als Polen.,,,,"~#ttsA:de-DE#~
+Polska jest większa niż Anglia.,Polen ist größer als England.,,,,"~#ttsA:de-DE#~
 ~#no-swap#~"
 Mój dom jest starszy niż twój.,Mein Haus ist älter als deines.,,,,"~#ttsA:de-DE#~
 ~#no-swap#~"
@@ -8119,7 +8119,7 @@ Czy zamierzasz pracować?,Wirst du arbeiten?,,,,"~#ttsA:de-DE#~
 ~#no-swap#~"
 Nie zamierzamy wychodzić.,Wir werden nicht ausgehen.,,,,"~#ttsA:de-DE#~
 ~#no-swap#~"
-Kiedy jest twój urodziny?,Wann hast du Geburtstag?,,,,"~#ttsA:de-DE#~
+Kiedy są twoje urodziny?,Wann hast du Geburtstag?,,,,"~#ttsA:de-DE#~
 ~#no-swap#~"
 On był w szkole wczoraj.,Er war gestern in der Schule.,,,,"~#ttsA:de-DE#~
 ~#no-swap#~"
@@ -9429,8 +9429,8 @@ normalny,normal,"~#tts:nap:de-DE{Es ist normal, sich nach einem langen Tag müde
 Jest normalne czuć się zmęczonym po długim dniu.",,,~#ttsA:de-DE#~
 trzecia,Dritter,"~#tts:nap:de-DE{Er wurde Dritter im Rennen.}#~
 Zajął trzecie miejsce w wyścigu.",,,~#ttsA:de-DE#~
-"skrzypce (potocznie, muzyka folkowa)",die Fiedel,"~#tts:nap:de-DE{Eine Fiedel ist eine Art von Geige.}#~
-Skrzypce (Fiedel) to rodzaj skrzypiec.",,,~#ttsA:de-DE#~
+"skrzypce (potocznie, muzyka folkowa), gęśle",die Fiedel,"~#tts:nap:de-DE{Der Musikant spielte eine fröhliche Melodie auf der Fiedel.}#~
+Muzykant zagrał wesołą melodię na skrzypcach (ludowych).",,,~#ttsA:de-DE#~
 karabin,das Gewehr,"~#tts:nap:de-DE{Der Soldat trägt ein Gewehr.}#~
 Żołnierz nosi karabin.",,,~#ttsA:de-DE#~
 połysk,der Glanz,"~#tts:nap:de-DE{Der Glanz des neuen Autos war beeindruckend.}#~
@@ -9481,7 +9481,7 @@ Przewidywał, że drużyna wygra.",,,~#ttsA:de-DE#~
 płynąć,fließen,"~#tts:nap:de-DE{Der Fluss fließt ins Meer.}#~
 Rzeka wpada do morza.",,,~#ttsA:de-DE#~
 "postęp, rozwój, osiągnięcie",der Fortschritt,"~#tts:nap:de-DE{Wir haben gute Fortschritte bei dem Projekt gemacht.}#~
-Odnieśliśmy dobry postęp w projekcie.
+Zrobiliśmy duże postępy w projekcie.
 
 ~#tts:nap:de-DE{Wir haben bedeutende Fortschritte in der Technologie gemacht.}#~
 Dokonaliśmy znaczących postępów w technologii.",,,~#ttsA:de-DE#~
@@ -9948,7 +9948,7 @@ Został pochowany w trumnie.",,,~#ttsA:de-DE#~
 chrupać,mümmeln,"~#tts:nap:de-DE{knabbern}#~
 
 ~#tts:nap:de-DE{Er mümmelt an einem Sandwich.}#~
-Przeżuwa (chrupie) kanapkę.",,,~#ttsA:de-DE#~
+Zajada (chrupie) kanapkę.",,,~#ttsA:de-DE#~
 "główny, najważniejszy
 pierwszorzędny",der Haupt-,"~#tts:nap:de-DE{Der Premierminister des Landes besucht Polen.}#~
 Premier (Główny Minister) kraju odwiedza Polskę.",,,~#ttsA:de-DE#~
@@ -10165,7 +10165,7 @@ Mięśnie pomagają nam się ruszać.,Muskeln helfen uns zu bewegen.,,,,"~#ttsA:
 ~#no-swap#~"
 Serce jest mięśniem.,Das Herz ist ein Muskel.,,,,"~#ttsA:de-DE#~
 ~#no-swap#~"
-morskie rozlewisko miedzy skałami,der Felsentümpel,"~#tts:nap:de-DE{der Gezeitentümpel}#~
+"kałuże w skałach (nad morzem), jeziorka pływowe",der Felsentümpel,"~#tts:nap:de-DE{der Gezeitentümpel}#~
 
 ~#tts:nap:de-DE{Ich erkunde gerne die Felsentümpel am Strand.}#~
 Lubię badać kałuże skalne na plaży.",,,~#ttsA:de-DE#~
@@ -11019,8 +11019,8 @@ dodatkowa zawartość,der DLC,"~#tts:nap:de-DE{herunterladbare Inhalte}#~
 Kupiłem nową zawartość dodatkową do gry.",,,~#ttsA:de-DE#~
 tak czy inaczej,sowieso,"~#tts:nap:de-DE{Sowieso, lass uns über etwas anderes reden.}#~
 Tak czy inaczej, porozmawiajmy o czymś innym.",,,~#ttsA:de-DE#~
-gdziekolwiek,irgendwo,"~#tts:nap:de-DE{Kann ich irgendwo Milch kaufen?}#~
-Gdziekolwiek mogę kupić mleko?",,,~#ttsA:de-DE#~
+gdziekolwiek,irgendwo,"~#tts:nap:de-DE{Ich habe meine Schlüssel irgendwo verloren.}#~
+Zgubiłem gdzieś moje klucze.",,,~#ttsA:de-DE#~
 rdzeń,der Kern,"~#tts:nap:de-DE{Der Kern des Problems ist ein Missverständnis.}#~
 Sercem (rdzeniem) problemu jest nieporozumienie.",,,~#ttsA:de-DE#~
 róg (np. pokoju),die Ecke,"~#tts:nap:de-DE{Er stand in der Ecke des Raumes.}#~
@@ -11137,7 +11137,7 @@ Moja tożsamość jest dla mnie ważna.",,,~#ttsA:de-DE#~
 tekst,der Text,"~#tts:nap:de-DE{Der Text ist zu lang.}#~
 Tekst jest za długi.",,,~#ttsA:de-DE#~
 "wiadomość SMS, wiadomość tekstowa",die SMS,"~#tts:nap:de-DE{Ich habe ihr eine SMS geschickt.}#~
-Wysłaliśmy jej wiadomość tekstową.
+Wysłałem jej wiadomość tekstową.
 
 ~#tts:nap:de-DE{Ich habe dir vor einer Stunde eine SMS geschickt.}#~
 Wysłałem ci SMS-a godzinę temu.",,,~#ttsA:de-DE#~
@@ -11226,7 +11226,7 @@ Jest dobrym czytelnikiem.",,,~#ttsA:de-DE#~
 umowa, porozumienie, zgoda (ogólnie, formalne lub nieformalne)",die Vereinbarung,"~#tts:nap:de-DE{die Abmachung}#~
 
 ~#tts:nap:de-DE{Wir haben Vereinbarungen für die Reise getroffen.}#~
-Przygotowaliśmy się (zrobiliśmy układ) na wycieczkę.
+Poczyniliśmy ustalenia dotyczące wycieczki.
 
 ~#tts:nap:de-DE{Wir haben eine Vereinbarung getroffen.}#~
 Doszliśmy do porozumienia.",,,~#ttsA:de-DE#~
@@ -11461,7 +11461,7 @@ Jestem śpiący.",,,~#ttsA:de-DE#~
 zaangażowanie,die Beteiligung,"~#tts:nap:de-DE{Seine Beteiligung an dem Projekt war entscheidend.}#~
 Jego zaangażowanie w projekt było kluczowe.",,,~#ttsA:de-DE#~
 w szczególności,insbesondere,"~#tts:nap:de-DE{Ich habe dich insbesondere gebeten, meine Sachen nicht anzufassen.}#~
-Specjalnie (w szczególności) prosiłem cię, żebyś nie dotykał moich rzeczy.",,,~#ttsA:de-DE#~
+Wyraźnie prosiłem cię, żebyś nie dotykał moich rzeczy.",,,~#ttsA:de-DE#~
 liberalny,liberal,"~#tts:nap:de-DE{Er ist ein liberaler Politiker.}#~
 Jest liberalnym politykiem.",,,~#ttsA:de-DE#~
 cywilny (dotyczący wojny domowej),der Bürger-,"~#tts:nap:de-DE{Der Krieg war ein Bürgerkrieg.}#~
@@ -11987,8 +11987,8 @@ proces,der Prozess,"~#tts:nap:de-DE{Der Prozess des Lernens einer neuen Sprache 
 Proces uczenia się nowego języka wymaga czasu.",,,~#ttsA:de-DE#~
 walec,der Zylinder,"~#tts:nap:de-DE{Ein Zylinder hat zwei kreisförmige Basen und eine gekrümmte Seite.}#~
 Walec ma dwie okrągłe podstawy i zakrzywioną stronę.",,,~#ttsA:de-DE#~
-rosnąca,wachsend,"~#tts:nap:de-DE{Die Bevölkerung der Stadt ist wachsend.}#~
-Populacja miasta jest rosnąca.",,,~#ttsA:de-DE#~
+"rosnący, wzrastający",wachsend,"~#tts:nap:de-DE{Die Nachfrage nach Bio-Produkten ist wachsend.}#~
+Popyt na produkty ekologiczne jest rosnący.",,,~#ttsA:de-DE#~
 ofensywa,beleidigend,"~#tts:nap:de-DE{Seine Kommentare waren beleidigend.}#~
 Jego komentarze były obraźliwe.",,,~#ttsA:de-DE#~
 kabel,das Kabel,"~#tts:nap:de-DE{Das Kabel ist kaputt.}#~
@@ -13162,7 +13162,7 @@ Plan obrabowania banku się nie powiódł.",,,~#ttsA:de-DE#~
 "regularny, stały",regelmäßig,"~#tts:nap:de-DE{Er ist ein regelmäßiger Kunde im Restaurant.}#~
 Jest stałym klientem restauracji.",,,~#ttsA:de-DE#~
 indyjski,indisch,"~#tts:nap:de-DE{Er ist Inder.}#~
-On jest Hindusem (Indianinem).",,,~#ttsA:de-DE#~
+On jest Hindusem.",,,~#ttsA:de-DE#~
 orientacja,die Orientierung,"~#tts:nap:de-DE{Die Einführung für neue Mitarbeiter findet morgen statt.}#~
 Szkolenie orientacyjne dla nowych pracowników odbędzie się jutro.",,,~#ttsA:de-DE#~
 celownik,das Fadenkreuz,"~#tts:nap:de-DE{Richte das Ziel im Fadenkreuz aus, bevor du schießt.}#~
@@ -13611,8 +13611,8 @@ tworzenie,die Schöpfung,"~#tts:nap:de-DE{Die Schöpfung der Welt ist ein Myster
 Stworzenie świata jest tajemnicą.",,,~#ttsA:de-DE#~
 figa,die Feige,"~#tts:nap:de-DE{Feigen sind süße und saftige Früchte.}#~
 Figi są słodkimi i soczystymi owocami.",,,~#ttsA:de-DE#~
-chemia,die Chemikalie,"~#tts:nap:de-DE{Die chemische Reaktion war gefährlich.}#~
-Reakcja chemiczna była niebezpieczna.",,,~#ttsA:de-DE#~
+"substancja chemiczna, chemikalia",die Chemikalie,"~#tts:nap:de-DE{Diese Chemikalie ist gefährlich für die Umwelt.}#~
+Ta substancja chemiczna jest niebezpieczna dla środowiska.",,,~#ttsA:de-DE#~
 dosłownie,buchstäblich,"~#tts:nap:de-DE{Er zitterte buchstäblich vor Angst.}#~
 Dosłownie trząsł się ze strachu.",,,~#ttsA:de-DE#~
 słup,der Mast,"~#tts:nap:de-DE{Der Fahnenmast ist sehr hoch.}#~
@@ -13967,9 +13967,10 @@ postrzegać,wahrnehmen,"~#tts:nap:de-DE{Ich nahm eine Veränderung in seiner Hal
 Poczułem (postrzegałem) zmianę w jego postawie.",,,~#ttsA:de-DE#~
 bergamotka,die Bergamotte,"~#tts:nap:de-DE{Bergamotten sind Zitrusfrüchte.}#~
 Bergamoty to owoce cytrusowe.",,,~#ttsA:de-DE#~
-kij do tenisa stołowego,der Tischtennisschläger,"~#tts:nap:de-DE{Ich habe einen Tischtennisschläger benutzt, um Tischtennis zu spielen.}#~
+rakietka do tenisa stołowego,der Tischtennisschläger,"~#tts:nap:de-DE{Ich habe einen Tischtennisschläger benutzt, um Tischtennis zu spielen.}#~
 Użyłem rakietki do tenisa stołowego, aby grać w tenisa stołowego.",,,~#ttsA:de-DE#~
-"niedobitek, osoba pozostała przy życiu",der Überlebende,"~#tts:nap:de-DE{Sie ist eine Überlebende des Erdbebens.}#~
+"ocalały, niedobitek
+osoba pozostała przy życiu",der Überlebende,"~#tts:nap:de-DE{Sie ist eine Überlebende des Erdbebens.}#~
 Jest ocalałą z trzęsienia ziemi.",,,~#ttsA:de-DE#~
 powierzchnia,die Oberfläche,"~#tts:nap:de-DE{Die Oberfläche des Tisches ist sehr glatt.}#~
 Powierzchnia stołu jest bardzo gładka.",,,~#ttsA:de-DE#~
@@ -14017,7 +14018,7 @@ proporcja,der Anteil,"~#tts:nap:de-DE{Ein großer Anteil der Leute stimmte für 
 Duża część ludzi głosowała na kandydata.",,,~#ttsA:de-DE#~
 koń bujany,das Schaukelpferd,"~#tts:nap:de-DE{Meine Tochter liebt es, auf ihrem Schaukelpferd zu reiten.}#~
 Moja córka uwielbia jeździć na koniku na biegunach.",,,~#ttsA:de-DE#~
-rozsądnie,vernünftig,"~#tts:nap:de-DE{Der Preis ist vernünftig.}#~
+rozsądny,vernünftig,"~#tts:nap:de-DE{Der Preis ist vernünftig.}#~
 Cena jest rozsądna.",,,~#ttsA:de-DE#~
 katedra,die Kathedrale,"~#tts:nap:de-DE{Die Kathedrale ist ein schönes Gebäude.}#~
 Katedra jest pięknym budynkiem.",,,~#ttsA:de-DE#~
@@ -14089,7 +14090,9 @@ Wpływ wojny był niszczycielski.
 Implikacja jego słów była poważna.",,,~#ttsA:de-DE#~
 "uzasadniać, usprawiedliwiać",rechtfertigen,"~#tts:nap:de-DE{Er versuchte, seine Handlungen zu rechtfertigen.}#~
 Próbował usprawiedliwić swoje czyny.",,,~#ttsA:de-DE#~
-eksponować,aufdecken,"~#tts:nap:de-DE{Der Bericht deckte die Korruption auf.}#~
+"eksponować
+ujawniać
+wystawiać na działanie",aufdecken,"~#tts:nap:de-DE{Der Bericht deckte die Korruption auf.}#~
 Raport ujawnił korupcję.",,,~#ttsA:de-DE#~
 zapis,der Rekord,"~#tts:nap:de-DE{Der Rekord für den schnellsten Marathon liegt bei 2 Stunden und 2 Minuten.}#~
 Rekord w biegu maratońskim wynosi 2 godziny i 2 minuty.",,,~#ttsA:de-DE#~
@@ -14129,7 +14132,7 @@ motywacja,die Motivation,"~#tts:nap:de-DE{Seine Motivation fürs Studium ist es,
 Jego motywacją do nauki jest znalezienie dobrej pracy.",,,~#ttsA:de-DE#~
 incydent,der Vorfall,"~#tts:nap:de-DE{Es gab einen ernsten Vorfall in der Schule.}#~
 W szkole miał miejsce poważny incydent.",,,~#ttsA:de-DE#~
-ekonomia,die Wirtschaft,"~#tts:nap:de-DE{Die Wirtschaft wächst langsam.}#~
+gospodarka,die Wirtschaft,"~#tts:nap:de-DE{Die Wirtschaft wächst langsam.}#~
 Gospodarka rośnie powoli.",,,~#ttsA:de-DE#~
 szlifierka,der Schleifer,"~#tts:nap:de-DE{Ein Schleifer wird verwendet, um Metall zu schleifen.}#~
 Szlifierka służy do szlifowania metalu.",,,~#ttsA:de-DE#~
@@ -14153,7 +14156,8 @@ hrabstwo,der Landkreis,"~#tts:nap:de-DE{Er kommt aus dem Landkreis Warschau.}#~
 Jest z powiatu warszawskiego.",,,~#ttsA:de-DE#~
 skarga,die Beschwerde,"~#tts:nap:de-DE{Er reichte eine Beschwerde bei der Polizei ein.}#~
 Złożył skargę na policję.",,,~#ttsA:de-DE#~
-nakładać,sich hinlegen,"~#tts:nap:de-DE{Ich werde mich für ein Nickerchen hinlegen.}#~
+"kłaść, położyć
+nakładać",sich hinlegen,"~#tts:nap:de-DE{Ich werde mich für ein Nickerchen hinlegen.}#~
 Zamierzam się położyć na drzemkę.",,,~#ttsA:de-DE#~
 skrzynka narzędziowa,der Werkzeugkasten,"~#tts:nap:de-DE{Ein Werkzeugkasten wird verwendet, um Werkzeuge aufzubewahren.}#~
 Skrzynka narzędziowa służy do przechowywania narzędzi.",,,~#ttsA:de-DE#~
@@ -14223,15 +14227,15 @@ Ogólny pomysł jest dobry.
 Generalnie ludzie tutaj są przyjaźni.",,,~#ttsA:de-DE#~
 "przez
 za pośrednictwem",via,"~#tts:nap:de-DE{Ich habe die E-Mail via Gmail gesendet.}#~
-Wysłaliśmy wiadomość e-mail przez Gmail.",,,~#ttsA:de-DE#~
+Wysłałem e-mail przez Gmail.",,,~#ttsA:de-DE#~
 wiejski,ländlich,"~#tts:nap:de-DE{Das Dorf liegt in einer ländlichen Gegend.}#~
 Wioska znajduje się na wsi.",,,~#ttsA:de-DE#~
 robienie na drutach,das Stricken,"~#tts:nap:de-DE{Stricken ist ein Hobby.}#~
 Dzianie jest hobby.",,,~#ttsA:de-DE#~
 elektryczny,elektrisch,"~#tts:nap:de-DE{Das Auto ist elektrisch.}#~
 Samochód jest elektryczny.",,,~#ttsA:de-DE#~
-czoło,die Stirn,"~#tts:nap:de-DE{Ich habe Kopfschmerzen.}#~
-Boli mnie głowa.",,,~#ttsA:de-DE#~
+czoło,die Stirn,"~#tts:nap:de-DE{Er wischt sich den Schweiß von der Stirn.}#~
+On wyciera sobie pot z czoła.",,,~#ttsA:de-DE#~
 prowincja,die Provinz,"~#tts:nap:de-DE{Polen ist in 16 Provinzen unterteilt.}#~
 Polska jest podzielona na 16 województw.",,,~#ttsA:de-DE#~
 dziennik,das Tagebuch,"~#tts:nap:de-DE{Ich führe ein Tagebuch über meine Gedanken.}#~
@@ -14951,7 +14955,7 @@ Powinieneś pić co najmniej osiem szklanek wody dziennie.",,,~#ttsA:de-DE#~
 zależy od ciebie,es liegt an dir,"~#tts:nap:de-DE{Wir können ins Kino oder in ein Restaurant gehen, es liegt an dir.}#~
 Możemy iść do kina albo do restauracji, to zależy od ciebie.",,,~#ttsA:de-DE#~
 "czy masz coś przeciwko, jeśli",macht es dir etwas aus,"~#tts:nap:de-DE{Macht es dir etwas aus, wenn ich das Fenster öffne?}#~
-Czy masz coś przeciwko, jeśli otworzę okno?",,,~#ttsA:de-DE#~
+Czy masz coś przeciwko, żebym otworzył okno?",,,~#ttsA:de-DE#~
 klimatyzacja,die Klimaanlage,"~#tts:nap:de-DE{Kannst du bitte die Klimaanlage einschalten? Es ist heiß hier drin.}#~
 Czy możesz włączyć klimatyzację? Jest tu gorąco.",,,~#ttsA:de-DE#~
 "przebranie, maska",die Verkleidung,"~#tts:nap:de-DE{Er trug einen Hut und eine Brille als Verkleidung.}#~
@@ -15249,8 +15253,8 @@ Recepcjonista da ci klucz do pokoju.",,,~#ttsA:de-DE#~
 Potrzebujemy wsparcia.",,,~#ttsA:de-DE#~
 "wspierać, wzmacniać",verstärken,"~#tts:nap:de-DE{Wir müssen die Sicherheit verstärken.}#~
 Musimy wzmocnić bezpieczeństwo.",,,~#ttsA:de-DE#~
-dzika przyroda,die Tierwelt,"~#tts:nap:de-DE{Wir haben viele wilde Tiere im Nationalpark gesehen.}#~
-W parku narodowym widzieliśmy dużo dzikiej przyrody.",,,~#ttsA:de-DE#~
+dzika przyroda,die Tierwelt,"~#tts:nap:de-DE{Die Tierwelt in Australien ist einzigartig.}#~
+Świat zwierząt w Australii jest unikalny.",,,~#ttsA:de-DE#~
 choroba serca,die Herzkrankheit,"~#tts:nap:de-DE{Regelmäßiger Sport kann das Risiko von Herzkrankheiten verringern.}#~
 Regularne ćwiczenia mogą zmniejszyć ryzyko chorób serca.",,,~#ttsA:de-DE#~
 grać przeciwko,spielen gegen,"~#tts:nap:de-DE{Unser Team wird morgen gegen den Meister spielen.}#~
