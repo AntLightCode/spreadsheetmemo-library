@@ -1094,8 +1094,6 @@ Muszę iść do sklepu kupić mleko.",,,~#ttsA:de-DE#~
 Ona ma piękny głos i chce być piosenkarką.",,,~#ttsA:de-DE#~
 trzy,drei,"~#tts:nap:de-DE{Ich habe drei Brüder.}#~
 Mam trzech braci.",,,~#ttsA:de-DE#~
-więzienie,das Gefängnis,"~#tts:nap:de-DE{Er wurde für sein Verbrechen ins Gefängnis geschickt.}#~
-Został wysłany do więzienia za swoje przestępstwo.",,,~#ttsA:de-DE#~
 grać w piłkę nożną,Fußball spielen,"~#tts:nap:de-DE{Ich spiele gerne Fußball.}#~
 Lubię grać w piłkę nożną.",,,~#ttsA:de-DE#~
 "obok, tuż przy",neben,"~#tts:nap:de-DE{daneben}#~
@@ -2768,10 +2766,11 @@ Powinieneś przeprosić za swoje niegrzeczne zachowanie.
 
 ~#tts:nap:de-DE{Ich muss mich für meinen Fehler entschuldigen.}#~
 Muszę przeprosić za mój błąd.",,,~#ttsA:de-DE#~
-"konkurent, rywal",der Konkurrent,"~#tts:nap:de-DE{der Mitbewerber}#~
+"konkurent
+rywal (osoba lub firma biorąca udział w rywalizacji)",der Konkurrent,"~#tts:nap:de-DE{der Mitbewerber}#~
 
-~#tts:nap:de-DE{Er ist ein Konkurrent im Rennen.}#~
-On jest konkurentem w wyścigu.",,,~#ttsA:de-DE#~
+~#tts:nap:de-DE{Er ist mein Konkurrent im Rennen}#~
+On jest moim rywalem w wyścigu.",,,~#ttsA:de-DE#~
 ramię,die Schulter,"~#tts:nap:de-DE{Ich habe mir beim Tennisspielen die Schulter verletzt.}#~
 Bolało mnie ramię (bark), gdy grałem w tenisa.",,,~#ttsA:de-DE#~
 rezerwować,buchen,"~#tts:nap:de-DE{Ich möchte ein Zimmer buchen.}#~
@@ -4309,7 +4308,7 @@ Mgła jest bardzo gęsta.",,,~#ttsA:de-DE#~
 parasol,der Regenschirm,"~#tts:nap:de-DE{der Schirm}#~
 
 ~#tts:nap:de-DE{Ich brauche einen Regenschirm, weil es regnet.}#~
-Potrzebuję parasola, bo pada.
+Potrzebuję parasola, bo pada deszcz.
 
 ~#tts:nap:de-DE{Ich habe meinen Regenschirm im Auto vergessen.}#~
 Zostawiłem mój parasol w samochodzie.",,,~#ttsA:de-DE#~
@@ -7346,6 +7345,8 @@ na długo,für lange Zeit,"~#tts:nap:de-DE{Ich habe lange gewartet.}#~
 Długo czekam.",,,~#ttsA:de-DE#~
 posiłek,die Mahlzeit,"~#tts:nap:de-DE{Wir hatten eine köstliche Mahlzeit.}#~
 Mieliśmy pyszny posiłek.",,,~#ttsA:de-DE#~
+więzienie,das Gefängnis,"~#tts:nap:de-DE{Er wurde für sein Verbrechen ins Gefängnis geschickt.}#~
+Został wysłany do więzienia za swoje przestępstwo.",,,~#ttsA:de-DE#~
 szkolny plecak,die Schultasche,"~#tts:nap:de-DE{Ich habe meine Schultasche vergessen.}#~
 Zapomniałem o torbie szkolnej.",,,~#ttsA:de-DE#~
 "porada
@@ -8934,7 +8935,7 @@ Autobus przyjeżdża co dziesięć minut.",,,~#ttsA:de-DE#~
 pojechać rowerem,mit dem Fahrrad fahren,"~#tts:nap:de-DE{Ich fahre jeden Morgen mit dem Fahrrad zur Arbeit.}#~
 Jeżdżę rowerem do pracy każdego ranka.",,,~#ttsA:de-DE#~
 popłynąć łodzią,mit dem Boot fahren,"~#tts:nap:de-DE{Wir sind mit dem Boot auf dem See gefahren.}#~
-Pojechaliśmy popłynąć łodzią po jeziorze.",,,~#ttsA:de-DE#~
+Popłynęliśmy łodzią po jeziorze.",,,~#ttsA:de-DE#~
 pójść pieszo,zu Fuß gehen,"~#tts:nap:de-DE{Ich gehe gerne zu Fuß, wenn das Wetter schön ist.}#~
 Lubię chodzić pieszo, kiedy jest ładna pogoda.",,,~#ttsA:de-DE#~
 na czas,pünktlich,"~#tts:nap:de-DE{Der Zug ist pünktlich.}#~
@@ -9644,7 +9645,7 @@ Pojawił się w telewizji wczoraj wieczorem.",,,~#ttsA:de-DE#~
 dostawca,der Anbieter,"~#tts:nap:de-DE{der Versorger}#~
 
 ~#tts:nap:de-DE{Er ist ein Gesundheitsdienstleister.}#~
-On jest dostawcą opieki zdrowotnej.",,,~#ttsA:de-DE#~
+On jest pracownikiem służby zdrowia.",,,~#ttsA:de-DE#~
 wzdłuż,entlang,"~#tts:nap:de-DE{Wir sind am Strand entlang spaziert.}#~
 Szliśmy wzdłuż plaży.",,,~#ttsA:de-DE#~
 "wybór, opcja
@@ -10765,11 +10766,7 @@ eliminować,eliminieren,"~#tts:nap:de-DE{beseitigen}#~
 
 ~#tts:nap:de-DE{Sie haben die Möglichkeit eines Fehlers eliminiert.}#~
 Wykluczyli możliwość błędu.",,,~#ttsA:de-DE#~
-"poprzednio
-wcześniejszy, poprzedni",vorherig,"~#tts:nap:de-DE{Der vorherige Besitzer des Hauses war sehr nett.}#~
-Poprzedni właściciel domu był bardzo miły.
-
-~#tts:nap:de-DE{Der vorherige Besitzer des Hauses war sehr nett.}#~
+"wcześniejszy, poprzedni",vorherig,"~#tts:nap:de-DE{Der vorherige Besitzer des Hauses war sehr nett.}#~
 Poprzedni właściciel domu był bardzo miły.",,,~#ttsA:de-DE#~
 równowaga,das Gleichgewicht,"~#tts:nap:de-DE{die Balance}#~
 
@@ -11790,8 +11787,8 @@ moralny",die Moral,"~#tts:nap:de-DE{Die Moral der Geschichte ist, dass Ehrlichke
 Morał historii jest taki, że uczciwość to najlepsza polityka.",,,~#ttsA:de-DE#~
 pakować,packen,"~#tts:nap:de-DE{Ich packe für meine Reise.}#~
 Pakuję się na wyjazd.",,,~#ttsA:de-DE#~
-dragonfruit,die Drachenfrucht,"~#tts:nap:de-DE{Drachenfrüchte sind exotische Früchte mit rosa Schale und weißem Fleisch.}#~
-Smocze owoce (dragonfruit) to egzotyczne owoce o różowej skórce i białym miąższu.",,,~#ttsA:de-DE#~
+"smoczy owoc, pitaja",die Drachenfrucht,"~#tts:nap:de-DE{Drachenfrüchte sind exotische Früchte mit rosa Schale und weißem Fleisch.}#~
+Smocze owoce (pitaje) to egzotyczne owoce o różowej skórce i białym miąższu.",,,~#ttsA:de-DE#~
 "propozycja, wniosek, deklaracja
 
 sugestia, rada",der Vorschlag,"~#tts:nap:de-DE{Der Vorschlag wurde abgelehnt.}#~
@@ -12034,7 +12031,7 @@ Aspekt problemu jest ważny.",,,~#ttsA:de-DE#~
 wyregulować",anpassen,"~#tts:nap:de-DE{Ich habe die Lautstärke am Fernseher angepasst.}#~
 Dostosowałem głośność w telewizorze.",,,~#ttsA:de-DE#~
 rzutki,das Darts,"~#tts:nap:de-DE{Ich habe mit meinen Freunden Darts gespielt.}#~
-Grałem w darty z przyjaciółmi.",,,~#ttsA:de-DE#~
+Grałem w rzutki z przyjaciółmi.",,,~#ttsA:de-DE#~
 "scenariusz, tekst do odczytania lub przedstawienia",das Skript,"~#tts:nap:de-DE{Das Skript für das Stück war sehr lustig.}#~
 Scenariusz do sztuki był bardzo zabawny.",,,~#ttsA:de-DE#~
 literacki,literarisch,"~#tts:nap:de-DE{Er ist ein Literaturkritiker.}#~
@@ -12248,7 +12245,7 @@ stanowić,bilden,"~#tts:nap:de-DE{Die Verfassung garantiert die Meinungsfreiheit
 Konstytucja gwarantuje wolność słowa (konstytuuje).",,,~#ttsA:de-DE#~
 opór,der Widerstand,"~#tts:nap:de-DE{Der Widerstand gegen die Regierung war stark.}#~
 Opór wobec rządu był silny.",,,~#ttsA:de-DE#~
-równoległobok,das Parallelepiped,"~#tts:nap:de-DE{Ein Parallelepiped hat sechs rechteckige Flächen.}#~
+równoległościan,das Parallelepiped,"~#tts:nap:de-DE{Ein Parallelepiped hat sechs rechteckige Flächen.}#~
 Równoległościan ma sześć prostokątnych ścian.",,,~#ttsA:de-DE#~
 wyobrażenie,die Ahnung,"~#tts:nap:de-DE{Ich habe keine Ahnung, was passiert ist.}#~
 Nie mam pojęcia, co się stało.",,,~#ttsA:de-DE#~
@@ -13063,7 +13060,7 @@ Ma duże poczucie odpowiedzialności.",,,~#ttsA:de-DE#~
 "cywil, osoba nie będąca żołnierzem lub funkcjonariuszem",der Zivilist,"~#tts:nap:de-DE{Er ist Zivilist.}#~
 On jest cywilem.",,,~#ttsA:de-DE#~
 piła do metalu,die Bügelsäge,"~#tts:nap:de-DE{Eine Bügelsäge wird verwendet, um Metall zu schneiden.}#~
-Piła ręczna służy do cięcia metalu.",,,~#ttsA:de-DE#~
+Piła do metalu służy do cięcia metalu.",,,~#ttsA:de-DE#~
 owoc gwiaździsty,die Sternfrucht,"~#tts:nap:de-DE{Sternfrüchte sind tropische Früchte mit einem sternförmigen Querschnitt.}#~
 Karambola (gwiazdnica) to tropikalne owoce o gwiaździstym przekroju.",,,~#ttsA:de-DE#~
 "obdarowany
@@ -13274,7 +13271,7 @@ Nadużywał swojej władzy.",,,~#ttsA:de-DE#~
 publikować,veröffentlichen,"~#tts:nap:de-DE{Das Buch wird nächsten Monat veröffentlicht.}#~
 Książka zostanie opublikowana w przyszłym miesiącu.",,,~#ttsA:de-DE#~
 nożyce do drutu,der Seitenschneider,"~#tts:nap:de-DE{Ein Seitenschneider wird verwendet, um Draht zu schneiden.}#~
-Obcęgi (boczne) służą do cięcia drutu.",,,~#ttsA:de-DE#~
+Szczypce tnące służą do cięcia drutu.",,,~#ttsA:de-DE#~
 biologiczny,biologisch,"~#tts:nap:de-DE{Der menschliche Körper ist eine biologische Maschine.}#~
 Ciało ludzkie jest biologiczną maszyną.",,,~#ttsA:de-DE#~
 romantyczny,romantisch,"~#tts:nap:de-DE{Er ist eine sehr romantische Person.}#~
@@ -13647,8 +13644,6 @@ Negocjacje zakończyły się sukcesem.",,,~#ttsA:de-DE#~
 Zaciągnąłem pożyczkę na zakup samochodu.",,,~#ttsA:de-DE#~
 "wpływ, oddziaływanie",der Einfluss,"~#tts:nap:de-DE{Sein Einfluss auf die Welt war bedeutend.}#~
 Jego wpływ na świat był znaczący.",,,~#ttsA:de-DE#~
-Irak,irakisch,"~#tts:nap:de-DE{Er ist Iraker.}#~
-On jest Irakijczykiem.",,,~#ttsA:de-DE#~
 Biblia,die Bibel,"~#tts:nap:de-DE{Er liest jeden Tag in der Bibel.}#~
 Czyta Biblię każdego dnia.",,,~#ttsA:de-DE#~
 dramat,das Drama,"~#tts:nap:de-DE{Das Drama war sehr spannend.}#~
@@ -14763,8 +14758,8 @@ galon,die Gallone,"~#tts:nap:de-DE{Der Preis für eine Gallone Benzin ist gestie
 Cena galonu benzyny wzrosła.",,,~#ttsA:de-DE#~
 "dokument, film dokumentalny",der Dokumentarfilm,"~#tts:nap:de-DE{Ich habe einen Dokumentarfilm über Wale gesehen.}#~
 Obejrzałem film dokumentalny o wielorybach.",,,~#ttsA:de-DE#~
-zwiewać,wegwehen,"~#tts:nap:de-DE{Der starke Wind könnte deinen Hut wegwehen.}#~
-Silny wiatr może zwiać ci kapelusz.",,,~#ttsA:de-DE#~
+"zdmuchnąć, porwać (przez wiatr)",wegwehen,"~#tts:nap:de-DE{Der starke Wind könnte deinen Hut wegwehen.}#~
+Silny wiatr może porwać twój kapelusz.",,,~#ttsA:de-DE#~
 "z powodu, ze względu na, przez",wegen,"~#tts:nap:de-DE{Der Flug hatte wegen schlechten Wetters Verspätung.}#~
 Lot został opóźniony z powodu złej pogody.",,,~#ttsA:de-DE#~
 tolerować,tolerieren,"~#tts:nap:de-DE{Ich werde solch unhöfliches Verhalten nicht tolerieren.}#~
@@ -14829,7 +14824,7 @@ Woda to przezroczysty, bezsmakowy płyn.",,,~#ttsA:de-DE#~
 biżuteria,der Schmuck,"~#tts:nap:de-DE{Sie bekam ein schönes Schmuckstück zum Geburtstag.}#~
 Na urodziny dostała piękną biżuterię.",,,~#ttsA:de-DE#~
 wilgotność,die Feuchtigkeit,"~#tts:nap:de-DE{Die hohe Luftfeuchtigkeit lässt das Wetter noch heißer wirken.}#~
-Wysoka wilgotność sprawia, że pogoda wydaje się jeszcze gorętsza.",,,~#ttsA:de-DE#~
+Wysoka wilgotność powietrza sprawia, że pogoda wydaje się jeszcze bardziej upalna.",,,~#ttsA:de-DE#~
 strona internetowa (pojedyncza podstrona),die Webseite,"~#tts:nap:de-DE{Weitere Informationen finden Sie auf unserer offiziellen Webseite.}#~
 Więcej informacji można znaleźć na naszej oficjalnej stronie internetowej.",,,~#ttsA:de-DE#~
 zasnąć,einschlafen,"~#tts:nap:de-DE{Ich konnte letzte Nacht nicht einschlafen.}#~
