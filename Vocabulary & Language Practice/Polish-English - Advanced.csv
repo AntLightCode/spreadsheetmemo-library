@@ -3432,7 +3432,9 @@ duszny,sultry,~#tts:nap:en-US{The day was sultry.}#~,,,~#ttsA:en-US#~
 drób,poultry,~#tts:nap:en-US{We raised poultry.}#~,,,~#ttsA:en-US#~
 wąż gumowy,hose,~#tts:nap:en-US{He hosed down the car.}#~,,,~#ttsA:en-US#~
 skwarny,torrid,~#tts:nap:en-US{The weather was torrid.}#~,,,~#ttsA:en-US#~
-"rozpakowywać, rozwijać",to unspool,~#tts:nap:en-US{She unspooled the yarn.}#~,,,~#ttsA:en-US#~
+"rozpakowywać, rozwijać",to unspool,"~#tts:nap:en-US{to unwind, to unwrap, to unravel}#~
+
+~#tts:nap:en-US{She unspooled the yarn.}#~",,,~#ttsA:en-US#~
 "przepełniony, pełne",brimming,"~#tts:nap:en-US{full, filled}#~
 
 ~#tts:nap:en-US{The glass was brimming with water.}#~",,,~#ttsA:en-US#~
@@ -5334,6 +5336,7 @@ godzina policyjna,curfew,~#tts:nap:en-US{My parents set a strict curfew for me o
 "za obopólną zgodą, dobrowolny",consensual,~#tts:nap:en-US{The police confirmed that the encounter was consensual.}#~,,,~#ttsA:en-US#~
 trąd,leprosy,"~#tts:nap:en-US{In the past, people with leprosy were often isolated from society.}#~",,,~#ttsA:en-US#~
 trędowaty,leper,"~#tts:nap:en-US{In ancient times, a leper was often an outcast.}#~",,,~#ttsA:en-US#~
+"szczęśliwy traf, nieoczekiwane odkrycie",serendipity,~#tts:nap:en-US{Finding my old keys while looking for something else was pure serendipity.}#~,,,~#ttsA:en-US#~
 #SHEETINFO | name=Phrasal Verbs - Advanced,,,,,
 "ustąpić, ulec (komuś/czemuś) 
 

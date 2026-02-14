@@ -469,7 +469,7 @@ To jest nasz dom.",,,~#ttsA:de-DE#~
 dzień,der Tag,"~#tts:nap:de-DE{Heute ist ein sonniger Tag.}#~
 Dziś jest słoneczny dzień.",,,~#ttsA:de-DE#~
 ptak,der Vogel,"~#tts:nap:de-DE{Der Vogel fliegt.}#~
-Ptak lata.",,,~#ttsA:de-DE#~
+Ptak leci.",,,~#ttsA:de-DE#~
 komisariat policji,die Polizeiwache,"~#tts:nap:de-DE{Er ging zur Polizeiwache, um einen Diebstahl zu melden.}#~
 Poszedł na komisariat policji, aby zgłosić kradzież.",,,~#ttsA:de-DE#~
 malować,malen,"~#tts:nap:de-DE{Ich male gerne.}#~
@@ -1168,7 +1168,7 @@ Zamek jest bardzo stary.
 ~#tts:nap:de-DE{Ein Schloss ist ein großes Gebäude, das einst als Wohnsitz für einen König oder eine Königin diente.}#~
 Zamek to duży budynek, który był kiedyś używany jako dom dla króla lub królowej.",,,~#ttsA:de-DE#~
 świat,die Welt,"~#tts:nap:de-DE{Die Welt ist ein großer Ort.}#~
-Świat jest dużym miejscem.",,,~#ttsA:de-DE#~
+Świat jest ogromny.",,,~#ttsA:de-DE#~
 przeprowadzać się,umziehen,"~#tts:nap:de-DE{Ich ziehe in eine neue Wohnung um.}#~ 
 Przeprowadzam się do nowego mieszkania.",,,~#ttsA:de-DE#~
 "przepraszam
@@ -2187,7 +2187,7 @@ On jest mistrzem świata.",,,~#ttsA:de-DE#~
 galeria,die Galerie,"~#tts:nap:de-DE{Die Galerie ist heute geschlossen.}#~
 Galeria jest dziś zamknięta.",,,~#ttsA:de-DE#~
 zamrażać,einfrieren,"~#tts:nap:de-DE{Das Wasser gefror zu Eis.}#~
-Woda zamarzła w lód.",,,~#ttsA:de-DE#~
+Woda zamarzła.",,,~#ttsA:de-DE#~
 tarantula,die Tarantel,"~#tts:nap:de-DE{Taranteln sind große, haarige Spinnen.}#~
 Tarantule to duże, owłosione pająki.",,,~#ttsA:de-DE#~
 "nadal, jeszcze, wciąż",immer noch,"~#tts:nap:de-DE{Es regnet immer noch draußen.}#~
@@ -2197,9 +2197,11 @@ Agent nieruchomości pomógł nam znaleźć nowy dom.",,,~#ttsA:de-DE#~
 decyzja,die Entscheidung,"~#tts:nap:de-DE{Er hat eine gute Entscheidung getroffen.}#~
 Podjął dobrą decyzję.",,,~#ttsA:de-DE#~
 "szept
+
 szeptać","das Flüstern
+
 flüstern","~#tts:nap:de-DE{Sie flüsterte mir ins Ohr.}#~
-Szeptała mi do ucha.",,,~#ttsA:de-DE#~
+Szepnęła mi do ucha.",,,~#ttsA:de-DE#~
 dorosły,der Erwachsene,"~#tts:nap:de-DE{Er ist ein Erwachsener.}#~
 Jest dorosły.",,,~#ttsA:de-DE#~
 pieprz (przyprawa),der Pfeffer,"~#tts:nap:de-DE{Ich mag schwarzen Pfeffer.}#~
@@ -2954,7 +2956,7 @@ Klasnął w dłonie.",,,~#ttsA:de-DE#~
 wyjście (np. tabliczka nad drzwiami),der Ausgang,"~#tts:nap:de-DE{Der Ausgang ist auf der rechten Seite.}#~
 Wyjście jest po prawej stronie.",,,~#ttsA:de-DE#~
 głos,die Stimme,"~#tts:nap:de-DE{Seine Stimme ist sehr tief.}#~
-Jego głos jest bardzo głęboki.",,,~#ttsA:de-DE#~
+Jego głos jest bardzo niski.",,,~#ttsA:de-DE#~
 "szkło
 
 słoik
@@ -3015,7 +3017,7 @@ Magik rzucił zaklęcie.",,,~#ttsA:de-DE#~
 lekcja,die Lektion,"~#tts:nap:de-DE{der Unterricht}#~
 
 ~#tts:nap:de-DE{Ich habe eine wertvolle Lektion gelernt.}#~
-Wyciągnąłem cenną lekcję.",,,~#ttsA:de-DE#~
+Otrzymałem cenną lekcję.",,,~#ttsA:de-DE#~
 "gryźć, ugryźć",beißen,"~#tts:nap:de-DE{Er biss sich auf die Lippe.}#~
 Ugryzł się w wargę.",,,~#ttsA:de-DE#~
 loch,der Kerker,"~#tts:nap:de-DE{Das Verlies}#~
@@ -3057,7 +3059,7 @@ Mój tata zbudował dla mnie domek na drzewie.",,,~#ttsA:de-DE#~
 kreskówka,der Zeichentrickfilm,"~#tts:nap:de-DE{Mein kleiner Bruder schaut jeden Morgen einen Zeichentrickfilm.}#~
 Mój młodszy brat ogląda kreskówkę każdego ranka.",,,~#ttsA:de-DE#~
 śnieżny,verschneit,"~#tts:nap:de-DE{Im Winter ist es verschneit.}#~
-Jest śnieżnie zimą.",,,~#ttsA:de-DE#~
+Zimą jest śnieżnie.",,,~#ttsA:de-DE#~
 przeszłość,die Vergangenheit,"~#tts:nap:de-DE{In der Vergangenheit lebten die Menschen in Höhlen.}#~
 W przeszłości ludzie mieszkali w jaskiniach.",,,~#ttsA:de-DE#~
 głośność,die Lautstärke,"~#tts:nap:de-DE{Bitte dreh die Lautstärke runter.}#~
@@ -3161,8 +3163,11 @@ ząb,der Zahn,"~#tts:nap:de-DE{Ich habe Zahnschmerzen.}#~
 Boli mnie ząb.",,,~#ttsA:de-DE#~
 maska,die Maske,"~#tts:nap:de-DE{Er trägt eine Maske.}#~
 Ma na sobie maskę.",,,~#ttsA:de-DE#~
-fitness,die Fitness,"~#tts:nap:de-DE{Er ist in guter Fitness.}#~
-Jest w dobrej kondycji.",,,~#ttsA:de-DE#~
+"kondycja, sprawność",die Fitness,"~#tts:nap:de-DE{Er ist in guter Fitness.}#~
+Jest w dobrej kondycji.
+
+~#tts:nap:de-DE{Regelmäßiger Sport ist gut für die Fitness.}#~
+Regularny sport jest dobry dla kondycji.",,,~#ttsA:de-DE#~
 rządzić,herrschen,"~#tts:nap:de-DE{Der König herrschte über das Land.}#~
 Król rządził krajem.",,,~#ttsA:de-DE#~
 mało czasu,wenig Zeit,"~#tts:nap:de-DE{Ich habe wenig Zeit zum Reden.}#~
@@ -3181,7 +3186,7 @@ Podstawa piramidy jest kwadratowa.
 ~#tts:nap:de-DE{Die Basis des Arguments ist fehlerhaft.}#~
 Podstawa argumentu jest błędna.",,,~#ttsA:de-DE#~
 nadzieja,die Hoffnung,"~#tts:nap:de-DE{Ich hoffe, du hast einen guten Tag.}#~
-Mam nadzieję, że będziesz miał dobry dzień.",,,~#ttsA:de-DE#~
+Mam nadzieję, że miło spędzisz dzień.",,,~#ttsA:de-DE#~
 "pojedynczy, jednoosobowy",einzeln,"~#tts:nap:de-DE{Ich bin Single.}#~
 Jestem samotny.",,,~#ttsA:de-DE#~
 kosztować,kosten,"~#tts:nap:de-DE{Was kostet dieser Pullover?}#~
@@ -3606,7 +3611,7 @@ Usłyszałem dziwny hałas dochodzący z piwnicy.
 ~#tts:nap:de-DE{Er ist eine seltsame Person.}#~
 Jest dziwną osobą.",,,~#ttsA:de-DE#~
 "z powrotem, wstecz",zurück,"~#tts:nap:de-DE{Er ging nach Hause zurück.}#~
-Poszedł z powrotem do domu.",,,~#ttsA:de-DE#~
+Wrócił do domu.",,,~#ttsA:de-DE#~
 temperatura,die Temperatur,"~#tts:nap:de-DE{Die Temperatur liegt heute bei 20 Grad.}#~
 Temperatura wynosi dzisiaj 20 stopni.",,,~#ttsA:de-DE#~
 najgorszy dzień,der schlimmste Tag überhaupt,"~#tts:nap:de-DE{Das ist der schlimmste Tag überhaupt.}#~
@@ -3772,7 +3777,7 @@ Wyłącz telewizor.",,,~#ttsA:de-DE#~
 To zwykły dzień.",,,~#ttsA:de-DE#~
 komar,die Mücke,"~#tts:nap:de-DE{Mücken stechen.}#~
 Komary gryzą.",,,~#ttsA:de-DE#~
-głęboko,tief,"~#tts:nap:de-DE{Der See ist sehr tief.}#~
+"głęboko, głęboki",tief,"~#tts:nap:de-DE{Der See ist sehr tief.}#~
 Jezioro jest bardzo głębokie.",,,~#ttsA:de-DE#~
 w pobliżu,in der Nähe,"~#tts:nap:de-DE{Der Laden ist in der Nähe.}#~
 Sklep jest niedaleko.",,,"~#ttsA:de-DE#~
@@ -4060,7 +4065,7 @@ Komputer potrafi bardzo szybko obliczyć wynik.",,,~#ttsA:de-DE#~
 "zarabiać
 
 zasługiwać",verdienen,"~#tts:nap:de-DE{Sie verdient ein gutes Gehalt.}#~
-Zarabia dobre wynagrodzenie.
+Ona ma dobrą pensję.
 
 ~#tts:nap:de-DE{Er verdient eine Belohnung für seine harte Arbeit.}#~
 Zasługuje na nagrodę za swoją ciężką pracę.",,,~#ttsA:de-DE#~
@@ -4348,7 +4353,7 @@ Mieliśmy grilla w ogrodzie.",,,~#ttsA:de-DE#~
 "gleba, ziemia (grunt)",der Erdboden,"~#tts:nap:de-DE{Sie pflanzte Blumen in den Erdboden.}#~
 Posadziła kwiaty w ziemi.",,,~#ttsA:de-DE#~
 błyskawica,der Blitz,"~#tts:nap:de-DE{Der Blitz war sehr hell.}#~
-Błyskawice były bardzo jasne.",,,~#ttsA:de-DE#~
+Błyskawica była bardzo jasna.",,,~#ttsA:de-DE#~
 układ słoneczny,das Sonnensystem,"~#tts:nap:de-DE{Unser Sonnensystem hat acht Planeten.}#~
 Nasz układ słoneczny ma osiem planet.",,,~#ttsA:de-DE#~
 jaskinia,die Höhle,"~#tts:nap:de-DE{Die Höhle ist sehr dunkel.}#~
@@ -4810,11 +4815,11 @@ Baterie służą do zasilania urządzeń elektronicznych.",,,~#ttsA:de-DE#~
 suszarka do włosów,der Föhn,"~#tts:nap:de-DE{Ein Föhn wird verwendet, um deine Haare zu trocknen.}#~
 Suszarka do włosów służy do suszenia włosów.",,,~#ttsA:de-DE#~
 wspinaczka,das Klettern,"~#tts:nap:de-DE{Ich gehe gerne klettern.}#~
-Lubię chodzić po górach.",,,~#ttsA:de-DE#~
+Lubię się wspinać.",,,~#ttsA:de-DE#~
 nurkowanie,das Tauchen,"~#tts:nap:de-DE{Ich bin im Ozean getaucht.}#~
 Nurkowałem w oceanie.",,,~#ttsA:de-DE#~
 ogrodnictwo,die Gartenarbeit,"~#tts:nap:de-DE{Ich gärtnere gerne.}#~
-Lubię ogrodnictwo.",,,~#ttsA:de-DE#~
+Lubię pracować w ogrodzie.",,,~#ttsA:de-DE#~
 domek dla lalek,das Puppenhaus,"~#tts:nap:de-DE{Meine Tochter spielt mit ihrem Puppenhaus.}#~
 Moja córka bawi się swoim domkiem dla lalek.",,,~#ttsA:de-DE#~
 jojo,das Jo-Jo,"~#tts:nap:de-DE{Als Kind habe ich mit einem Jo-Jo gespielt.}#~
@@ -4825,8 +4830,8 @@ kompas,der Kompass,"~#tts:nap:de-DE{Ich benutzte einen Kompass, um meinen Weg zu
 Użyłem kompasu, aby znaleźć drogę.",,,~#ttsA:de-DE#~
 łyżwa,der Schlittschuh,"~#tts:nap:de-DE{Ich bin auf dem See Schlittschuh gelaufen.}#~
 Jeździłem na łyżwach po jeziorze.",,,~#ttsA:de-DE#~
-pompa,die Pumpe,"~#tts:nap:de-DE{Ich benutzte eine Pumpe, um die Reifen meines Fahrrads aufzupumpen.}#~
-Użyłem pompy, aby napompować opony roweru.",,,~#ttsA:de-DE#~
+"pompa, pompka",die Pumpe,"~#tts:nap:de-DE{Ich benutzte eine Pumpe, um die Reifen meines Fahrrads aufzupumpen.}#~
+Użyłem pompki, aby napompować opony roweru.",,,~#ttsA:de-DE#~
 rakiety śnieżne,die Schneeschuhe,"~#tts:nap:de-DE{Ich benutzte Schneeschuhe, um im Schnee zu laufen.}#~
 Użyłem rakiet śnieżnych, aby chodzić po śniegu.",,,~#ttsA:de-DE#~
 "Tak, jestem.","Ja, bin ich.",,,,"~#ttsA:de-DE#~
@@ -4871,7 +4876,7 @@ Warcaby to gra planszowa.",,,~#ttsA:de-DE#~
 pasta do zębów,die Zahnpasta,"~#tts:nap:de-DE{Zahnpasta wird verwendet, um deine Zähne zu putzen.}#~
 Pasta do zębów służy do czyszczenia zębów.",,,~#ttsA:de-DE#~
 stoper,die Stoppuhr,"~#tts:nap:de-DE{Ich benutzte eine Stoppuhr, um meine Zeit zu messen.}#~
-Użyłem stopera, aby zmierzyć czas.",,,~#ttsA:de-DE#~
+Użyłem stopera, aby zmierzyć sobie czas.",,,~#ttsA:de-DE#~
 smażyć,braten,"~#tts:nap:de-DE{Ich habe ein Ei zum Frühstück gebraten.}#~
 Usmażyłem jajko na śniadanie.",,,~#ttsA:de-DE#~
 koza,die Ziege,"~#tts:nap:de-DE{Ziegen werden oft auf Bauernhöfen gehalten.}#~
@@ -9739,7 +9744,8 @@ niestandardowy,maßgeschneidert,"~#tts:nap:de-DE{benutzerdefiniert}#~
 To jest sukienka szyta na miarę.",,,~#ttsA:de-DE#~
 wersja,die Version,"~#tts:nap:de-DE{Das ist die neue Version der Software.}#~
 To jest nowa wersja oprogramowania.",,,~#ttsA:de-DE#~
-żyjący,der Lebensunterhalt,"~#tts:nap:de-DE{Womit verdienst du deinen Lebensunterhalt?}#~
+"utrzymanie (zarobek)
+środki do życia",der Lebensunterhalt,"~#tts:nap:de-DE{Womit verdienst du deinen Lebensunterhalt?}#~
 Jak zarabiasz na życie?",,,~#ttsA:de-DE#~
 port,der Hafen,"~#tts:nap:de-DE{Das Schiff liegt im Hafen an.}#~
 Statek jest zacumowany w porcie.",,,~#ttsA:de-DE#~
@@ -14352,7 +14358,7 @@ Proszę zapłacić kasjerowi przy wyjściu.",,,~#ttsA:de-DE#~
 skrzypce (klasyczne),die Geige,"~#tts:nap:de-DE{Sie spielt Geige, seit sie fünf ist.}#~
 Ona gra na skrzypcach, odkąd skończyła pięć lat.",,,~#ttsA:de-DE#~
 kciuk,der Daumen,"~#tts:nap:de-DE{Er gab mir einen Daumen nach oben, um zu zeigen, dass alles in Ordnung war.}#~
-Dał mi kciuk w górę, żeby pokazać, że wszystko jest w porządku.",,,~#ttsA:de-DE#~
+Pokazał mi kciuk w górę, żeby pokazać, że wszystko jest w porządku.",,,~#ttsA:de-DE#~
 "pantofel, kapeć",der Hausschuh,"~#tts:nap:de-DE{Im Winter trage ich zu Hause gerne warme Hausschuhe.}#~
 Zimą lubię nosić w domu ciepłe kapcie.",,,~#ttsA:de-DE#~
 światło słoneczne,das Sonnenlicht,"~#tts:nap:de-DE{Der Raum war mit warmem Sonnenlicht gefüllt.}#~
@@ -14509,7 +14515,7 @@ danie główne,das Hauptgericht,"~#tts:nap:de-DE{Als Hauptgericht nehme ich den 
 Na danie główne wezmę łososia.",,,~#ttsA:de-DE#~
 mieć uczucia lub opinię na jakiś temat,denken über,"~#tts:nap:de-DE{Was denkst du über den neuen Vorschlag?}#~
 Co sądzisz o nowej propozycji?",,,~#ttsA:de-DE#~
-"wymawiać, ogłaszać, wymowa",aussprechen,"~#tts:nap:de-DE{Wie spricht man deinen Nachnamen aus?}#~
+"wymawiać, ogłaszać",aussprechen,"~#tts:nap:de-DE{Wie spricht man deinen Nachnamen aus?}#~
 Jak wymawia się twoje nazwisko?",,,~#ttsA:de-DE#~
 współlokator,der Mitbewohner,"~#tts:nap:de-DE{Ich suche einen neuen Mitbewohner.}#~
 Szukam nowego współlokatora.
@@ -14576,7 +14582,7 @@ Weź ze sobą klucze na wypadek, gdyby nie było mnie w domu.",,,~#ttsA:de-DE#~
 "jeździć na sankach, zjeżdżać na sankach",schlittenfahren,"~#tts:nap:de-DE{Die Kinder lieben es, im Winter den Hügel hinunterzuschlitten.}#~
 Dzieci uwielbiają zjeżdżać na sankach z górki zimą.",,,~#ttsA:de-DE#~
 "fryzura, strzyżenie",der Haarschnitt,"~#tts:nap:de-DE{Du brauchst einen Haarschnitt; deine Haare werden zu lang.}#~
-Potrzebujesz strzyżenia; twoje włosy stają się za długie.",,,~#ttsA:de-DE#~
+Musisz się obciąć; twoje włosy robią się za długie.",,,~#ttsA:de-DE#~
 liceum,die Highschool,"~#tts:nap:de-DE{Er ist Schüler an der örtlichen Highschool (Oberschule/Gymnasium).}#~
 Jest uczniem lokalnego liceum.",,,~#ttsA:de-DE#~
 dobre dla,gut für,"~#tts:nap:de-DE{Gemüse essen ist gut für deine Gesundheit.}#~
@@ -14679,7 +14685,7 @@ Złe wieści zdawały się go martwić.",,,~#ttsA:de-DE#~
 w górach,in den Bergen,"~#tts:nap:de-DE{Wir haben unseren Urlaub mit Wandern in den Bergen verbracht.}#~
 Spędziliśmy wakacje, wędrując po górach.",,,~#ttsA:de-DE#~
 nadgodziny,Überstunden,"~#tts:nap:de-DE{Ich musste Überstunden machen, um das Projekt fertigzustellen.}#~
-Musiałem pracować w nadgodzinach, aby ukończyć projekt.",,,~#ttsA:de-DE#~
+Musiałem pracować po godzinach, aby ukończyć projekt.",,,~#ttsA:de-DE#~
 metka z ceną,das Preisschild,"~#tts:nap:de-DE{Ich kann das Preisschild an diesem Hemd nicht finden.}#~
 Nie mogę znaleźć metki z ceną na tej koszuli.",,,~#ttsA:de-DE#~
 "gdybyś był, gdybyś była, gdybyście byli",wenn du wärst,"~#tts:nap:de-DE{Was würdest du tun, wenn du ich wärst?}#~
@@ -14692,7 +14698,7 @@ Zjadłem za dużo i teraz boli mnie brzuch.",,,~#ttsA:de-DE#~
 Ta książka jest w całości o historii Rzymu.",,,~#ttsA:de-DE#~
 prace domowe,die Hausarbeit,"~#tts:nap:de-DE{Ich habe dieses Wochenende viel Hausarbeit zu erledigen.}#~
 W ten weekend mam dużo prac domowych do zrobienia.",,,~#ttsA:de-DE#~
-przezwisko,der Spitzname,"~#tts:nap:de-DE{Sein richtiger Name ist Robert, aber sein Spitzname ist Rob.}#~
+"ksywka, przydomek, zdrobnienie",der Spitzname,"~#tts:nap:de-DE{Sein richtiger Name ist Robert, aber sein Spitzname ist Rob.}#~
 Jego prawdziwe imię to Robert, ale jego przezwisko to Rob.",,,~#ttsA:de-DE#~
 bzdura,der Unsinn,"~#tts:nap:de-DE{Was er gesagt hat, war völliger Unsinn.}#~
 To, co powiedział, to kompletna bzdura.",,,~#ttsA:de-DE#~
@@ -14710,7 +14716,8 @@ pan młody,der Bräutigam,"~#tts:nap:de-DE{Der Bräutigam sah vor der Zeremonie 
 Pan młody wyglądał na zdenerwowanego przed ceremonią.",,,~#ttsA:de-DE#~
 rabunek,der Raubüberfall,"~#tts:nap:de-DE{Es gab einen Banküberfall im Stadtzentrum.}#~
 W centrum miasta doszło do napadu na bank.",,,~#ttsA:de-DE#~
-godzina policyjna,die Ausgangssperre,"~#tts:nap:de-DE{Meine Eltern haben mir eine strenge Ausgangssperre gesetzt.}#~
+"godzina policyjna
+godzina powrotu do domu",die Ausgangssperre,"~#tts:nap:de-DE{Meine Eltern haben mir eine strenge Ausgangssperre gesetzt.}#~
 Moi rodzice wyznaczyli mi surową godzinę policyjną.",,,~#ttsA:de-DE#~
 zmywać naczynia,abwaschen,"~#tts:nap:de-DE{Du bist heute Abend mit Abwaschen dran.}#~
 Dziś twoja kolej na zmywanie naczyń.",,,~#ttsA:de-DE#~
@@ -14794,7 +14801,8 @@ ponownie aplikować,sich erneut bewerben,"~#tts:nap:de-DE{Wenn du den Job nicht 
 Jeśli nie dostaniesz tej pracy, możesz aplikować ponownie w przyszłym roku.",,,~#ttsA:de-DE#~
 "ulżyć, przynieść ulgę, złagodzić (ból, stres, napięcie)",lindern,"~#tts:nap:de-DE{Dieses Medikament sollte helfen, die Schmerzen zu lindern.}#~
 To lekarstwo powinno pomóc złagodzić ból.",,,~#ttsA:de-DE#~
-"poślubiony, poślubiona",verheiratet mit,"~#tts:nap:de-DE{Sie ist mit einem berühmten Schauspieler verheiratet.}#~
+"być w związku małżeńskim z
+być żoną / mężem",verheiratet mit,"~#tts:nap:de-DE{Sie ist mit einem berühmten Schauspieler verheiratet.}#~
 Jest żoną (poślubioną z) znanego aktora.",,,~#ttsA:de-DE#~
 dojeżdżać,pendeln,"~#tts:nap:de-DE{Ich muss jeden Tag zur Arbeit pendeln.}#~
 Muszę codziennie dojeżdżać do pracy.",,,~#ttsA:de-DE#~
@@ -14819,7 +14827,7 @@ Oczekuje się, że pogoda przejaśni się po południu.",,,~#ttsA:de-DE#~
 "płynny, płyn",die Flüssigkeit,"~#tts:nap:de-DE{Wasser ist eine klare, geschmacklose Flüssigkeit.}#~
 Woda to przezroczysty, bezsmakowy płyn.",,,~#ttsA:de-DE#~
 biżuteria,der Schmuck,"~#tts:nap:de-DE{Sie bekam ein schönes Schmuckstück zum Geburtstag.}#~
-Na urodziny dostała piękny element biżuterii.",,,~#ttsA:de-DE#~
+Na urodziny dostała piękną biżuterię.",,,~#ttsA:de-DE#~
 wilgotność,die Feuchtigkeit,"~#tts:nap:de-DE{Die hohe Luftfeuchtigkeit lässt das Wetter noch heißer wirken.}#~
 Wysoka wilgotność sprawia, że pogoda wydaje się jeszcze gorętsza.",,,~#ttsA:de-DE#~
 strona internetowa (pojedyncza podstrona),die Webseite,"~#tts:nap:de-DE{Weitere Informationen finden Sie auf unserer offiziellen Webseite.}#~
@@ -14925,7 +14933,7 @@ Dobra opieka zdrowotna jest niezbędna dla każdego.",,,~#ttsA:de-DE#~
 jeden po drugim,einer nach dem anderen,"~#tts:nap:de-DE{Die Schüler beantworteten die Fragen einer nach dem anderen.}#~
 Uczniowie odpowiadali na pytania jeden po drugim.",,,~#ttsA:de-DE#~
 otworzyć,aufschließen,"~#tts:nap:de-DE{Ich kann die Tür ohne den Schlüssel nicht aufschließen.}#~
-Nie mogę otworzyć drzwi bez klucza.",,,~#ttsA:de-DE#~
+Nie mogę otworzyć zamka bez klucza.",,,~#ttsA:de-DE#~
 najdalszy,am weitesten,"~#tts:nap:de-DE{Welcher Planet ist am weitesten von der Sonne entfernt?}#~
 Która planeta jest najdalsza od Słońca?",,,~#ttsA:de-DE#~
 nie wolno,nicht erlaubt,"~#tts:nap:de-DE{Rauchen ist in diesem Gebäude nicht erlaubt.}#~
@@ -15030,7 +15038,7 @@ Uwielbiają przyjmować gości w swoim domu.",,,~#ttsA:de-DE#~
 wykwalifikowany,qualifiziert,"~#tts:nap:de-DE{Er ist für den Job qualifiziert.}#~
 Jest wykwalifikowany do tej pracy.",,,~#ttsA:de-DE#~
 "wskazówki, dyrektywy",die Wegbeschreibung,"~#tts:nap:de-DE{Kannst du mir eine Wegbeschreibung zur nächsten Post geben?}#~
-Czy możesz mi dać wskazówki do najbliższej poczty?",,,~#ttsA:de-DE#~
+Czy możesz wskazać mi drogę do najbliższej poczty?",,,~#ttsA:de-DE#~
 woda gazowana,das Sprudelwasser,"~#tts:nap:de-DE{Ich hätte gerne eine Flasche Sprudelwasser, bitte.}#~
 Poproszę butelkę wody gazowanej.",,,~#ttsA:de-DE#~
 stanik,der BH,"~#tts:nap:de-DE{Ich muss einen neuen BH kaufen.}#~
@@ -15261,8 +15269,11 @@ grać przeciwko,spielen gegen,"~#tts:nap:de-DE{Unser Team wird morgen gegen den 
 Nasza drużyna zagra jutro przeciwko mistrzom.",,,~#ttsA:de-DE#~
 pod kontrolą,unter Kontrolle,"~#tts:nap:de-DE{Die Polizei hat die Situation unter Kontrolle.}#~
 Policja ma sytuację pod kontrolą.",,,~#ttsA:de-DE#~
-w konsekwencji,folglich,"~#tts:nap:de-DE{Er war zu spät und hat folglich den Zug verpasst.}#~
-Spóźnił się i w konsekwencji spóźnił się na pociąg.",,,~#ttsA:de-DE#~
+"w rezultacie, w konsekwencji, zatem",folglich,"~#tts:nap:de-DE{Er war zu spät und hat folglich den Zug verpasst.}#~
+Spóźnił się i w konsekwencji spóźnił się na pociąg.
+
+~#tts:nap:de-DE{Er war krank, folglich konnte er nicht zur Arbeit kommen.}#~
+Był chory, zatem nie mógł przyjść do pracy.",,,~#ttsA:de-DE#~
 wykonawca,der Darsteller,"~#tts:nap:de-DE{Sie ist eine talentierte Darstellerin und Sängerin.}#~
 Jest utalentowaną wykonawczynią i piosenkarką.",,,~#ttsA:de-DE#~
 ranczo,die Ranch,"~#tts:nap:de-DE{Er wuchs auf einer Ranch in Texas auf.}#~
@@ -15273,8 +15284,8 @@ niedrogi,preiswert,"~#tts:nap:de-DE{Wir haben ein preiswertes Hotel für unseren
 Znaleźliśmy niedrogi hotel na nasze wakacje.",,,~#ttsA:de-DE#~
 na sprzedaż,zu verkaufen,"~#tts:nap:de-DE{Dieses schöne Haus steht zum Verkauf.}#~
 Ten piękny dom jest na sprzedaż.",,,~#ttsA:de-DE#~
-cudzoziemiec,der Ausländer,"~#tts:nap:de-DE{Er fühlte sich wie ein Ausländer im eigenen Land.}#~
-Czuł się jak cudzoziemiec we własnym kraju.",,,~#ttsA:de-DE#~
+"obcy, cudzoziemiec",der Ausländer,"~#tts:nap:de-DE{Er ist ein Ausländer, aber er spricht perfekt Deutsch.}#~
+On jest cudzoziemcem, ale mówi idealnie po niemiecku.",,,~#ttsA:de-DE#~
 jak duży,wie groß,"~#tts:nap:de-DE{Wie groß ist deine neue Wohnung?}#~
 Jak duże jest twoje nowe mieszkanie?",,,~#ttsA:de-DE#~
 "będziecie mieć, będę mieć, będziesz miała",wird haben,"~#tts:nap:de-DE{Du wirst viel Spaß auf der Party haben.}#~
@@ -15572,7 +15583,7 @@ Muszę iść do sklepu z zabawkami, żeby kupić prezent urodzinowy.",,,~#ttsA:d
 Lubię jeść bajgla z serkiem śmietankowym.",,,~#ttsA:de-DE#~
 "miałbym, miałaby, mielibyśmy",hätte gehabt,"~#tts:nap:de-DE{Wenn ich es gewusst hätte, hätte ich mehr Zeit zur Vorbereitung gehabt.}#~
 Gdybym wiedział, miałbym więcej czasu na przygotowanie.",,,~#ttsA:de-DE#~
-karta ocen,das Zeugnis,"~#tts:nap:de-DE{Er hat gute Noten in seinem Zeugnis bekommen.}#~
+"świadectwo, karta ocen",das Zeugnis,"~#tts:nap:de-DE{Er hat gute Noten in seinem Zeugnis bekommen.}#~
 Dostał dobre oceny na świadectwie.",,,~#ttsA:de-DE#~
 godzina szczytu,die Stoßzeit,"~#tts:nap:de-DE{Der Verkehr ist während der Stoßzeit immer schrecklich.}#~
 W godzinach szczytu ruch uliczny jest zawsze okropny.",,,~#ttsA:de-DE#~
