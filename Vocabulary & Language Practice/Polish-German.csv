@@ -335,7 +335,7 @@ Chodzę do szkoły od poniedziałku do piątku.",,,~#ttsA:de-DE#~
 jabłko,der Apfel,"~#tts:nap:de-DE{Ich habe einen Apfel zum Frühstück gegessen.}#~
 Zjadłem jabłko na śniadanie.",,,~#ttsA:de-DE#~
 mucha,die Fliege,"~#tts:nap:de-DE{Da ist eine Fliege am Fenster.}#~
-Jest mucha na oknie.",,,~#ttsA:de-DE#~
+Na oknie siedzi mucha.",,,~#ttsA:de-DE#~
 długopis,der Stift,"🖋️
 
 ~#tts:nap:de-DE{Ich habe den Brief mit einem Stift geschrieben.}#~
@@ -1013,8 +1013,10 @@ pierwszy,erste,"~#tts:nap:de-DE{Er war der Erste, der ankam.}#~
 Był pierwszy, który przyjechał.",,,~#ttsA:de-DE#~
 wczoraj,gestern,"~#tts:nap:de-DE{Ich habe ihn gestern im Park gesehen.}#~
 Widziałem go wczoraj w parku.",,,~#ttsA:de-DE#~
-pozwalać,lassen,"~#tts:nap:de-DE{Lass uns ins Kino gehen.}#~
-Chodźmy do kina.",,,~#ttsA:de-DE#~
+"zostawiać
+
+pozwalać",lassen,"~#tts:nap:de-DE{Ich lasse mein Auto in der Garage.}#~
+Zostawiam mój samochód w garażu.",,,~#ttsA:de-DE#~
 "pielęgniarz, pielęgniarka","der Krankenpfleger, die Krankenschwester","~#tts:nap:de-DE{Die Krankenschwester hat meine Temperatur gemessen.}#~
 Pielęgniarka zmierzyła mi temperaturę.",,,~#ttsA:de-DE#~
 "skakać, podskoczyć",springen,"~#tts:nap:de-DE{Kannst du über diese Pfütze springen?}#~
@@ -1208,7 +1210,7 @@ Ta droga prowadzi do jeziora.
 ~#tts:nap:de-DE{Das ist der beste Weg, um das Problem zu lösen.}#~
 To najlepszy sposób, aby rozwiązać problem.",,,~#ttsA:de-DE#~
 chować się,sich verstecken,"~#tts:nap:de-DE{Er spielt gerne Verstecken.}#~
-Lubi się chować i szukać.",,,~#ttsA:de-DE#~
+Lubi bawić się w chowanego.",,,~#ttsA:de-DE#~
 samolot,das Flugzeug,"~#tts:nap:de-DE{Das Flugzeug kam pünktlich an.}#~
 Samolot przyleciał na czas.",,,~#ttsA:de-DE#~
 bohater,der Held,"~#tts:nap:de-DE{Er ist ein Superheld.}#~
@@ -1229,7 +1231,7 @@ Mieliśmy świeży chleb na śniadanie.",,,~#ttsA:de-DE#~
 To zły pomysł.
 
 ~#tts:nap:de-DE{Das Essen war schlecht.}#~
-Jedzenie było złe.",,,~#ttsA:de-DE#~
+Jedzenie było niedobre.",,,~#ttsA:de-DE#~
 jeździć na rowerze,Fahrrad fahren,"~#tts:nap:de-DE{radeln}#~
 
 ~#tts:nap:de-DE{Ich fahre gerne Fahrrad.}#~
@@ -1364,7 +1366,7 @@ Jest w tej samej klasie co ja.
 ~#tts:nap:de-DE{Ich habe heute Matheunterricht.}#~
 Mam dzisiaj lekcję matematyki.",,,~#ttsA:de-DE#~
 nic,nichts,"~#tts:nap:de-DE{Es ist nichts in der Schachtel.}#~
-Nie ma nic w pudełku.
+W pudełku nic nie ma.
 
 ~#tts:nap:de-DE{Hier gibt es nichts zu sehen.}#~
 Nie ma tu nic do zobaczenia.",,,~#ttsA:de-DE#~
@@ -2002,7 +2004,7 @@ Mecz to Barcelona kontra Real Madryt.",,,~#ttsA:de-DE#~
 szczoteczka do zębów,die Zahnbürste,"~#tts:nap:de-DE{Ich muss eine neue Zahnbürste kaufen.}#~
 Muszę kupić nową szczoteczkę do zębów.",,,~#ttsA:de-DE#~
 "spacerować, chodzić dookoła, przechadzać się",herumspazieren,"~#tts:nap:de-DE{Lass uns im Park herumspazieren.}#~
-Posacerujmy po parku.",,,~#ttsA:de-DE#~
+Pospacerujmy po parku.",,,~#ttsA:de-DE#~
 "wynik, rezultat końcowy",das Ergebnis,"~#tts:nap:de-DE{das Resultat}#~
 
 ~#tts:nap:de-DE{Das Wahlergebnis ist ungewiss.}#~
@@ -2255,8 +2257,8 @@ róża,die Rose,"~#tts:nap:de-DE{Die Rose ist eine schöne Blume.}#~
 Róża jest pięknym kwiatem.",,,~#ttsA:de-DE#~
 metal,das Metall,"~#tts:nap:de-DE{Die Statue ist aus Metall.}#~
 Statua jest wykonana z metalu.",,,~#ttsA:de-DE#~
-kwadrat,das Quadrat,"~#tts:nap:de-DE{Der Platz ist ein beliebter Treffpunkt.}#~
-Plac jest popularnym miejscem spotkań.",,,~#ttsA:de-DE#~
+kwadrat,das Quadrat,"~#tts:nap:de-DE{Ein Quadrat hat vier gleich lange Seiten.}#~
+Kwadrat ma cztery boki równej długości.",,,~#ttsA:de-DE#~
 na barana,Huckepack,"~#tts:nap:de-DE{Er hat mich huckepack genommen.}#~
 Dał mi przejażdżkę na plecach.",,,~#ttsA:de-DE#~
 kruk,der Rabe,"~#tts:nap:de-DE{Der Rabe ist ein schwarzer Vogel.}#~
@@ -2987,6 +2989,7 @@ katastrofa,die Katastrophe,"~#tts:nap:de-DE{Die Katastrophe verursachte weitreic
 Katastrofa spowodowała szerokie zniszczenia.",,,~#ttsA:de-DE#~
 "marionetka, kukiełka
 lalka na palce lub sznurki",die Marionette,"~#tts:nap:de-DE{Das Kind spielte mit einer Marionette.}#~
+Dziecko bawiło się kukiełką.
 
 ~#tts:nap:de-DE{Er ist eine Marionette der Regierung.}#~
 On jest marionetką rządu.",,,~#ttsA:de-DE#~
@@ -3012,11 +3015,11 @@ Jest dziura w ścianie.",,,~#ttsA:de-DE#~
 malutki,winzig,"~#tts:nap:de-DE{Das Baby ist sehr winzig.}#~
 Dziecko jest bardzo małe.",,,~#ttsA:de-DE#~
 mag,der Magier,"~#tts:nap:de-DE{Der Magier sprach einen Zauber.}#~
-Magik rzucił zaklęcie.",,,~#ttsA:de-DE#~
+Mag rzucił zaklęcie.",,,~#ttsA:de-DE#~
 lekcja,die Lektion,"~#tts:nap:de-DE{der Unterricht}#~
 
 ~#tts:nap:de-DE{Ich habe eine wertvolle Lektion gelernt.}#~
-Otrzymałem cenną lekcję.",,,~#ttsA:de-DE#~
+To była cenna nauczka.",,,~#ttsA:de-DE#~
 "gryźć, ugryźć",beißen,"~#tts:nap:de-DE{Er biss sich auf die Lippe.}#~
 Ugryzł się w wargę.",,,~#ttsA:de-DE#~
 loch,der Kerker,"~#tts:nap:de-DE{Das Verlies}#~
@@ -3041,8 +3044,8 @@ umysł,der Verstand,"~#tts:nap:de-DE{der Geist}#~
 Zajmij się swoimi sprawami.",,,~#ttsA:de-DE#~
 powietrze,die Luft,"~#tts:nap:de-DE{Die Luft ist heute frisch.}#~
 Dziś jest świeże powietrze.",,,~#ttsA:de-DE#~
-ładnie,hübsch,"~#tts:nap:de-DE{Sie ist ein hübsches Mädchen.}#~
-Jest piękną dziewczyną.",,,~#ttsA:de-DE#~
+ładny,hübsch,"~#tts:nap:de-DE{Sie ist ein hübsches Mädchen.}#~
+Jest ładną dziewczyną.",,,~#ttsA:de-DE#~
 piekło,die Hölle,"~#tts:nap:de-DE{Die Hölle ist ein schrecklicher Ort.}#~
 Piekło jest straszne.",,,~#ttsA:de-DE#~
 ostrze,die Klinge,"~#tts:nap:de-DE{Er hat eine scharfe Klinge.}#~
@@ -3066,7 +3069,7 @@ Proszę zmniejszyć głośność.",,,~#ttsA:de-DE#~
 "jeszcze jeden, kolejny, inny",noch ein,"~#tts:nap:de-DE{ein anderer}#~
 
 ~#tts:nap:de-DE{Kann ich noch ein Glas Wasser haben?}#~
-Mogę mieć jeszcze jedną szklankę wody?",,,~#ttsA:de-DE#~
+Czy mogę prosić o jeszcze jedną szklankę wody?",,,~#ttsA:de-DE#~
 narodziny,die Geburt,"~#tts:nap:de-DE{Seine Geburt war ein Wunder.}#~
 Jego narodziny były cudem.",,,~#ttsA:de-DE#~
 tworzyć,erschaffen,"~#tts:nap:de-DE{kreieren}#~
@@ -3080,8 +3083,15 @@ Lodówka jest pusta.
 Proszę wpisać swoje imię w pustej linii.",,,~#ttsA:de-DE#~
 ocean,der Ozean,"~#tts:nap:de-DE{Der Ozean ist sehr tief.}#~
 Ocean jest bardzo głęboki.",,,~#ttsA:de-DE#~
-start,der Start,"~#tts:nap:de-DE{Das Konzert beginnt um 19 Uhr.}#~
-Koncert zaczyna się o 1900.",,,~#ttsA:de-DE#~
+"start, początek
+
+zaczynać, startować","der Start, der Anfang
+
+starten, anfangen","~#tts:nap:de-DE{Der Start des Rennens ist um zehn Uhr.}#~
+Start wyścigu jest o godzinie dziesiątej.
+
+~#tts:nap:de-DE{Wir starten das neue Projekt am Montag.}#~
+Startujemy z nowym projektem w poniedziałek.",,,~#ttsA:de-DE#~
 cofnąć działanie,rückgängig machen,"~#tts:nap:de-DE{Strg + Z}#~
 
 ~#tts:nap:de-DE{Ich muss meine Schnürsenkel aufmachen.}#~
@@ -3368,7 +3378,7 @@ Jem zdrowe jedzenie.",,,~#ttsA:de-DE#~
 kelnerka,die Kellnerin,"~#tts:nap:de-DE{Die Kellnerin war sehr freundlich.}#~
 Kelnerka była bardzo miła.",,,~#ttsA:de-DE#~
 kelner,der Kellner,"~#tts:nap:de-DE{Der Kellner war sehr aufmerksam.}#~
-Kelner był bardzo uważny.
+Kelner był bardzo uczynny.
 
 ~#tts:nap:de-DE{Der Kellner bringt uns die Getränke.}#~
 Kelner przynosi nam napoje.",,,~#ttsA:de-DE#~
@@ -3697,7 +3707,7 @@ SOS jest międzynarodowym sygnałem alarmowym.",,,~#ttsA:de-DE#~
 różdżka,der Zauberstab,"~#tts:nap:de-DE{die Rute}#~
 
 ~#tts:nap:de-DE{Der Zauberer schwenkte seinen Zauberstab.}#~
-Czarodziej zamachnął różdżką.",,,~#ttsA:de-DE#~
+Czarodziej machnął różdżką.",,,~#ttsA:de-DE#~
 zachód,der Westen,"~#tts:nap:de-DE{Die Sonne geht im Westen unter.}#~
 Słońce zachodzi na zachodzie.",,,~#ttsA:de-DE#~
 słuchać uważnie,zuhören,"~#tts:nap:de-DE{Hör mir zu!}#~
@@ -4422,7 +4432,7 @@ Arbuzy to duże, soczyste owoce.",,,~#ttsA:de-DE#~
 awokado,die Avocado,"~#tts:nap:de-DE{Avocados sind eine gesunde Frucht.}#~
 Awokado to zdrowy owoc.",,,~#ttsA:de-DE#~
 "wiśnia, czereśnia",die Kirsche,"~#tts:nap:de-DE{Kirschen sind kleine, runde Früchte.}#~
-Wiśnie są małe, okrągłe owoce.",,,~#ttsA:de-DE#~
+Wiśnie to małe, okrągłe owoce.",,,~#ttsA:de-DE#~
 cytrusy,die Zitrusfrüchte,"~#tts:nap:de-DE{Zu den Zitrusfrüchten gehören Orangen, Zitronen und Grapefruits.}#~
 Owoce cytrusowe obejmują pomarańcze, cytryny i grejpfruty.",,,~#ttsA:de-DE#~
 ananas,die Ananas,"~#tts:nap:de-DE{Ananas sind tropische Früchte mit einem süßen und würzigen Geschmack.}#~
@@ -4968,7 +4978,7 @@ Dałem dziecku grzechotkę, aby się bawiło.",,,~#ttsA:de-DE#~
 wędka,die Angelrute,"~#tts:nap:de-DE{Ich benutzte eine Angelrute, um Fische zu fangen.}#~
 Użyłem wędki, aby złowić rybę.",,,~#ttsA:de-DE#~
 morela,die Aprikose,"~#tts:nap:de-DE{Aprikosen sind kleine, runde Früchte.}#~
-Morele są małe, okrągłe owoce.",,,~#ttsA:de-DE#~
+Morele to małe, okrągłe owoce.",,,~#ttsA:de-DE#~
 czajnik,der Wasserkocher,"~#tts:nap:de-DE{Ein Wasserkocher wird verwendet, um Wasser zu kochen.}#~
 Czajnik służy do gotowania wody.",,,~#ttsA:de-DE#~
 "ciepło
@@ -12379,7 +12389,7 @@ Poszedł bezpośrednio do sedna sprawy.
 ~#tts:nap:de-DE{Er gab eine direkte Antwort.}#~
 Dał bezpośrednią odpowiedź.",,,~#ttsA:de-DE#~
 agrest,die Stachelbeere,"~#tts:nap:de-DE{Stachelbeeren sind kleine, runde Früchte.}#~
-Agrest są małe, okrągłe owoce.",,,~#ttsA:de-DE#~
+Agrest to małe, okrągłe owoce.",,,~#ttsA:de-DE#~
 prace,die Werke,"~#tts:nap:de-DE{Die Werke von Shakespeare sind auf der ganzen Welt berühmt.}#~
 Dzieła Szekspira są znane na całym świecie.",,,~#ttsA:de-DE#~
 kierownik projektu,der Projektmanager,"~#tts:nap:de-DE{Der Projektmanager ist für die Planung und Durchführung des Projekts verantwortlich.}#~
@@ -12460,7 +12470,7 @@ Wybuchła kontrowersja dotycząca wyborów.",,,~#ttsA:de-DE#~
 satelita,der Satellit,"~#tts:nap:de-DE{Der Satellit umkreist die Erde.}#~
 Satelita krąży wokół Ziemi.",,,~#ttsA:de-DE#~
 pomidorki koktajlowe,die Kirschtomate,"~#tts:nap:de-DE{Kirschtomaten sind kleine, runde Tomaten.}#~
-Pomidorki cherry są małe, okrągłe pomidory.",,,~#ttsA:de-DE#~
+Pomidorki cherry to małe, okrągłe pomidory.",,,~#ttsA:de-DE#~
 zapowiedź,ankündigen,"~#tts:nap:de-DE{Die Regierung kündigte eine neue Politik an.}#~
 Rząd ogłosił nową politykę.",,,~#ttsA:de-DE#~
 fortuna,das Vermögen,"~#tts:nap:de-DE{Er machte ein Vermögen mit dem Verkauf seiner Firma.}#~
@@ -13271,7 +13281,7 @@ Nadużywał swojej władzy.",,,~#ttsA:de-DE#~
 publikować,veröffentlichen,"~#tts:nap:de-DE{Das Buch wird nächsten Monat veröffentlicht.}#~
 Książka zostanie opublikowana w przyszłym miesiącu.",,,~#ttsA:de-DE#~
 nożyce do drutu,der Seitenschneider,"~#tts:nap:de-DE{Ein Seitenschneider wird verwendet, um Draht zu schneiden.}#~
-Szczypce tnące służą do cięcia drutu.",,,~#ttsA:de-DE#~
+Nożyce do drutu służą do cięcia drutu.",,,~#ttsA:de-DE#~
 biologiczny,biologisch,"~#tts:nap:de-DE{Der menschliche Körper ist eine biologische Maschine.}#~
 Ciało ludzkie jest biologiczną maszyną.",,,~#ttsA:de-DE#~
 romantyczny,romantisch,"~#tts:nap:de-DE{Er ist eine sehr romantische Person.}#~

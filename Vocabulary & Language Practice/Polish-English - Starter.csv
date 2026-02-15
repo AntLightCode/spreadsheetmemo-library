@@ -314,7 +314,7 @@ Robię zadania domowe przy biurku.",,,~#ttsA:en-US#~
 stół,table,"~#tts:nap:en-US{We eat at the table.}#~
 Jemy przy stole.",,,~#ttsA:en-US#~
 nic,nothing,"~#tts:nap:en-US{There is nothing in the box.}#~
-Nie ma nic w pudełku.
+W pudełku nic nie ma.
 
 ~#tts:nap:en-US{There is nothing to see here.}#~
 Nie ma tu nic do zobaczenia.",,,~#ttsA:en-US#~
@@ -353,7 +353,7 @@ zły,bad,"~#tts:nap:en-US{That's a bad idea.}#~
 To zły pomysł.
 
 ~#tts:nap:en-US{The food was bad.}#~
-Jedzenie było złe.",,,~#ttsA:en-US#~
+Jedzenie było niedobre.",,,~#ttsA:en-US#~
 "tylko, jedynie, wyłącznie",only,"~#tts:nap:en-US{just, mere}#~
 
 ~#tts:nap:en-US{I only have one apple.}#~
@@ -558,7 +558,7 @@ Słoń jest dużym zwierzęciem.",,,~#ttsA:en-US#~
 ryba,fish,"~#tts:nap:en-US{I like to eat fish.}#~
 Lubię jeść ryby.",,,~#ttsA:en-US#~
 mucha,fly,"~#tts:nap:en-US{There is a fly on the window.}#~
-Jest mucha na oknie.",,,~#ttsA:en-US#~
+Na oknie siedzi mucha.",,,~#ttsA:en-US#~
 żaba,frog,"~#tts:nap:en-US{The frog is jumping.}#~
 Żaba skacze.",,,~#ttsA:en-US#~
 lew,lion,"~#tts:nap:en-US{The lion is a strong animal.}#~
@@ -600,8 +600,8 @@ spać,to sleep,"~#tts:nap:en-US{I need to sleep.}#~
 Muszę spać.",,,~#ttsA:en-US#~
 myśleć,to think,"~#tts:nap:en-US{I need to think about it.}#~
 Muszę o tym pomyśleć.",,,~#ttsA:en-US#~
-pływanie,swimming,"~#tts:nap:en-US{I like to swim in the sea.}#~
-Lubię pływać w morzu.",,,~#ttsA:en-US#~
+pływanie,swimming,"~#tts:nap:en-US{I like swimming in the sea.}#~
+Lubię pływanie w morzu.",,,~#ttsA:en-US#~
 "pochmurny, pochmurno",cloudy,"~#tts:nap:en-US{It's cloudy today.}#~
 Dzisiaj jest pochmurno.
 
@@ -628,8 +628,8 @@ miasto,city,"~#tts:nap:en-US{New York is a very big city.}#~
 Nowy Jork to bardzo duże miasto.",,,~#ttsA:en-US#~
 czuć,to feel,"~#tts:nap:en-US{I feel happy today.}#~
 Czuję się dzisiaj szczęśliwy.",,,~#ttsA:en-US#~
-chować się,to hide,"~#tts:nap:en-US{He likes to hide and seek.}#~
-Lubi się chować i szukać.",,,~#ttsA:en-US#~
+chować się,to hide,"~#tts:nap:en-US{He is hiding behind the tree.}#~
+On chowa się za drzewem.",,,~#ttsA:en-US#~
 "głaskać, pieścić",to pet,"~#tts:nap:en-US{I like to pet the cat.}#~
 Lubię głaskać kota.",,,~#ttsA:en-US#~
 "dziecko (młody człowiek, potocznie)",kid,"~#tts:nap:en-US{child}#~
@@ -654,10 +654,10 @@ nad,over,"~#tts:nap:en-US{above}#~
 
 ~#tts:nap:en-US{The cat is jumping over the fence.}#~
 Kot skacze przez płot.",,,~#ttsA:en-US#~
-pozwalać,to let,"~#tts:nap:en-US{Let's go to the movies.}#~
-Chodźmy do kina.",,,~#ttsA:en-US#~
+pozwalać,to let,"~#tts:nap:en-US{She let him go.}#~
+Pozwoliła mu odejść.",,,~#ttsA:en-US#~
 wysyłać,to send,"~#tts:nap:en-US{I sent her a birthday card.}#~
-Wysłaliśmy jej kartkę urodzinową.",,,~#ttsA:en-US#~
+Wysłałem jej kartkę urodzinową.",,,~#ttsA:en-US#~
 drukować,to print,"~#tts:nap:en-US{I need to print this document before the meeting.}#~
 Muszę wydrukować ten dokument przed spotkaniem.",,,~#ttsA:en-US#~
 "jakikolwiek, dowolny",any,"~#tts:nap:en-US{Is there any food left?}#~
@@ -680,8 +680,8 @@ Jak się masz?",,,~#ttsA:en-US#~
 To tylko małe zadrapanie.",,,~#ttsA:en-US#~
 wiele,many,"~#tts:nap:en-US{There are many people here.}#~
 Jest tu dużo ludzi.",,,~#ttsA:en-US#~
-farba,paint,"~#tts:nap:en-US{I like to paint.}#~
-Lubię malować.",,,~#ttsA:en-US#~
+farba,paint,"~#tts:nap:en-US{The paint is still wet.}#~
+Farba jest wciąż mokra.",,,~#ttsA:en-US#~
 robić,to do,"~#tts:nap:en-US{I have a lot of things to do today.}#~
 Mam dzisiaj dużo do zrobienia.",,,~#ttsA:en-US#~
 "oglądać, obserwować, przeglądać",to view,"~#tts:nap:en-US{to watch}#~
@@ -1249,7 +1249,7 @@ Gramy przeciwko najlepszej drużynie.",,,~#ttsA:en-US#~
 szczoteczka do zębów,toothbrush,"~#tts:nap:en-US{I need to buy a new toothbrush.}#~
 Muszę kupić nową szczoteczkę do zębów.",,,~#ttsA:en-US#~
 "spacerować, chodzić dookoła, przechadzać się",to walk around,"~#tts:nap:en-US{Let's walk around the park.}#~
-Posacerujmy po parku.",,,~#ttsA:en-US#~
+Pospacerujmy po parku.",,,~#ttsA:en-US#~
 "wynik, rezultat",result,"~#tts:nap:en-US{score, outcome}#~
 
 ~#tts:nap:en-US{The result of the election is uncertain.}#~
@@ -1384,7 +1384,7 @@ nieskrępowany
 darmowy
 bezpłatny
 swobodny",free,"~#tts:nap:en-US{The dog is free to roam.}#~
-Pies ma wolność poruszania się.",,,~#ttsA:en-US#~
+Pies może swobodnie biegać.",,,~#ttsA:en-US#~
 wyścig,race,"~#tts:nap:en-US{The race is tomorrow.}#~
 Wyścig jest jutro.",,,~#ttsA:en-US#~
 cena,price,"~#tts:nap:en-US{The price of gasoline is high.}#~
@@ -1447,8 +1447,8 @@ róża,rose,"~#tts:nap:en-US{The rose is a beautiful flower.}#~
 Róża jest pięknym kwiatem.",,,~#ttsA:en-US#~
 metal,metal,"~#tts:nap:en-US{The statue is made of metal.}#~
 Statua jest wykonana z metalu.",,,~#ttsA:en-US#~
-kwadrat,square,"~#tts:nap:en-US{The square is a popular meeting place.}#~
-Plac jest popularnym miejscem spotkań.",,,~#ttsA:en-US#~
+kwadrat,square,"~#tts:nap:en-US{Draw a square on the paper.}#~
+Narysuj kwadrat na papierze.",,,~#ttsA:en-US#~
 na barana,piggyback,"~#tts:nap:en-US{He gave me a piggyback ride.}#~
 Dał mi przejażdżkę na plecach.",,,~#ttsA:en-US#~
 kruk,raven,"~#tts:nap:en-US{The raven is a black bird.}#~
@@ -1491,7 +1491,7 @@ Kamień jest bardzo ciężki.
 ~#tts:nap:en-US{The statue is made of stone.}#~
 Statua jest wykonana z kamienia.",,,~#ttsA:en-US#~
 "płaski, płasko, płaskie",flat,"~#tts:nap:en-US{The tire is flat.}#~
-Opona jest płaska.",,,~#ttsA:en-US#~
+Opona jest przebita (nie ma powietrza).",,,~#ttsA:en-US#~
 "zostawać, pozostawać",to stay,"~#tts:nap:en-US{stay positive}#~ ➟ pozostań pozytywny
 
 ~#tts:nap:en-US{I want to stay at home tonight.}#~
@@ -1892,6 +1892,7 @@ słoik,jar,"~#tts:nap:en-US{This jar is filled with honey.}#~
 Ten słoik jest wypełniony miodem.",,,~#ttsA:en-US#~
 "marionetka, kukiełka
 lalka na palce lub sznurki",puppet,"~#tts:nap:en-US{The child played with a puppet.}#~
+Dziecko bawiło się kukiełką.
 
 ~#tts:nap:en-US{He is a puppet of the government.}#~
 On jest marionetką rządu.",,,~#ttsA:en-US#~
@@ -1922,13 +1923,13 @@ Jest piękny dzień.",,,~#ttsA:en-US#~
 malutki,tiny,"~#tts:nap:en-US{The baby is very tiny.}#~
 Dziecko jest bardzo małe.",,,~#ttsA:en-US#~
 mag,mage,"~#tts:nap:en-US{The mage cast a spell.}#~
-Magik rzucił zaklęcie.",,,~#ttsA:en-US#~
+Mag rzucił zaklęcie.",,,~#ttsA:en-US#~
 "szukać, przeszukiwać",to search,"~#tts:nap:en-US{to seek}#~
 
 ~#tts:nap:en-US{I searched for my keys for an hour.}#~
 Szukałem kluczy przez godzinę.",,,~#ttsA:en-US#~
 lekcja,lesson,"~#tts:nap:en-US{I learned a valuable lesson.}#~
-Otrzymałem cenną lekcję.",,,~#ttsA:en-US#~
+To była cenna nauczka.",,,~#ttsA:en-US#~
 brązowy,brown,"~#tts:nap:en-US{Her hair is brown.}#~
 Jej włosy są brązowe.",,,~#ttsA:en-US#~
 "gryźć, ugryźć",to bite,"~#tts:nap:en-US{He bit his lip.}#~
@@ -1957,8 +1958,8 @@ umysł,mind,"~#tts:nap:en-US{Mind your own business.}#~
 Zajmij się swoimi sprawami.",,,~#ttsA:en-US#~
 powietrze,air,"~#tts:nap:en-US{The air is fresh today.}#~
 Dziś jest świeże powietrze.",,,~#ttsA:en-US#~
-ładnie,pretty,"~#tts:nap:en-US{She is a pretty girl.}#~
-Jest piękną dziewczyną.",,,~#ttsA:en-US#~
+ładny,pretty,"~#tts:nap:en-US{She is a pretty girl.}#~
+Jest ładną dziewczyną.",,,~#ttsA:en-US#~
 piekło,hell,"~#tts:nap:en-US{Hell is a terrible place.}#~
 Piekło jest straszne.",,,~#ttsA:en-US#~
 ostrze,blade,"~#tts:nap:en-US{He has a sharp blade.}#~
@@ -1977,7 +1978,7 @@ Czy możesz mi pomóc z tym?",,,~#ttsA:en-US#~
 głośność,volume,"~#tts:nap:en-US{Please turn down the volume.}#~
 Proszę zmniejszyć głośność.",,,~#ttsA:en-US#~
 "jeszcze jeden, kolejny, inny",another,"~#tts:nap:en-US{Can I have another glass of water?}#~
-Mogę mieć jeszcze jedną szklankę wody?",,,~#ttsA:en-US#~
+Czy mogę prosić o jeszcze jedną szklankę wody?",,,~#ttsA:en-US#~
 narodziny,birth,"~#tts:nap:en-US{His birth was a miracle.}#~
 Jego narodziny były cudem.",,,~#ttsA:en-US#~
 tworzyć,to create,"~#tts:nap:en-US{He created a beautiful painting.}#~
@@ -1988,8 +1989,6 @@ ocean,ocean,"~#tts:nap:en-US{The ocean is very deep.}#~
 Ocean jest bardzo głęboki.",,,~#ttsA:en-US#~
 on,he,"~#tts:nap:en-US{He is a good friend.}#~
 On jest dobrym przyjacielem.",,,~#ttsA:en-US#~
-start,start,"~#tts:nap:en-US{The concert starts at 7 PM.}#~
-Koncert zaczyna się o 19:00.",,,~#ttsA:en-US#~
 pocisk,missile,"~#tts:nap:en-US{The missile was launched.}#~
 Rakieta została wystrzelona.",,,~#ttsA:en-US#~
 cofnąć działanie,to undo,"~#tts:nap:en-US{Ctrl + Z}#~
@@ -2203,7 +2202,7 @@ wezwanie o pomoc,SOS,"~#tts:nap:en-US{save our souls}#~
 ~#tts:nap:en-US{SOS is an international distress signal.}#~
 SOS jest międzynarodowym sygnałem alarmowym.",,,~#ttsA:en-US#~
 różdżka,"wand, rod","~#tts:nap:en-US{The wizard waved his wand.}#~
-Czarodziej zamachnął różdżką.",,,~#ttsA:en-US#~
+Czarodziej machnął różdżką.",,,~#ttsA:en-US#~
 "poza
 na dworze, na zewnątrz",outside,"~#tts:nap:en-US{It's cold outside.}#~
 Jest zimno na zewnątrz.",,,~#ttsA:en-US#~
@@ -2597,7 +2596,7 @@ trzmiel,bumblebee,"~#tts:nap:en-US{A bumblebee is a type of bee.}#~
 Trzmiel jest rodzajem pszczoły.",,,~#ttsA:en-US#~
 córka,daughter,"~#tts:nap:en-US{She is my daughter.}#~
 Ona jest moją córką.",,,~#ttsA:en-US#~
-wymiar,dimension,"3D ➟ three-dimensional (trójwymiarowy)
+wymiar,dimension,"~#tts:nap:en-US{3D ➟ three-dimensional}#~ (trójwymiarowy)
 
 ~#tts:nap:en-US{The third dimension is difficult to imagine.}#~
 Trzeci wymiar jest trudny do wyobrażenia.",,,~#ttsA:en-US#~
@@ -2905,7 +2904,7 @@ Arbuzy to duże, soczyste owoce.",,,~#ttsA:en-US#~
 awokado,avocado,"~#tts:nap:en-US{Avocados are a healthy fruit.}#~
 Awokado to zdrowy owoc.",,,~#ttsA:en-US#~
 "wiśnia, czereśnia",cherry,"~#tts:nap:en-US{Cherries are small, round fruits.}#~
-Wiśnie są małe, okrągłe owoce.",,,~#ttsA:en-US#~
+Wiśnie to małe, okrągłe owoce.",,,~#ttsA:en-US#~
 cytrusy,citrus,"~#tts:nap:en-US{Citrus fruits include oranges, lemons, and grapefruits.}#~
 Owoce cytrusowe obejmują pomarańcze, cytryny i grejpfruty.",,,~#ttsA:en-US#~
 ananas,pineapple,"~#tts:nap:en-US{Pineapples are tropical fruits with a sweet and tangy flavor.}#~
@@ -3477,7 +3476,7 @@ Dałem dziecku grzechotkę, aby się bawiło.",,,~#ttsA:en-US#~
 wędka,fishing rod,"~#tts:nap:en-US{I used a fishing rod to catch fish.}#~
 Użyłem wędki, aby złowić rybę.",,,~#ttsA:en-US#~
 morela,apricot,"~#tts:nap:en-US{Apricots are small, round fruits.}#~
-Morele są małe, okrągłe owoce.",,,~#ttsA:en-US#~
+Morele to małe, okrągłe owoce.",,,~#ttsA:en-US#~
 czajnik,kettle,"~#tts:nap:en-US{A kettle is used to boil water.}#~
 Czajnik służy do gotowania wody.",,,~#ttsA:en-US#~
 "ciepło
@@ -4643,7 +4642,7 @@ To jest urządzenie gospodarstwa domowego.
 
 ~#tts:nap:en-US{Our household consists of four people.}#~
 Nasze gospodarstwo domowe składa się z czterech osób.",,,~#ttsA:en-US#~
-"obiekt, przedmiot",object,"subject, item
+"obiekt, przedmiot",object,"~#tts:nap:en-US{subject, item}#~
 
 ~#tts:nap:en-US{The object is heavy.}#~
 Przedmiot jest ciężki.
@@ -6038,7 +6037,8 @@ zdać, zaliczyć (np. egzamin)","pass
 
 to pass","~#tts:nap:en-US{I need a pass to get into the park.}#~
 Potrzebuję przepustki, żeby wejść do parku.",,,~#ttsA:en-US#~
-zaczynać,to start,"~#tts:nap:en-US{Let's start the game.}#~
+"zaczynać, rozpocząć
+gwałtownie ruszyć",to start,"~#tts:nap:en-US{Let's start the game.}#~
 Zacznijmy grę.",,,~#ttsA:en-US#~
 niebezpieczny,dangerous,"~#tts:nap:en-US{Tigers are dangerous animals.}#~
 Tygrysy są niebezpiecznymi zwierzętami.",,,~#ttsA:en-US#~
@@ -6574,7 +6574,7 @@ Dzikie poziomki były bardzo słodkie.",,,~#ttsA:en-US#~
 kelnerka,waitress,"~#tts:nap:en-US{The waitress was very friendly.}#~
 Kelnerka była bardzo miła.",,,~#ttsA:en-US#~
 kelner,waiter,"~#tts:nap:en-US{The waiter was very attentive.}#~
-Kelner był bardzo uważny.",,,~#ttsA:en-US#~
+Kelner był bardzo uczynny.",,,~#ttsA:en-US#~
 "pasek, pas
 taśma",belt,"~#tts:nap:en-US{I need to tighten my belt.}#~
 Muszę zacieśnić pas.",,,~#ttsA:en-US#~
@@ -10219,7 +10219,7 @@ zasadzka,ambush,"~#tts:nap:en-US{The soldiers were ambushed by the enemy.}#~
 Żołnierze zostali zaatakowani z zasadzki przez wroga.",,,~#ttsA:en-US#~
 "istota, byt, podmiot",entity,"~#tts:nap:en-US{A company is a legal entity.}#~
 Firma jest osobą prawną.",,,~#ttsA:en-US#~
-"działanie, czyn",action,"~#tts:nap:en-US{The police took action.}#~
+"działanie, czyn, akcja",action,"~#tts:nap:en-US{The police took action.}#~
 Policja podjęła działania.",,,~#ttsA:en-US#~
 "kupiec, handlarz",merchant,"~#tts:nap:en-US{The merchant sold me a fake watch.}#~
 Kupiec sprzedał mi fałszywy zegarek.",,,~#ttsA:en-US#~
@@ -10298,7 +10298,7 @@ Już nie jem mięsa.",,,~#ttsA:en-US#~
 widmo,spectre,"~#tts:nap:en-US{The spectre of war haunts the world.}#~
 Widmo wojny nawiedza świat.",,,~#ttsA:en-US#~
 armia,army,"~#tts:nap:en-US{He joined the army.}#~
-Został żołnierzem.",,,~#ttsA:en-US#~
+Wstąpił do wojska.",,,~#ttsA:en-US#~
 źródło (czegoś),source,"~#tts:nap:en-US{The source of the river is in the mountains.}#~
 Źródłem rzeki są góry.",,,~#ttsA:en-US#~
 "chciwość
@@ -11930,7 +11930,7 @@ Wybuchła kontrowersja dotycząca wyborów.",,,~#ttsA:en-US#~
 satelita,satellite,"~#tts:nap:en-US{The satellite is orbiting the Earth.}#~
 Satelita krąży wokół Ziemi.",,,~#ttsA:en-US#~
 pomidorki koktajlowe,cherry tomato,"~#tts:nap:en-US{Cherry tomatoes are small, round tomatoes.}#~
-Pomidorki cherry są małe, okrągłe pomidory.",,,~#ttsA:en-US#~
+Pomidorki cherry to małe, okrągłe pomidory.",,,~#ttsA:en-US#~
 "ogłoszenie, komunikat",announcement,"~#tts:nap:en-US{The principal made an announcement over the intercom.}#~
 Dyrektor wydał ogłoszenie przez radiowęzeł.",,,~#ttsA:en-US#~
 fortuna,fortune,"~#tts:nap:en-US{He made a fortune selling his company.}#~
@@ -13056,7 +13056,7 @@ Nadużywał swojej władzy.",,,~#ttsA:en-US#~
 publikować,to publish,"~#tts:nap:en-US{The book will be published next month.}#~
 Książka zostanie opublikowana w przyszłym miesiącu.",,,~#ttsA:en-US#~
 nożyce do drutu,wire cutters,"~#tts:nap:en-US{Wire cutters are used to cut wire.}#~
-Szczypce tnące służą do cięcia drutu.",,,~#ttsA:en-US#~
+Nożyce do drutu służą do cięcia drutu.",,,~#ttsA:en-US#~
 biologiczny,biological,"~#tts:nap:en-US{The human body is a biological machine.}#~
 Ciało ludzkie jest biologiczną maszyną.",,,~#ttsA:en-US#~
 romantyczny,romantic,"~#tts:nap:en-US{He is a very romantic person.}#~
