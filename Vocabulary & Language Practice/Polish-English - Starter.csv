@@ -1193,12 +1193,12 @@ okulary przeciwsłoneczne,sunglasses,"~#tts:nap:en-US{I always wear my sunglasse
 Zawsze noszę okulary przeciwsłoneczne na słońcu.",,,~#ttsA:en-US#~
 namiot,tent,"~#tts:nap:en-US{We slept in a tent during the camping trip.}#~
 Spaliśmy w namiocie podczas wycieczki z namiotami.",,,~#ttsA:en-US#~
-latarka,"torch, flashlight","~#tts:nap:en-US{I used a torch to find my way in the dark.}#~
+latarka,"~#tts:en-GB{torch}#~ (GB)
+~#tts:en-US{flashlight}#~ (US) ","~#tts:nap:en-GB{I used a torch to find my way in the dark.}#~
 Użyłem latarki, żeby znaleźć drogę w ciemności.
 
 ~#tts:nap:en-US{I used a flashlight to see in the dark.}#~
-Użyłem latarki, aby widzieć w ciemności.",,,"~#ttsA:en-US#~
-~#no-swap#~"
+Użyłem latarki, aby widzieć w ciemności.",,,~#no-swap#~
 owad,insect,"~#tts:nap:en-US{The insect was buzzing around.}#~
 Owad latał dookoła brzęcząc.",,,~#ttsA:en-US#~
 Nie martw się!,Don't worry!,,,,"~#ttsA:en-US#~
@@ -1567,7 +1567,7 @@ umierać,to die,"~#tts:nap:en-US{He died of cancer.}#~
 Zmarł na raka.",,,~#ttsA:en-US#~
 pomijać,to skip,"~#tts:nap:en-US{I decided to skip the last chapter of the book.}#~
 Zdecydowałem się pominąć ostatni rozdział książki.",,,~#ttsA:en-US#~
-"bakteria, bakterie",bacteria,"~#tts:nap:en-US{Bacteria can cause illness.}#~
+"bakterie",bacteria,"~#tts:nap:en-US{Bacteria can cause illness.}#~
 Bakterie mogą powodować choroby.",,,~#ttsA:en-US#~
 dotykać,to touch,"~#tts:nap:en-US{Please don't touch the painting.}#~
 Proszę nie dotykać obrazu.",,,~#ttsA:en-US#~
@@ -1825,10 +1825,18 @@ przestrzeń",space,"~#tts:nap:en-US{The space program has made great progress.}#
 Program kosmiczny osiągnął duże postępy.",,,~#ttsA:en-US#~
 zwycięzca,winner,"~#tts:nap:en-US{The winner of the competition will receive a prize.}#~
 Zwycięzca konkursu otrzyma nagrodę.",,,~#ttsA:en-US#~
-"wakacje, ogólne pojęcie na święta",holiday,"~#tts:nap:en-US{vacation}#~
+"wakacje, urlop","~#tts:en-GB{holiday}#~ (GB)
+~#tts:en-US{vacation}#~ (US)","~#tts:nap:en-GB{We are going on holiday to Spain.}#~
+Jedziemy na wakacje do Hiszpanii.
 
-~#tts:nap:en-US{We are going on holiday next week.}#~
-Jedziemy na wakacje w przyszłym tygodniu.",,,~#ttsA:en-US#~
+~#tts:nap:en-GB{We are going on holiday next week.}#~
+Jedziemy na wakacje w przyszłym tygodniu.
+
+~#tts:nap:en-US{I need a vacation.}#~
+Potrzebuję urlopu.
+
+~#tts:nap:en-US{I went on vacation last summer.}#~
+Pojechałem na wakacje zeszłego lata.",,,~#no-swap#~
 bomba,bomb,"~#tts:nap:en-US{The bomb exploded.}#~
 Bomba wybuchła.",,,~#ttsA:en-US#~
 urodzić się,to be born,"~#tts:nap:en-US{He was born in Poland.}#~
@@ -2564,10 +2572,6 @@ Gałąź pękła pod jego ciężarem.",,,~#ttsA:en-US#~
 
 ~#tts:nap:en-US{I will try my best.}#~
 Zrobię wszystko, co w mojej mocy.",,,~#ttsA:en-US#~
-"wakacje, urlop",vacation,"~#tts:nap:en-US{holiday}#~
-
-~#tts:nap:en-US{I went on vacation last summer.}#~
-Pojechałem na wakacje zeszłego lata.",,,~#ttsA:en-US#~
 bardzo,very,"~#tts:nap:en-US{very big}#~ ➟ bardzo duży
 
 ~#tts:nap:en-US{The movie is very good.}#~
@@ -2962,8 +2966,9 @@ kubek,mug,"~#tts:nap:en-US{I drank my coffee from a mug.}#~
 Piłem kawę z kubka.",,,~#ttsA:en-US#~
 guma do żucia,chewing gum,"~#tts:nap:en-US{I chewed a piece of chewing gum.}#~
 Żułem gumę do żucia.",,,~#ttsA:en-US#~
-winda,elevator,"~#tts:nap:en-US{I took the elevator to the third floor.}#~
-Pojechałem windą na trzecie piętro.",,,~#ttsA:en-US#~
+winda,"~#tts:en-GB{lift}#~ (GB)
+~#tts:en-US{elevator}#~ (US)","~#tts:nap:en-US{I took the elevator to the third floor.}#~
+Pojechałem windą na trzecie piętro.",,,~#no-swap#~
 szafa,closet,"~#tts:nap:en-US{wardrobe}#~
 
 ~#tts:nap:en-US{I put my clothes in the closet.}#~
@@ -2977,8 +2982,12 @@ Zjadłem pączek na śniadanie.
 
 ~#tts:nap:en-US{Doughnuts are fried pastries.}#~
 Pączki to smażone ciasta.",,,~#ttsA:en-US#~
-czipsy,crisps,"~#tts:nap:en-US{I ate a packet of crisps.}#~
-Zjadłem paczkę chipsów.",,,~#ttsA:en-US#~
+czipsy,"~#tts:en-GB{crisps}#~ (GB)
+~#tts:en-US{chips}#~ (US)","~#tts:nap:en-GB{I ate a packet of crisps.}#~
+Zjadłem paczkę chipsów.
+
+~#tts:nap:en-US{I ate a bag of chips.}#~
+Zjadłem paczkę czipsów.",,,~#no-swap#~
 frytki,"~#tts:en-GB{chips}#~ (GB)
 ~#tts:en-US{french fries, fries}#~ (US)","~#tts:nap:en-GB{Do you want chips or salad?}#~
 Chcesz frytki czy sałatkę?
@@ -3184,8 +3193,6 @@ gra komputerowa,video game,"~#tts:nap:en-US{I like to play video games.}#~
 Lubię grać w gry wideo.",,,~#ttsA:en-US#~
 "rolki, łyżworolki","rollers, rollerblades","~#tts:nap:en-US{I used to roller skate when I was a kid.}#~
 Kiedy byłem mały, jeździłem na rolkach.",,,~#ttsA:en-US#~
-oglądanie telewizji,watch TV,"~#tts:nap:en-US{I like to watch TV in the evening.}#~
-Lubię oglądać telewizję wieczorem.",,,~#ttsA:en-US#~
 miecz,sword,"~#tts:nap:en-US{The knight carried a sword.}#~
 Rycerz nosił miecz.
 
@@ -3414,7 +3421,7 @@ Pumy są również znane jako lwy górskie.",,,~#ttsA:en-US#~
 śliwka,plum,"~#tts:nap:en-US{Plums are a delicious fruit.}#~
 Śliwki są pysznym owocem.",,,~#ttsA:en-US#~
 jesień,"~#tts:en-GB{autumn}#~ (GB)
-~#tts:en-US{fall}#~ (US)","~#tts:nap:en-US{Autumn is the season between summer and winter.}#~
+~#tts:en-US{fall}#~ (US)","~#tts:nap:en-GB{Autumn is the season between summer and winter.}#~
 Jesień to pora roku pomiędzy latem a zimą.",,,~#no-swap#~
 jeżyna,blackberry,"~#tts:nap:en-US{Blackberries are small, black fruits.}#~
 Jeżyny to małe, czarne owoce.",,,~#ttsA:en-US#~
@@ -4012,8 +4019,15 @@ Mam na sobie T-shirt z krótkimi rękawami.",,,~#ttsA:en-US#~
 Mam na sobie biały top.",,,~#ttsA:en-US#~
 dres,tracksuit,"~#tts:nap:en-US{I'm wearing a tracksuit to go to the gym.}#~
 Mam na sobie dres, żeby iść na siłownię.",,,~#ttsA:en-US#~
-"trampki, buty sportowe",trainers,"~#tts:nap:en-US{I'm wearing trainers because I'm going for a run.}#~
-Mam na sobie buty sportowe, bo idę biegać.",,,~#ttsA:en-US#~
+"trampki, buty sportowe","~#tts:en-GB{trainers}#~ (GB)
+~#tts:en-US{sneakers}#~ (US)","~#tts:nap:en-GB{I'm wearing trainers because I'm going for a run.}#~
+Mam na sobie buty sportowe, bo idę biegać.
+
+~#tts:nap:en-US{I need new sneakers for running.}#~
+Potrzebuję nowych butów sportowych do biegania.
+
+~#tts:nap:en-US{I am wearing sneakers.}#~
+Mam na sobie buty sportowe.",,,~#no-swap#~
 spodnie,"~#tts:en-GB{trousers}#~ (GB)
 ~#tts:en-US{pants}#~ (US)","~#tts:nap:en-GB{I need new trousers.}#~
 Potrzebuję nowych spodni.
@@ -4439,7 +4453,9 @@ rondo,roundabout,"~#tts:nap:en-US{A roundabout is a circular intersection.}#~
 Rondo jest kołowym skrzyżowaniem.",,,~#ttsA:en-US#~
 "skrzyżowanie dróg
 
-w przenośni: punkt decyzyjny, moment wyboru",crossroads,"~#tts:nap:en-US{intersection}#~
+w przenośni: punkt decyzyjny, moment wyboru","junction
+
+crossroads","~#tts:nap:en-US{intersection}#~
 
 ~#tts:nap:en-US{A crossroads is a place where two roads cross.}#~
 Skrzyżowanie to miejsce, gdzie przecinają się dwie drogi.
@@ -6380,8 +6396,14 @@ naruszenie bezpieczeństwa,security breach,"~#tts:nap:en-US{There was a security
 Doszło do naruszenia bezpieczeństwa w banku.",,,~#ttsA:en-US#~
 tablica w szkole,blackboard at school,"~#tts:nap:en-US{The teacher wrote on the blackboard at school.}#~
 Nauczyciel pisał na tablicy szkolnej.",,,~#ttsA:en-US#~
-gumka do mazania,eraser,"~#tts:nap:en-US{I used an eraser to correct my mistake.}#~
-Użyłem gumki do poprawienia błędu.",,,~#ttsA:en-US#~
+gumka do mazania,"~#tts:en-GB{rubber}#~ (GB)
+~#tts:en-US{eraser}#~ (US)","~#tts:nap:en-GB{Can I borrow your rubber?}#~
+Mogę pożyczyć twoją gumkę?
+
+~#tts:nap:en-US{I used an eraser to correct my mistake.}#~
+Użyłem gumki do poprawienia błędu.
+
+(Uwaga: w USA 'rubber' to potocznie prezerwatywa!)",,,~#no-swap#~
 rowerzysta,biker,"~#tts:nap:en-US{The biker rode his bike very fast.}#~
 Rowerzysta jechał bardzo szybko na rowerze.",,,~#ttsA:en-US#~
 kłamca,liar,"~#tts:nap:en-US{to lie}#~ ➟ kłamać
@@ -6644,8 +6666,6 @@ słownik,dictionary,"~#tts:nap:en-US{Look it up in the dictionary.}#~
 Sprawdź to w słowniku.",,,~#ttsA:en-US#~
 piórnik,pencil case,"~#tts:nap:en-US{My pencil case is full of pens and pencils.}#~
 Mój piórnik jest pełen długopisów i ołówków.",,,~#ttsA:en-US#~
-gumka,rubber,"~#tts:nap:en-US{I need a rubber to fix my mistake.}#~
-Potrzebuję gumki, żeby poprawić błąd.",,,~#ttsA:en-US#~
 nożyczki,scissors,"~#tts:nap:en-US{Use scissors to cut the paper.}#~
 Użyj nożyczek, żeby przeciąć papier.",,,~#ttsA:en-US#~
 podkładka,pad,"~#tts:nap:en-US{He padded the cushion.}#~
@@ -8570,7 +8590,9 @@ poniżej,below,"~#tts:nap:en-US{The temperature is below zero.}#~
 Temperatura jest poniżej zera.",,,~#ttsA:en-US#~
 nowo,newly,"~#tts:nap:en-US{They are a newly married couple.}#~
 Oni są nowo poślubioną parą.",,,~#ttsA:en-US#~
-licznik,counter,"~#tts:nap:en-US{He stood at the counter.}#~
+"licznik
+
+lada, okienko (w sklepie/banku)",counter,"~#tts:nap:en-US{He stood at the counter.}#~
 Stał przy ladzie.",,,~#ttsA:en-US#~
 siedlisko,habitat,"~#tts:nap:en-US{The panda's natural habitat is bamboo forests.}#~
 Naturalnym środowiskiem pand są lasy bambusowe.",,,~#ttsA:en-US#~
@@ -9381,8 +9403,15 @@ projektor,projector,"~#tts:nap:en-US{A projector is used to display images and v
 Projektor służy do wyświetlania obrazów i filmów na ekranie.",,,~#ttsA:en-US#~
 frisbee (talerz do rzucania),frisbee,"~#tts:nap:en-US{We played frisbee in the park.}#~
 Graliśmy w frisbee w parku.",,,~#ttsA:en-US#~
-puszka,"can, tin","~#tts:nap:en-US{I opened a can of tuna.}#~
-Otworzyłem puszkę tuńczyka.",,,~#ttsA:en-US#~
+puszka (metalowa),"~#tts:en-GB{tin}#~ (GB)
+~#tts:en-US{can}#~ (US)","~#tts:nap:en-GB{A tin of beans.}#~
+Puszka fasoli.
+
+~#tts:nap:en-US{A can of soda.}#~
+Puszka napoju.
+
+~#tts:nap:en-US{I opened a can of tuna.}#~
+Otworzyłem puszkę tuńczyka.",,,~#no-swap#~
 Niemcy,Germany,"~#tts:nap:en-US{Germany is a country in Europe.}#~
 Niemcy są krajem w Europie.",,,~#ttsA:en-US#~
 Ukraina,Ukraine,"~#tts:nap:en-US{Ukraine is a country in Europe.}#~
@@ -9486,8 +9515,12 @@ struś,ostrich,"~#tts:nap:en-US{Ostriches are the largest birds in the world.}#~
 Strusie są największymi ptakami na świecie.",,,~#ttsA:en-US#~
 lampart,leopard,"~#tts:nap:en-US{Leopards are big cats.}#~
 Leopardy to duże koty.",,,~#ttsA:en-US#~
-kran,faucet,"~#tts:nap:en-US{A faucet is used to control the flow of water.}#~
-Kran służy do kontrolowania przepływu wody.",,,~#ttsA:en-US#~
+kran,"~#tts:en-GB{tap}#~ (GB)
+~#tts:en-US{faucet}#~ (US)","~#tts:nap:en-GB{Turn off the tap.}#~
+Zakręć kran.
+
+~#tts:nap:en-US{A faucet is used to control the flow of water.}#~
+Kran służy do kontrolowania przepływu wody.",,,~#no-swap#~
 krewetka,"~#tts:en-GB{prawn}#~ (GB)
 ~#tts:en-US{shrimp}#~ (US)","~#tts:nap:en-US{Shrimp is a seafood.}#~
 Krewetka jest owocem morza.",,,~#no-swap#~
@@ -10047,8 +10080,12 @@ szabla,sabre,"~#tts:nap:en-US{sabre-tooth}#~ ➟ tygrys szablozębny
 
 ~#tts:nap:en-US{The soldier is carrying a sabre.}#~
 Żołnierz nosi szablę.",,,~#ttsA:en-US#~
-próżnia,vacuum,"~#tts:nap:en-US{The vacuum is very powerful.}#~
-Odkurzacz jest bardzo wydajny.",,,~#ttsA:en-US#~
+"próżnia
+
+odkurzać","vacuum
+
+to vacuum","~#tts:nap:en-US{I need to vacuum the carpet today.}#~
+Muszę dzisiaj odkurzyć dywan",,,~#ttsA:en-US#~
 pchać,to push,"~#tts:nap:en-US{Push the door open.}#~
 Otwórz drzwi.",,,~#ttsA:en-US#~
 płetwa,fin,"~#tts:nap:en-US{The fish has a large fin.}#~
@@ -10287,7 +10324,16 @@ porządek",order,"~#tts:nap:en-US{I ordered a pizza.}#~
 Zamówiłem pizzę.",,,~#ttsA:en-US#~
 wysypka,rash,"~#tts:nap:en-US{He has a rash on his arm.}#~
 Ma wysypkę na ramieniu.",,,~#ttsA:en-US#~
-żelazo,iron,"~#tts:nap:en-US{I need to iron my clothes.}#~
+"żelazo
+
+żelazko (urządzenie)
+
+prasować","iron
+
+to iron","~#tts:nap:en-US{The gate is made of iron.}#~
+Brama jest zrobiona z żelaza.
+
+~#tts:nap:en-US{I need to iron my clothes.}#~
 Muszę wyprasować ubrania.",,,~#ttsA:en-US#~
 "skuteczny, działa w sposób oszczędny i wydajny",efficient,"~#tts:nap:en-US{He is a very efficient worker.}#~
 Jest bardzo wydajnym pracownikiem.",,,~#ttsA:en-US#~
@@ -10328,8 +10374,12 @@ Ciężko oddychał po biegu.",,,~#ttsA:en-US#~
 Zamierzam powiesić obraz na ścianie.",,,~#ttsA:en-US#~
 dokładny,accurate,"~#tts:nap:en-US{His information was accurate.}#~
 Jego informacje były dokładne.",,,~#ttsA:en-US#~
-mieszkanie,apartment,"~#tts:nap:en-US{They live in a small apartment.}#~
-Mieszkają w małym mieszkaniu.",,,~#ttsA:en-US#~
+mieszkanie,"~#tts:en-GB{flat}#~ (GB)
+~#tts:en-US{apartment}#~ (US)","~#tts:nap:en-GB{I live in a small flat in London.}#~
+Mieszkam w małym mieszkaniu w Londynie.
+
+~#tts:nap:en-US{They live in a small apartment.}#~
+Mieszkają w małym mieszkaniu.",,,~#no-swap#~
 krawędź,edge,"~#tts:nap:en-US{The edge of the cliff is very dangerous.}#~
 Krawędź klifu jest bardzo niebezpieczna.",,,~#ttsA:en-US#~
 ksiądz,priest,"~#tts:nap:en-US{The priest is giving a sermon.}#~
@@ -11000,7 +11050,7 @@ wyobraźnia,imagination,"~#tts:nap:en-US{He has a wild imagination.}#~
 Ma bujną wyobraźnię.",,,~#ttsA:en-US#~
 instytucjonalny,institutional,"~#tts:nap:en-US{The problem is institutional, not individual.}#~
 Problem jest instytucjonalny, nie indywidualny.",,,~#ttsA:en-US#~
-quarterback,quarterback,"~#tts:nap:en-US{He is a quarterback in the NFL.}#~
+"rozgrywający (w NFL)",quarterback,"~#tts:nap:en-US{He is a quarterback in the NFL.}#~
 Jest rozgrywającym w NFL.",,,~#ttsA:en-US#~
 zaangażowany,involved,"~#tts:nap:en-US{He is involved in the project.}#~
 Jest zaangażowany w projekt.",,,~#ttsA:en-US#~
@@ -11589,7 +11639,9 @@ torba do makijażu,makeup bag,"~#tts:nap:en-US{I keep my makeup in a makeup bag.
 Przechowuję makijaż w kosmetyczce.",,,~#ttsA:en-US#~
 sięgać,to reach,"~#tts:nap:en-US{I can't reach the top shelf.}#~
 Nie sięgam do najwyższej półki.",,,~#ttsA:en-US#~
-arkusz,sheet,"~#tts:nap:en-US{I need a clean sheet to sleep on.}#~
+"arkusz
+
+prześcieradło",sheet,"~#tts:nap:en-US{I need a clean sheet to sleep on.}#~
 Potrzebuję czystego prześcieradła do spania.",,,~#ttsA:en-US#~
 politycznie,politically,"~#tts:nap:en-US{The situation is politically unstable.}#~
 Sytuacja jest niestabilna politycznie.",,,~#ttsA:en-US#~
@@ -12903,9 +12955,15 @@ Całkowity koszt wynosi 100 dolarów.",,,~#ttsA:en-US#~
 
 ~#tts:nap:en-US{The mountain peak is very high.}#~
 Szczyt góry jest bardzo wysoki.",,,~#ttsA:en-US#~
-rachunek,"bill
-check","~#tts:nap:en-US{He paid the bill.}#~
-Zapłacił rachunek.",,,~#ttsA:en-US#~
+rachunek (w restauracji),"~#tts:en-GB{bill}#~ (GB)
+~#tts:en-US{check}#~ (US)","~#tts:nap:en-GB{Can I have the bill, please?}#~
+Czy mogę prosić o rachunek?
+
+~#tts:nap:en-GB{He paid the bill.}#~
+Zapłacił rachunek.
+
+~#tts:nap:en-US{Can I get the check?}#~
+Czy mogę prosić o rachunek?",,,~#no-swap#~
 eksplozja,explosion,"~#tts:nap:en-US{The explosion caused widespread damage.}#~
 Wybuch spowodował szerokie zniszczenia.",,,~#ttsA:en-US#~
 "perspektywa, szansa, możliwość",prospect,"~#tts:nap:en-US{The prospects for the economy are good.}#~
@@ -13019,7 +13077,9 @@ schronienie,shelter,"~#tts:nap:en-US{The people sought shelter from the storm.}#
 Ludzie szukali schronienia przed burzą.",,,~#ttsA:en-US#~
 odnosić się,to relate,"~#tts:nap:en-US{I can relate to your feelings.}#~
 Mogę zrozumieć twoje uczucia.",,,~#ttsA:en-US#~
-kapitał,capital,"~#tts:nap:en-US{The capital of Poland is Warsaw.}#~
+"kapitał
+
+stolica",capital,"~#tts:nap:en-US{The capital of Poland is Warsaw.}#~
 Stolicą Polski jest Warszawa.",,,~#ttsA:en-US#~
 "substancja, istota, materiał",substance,"~#tts:nap:en-US{The substance is very dangerous.}#~
 Substancja jest bardzo niebezpieczna.",,,~#ttsA:en-US#~
@@ -13131,7 +13191,7 @@ redukcja,reduction,"~#tts:nap:en-US{The price reduction is 20%.}#~
 Obniżka ceny wynosi 20%.",,,~#ttsA:en-US#~
 zatem,thus,"~#tts:nap:en-US{Thus, we can conclude that...}#~
 Tak więc możemy wywnioskować, że...",,,~#ttsA:en-US#~
-nowatorskie,novel,"~#tts:nap:en-US{I'm reading a new novel.}#~
+powieść,novel,"~#tts:nap:en-US{I'm reading a new novel.}#~
 Czytam nową powieść.",,,~#ttsA:en-US#~
 przemysł,industry,"~#tts:nap:en-US{The tourism industry is important for the economy.}#~
 Przemysł turystyczny jest ważny dla gospodarki.",,,~#ttsA:en-US#~
@@ -13139,8 +13199,6 @@ już,already,"~#tts:nap:en-US{I've already eaten.}#~
 Już zjadłem.",,,~#ttsA:en-US#~
 klucz do rur,pipe wrench,"~#tts:nap:en-US{A pipe wrench is used to tighten and loosen pipes.}#~
 Klucz hydrauliczny (do rur) służy do dokręcania i odkręcania rur.",,,~#ttsA:en-US#~
-trampki,sneakers,"~#tts:nap:en-US{I am wearing sneakers.}#~
-Mam na sobie buty sportowe.",,,~#ttsA:en-US#~
 "ukończyć, zakończyć coś",to complete,"~#tts:nap:en-US{He completed the task on time.}#~
 Ukończył zadanie na czas.",,,~#ttsA:en-US#~
 "dość, całkiem
@@ -14076,7 +14134,10 @@ stopniowo,gradually,"~#tts:nap:en-US{The situation is improving gradually.}#~
 Sytuacja stopniowo się poprawia.",,,~#ttsA:en-US#~
 sankcja,sanction,"~#tts:nap:en-US{The country imposed sanctions on the other country.}#~
 Kraj nałożył sankcje na inny kraj.",,,~#ttsA:en-US#~
-wacik,"cotton bud
+"patyczek higieniczny/do uszu
+
+wacik/płatek kosmetyczny","cotton bud
+
 cotton pad","~#tts:nap:en-US{I use cotton buds to clean my ears.}#~
 Używam patyczków higienicznych do czyszczenia uszu.
 
