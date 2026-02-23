@@ -86,7 +86,7 @@ Trójkąt prostokątny równoramienny ma jeden kąt 90°. Jakie miary mają pozo
 W równoległoboku suma dwóch kątów ostrych wynosi 80°. Jaką miarę ma jeden kąt rozwarty?,140°,,,
 Jeden z kątów przyległych do ramienia trapezu ma 60°. Ile wynosi suma miar obu kątów przy tym ramieniu?,180°,,,
 ,,,,
-"W równoległoboku jeden bok jest o 5 cm dłuższy od drugiego, a jego obwód wynosi 3 dm 8 cm. Oblicz długości boków tego równoległoboku",7 cm i 12 cm,"Dane: 
+"W równoległoboku jeden bok jest o 5 cm dłuższy od drugiego, a jego obwód wynosi 3 dm 8 cm. Oblicz długości boków tego równoległoboku.",7 cm i 12 cm,"Dane: 
 * obwód = 38 cm
 * różnica boków = 5 cm
 Rozwiązanie:
@@ -95,7 +95,7 @@ b = a + 5
 a + (a + 5) = 19 → 2a = 14 → a = 7 cm, b = 12 cm
 
 Odpowiedź: 7 cm i 12 cm",,
-"Obwód równoległoboku wynosi 64 cm, a jeden jego bok jest 3 razy krótszy od drugiego. Podaj długości sąsiednich boków tego równoległoboku",8 cm i 24 cm,"Dane: 
+"Obwód równoległoboku wynosi 64 cm, a jeden jego bok jest 3 razy krótszy od drugiego. Podaj długości sąsiednich boków tego równoległoboku.",8 cm i 24 cm,"Dane: 
 * obwód = 64 cm
 * jeden bok 3 razy krótszy
 Rozwiązanie:
@@ -104,7 +104,7 @@ b = 3a
 a + 3a = 32 → 4a = 16 → a = 8 cm, b = 24 cm
 
 Odpowiedź: 8 cm i 24 cm",,
-Romb ma bok o długości 60 cm. Równoległobok o takim samym obwodzie ma boki różniące się o 20 cm. Ustal wymiary równoległoboku,50 cm i 70 cm,"Dane: 
+Romb ma bok o długości 60 cm. Równoległobok o takim samym obwodzie ma boki różniące się o 20 cm. Ustal wymiary równoległoboku.,50 cm i 70 cm,"Dane: 
 * romb ma bok 60 cm
 * równoległobok ma taki sam obwód
 * różnica boków = 20 cm
@@ -121,7 +121,7 @@ a + b = 25, b - a = 7
 b = a + 7 → a + (a + 7) = 25 → 2a = 18 → a = 9 cm, b = 16 cm
 
 Odpowiedź: 9 cm i 16 cm",,
-Kąt rozwarty w rombie ma miarę dwa razy większą niż kąt ostry. Podaj miary wszystkich kątów tego rombu,"60°, 120°, 60°, 120°","Dane: 
+Kąt rozwarty w rombie ma miarę dwa razy większą niż kąt ostry. Podaj miary wszystkich kątów tego rombu.,"60°, 120°, 60°, 120°","Dane: 
 * w rombie kąt rozwarty jest 2 razy większy od ostrego
 Rozwiązanie:
 α + β = 180° (kąty przyległe)
@@ -129,7 +129,7 @@ Rozwiązanie:
 α + 2α = 180° → 3α = 180° → α = 60°, β = 120°
 
 Odpowiedź: 60°, 120°, 60°, 120° ",,
-"Oblicz obwód trapezu równoramiennego, którego krótsza podstawa i ramię mają długość 6 cm każde, a dłuższa podstawa jest 2 razy dłuższa od krótszej",30 cm,"Dane: 
+"Oblicz obwód trapezu równoramiennego, którego krótsza podstawa i ramię mają długość 6 cm każde, a dłuższa podstawa jest 2 razy dłuższa od krótszej.",30 cm,"Dane: 
 * trapez równoramienny: krótsza podstawa = ramię = 6 cm, dłuższa podstawa = 2 × 6 = 12 cm
 Rozwiązanie:
 Obwód = 6 + 6 + 12 + 6 = 30 cm
@@ -144,7 +144,7 @@ a + b = 68
 68 + 2r = 100 → 2r = 32 → r = 16 cm
 
 Odpowiedź: 16 cm",,
-Obwód trapezu prostokątnego wynosi 36 cm. Krótsze ramię i krótsza podstawa są tej samej długości i mają łącznie 12 cm. Dłuższa podstawa jest o 4 cm dłuższa od drugiego ramienia. Oblicz długość dłuższego ramienia,10 cm,"Dane:
+Obwód trapezu prostokątnego wynosi 36 cm. Krótsze ramię i krótsza podstawa są tej samej długości i mają łącznie 12 cm. Dłuższa podstawa jest o 4 cm dłuższa od drugiego ramienia. Oblicz długość dłuższego ramienia.,10 cm,"Dane:
 * obwód = 36 cm
 * krótsze ramię + krótsza podstawa = 12 cm
 * dłuższa podstawa o 4 cm dłuższa od drugiego ramienia

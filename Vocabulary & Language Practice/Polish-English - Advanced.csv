@@ -15,7 +15,9 @@ strażnik,sentinel,~#tts:nap:en-US{The sentinel stood guard at the entrance to t
 deszcz ze śniegiem,sleet,~#tts:nap:en-US{The sleet made driving conditions treacherous.}#~,,,~#ttsA:en-US#~
 "występ, sterczeć",jut,~#tts:nap:en-US{The rocky cliffs jutted out into the sea.}#~,,,~#ttsA:en-US#~
 rozeznać,to discern,~#tts:nap:en-US{He discerned the truth.}#~,,,~#ttsA:en-US#~
-nieporęczny,cumbersome,~#tts:nap:en-US{The bag was cumbersome.}#~,,,~#ttsA:en-US#~
+nieporęczny,cumbersome,"~#tts:nap:en-US{burdensome, unwieldy, tedious}#~
+
+~#tts:nap:en-US{The bag was cumbersome.}#~",,,~#ttsA:en-US#~
 wrzos,heather,~#tts:nap:en-US{The heather-covered hills were a beautiful sight.}#~,,,~#ttsA:en-US#~
 "zwolennik, orędownik (formalnie)",proponent,"~#tts:nap:en-US{follower, advocate, supporter}#~
 ~#tts:nap:en-US{adherent, backer, partisan}#~
@@ -241,7 +243,8 @@ wstręt, ociąganie się",reluctance,~#tts:nap:en-US{She felt reluctance to leav
 wyrzuty,remorse,"~#tts:nap:en-US{qualm}#~
 
 ~#tts:nap:en-US{He was filled with remorse for his actions.}#~",,,~#ttsA:en-US#~
-pasjonujący,gripping,"~#tts:nap:en-US{absorbing}#~
+pasjonujący,gripping,"~#tts:nap:en-US{engrossing, enthralling, engaging, intense, fascinating, suspenseful}#~
+~#tts:nap:en-US{captivating, compelling, absorbing, riveting, spellbinding}#~
 
 ~#tts:nap:en-US{The book was gripping and hard to put down.}#~
 
@@ -481,6 +484,8 @@ doradca,aide,~#tts:nap:en-US{The president's aide answered the phone.}#~,,,~#tts
 ~#tts:nap:en-US{He was a gambling fiend.}#~",,,~#ttsA:en-US#~
 "lekceważyć, bagatelizować",to downplay,"~#tts:nap:en-US{to slight, to disregard, to disdain}#~
 ~#tts:nap:en-US{to flout, to scorn, to trifle}#~
+~#tts:nap:en-US{to undervalue, to underrate, to belittle, to minimize, to deprecate, to underestimate}#~
+~#tts:nap:en-US{to understate, to misjudge, to overlook, to underappreciate, to discount, to make light of}#~
 
 ~#tts:nap:en-US{He tried to downplay the seriousness of the situation.}#~",,,~#ttsA:en-US#~
 wczesne godziny poranne,the small hours,~#tts:nap:en-US{He was still up in the small hours of the morning.}#~,,,~#ttsA:en-US#~
@@ -499,7 +504,9 @@ gazeta codzienna,tabloid,~#tts:nap:en-US{The tabloid newspapers often print sens
 ~#tts:nap:en-US{The auxiliary workers helped the main staff with their tasks.}#~",,,~#ttsA:en-US#~
 "naśladowca, papugujący",copycat,~#tts:nap:en-US{He was a copycat and always tried to imitate others.}#~,,,~#ttsA:en-US#~
 "pośledni, przeciętny",mediocre,~#tts:nap:en-US{His performance was mediocre.}#~,,,~#ttsA:en-US#~
-"nieistotny, nie mający związku",irrelevant,"~#tts:nap:en-US{That information is irrelevant to the discussion.}#~
+"nieistotny, nie mający związku",irrelevant,"~#tts:nap:en-US{insignificant, minimal, trivial, minor, marginal, negligible}#~
+
+~#tts:nap:en-US{That information is irrelevant to the discussion.}#~
 ~#tts:nap:en-US{Your opinion on this matter is irrelevant.}#~",,,~#ttsA:en-US#~
 "wyrażenie przyimkowe
 czasownik frazowy",phrasal verb,"~#tts:nap:en-US{An idiomatic phrase consisting of a verb and another element, typically either}#~ 
@@ -1742,7 +1749,8 @@ rtęć,mercury,~#tts:nap:en-US{Mercury is a heavy metal that is used in thermome
 kostka do gry,dice,~#tts:nap:en-US{We rolled the dice to see who would go first.}#~,,,~#ttsA:en-US#~
 mors,walrus,~#tts:nap:en-US{Walruses are large marine mammals that live in the Arctic.}#~,,,~#ttsA:en-US#~
 foka,seal,~#tts:nap:en-US{Seals are marine mammals that are often found on beaches.}#~,,,~#ttsA:en-US#~
-"wchłaniający, zajmujący, pasjonujący",engrossing,"~#tts:nap:en-US{absorbing}#~
+"wchłaniający, zajmujący, pasjonujący",engrossing,"~#tts:nap:en-US{enthralling, engaging, intense, fascinating, suspenseful}#~
+~#tts:nap:en-US{captivating, compelling, absorbing, riveting, spellbinding, gripping}#~
 
 ~#tts:nap:en-US{The book was engrossing and I couldn't put it down.}#~",,,~#ttsA:en-US#~
 "uprowadzenie, porwanie","abduction
@@ -2058,7 +2066,9 @@ leverage",~#tts:nap:en-US{He used his connections to leverage a job offer.}#~,,,
 "przylegać, przylgnąć, przyczepić",to adhere,~#tts:nap:en-US{The sticker adhered to the window.}#~,,,~#ttsA:en-US#~
 "plastykowy, kubek zlewka [chem.]",beaker,~#tts:nap:en-US{The scientist used a beaker to measure the liquid.}#~,,,~#ttsA:en-US#~
 "nieporęczny, ciężki do obsługi 
-niezwrotny, niepraktyczny, ociężały",unwieldy,~#tts:nap:en-US{The box was unwieldy and difficult to move.}#~,,,~#ttsA:en-US#~
+niezwrotny, niepraktyczny, ociężały",unwieldy,"~#tts:nap:en-US{burdensome, tedious, cumbersome}#~
+
+~#tts:nap:en-US{The box was unwieldy and difficult to move.}#~",,,~#ttsA:en-US#~
 "irytujący, nużący, denerwujący (formalnie)",irksome,"~#tts:nap:en-US{unpleasant}#~
 
 ~#tts:nap:en-US{His constant complaining was irksome.}#~",,,~#ttsA:en-US#~
@@ -2983,7 +2993,8 @@ kosa,scythe,~#tts:nap:en-US{The farmer used a scythe to cut the grass.}#~,,,~#tt
 obcinacz do krzewów,brush cutter,~#tts:nap:en-US{He used a brush cutter to clear the weeds.}#~,,,~#ttsA:en-US#~
 "nienaruszony, nietknięte",intact,~#tts:nap:en-US{The vase was still intact after the fall.}#~,,,~#ttsA:en-US#~
 utykający,limpy,~#tts:nap:en-US{He walked limpy because he had sprained his ankle.}#~,,,~#ttsA:en-US#~
-"nie doceniać, bagatelizować",to underestimate,"~#tts:nap:en-US{deprecate, deride, belittle}#~
+"nie doceniać, bagatelizować",to underestimate,"~#tts:nap:en-US{to undervalue, to underrate, to downplay, to belittle, to minimize, to deprecate}#~
+~#tts:nap:en-US{to understate, to misjudge, to overlook, to underappreciate, to discount, to make light of}#~
 
 ~#tts:nap:en-US{He underestimated the difficulty of the task.}#~",,,~#ttsA:en-US#~
 racje żywnościowe,rations,~#tts:nap:en-US{The soldiers were on rations.}#~,,,~#ttsA:en-US#~
@@ -4709,7 +4720,9 @@ oficjalnie unieważnić prawo lub umowę (język prawniczy),to abrogate,"~#tts:n
 ~#tts:nap:en-US{The government decided to abrogate the treaty, ending the agreement between the two countries.}#~",,,~#ttsA:en-US#~
 symboliczny,figurative,"~#tts:nap:en-US{The phrase ""raining cats and dogs"" is a figurative expression meaning heavy rain.}#~",,,~#ttsA:en-US#~
 potomstwo (ptaków lub zwierząt); w przenośni: grupa młodych lub rodzina,brood,~#tts:nap:en-US{The hen brooded over her eggs until they hatched.}#~,,,~#ttsA:en-US#~
-"nieistotny, mało ważny",negligible,~#tts:nap:en-US{The amount of damage was negligible and could be easily repaired.}#~,,,~#ttsA:en-US#~
+"nieistotny, mało ważny",negligible,"~#tts:nap:en-US{insignificant, minimal, trivial, minor, marginal, irrelevant}#~
+
+~#tts:nap:en-US{The amount of damage was negligible and could be easily repaired.}#~",,,~#ttsA:en-US#~
 wystarczać,to suffice,~#tts:nap:en-US{A small amount of food would suffice for the picnic.}#~,,,~#ttsA:en-US#~
 błoniasty,filmy,~#tts:nap:en-US{The soap bubble was filmy and iridescent.}#~,,,~#ttsA:en-US#~
 dopłata,surcharge,~#tts:nap:en-US{The airline added a surcharge to the ticket price for checked baggage.}#~,,,~#ttsA:en-US#~
@@ -5014,7 +5027,9 @@ Program nauczania obejmuje matematykę i nauki przyrodnicze.",,,~#ttsA:en-US#~
 
 ~#tts:nap:en-US{He affirmed his commitment to the project.}#~",,,~#ttsA:en-US#~
 gorące bułeczki krzyżowe,hot cross buns,~#tts:nap:en-US{She enjoyed eating hot cross buns on Easter.}#~,,,~#ttsA:en-US#~
-chusteczki,handkerchiefs,~#tts:nap:en-US{She carried a few handkerchiefs in her purse.}#~,,,~#ttsA:en-US#~
+chusteczki,handkerchiefs,"~#tts:nap:en-US{tissues}#~
+
+~#tts:nap:en-US{She carried a few handkerchiefs in her purse.}#~",,,~#ttsA:en-US#~
 mielony,minced,~#tts:nap:en-US{She minced the garlic very finely for the sauce.}#~,,,~#ttsA:en-US#~
 rozprawiać,to discourse,~#tts:nap:en-US{The professor gave a fascinating discourse on the topic.}#~,,,~#ttsA:en-US#~
 skała macierzysta,bedrock,~#tts:nap:en-US{The foundation of the building was built on solid bedrock.}#~,,,~#ttsA:en-US#~
@@ -5335,6 +5350,7 @@ godzina policyjna,curfew,~#tts:nap:en-US{My parents set a strict curfew for me o
 trąd,leprosy,"~#tts:nap:en-US{In the past, people with leprosy were often isolated from society.}#~",,,~#ttsA:en-US#~
 trędowaty,leper,"~#tts:nap:en-US{In ancient times, a leper was often an outcast.}#~",,,~#ttsA:en-US#~
 "szczęśliwy traf, nieoczekiwane odkrycie",serendipity,~#tts:nap:en-US{Finding my old keys while looking for something else was pure serendipity.}#~,,,~#ttsA:en-US#~
+"targi, wystawa handlowa",trade fair,~#tts:nap:en-US{Our company will have a booth at the international trade fair.}#~,,,~#ttsA:en-US#~
 #SHEETINFO | name=Phrasal Verbs - Advanced,,,,,
 "ustąpić, ulec (komuś/czemuś) 
 
@@ -5531,7 +5547,7 @@ złożyć
 
 ~#tts:nap:en-US{Fishermen always try to bring in a large catch. Most part-time work does not bring in much money.}#~ 
 ~#tts:nap:en-US{To be accepted into some clubs you must be brought in by a current member.}#~",,,~#ttsA:en-US#~
-"ekspoldować
+"eksplodować
 opuścić
 zdarzyć się (zgodnie z planem) 
 
@@ -6197,7 +6213,7 @@ Kto rano wstaje, temu Pan Bóg daje.",Early bird catches the worm.,,,,~#ttsA:en-
 Lepiej dmuchać na zimne.,It's better to be safe than sorry.,,,,~#ttsA:en-US#~
 Lepiej późno niż wcale.,Better late than never.,,,,~#ttsA:en-US#~
 "Działanie w porę oszczędza kłopotów.
-Lepiej zapobiegać niż leczyć",A stitch in time saves nine.,,,,~#ttsA:en-US#~
+Lepiej zapobiegać niż leczyć.",A stitch in time saves nine.,,,,~#ttsA:en-US#~
 Lepszy wróbel w garści niż gołąb na dachu.,A bird in the hand is worth two in the bush.,,,,~#ttsA:en-US#~
 Los sprzyja odważnym.,Fortune favors the bold.,,,,~#ttsA:en-US#~
 Mądrym wystarczy słowo.,A word to the wise is sufficient.,,,,~#ttsA:en-US#~
