@@ -98,10 +98,11 @@ zielony,green,"~#tts:nap:en-US{The grass is green.}#~
 Trawa jest zielona.",,,~#ttsA:en-US#~
 "chory (potocznie, także w znaczeniu: „niedobrze mi”)",sick,"~#tts:nap:en-US{ill}#~
 
-~#tts:nap:en-US{I'm sick}#~ ➟ Jestem chory
+~#tts:nap:en-US{I'm sick.}#~
+Jestem chory.
 
 ~#tts:nap:en-US{I feel sick.}#~
-Czuję się chory.",,,~#ttsA:en-US#~
+Niedobrze mi (chce mi się wymiotować).",,,~#ttsA:en-US#~
 zegar,clock,"~#tts:nap:en-US{He looked at the clock.}#~
 Spojrzał na zegar.",,,~#ttsA:en-US#~
 kobieta,woman,"~#tts:nap:en-US{She is a strong woman.}#~
@@ -388,8 +389,8 @@ Muszę iść do łazienki.
 
 ~#tts:nap:en-US{He went to the bathroom.}#~
 Poszedł do łazienki.",,,~#ttsA:en-US#~
-sypialnia,bedroom,"~#tts:nap:en-US{I'm going to bed now.}#~
-Idę teraz spać.",,,~#ttsA:en-US#~
+sypialnia,bedroom,"~#tts:nap:en-US{My bedroom is small but cozy.}#~
+Moja sypialnia jest mała, ale przytulna.",,,~#ttsA:en-US#~
 drzwi,door,"~#tts:nap:en-US{Please close the door.}#~
 Proszę zamknij drzwi.",,,~#ttsA:en-US#~
 ogród,garden,"~#tts:nap:en-US{I like to play in the garden.}#~
@@ -556,7 +557,12 @@ Krokodyl jest niebezpieczny.",,,~#ttsA:en-US#~
 słoń,elephant,"~#tts:nap:en-US{The elephant is a big animal.}#~
 Słoń jest dużym zwierzęciem.",,,~#ttsA:en-US#~
 ryba,fish,"~#tts:nap:en-US{I like to eat fish.}#~
-Lubię jeść ryby.",,,~#ttsA:en-US#~
+Lubię jeść ryby.
+
+~#tts:nap:en-US{I can see three fish.}#~
+Widzę trzy ryby.
+
+Uwaga: Słowo 'fish' ma taką samą formę w liczbie pojedynczej i mnogiej.",,,~#ttsA:en-US#~
 mucha,fly,"~#tts:nap:en-US{There is a fly on the window.}#~
 Na oknie siedzi mucha.",,,~#ttsA:en-US#~
 żaba,frog,"~#tts:nap:en-US{The frog is jumping.}#~
@@ -654,8 +660,11 @@ nad,over,"~#tts:nap:en-US{above}#~
 
 ~#tts:nap:en-US{The cat is jumping over the fence.}#~
 Kot skacze przez płot.",,,~#ttsA:en-US#~
-pozwalać,to let,"~#tts:nap:en-US{She let him go.}#~
-Pozwoliła mu odejść.",,,~#ttsA:en-US#~
+pozwolić komuś (coś zrobić),to let someone,"~#tts:nap:en-US{She let him go.}#~
+Pozwoliła mu odejść.
+
+~#tts:nap:en-US{My parents let me go to the party.}#~
+Rodzice pozwolili mi iść na imprezę.",,,~#ttsA:en-US#~
 wysyłać,to send,"~#tts:nap:en-US{I sent her a birthday card.}#~
 Wysłałem jej kartkę urodzinową.",,,~#ttsA:en-US#~
 drukować,to print,"~#tts:nap:en-US{I need to print this document before the meeting.}#~
@@ -1063,7 +1072,7 @@ Będę tam za minutę.",,,~#ttsA:en-US#~
 drugi",second,"~#tts:nap:en-US{Wait a second, I'm coming.}#~
 Poczekaj sekundę, już idę.",,,~#ttsA:en-US#~
 basen,"swimming pool, pool","~#tts:nap:en-US{Let's cool down in the swimming pool.}#~
-Ostudźmy się w basenie.
+Ochłodźmy się w basenie.
 
 ~#tts:nap:en-US{The swimming pool is open all year round.}#~
 Basen jest otwarty przez cały rok.",,,~#ttsA:en-US#~
@@ -1734,7 +1743,12 @@ Jest legendą w branży muzycznej.",,,~#ttsA:en-US#~
 dno,bottom,"~#tts:nap:en-US{He sat at the bottom of the stairs.}#~
 Usiadł na dole schodów.",,,~#ttsA:en-US#~
 "spot reklamowy
-miejsce, punkt",spot,"~#tts:nap:en-US{I found a nice spot to have a picnic.}#~
+
+miejsce
+
+punkt
+
+plamka",spot,"~#tts:nap:en-US{I found a nice spot to have a picnic.}#~
 Znalazłem ładne miejsce na piknik.",,,~#ttsA:en-US#~
 wszędzie,everywhere,"~#tts:nap:en-US{They looked everywhere for their lost keys.}#~
 Szukali kluczy wszędzie.",,,~#ttsA:en-US#~
@@ -2680,7 +2694,7 @@ węgiel do palenia w piecu,coal,"~#tts:nap:en-US{They mined coal.}#~
 Kopali węgiel.",,,~#ttsA:en-US#~
 martwy,dead,"~#tts:nap:en-US{He is dead.}#~
 On jest martwy.",,,~#ttsA:en-US#~
-"drogi, droga (opis uczucia)",dear,"dear friend ➟ drogi przyjacielu
+"drogi, droga (opis uczucia)",dear,"~#tts:nap:en-US{dear friend}#~ ➟ drogi przyjacielu
 
 ~#tts:nap:en-US{He is a dear friend.}#~
 On jest moim drogim przyjacielem (bliskim mi człowiekiem).",,,~#ttsA:en-US#~
@@ -2833,8 +2847,6 @@ słonecznik,sunflower,"🌻
 
 ~#tts:nap:en-US{Sunflowers are tall flowers.}#~
 Słoneczniki to wysokie kwiaty.",,,~#ttsA:en-US#~
-"grill, barbeque",barbeque,"~#tts:nap:en-US{We had a barbecue in the garden.}#~
-Mieliśmy grilla w ogrodzie.",,,~#ttsA:en-US#~
 "Ziemia (planeta),
 gleba naturalna","Earth
 earth","~#tts:nap:en-US{The Earth is our home planet.}#~
@@ -2940,8 +2952,11 @@ Potrzebuję ręcznika, aby się wytrzeć.",,,~#ttsA:en-US#~
 "zeszyt, notes",notebook,"~#tts:nap:en-US{I take notes in my notebook.}#~
 Notuję w zeszycie.",,,~#ttsA:en-US#~
 kosz na śmieci,"~#tts:en-GB{bin}#~ (GB)
-~#tts:en-US{trash can}#~ (US)","~#tts:nap:en-GB{Put the trash in the bin.}#~
-Wrzuć śmieci do kosza.",,,~#no-swap#~
+~#tts:en-US{trash can}#~ (US)","~#tts:nap:en-GB{Put the rubbish in the bin.}#~
+Wrzuć śmieci do kosza.
+
+~#tts:nap:en-US{Put the trash in the trash can.}#~
+Wrzuć śmieci do kosza na śmieci.",,,~#no-swap#~
 regał na książki,"bookshelf
 bookcase","~#tts:nap:en-US{The bookshelf is full of books.}#~
 Półka na książki jest pełna książek.
@@ -3219,6 +3234,24 @@ Księżniczka jest bardzo piękna.
 Księżniczka to żeński członek rodziny królewskiej.",,,~#ttsA:en-US#~
 dinozaur,dinosaur,"~#tts:nap:en-US{Dinosaurs were large reptiles that lived millions of years ago.}#~
 Dinozaury były dużymi gadami, które żyły miliony lat temu.",,,~#ttsA:en-US#~
+"w poniedziałek
+w lipcu
+o piątej","on Monday
+in July
+at five o'clock","~#tts:nap:en-US{On Monday, in July, at five o'clock.}#~
+W poniedziałek, w lipcu, o piątej.
+
+Pamiętaj: ON z dniami tygodnia, IN z miesiącami/latami, AT z godzinami.",,,"~#ttsA:en-US#~
+~#no-swap#~"
+"często
+rzadko
+zawsze","often
+rarely / seldom
+always","~#tts:nap:en-US{I always brush my teeth.}#~
+Zawsze myję zęby.
+
+Wskazówka: Te słowa stawiamy przed czasownikiem (np. I often go...).",,,"~#ttsA:en-US#~
+~#no-swap#~"
 strzała do łuku,arrow,"~#tts:nap:en-US{I shot an arrow at the target.}#~
 Strzeliłem strzałą do celu.",,,~#ttsA:en-US#~
 "strzała do kuszy
@@ -3585,7 +3618,7 @@ pupils","~#tts:nap:en-US{The pupils are learning English.}#~
 Uczniowie uczą się angielskiego.",,,~#ttsA:en-US#~
 biała tablica,whiteboard,"~#tts:nap:en-US{The teacher is writing on the whiteboard.}#~
 Nauczyciel pisze na tablicy.",,,~#ttsA:en-US#~
-kółka zainteresowań,after-school clubs,"~#tts:nap:en-US{I go to after-school clubs.}#~
+"kółka zainteresowań, zajęcia pozalekcyjne",after-school clubs,"~#tts:nap:en-US{I go to after-school clubs.}#~
 Chodzę na zajęcia pozalekcyjne.",,,~#ttsA:en-US#~
 ziemniaki,potatoes,"~#tts:nap:en-US{I roasted potatoes for dinner.}#~
 Na kolację upiekłem ziemniaki.
@@ -4723,7 +4756,8 @@ Nie lubię słodyczy.",,,~#ttsA:en-US#~
 "zły, niepoprawny,
 niewłaściwie, błędnie",wrong,"~#tts:nap:en-US{You're wrong.}#~
 Jesteś w błędzie.",,,~#ttsA:en-US#~
-być (komuś) przykro,to be sorry,,,,"~#ttsA:en-US#~
+być (komuś) przykro,to be sorry,"~#tts:nap:en-US{I'm sorry to hear that.}#~
+Przykro mi to słyszeć.",,,"~#ttsA:en-US#~
 ~#no-swap#~"
 "babeczka, ciastko",cupcake,"~#tts:nap:en-US{I ate a cupcake for dessert.}#~
 Zjadłem babeczkę na deser.",,,~#ttsA:en-US#~
@@ -6486,7 +6520,9 @@ Sukces jest jak schody; musisz stawiać krok po kroku, aby dotrzeć na szczyt.",
 Stworzyłem playlistę moich ulubionych piosenek.",,,~#ttsA:en-US#~
 "cuchnąć, śmierdzieć",to stink,"~#tts:nap:en-US{The garbage stinks.}#~
 Śmieci śmierdzą.",,,~#ttsA:en-US#~
-"ubikacja, toaleta",restroom,"~#tts:nap:en-US{Where is the restroom?}#~
+"ubikacja, toaleta",restroom,"~#tts:nap:en-US{toilet}#~
+
+~#tts:nap:en-US{Where is the restroom?}#~
 Gdzie jest toaleta?",,,~#ttsA:en-US#~
 "ciężar, waga",weight,"~#tts:nap:en-US{What is your weight?}#~
 Jaka jest twoja waga?
@@ -7727,8 +7763,9 @@ wyglądać na zmęczonego,to look tired,"~#tts:nap:en-US{You look tired, you sho
 Wyglądasz na zmęczonego, powinieneś odpocząć.",,,~#ttsA:en-US#~
 szukać czegoś,to look for,"~#tts:nap:en-US{I am looking for my glasses.}#~
 Szukam moich okularów.",,,~#ttsA:en-US#~
-śmieciarka,rubbish lorry,"~#tts:nap:en-US{The rubbish lorry comes on Mondays.}#~
-Śmieciarka przyjeżdża w poniedziałki.",,,~#ttsA:en-US#~
+śmieciarka,"~#tts:en-GB{rubbish lorry}#~ (GB)
+~#tts:en-US{garbage truck}#~ (US)","~#tts:nap:en-GB{The rubbish lorry comes on Mondays.}#~
+Śmieciarka przyjeżdża w poniedziałki.",,,~#no-swap#~
 Tam jest!,There he is!,"~#tts:nap:en-US{I see him now, there he is!}#~
 Już go widzę, tam jest!",,,~#ttsA:en-US#~
 Co to za hałas?,What's that noise?,"~#tts:nap:en-US{What's that noise? It sounds like a cat.}#~
@@ -8335,7 +8372,7 @@ co dziesięć minut,every ten minutes,"~#tts:nap:en-US{The bus comes every ten m
 Autobus przyjeżdża co dziesięć minut.",,,~#ttsA:en-US#~
 pojechać rowerem,to go by bike,"~#tts:nap:en-US{I go by bike to work every morning.}#~
 Jeżdżę rowerem do pracy każdego ranka.",,,~#ttsA:en-US#~
-popłynąć łodzią,to go by boat,"~#tts:nap:en-US{We went to go by boat on the lake.}#~
+popłynąć łodzią,to go by boat,"~#tts:nap:en-US{We went by boat on the lake.}#~
 Popłynęliśmy łodzią po jeziorze.",,,~#ttsA:en-US#~
 pójść pieszo,to go on foot,"~#tts:nap:en-US{I like to go on foot when the weather is nice.}#~
 Lubię chodzić pieszo, kiedy jest ładna pogoda.",,,~#ttsA:en-US#~
@@ -8343,7 +8380,8 @@ na czas,on time,"~#tts:nap:en-US{The train is on time.}#~
 Pociąg jest na czas.",,,~#ttsA:en-US#~
 na wodzie,on water,"~#tts:nap:en-US{You can see the reflection on water.}#~
 Możesz zobaczyć odbicie na wodzie.",,,~#ttsA:en-US#~
-podróż do szkoły,school journey,"~#tts:nap:en-US{The school journey can be long.}#~
+podróż do szkoły,"school journey
+way to school","~#tts:nap:en-US{The school journey can be long.}#~
 Podróż do szkoły może być długa.",,,~#ttsA:en-US#~
 pogoda,weather,"~#tts:nap:en-US{The weather is beautiful today.}#~
 Pogoda jest dzisiaj piękna.",,,~#ttsA:en-US#~
@@ -8377,7 +8415,7 @@ dobrze spać,to sleep well,"~#tts:nap:en-US{I hope you sleep well.}#~
 Mam nadzieję, że dobrze śpisz.",,,~#ttsA:en-US#~
 zatrzymać się w hostelu,to stay in a hostel,"~#tts:nap:en-US{We are going to stay in a hostel in London.}#~
 Zamierzamy zatrzymać się w hostelu w Londynie.",,,~#ttsA:en-US#~
-powiedzieć,to tell,"~#tts:nap:en-US{Can you tell me the truth?}#~
+"powiedzieć, opowiadać",to tell,"~#tts:nap:en-US{Can you tell me the truth?}#~
 Czy możesz powiedzieć mi prawdę?
 
 ~#tts:nap:en-US{I told her the truth.}#~
@@ -8640,13 +8678,20 @@ Powinieneś jeść więcej warzyw.
 
 ~#tts:nap:en-US{You ought to study harder.}#~
 Powinieneś się bardziej uczyć.",,,~#ttsA:en-US#~
-"Pani
-Pan","Mrs.
-Mr.","~#tts:nap:en-US{Mrs. Johnson is my neighbor.}#~
+"Pan
+Pani (zamężna)
+Pani (forma neutralna)","Mr.
+Mrs.
+Ms.","~#tts:nap:en-US{Mr. Smith is a teacher.}#~
+Pan Smith jest nauczycielem.
+
+~#tts:nap:en-US{Mrs. Johnson is my neighbor.}#~
 Pani Johnson jest moją sąsiadką.
 
-~#tts:nap:en-US{Mr. Smith is a teacher.}#~
-Pan Smith jest nauczycielem.",,,~#ttsA:en-US#~
+~#tts:nap:en-US{Mr. Smith and Ms. Jones are in the office.}#~
+Pan Smith i pani Jones są w biurze.
+
+Uwaga: ""Ms."" jest najbardziej uniwersalną formą dla kobiet.",,,~#ttsA:en-US#~
 "tłum ludzi, grupa osób",crowd,"~#tts:nap:en-US{mob, throng}#~
 
 ~#tts:nap:en-US{There was a large crowd at the concert.}#~
@@ -8702,13 +8747,22 @@ Jest kolegą z klasy.",,,~#ttsA:en-US#~
 chyba że,unless,"~#tts:nap:en-US{Unless you have a ticket, you can't enter.}#~
 Chyba że masz bilet, nie możesz wejść.",,,~#ttsA:en-US#~
 meble,furniture,"~#tts:nap:en-US{The furniture is new.}#~
-Meble są nowe.",,,~#ttsA:en-US#~
+Meble są nowe.
+
+Uwaga: W angielskim 'furniture' to liczba pojedyncza (is), nie mówimy 'furnitures'.",,,~#ttsA:en-US#~
 "podły, zły
 
-znaczyć","mean
+znaczyć
+mieć na myśli","mean
 
 to mean","~#tts:nap:en-US{He is a mean person.}#~
-Jest złym człowiekiem.",,,~#ttsA:en-US#~
+Jest złym człowiekiem.
+
+~#tts:nap:en-US{What does this word mean?}#~
+Co oznacza to słowo?
+
+~#tts:nap:en-US{What do you mean?}#~
+Co masz na myśli?",,,~#ttsA:en-US#~
 komfort,comfort,"~#tts:nap:en-US{The comfort of the chair was amazing.}#~
 Komfort fotela był niesamowity.",,,~#ttsA:en-US#~
 wygląd,appearance,"~#tts:nap:en-US{Her appearance is very striking.}#~
@@ -9004,8 +9058,6 @@ przyczyniać się,to contribute,"~#tts:nap:en-US{He contributed to the project.}
 Przyczynił się do projektu.",,,~#ttsA:en-US#~
 dodawać,to add,"~#tts:nap:en-US{I added sugar to my coffee.}#~
 Dodałem cukru do swojej kawy.",,,~#ttsA:en-US#~
-"mieć na myśli, znaczyć",to mean,"~#tts:nap:en-US{What does this word mean?}#~
-Co oznacza to słowo?",,,~#ttsA:en-US#~
 podziwiać,to admire,"~#tts:nap:en-US{I admire her courage.}#~
 Podziwiam jej odwagę.",,,~#ttsA:en-US#~
 główna siedziba (np. firmy),headquarters,"~#tts:nap:en-US{The company's headquarters is in New York.}#~
@@ -10230,7 +10282,7 @@ krawat,tie,"~#tts:nap:en-US{He always wears a shirt and tie to work.}#~
 On zawsze nosi do pracy koszulę i krawat.",,,~#ttsA:en-US#~
 grabie,rake,"~#tts:nap:en-US{I need to rake the leaves.}#~
 Muszę zgrabić liście.",,,~#ttsA:en-US#~
-"piec, palenisko",furnace,"stove
+"piec, palenisko",furnace,"~#tts:nap:en-US{stove, oven}#~
 
 ~#tts:nap:en-US{The furnace is broken.}#~
 Piec jest zepsuty.",,,~#ttsA:en-US#~
@@ -10754,9 +10806,6 @@ Jest pewny swojej przyszłości.",,,"~#ttsA:en-US#~
 ~#no-swap#~"
 kupujący,buyer,"~#tts:nap:en-US{He is a buyer of antiques.}#~
 Jest kupującym antyków.",,,~#ttsA:en-US#~
-Inia amazońska,"Amazon river dolphin
-Pink river dolphin","~#tts:nap:en-US{The Amazon river dolphin is also known as the pink river dolphin.}#~
-Delfin rzeczny Amazonki jest również znany jako różowy delfin rzeczny.",,,~#ttsA:en-US#~
 obserwacja,observation,"~#tts:nap:en-US{The observation was accurate.}#~
 Obserwacja była dokładna.",,,~#ttsA:en-US#~
 zależnie od,depending,"~#tts:nap:en-US{Depending on the weather, we will go for a walk.}#~
@@ -12025,7 +12074,7 @@ przemysłowy,industrial,"~#tts:nap:en-US{This is an industrial area.}#~
 To jest obszar przemysłowy.",,,~#ttsA:en-US#~
 założyciel,founder,"~#tts:nap:en-US{He is the founder of the company.}#~
 Jest założycielem firmy.",,,~#ttsA:en-US#~
-lifetime,lifetime,"~#tts:nap:en-US{Five weeks was a lifetime, and anything could have happened.}#~
+całe życie,lifetime,"~#tts:nap:en-US{Five weeks was a lifetime, and anything could have happened.}#~
 Pięć tygodni to całe życie i wszystko mogło się wydarzyć.",,,~#ttsA:en-US#~
 "rada, zgromadzenie decyzyjne, organ doradczy",council,"~#tts:nap:en-US{He is a member of the city council.}#~
 Jest członkiem rady miasta.",,,~#ttsA:en-US#~
@@ -12839,7 +12888,10 @@ Wstęp do muzeum jest bezpłatny.",,,~#ttsA:en-US#~
 rzadko,rarely,"~#tts:nap:en-US{I rarely go to the theater.}#~
 Rzadko chodzę do teatru.",,,~#ttsA:en-US#~
 "dany, ustalony",given,"~#tts:nap:en-US{The book was given to me as a gift.}#~
-Książka została mi dana jako prezent.",,,~#ttsA:en-US#~
+Książka została mi dana jako prezent.
+
+~#tts:nap:en-US{The meeting will start at a given time.}#~
+Spotkanie rozpocznie się o ustalonym czasie.",,,~#ttsA:en-US#~
 odpowiedzialność,responsibility,"~#tts:nap:en-US{He has a great sense of responsibility.}#~
 Ma duże poczucie odpowiedzialności.",,,~#ttsA:en-US#~
 "cywil, osoba nie będąca żołnierzem lub funkcjonariuszem",civilian,"~#tts:nap:en-US{He is a civilian.}#~
@@ -13071,8 +13123,8 @@ Zainwestował swoje pieniądze na giełdzie.",,,~#ttsA:en-US#~
 Musisz skończyć pracę domową.",,,~#ttsA:en-US#~
 umysłowa,mental,"~#tts:nap:en-US{He has a mental illness.}#~
 Ma chorobę psychiczną.",,,~#ttsA:en-US#~
-napój bezalkoholowy,soft drink,"~#tts:nap:en-US{Soft drinks are carbonated beverages.}#~
-Napoje gazowane to napoje gazowane.",,,~#ttsA:en-US#~
+napój bezalkoholowy,soft drink,"~#tts:nap:en-US{I don't drink alcohol, only soft drinks.}#~
+Nie piję alkoholu, tylko napoje bezalkoholowe.",,,~#ttsA:en-US#~
 schronienie,shelter,"~#tts:nap:en-US{The people sought shelter from the storm.}#~
 Ludzie szukali schronienia przed burzą.",,,~#ttsA:en-US#~
 odnosić się,to relate,"~#tts:nap:en-US{I can relate to your feelings.}#~
@@ -13213,8 +13265,10 @@ percepcja,perception,"~#tts:nap:en-US{His perception of reality is distorted.}#~
 Jego percepcja rzeczywistości jest zniekształcona.",,,~#ttsA:en-US#~
 szanować,to respect,"~#tts:nap:en-US{I respect your opinion.}#~
 Szanuję twoją opinię.",,,~#ttsA:en-US#~
-wiadomości,news,"~#tts:nap:en-US{I heard the news about the accident.}#~
-Słyszałem wiadomości o wypadku.",,,~#ttsA:en-US#~
+"wiadomości, nowiny",news,"~#tts:nap:en-US{I heard the news about the accident.}#~
+Słyszałem wiadomości o wypadku.
+
+Uwaga: Słowo 'news' zawsze łączy się z czasownikiem w liczbie pojedynczej (is), mimo że kończy się na -s.",,,~#ttsA:en-US#~
 "umiejętność, zdolność nabyta przez naukę lub praktykę",skill,"~#tts:nap:en-US{He has excellent cooking skills.}#~
 Ma doskonałe umiejętności kulinarne.",,,~#ttsA:en-US#~
 na bok,aside,"~#tts:nap:en-US{He sat aside.}#~
@@ -13507,7 +13561,7 @@ Uniwersytet jest szanowaną instytucją.",,,~#ttsA:en-US#~
 prowizja
 zlecenie, zadanie do wykonania",commission,"~#tts:nap:en-US{He was given a commission to paint the portrait.}#~
 Zostało mu zlecone namalowanie portretu.",,,~#ttsA:en-US#~
-vs,vs,"~#tts:nap:en-US{The match is Barcelona vs. Real Madrid.}#~
+"kontra, przeciwko",vs,"~#tts:nap:en-US{The match is Barcelona vs. Real Madrid.}#~
 Mecz to Barcelona kontra Real Madryt.",,,~#ttsA:en-US#~
 procent,percentage,"~#tts:nap:en-US{A large percentage of people voted for the candidate.}#~
 Duży procent ludzi głosował na kandydata.",,,~#ttsA:en-US#~
@@ -14164,7 +14218,10 @@ On jest demokratą.",,,~#ttsA:en-US#~
 kiwać (głową),to nod,"~#tts:nap:en-US{He nodded his head in agreement.}#~
 Skinął głową w zgodzie.",,,~#ttsA:en-US#~
 rodzimy,native,"~#tts:nap:en-US{She is a native speaker of English.}#~
-Jest rodzimym mówcą języka angielskiego.",,,~#ttsA:en-US#~
+Jest rodzimym mówcą języka angielskiego.
+
+~#tts:nap:en-US{English is my native language.}#~
+Angielski to mój język ojczysty.",,,~#ttsA:en-US#~
 "kara, grzywna (formalna, przewidziana przepisami)",penalty,"~#tts:nap:en-US{punishment}#~
 
 ~#tts:nap:en-US{He received a penalty for breaking the rules.}#~
@@ -17616,7 +17673,7 @@ Past participle (Taught):
 ~#tts:nap:en-US{He has taught many students over the years.}#~
 Uczył wielu uczniów przez lata.",,,"~#ttsA:en-US#~
 ~#no-swap#~"
-"powiedzieć
+"powiedzieć, opowiadać
 
 ''(irregular verb)''",Tell / Told / Told,"Present (Tell):
 ~#tts:nap:en-US{I always tell the truth.}#~
@@ -17728,7 +17785,7 @@ Past participle (Written):
 ~#tts:nap:en-US{She has written a book about her travels.}#~
 Napisała książkę o swoich podróżach.",,,"~#ttsA:en-US#~
 ~#no-swap#~"
-"obudzić
+"obudzić się
 
 ''(irregular verb)''",Awake / Awoke / Awoken,"Present (Awake):
 ~#tts:nap:en-US{I always awake early in the morning.}#~
@@ -18685,7 +18742,7 @@ Past participle (Wrung):
 ~#tts:nap:en-US{The towel has been wrung dry.}#~
 Ręcznik został wyciśnięty na sucho.",,,"~#ttsA:en-US#~
 ~#no-swap#~"
-"mylić się, błądzić
+"pomylić (kogoś/coś), błędnie ocenić
 
 ''(irregular verb)''",Mistake / Mistook / Mistaken,"Present (Mistake):
 ~#tts:nap:en-US{I often mistake his name for someone else's.}#~
