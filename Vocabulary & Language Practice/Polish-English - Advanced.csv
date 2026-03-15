@@ -397,7 +397,10 @@ pieczarka,champignon,~#tts:nap:en-US{I had a mushroom risotto with champignons.}
 borowik (prawdziwek),boletus,~#tts:nap:en-US{Boletus mushrooms are a type of edible mushroom.}#~,,,~#ttsA:en-US#~
 padlinożerca,scavenger,~#tts:nap:en-US{Raccoons are scavengers.}#~,,,~#ttsA:en-US#~
 "udogodnienia, sprzęt, wyposażenie",facilities,~#tts:nap:en-US{The hotel has excellent facilities.}#~,,,~#ttsA:en-US#~
-"pretensja, żądanie, roszczenie",grievance,~#tts:nap:en-US{She had a grievance against her employer.}#~,,,~#ttsA:en-US#~
+"pretensja, żądanie, roszczenie",grievance,"~#tts:nap:en-US{complaint, objection, protest, resentment}#~
+~#tts:nap:en-US{injustice, dissatisfaction, criticism, unfairness}#~
+
+~#tts:nap:en-US{She had a grievance against her employer.}#~",,,~#ttsA:en-US#~
 "opłakiwać stratę, odczuwać głęboki smutek, cierpieć emocjonalnie",to grieve,~#tts:nap:en-US{It is important to allow yourself time to grieve after a loss.}#~,,,~#ttsA:en-US#~
 "unikać, stronić od kogoś lub czegoś",to shun,"~#tts:nap:en-US{to avoid, to stay clear of, to elude}#~
 
@@ -1519,7 +1522,9 @@ niedbalstwo, niedopatrzenie",neglect,"~#tts:nap:en-US{disregard, contempt, scorn
 "ogłupiać, otumaniać, zamroczyć",to bemuse,"~#tts:nap:en-US{The magician's tricks bemused the audience, leaving them wondering how he did it.}#~",,,~#ttsA:en-US#~
 "onieśmielać, zastraszyć, nastraszyć, zahukać",intimidate,~#tts:nap:en-US{The bully tried to intimidate the smaller boy into giving him his lunch money.}#~,,,~#ttsA:en-US#~
 pałka gumowa policjanta,truncheon,~#tts:nap:en-US{The police officer carried a truncheon as part of his uniform.}#~,,,~#ttsA:en-US#~
-"rozpacz, rozpaczać",despair,~#tts:nap:en-US{The news of her father's death filled her with despair.}#~,,,~#ttsA:en-US#~
+"rozpacz, rozpaczać",despair,"~#tts:nap:en-US{hopelessness, desperation, misery, distress, anguish, desolation}#~
+
+~#tts:nap:en-US{The news of her father's death filled her with despair.}#~",,,~#ttsA:en-US#~
 skamieniały,petrified,"~#tts:nap:en-US{The dinosaur's bones were petrified, preserving them for millions of years.}#~",,,~#ttsA:en-US#~
 skamielina,fossil,~#tts:nap:en-US{The fossil of a prehistoric creature was discovered in the ancient rock formation.}#~,,,~#ttsA:en-US#~
 "nieprawdziwy, podrobiony",bogus,~#tts:nap:en-US{The detective quickly realized that the alibi was bogus.}#~,,,~#ttsA:en-US#~
