@@ -10124,10 +10124,9 @@ Muszę posiekać czosnek.",,,~#ttsA:en-US#~
 "przejrzysty, czysty, wyraźny, klarowny",clear,"~#tts:nap:en-US{The water is clear.}#~
 Woda jest czysta.",,,~#ttsA:en-US#~
 "pokój jego duszy
-niech spoczywa w pokoju",RIP,"~#tts:nap:en-US{rest in peace}#~
-
-~#tts:nap:en-US{Rest in peace.}#~
-Spoczywaj w pokoju.",,,~#ttsA:en-US#~
+niech spoczywa w pokoju","RIP
+Rest in peace.",,,,"~#ttsA:en-US#~
+~#no-swap#~"
 szabla,sabre,"~#tts:nap:en-US{sabre-tooth}#~ ➟ tygrys szablozębny
 
 ~#tts:nap:en-US{The soldier is carrying a sabre.}#~
