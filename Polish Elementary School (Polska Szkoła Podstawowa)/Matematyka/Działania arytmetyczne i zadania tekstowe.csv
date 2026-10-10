@@ -228,17 +228,17 @@ Na stole stało 12 bananów. Dzieci wzięły po 3 banany. Ile dzieci wzięło ba
 "W kinie jest 60 miejsc. W pierwszym rzędzie jest 10 miejsc, a w pozostałych rzędach jest po 5 miejsc. Ile jest wszystkich rzędów?",11,Odejmowanie i dzielenie,,,,,
 "Dziadek miał 30 jajek. Rozłożył je równo do 6 koszyków, a potem do każdego koszyka dołożył po 2 jajka. Ile jajek ma teraz każdy koszyk?",Każdy koszyk ma teraz po 7 jajek.,Dzielenie i dodawanie,,,,,
 "W klasie były 24 kredki. Podzielono je równo między 4 uczniów, a potem jeden uczeń oddał 2 kredki koledze. Ile kredek ma teraz ten kolega?",Ten kolega ma teraz 8 kredek.,Dzielenie i dodawanie,,,,,
-"W szkole było 42 książki. Rozłożono je równo na 7 półek, a potem z jednej półki zabrano 3 książki. Ile zostało na tej półce?",Na tej półce zostało 3 książki.,Dzielenie i odejmowanie,,,,,
+"W szkole były 42 książki. Rozłożono je równo na 7 półek, a potem z jednej półki zabrano 3 książki. Ile zostało na tej półce?",Na tej półce zostało 3 książki.,Dzielenie i odejmowanie,,,,,
 W paczce było 19 lizaków. Rozłożono je równo na 3 talerze. Ile lizaków było na każdym talerzu i ile zostało?,"Na każdym talerzu było po 6 lizaków, a 1 lizak został.",Dzielenie z resztą,,,,,
 "Tomek kupił 27 balonów. Rozdał je równo 5 kolegom, a resztę zostawił sobie. Ile balonów dostał każdy kolega i ile zostało Tomkowi?","Każdy kolega dostał po 5 balonów, a Tomkowi zostały 2 balony.",Dzielenie z resztą,,,,,
 ,,,,,,,
-"=S184 &"" : ""&R184&"" = """,=Q184,"="" (""&T184&"" : 10) + (""&S184-T184&"" : ""&R184&"") = ""& T184/10&"" + ""&(S184-T184)/R184&""""",~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),=Q184*R184,=R184*10,=S184-T184
-"=S185 &"" : ""&R185&"" = """,=Q185,"="" (""&T185&"" : 10) + (""&S185-T185&"" : ""&R185&"") = ""& T185/10&"" + ""&(S185-T185)/R185&""""",~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),=Q185*R185,=R185*10,=S185-T185
-"=S186 &"" : ""&R186&"" = """,=Q186,"="" (""&T186&"" : 10) + (""&S186-T186&"" : ""&R186&"") = ""& T186/10&"" + ""&(S186-T186)/R186&""""",~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),=Q186*R186,=R186*10,=S186-T186
-"=S187 &"" : ""&R187&"" = """,=Q187,"="" (""&T187&"" : 10) + (""&S187-T187&"" : ""&R187&"") = ""& T187/10&"" + ""&(S187-T187)/R187&""""",~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),=Q187*R187,=R187*10,=S187-T187
-"=S188 &"" : ""&R188&"" = """,=Q188,"="" (""&T188&"" : 10) + (""&S188-T188&"" : ""&R188&"") = ""& T188/10&"" + ""&(S188-T188)/R188&""""",~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),=Q188*R188,=R188*10,=S188-T188
-"=S189 &"" : ""&R189&"" = """,=Q189,"="" (""&T189&"" : 10) + (""&S189-T189&"" : ""&R189&"") = ""& T189/10&"" + ""&(S189-T189)/R189&""""",~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),=Q189*R189,=R189*10,=S189-T189
-"=S190 &"" : ""&R190&"" = """,=Q190,"="" (""&T190&"" : 10) + (""&S190-T190&"" : ""&R190&"") = ""& T190/10&"" + ""&(S190-T190)/R190&""""",~#place-after-tech-cols#~=RANDBETWEEN(10;40),=RANDBETWEEN(2;9),=Q190*R190,=R190*10,=S190-T190
+"=S184 &"" : ""&R184&"" = """,=Q184,~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),=Q184*R184,=R184*10,=S184-T184
+"=S185 &"" : ""&R185&"" = """,=Q185,~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),=Q185*R185,=R185*10,=S185-T185
+"=S186 &"" : ""&R186&"" = """,=Q186,~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),=Q186*R186,=R186*10,=S186-T186
+"=S187 &"" : ""&R187&"" = """,=Q187,~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),=Q187*R187,=R187*10,=S187-T187
+"=S188 &"" : ""&R188&"" = """,=Q188,~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),=Q188*R188,=R188*10,=S188-T188
+"=S189 &"" : ""&R189&"" = """,=Q189,~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),=Q189*R189,=R189*10,=S189-T189
+"=S190 &"" : ""&R190&"" = """,=Q190,~#place-after-tech-cols#~=RANDBETWEEN(10;40),=RANDBETWEEN(2;9),=Q190*R190,=R190*10,=S190-T190
 "=S191 &"" : ""&R191&"" = """,=Q191,,~#place-after-tech-cols#~=RANDBETWEEN(110;400),=RANDBETWEEN(2;9),=Q191*R191,,
 "=S192 &"" : ""&R192&"" = """,=Q192,,~#place-after-tech-cols#~=RANDBETWEEN(110;400),=RANDBETWEEN(2;9),=Q192*R192,,
 "=S193 &"" : ""&R193&"" = """,=Q193,,~#place-after-tech-cols#~=RANDBETWEEN(110;400),=RANDBETWEEN(2;9),=Q193*R193,,

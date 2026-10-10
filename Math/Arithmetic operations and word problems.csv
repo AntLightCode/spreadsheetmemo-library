@@ -232,13 +232,13 @@ There were 12 bananas on the table. The children took 3 bananas each. How many c
 There were 19 lollipops in the pack. They were placed equally on 3 plates. How many lollipops were on each plate and how many were left?,"There were 6 lollipops on each plate, and 1 lollipop was left.",Division with remainder,,,,,
 "Tom bought 27 balloons. He distributed them equally to 5 friends, and kept the rest for himself. How many balloons did each friend get and how many were left for Tom?","Each friend got 5 balloons, and Tom had 2 balloons left.",Division with remainder,,,,,
 ,,,,,,,
-"=S184 &"" ÷ ""&R184&"" = """,=Q184,"="" (""&T184&"" ÷ 10) + (""&S184-T184&"" ÷ ""&R184&"") = ""& T184/10&"" + ""&(S184-T184)/R184&""""",~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),=Q184*R184,=R184*10,=S184-T184
-"=S185 &"" ÷ ""&R185&"" = """,=Q185,"="" (""&T185&"" ÷ 10) + (""&S185-T185&"" ÷ ""&R185&"") = ""& T185/10&"" + ""&(S185-T185)/R185&""""",~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),=Q185*R185,=R185*10,=S185-T185
-"=S186 &"" ÷ ""&R186&"" = """,=Q186,"="" (""&T186&"" ÷ 10) + (""&S186-T186&"" ÷ ""&R186&"") = ""& T186/10&"" + ""&(S186-T186)/R186&""""",~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),=Q186*R186,=R186*10,=S186-T186
-"=S187 &"" ÷ ""&R187&"" = """,=Q187,"="" (""&T187&"" ÷ 10) + (""&S187-T187&"" ÷ ""&R187&"") = ""& T187/10&"" + ""&(S187-T187)/R187&""""",~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),=Q187*R187,=R187*10,=S187-T187
-"=S188 &"" ÷ ""&R188&"" = """,=Q188,"="" (""&T188&"" ÷ 10) + (""&S188-T188&"" ÷ ""&R188&"") = ""& T188/10&"" + ""&(S188-T188)/R188&""""",~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),=Q188*R188,=R188*10,=S188-T188
-"=S189 &"" ÷ ""&R189&"" = """,=Q189,"="" (""&T189&"" ÷ 10) + (""&S189-T189&"" ÷ ""&R189&"") = ""& T189/10&"" + ""&(S189-T189)/R189&""""",~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),=Q189*R189,=R189*10,=S189-T189
-"=S190 &"" ÷ ""&R190&"" = """,=Q190,"="" (""&T190&"" ÷ 10) + (""&S190-T190&"" ÷ ""&R190&"") = ""& T190/10&"" + ""&(S190-T190)/R190&""""",~#place-after-tech-cols#~=RANDBETWEEN(10;40),=RANDBETWEEN(2;9),=Q190*R190,=R190*10,=S190-T190
+"=S184 &"" ÷ ""&R184&"" = """,=Q184,~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),=Q184*R184,=R184*10,=S184-T184
+"=S185 &"" ÷ ""&R185&"" = """,=Q185,~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),=Q185*R185,=R185*10,=S185-T185
+"=S186 &"" ÷ ""&R186&"" = """,=Q186,~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),=Q186*R186,=R186*10,=S186-T186
+"=S187 &"" ÷ ""&R187&"" = """,=Q187,~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),=Q187*R187,=R187*10,=S187-T187
+"=S188 &"" ÷ ""&R188&"" = """,=Q188,~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),=Q188*R188,=R188*10,=S188-T188
+"=S189 &"" ÷ ""&R189&"" = """,=Q189,~#place-after-tech-cols#~=RANDBETWEEN(10;30),=RANDBETWEEN(2;9),=Q189*R189,=R189*10,=S189-T189
+"=S190 &"" ÷ ""&R190&"" = """,=Q190,~#place-after-tech-cols#~=RANDBETWEEN(10;40),=RANDBETWEEN(2;9),=Q190*R190,=R190*10,=S190-T190
 "=S191 &"" ÷ ""&R191&"" = """,=Q191,,~#place-after-tech-cols#~=RANDBETWEEN(110;400),=RANDBETWEEN(2;9),=Q191*R191,,
 "=S192 &"" ÷ ""&R192&"" = """,=Q192,,~#place-after-tech-cols#~=RANDBETWEEN(110;400),=RANDBETWEEN(2;9),=Q192*R192,,
 "=S193 &"" ÷ ""&R193&"" = """,=Q193,,~#place-after-tech-cols#~=RANDBETWEEN(110;400),=RANDBETWEEN(2;9),=Q193*R193,,
