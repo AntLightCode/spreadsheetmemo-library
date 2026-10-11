@@ -252,8 +252,8 @@ pyton,der Python,"~#tts:nap:de-DE{Ein Python ist eine sehr große Schlange.}#~
 Pyton to bardzo duży wąż.",,,~#ttsA:de-DE#~
 opiekun zwierząt w zoo,der Tierpfleger,"~#tts:nap:de-DE{Der Tierpfleger füttert die Löwen jeden Tag.}#~
 Opiekun w zoo codziennie karmi lwy.",,,~#ttsA:de-DE#~
-brzydki,hässlich,"~#tts:nap:de-DE{Der Frosch ist hässlich.}#~
-Żaba jest brzydka.",,,~#ttsA:de-DE#~
+brzydki,hässlich,"~#tts:nap:de-DE{Das Gebäude ist hässlich.}#~
+Ten budynek jest brzydki.",,,~#ttsA:de-DE#~
 czwartek,Donnerstag,"~#tts:nap:de-DE{Morgen ist Donnerstag.}#~
 Jutro jest czwartek.",,,~#ttsA:de-DE#~
 "szczególnie, zwłaszcza
@@ -368,7 +368,7 @@ więcej,mehr,"~#tts:nap:de-DE{Ich brauche mehr Zeit, um das zu beenden.}#~
 Potrzebuję więcej czasu, żeby to skończyć.",,,~#ttsA:de-DE#~
 skąd,woher,"~#tts:nap:de-DE{Woher kommst du?}#~
 Skąd pochodzisz?",,,~#ttsA:de-DE#~
-Nie rozumiem,Ich verstehe nicht,"~#tts:nap:de-DE{Ich verstehe nicht, was du sagst.}#~
+Nie rozumiem.,Ich verstehe nicht.,"~#tts:nap:de-DE{Ich verstehe nicht, was du sagst.}#~
 Nie rozumiem, co mówisz.",,,~#ttsA:de-DE#~
 bilet,das Ticket,"~#tts:nap:de-DE{Ich muss ein Zugticket kaufen.}#~
 Muszę kupić bilet na pociąg.",,,~#ttsA:de-DE#~
@@ -3788,9 +3788,6 @@ komar,die Mücke,"~#tts:nap:de-DE{Mücken stechen.}#~
 Komary gryzą.",,,~#ttsA:de-DE#~
 "głęboko, głęboki",tief,"~#tts:nap:de-DE{Der See ist sehr tief.}#~
 Jezioro jest bardzo głębokie.",,,~#ttsA:de-DE#~
-w pobliżu,in der Nähe,"~#tts:nap:de-DE{Der Laden ist in der Nähe.}#~
-Sklep jest niedaleko.",,,"~#ttsA:de-DE#~
-~#no-swap#~"
 miód,der Honig,"~#tts:nap:de-DE{Honig ist süß.}#~
 Miód jest słodki.",,,~#ttsA:de-DE#~
 słomka (do picia),der Strohhalm,"~#tts:nap:de-DE{Ich trinke Cola mit einem Strohhalm.}#~
@@ -8123,7 +8120,7 @@ Czy poszedłeś do sklepu?,Bist du zum Laden gegangen?,,,,"~#ttsA:de-DE#~
 ~#no-swap#~"
 Czy ona kupiła prezent?,Hat sie ein Geschenk gekauft?,,,,"~#ttsA:de-DE#~
 ~#no-swap#~"
-Pojadę do Londynu.,Ich werde nach London fahren.,,,,"~#ttsA:de-DE#~
+Zamierzam pojechać do Londynu.,Ich werde nach London fahren.,,,,"~#ttsA:de-DE#~
 ~#no-swap#~"
 Ona zamierza studiować.,Sie wird studieren.,,,,"~#ttsA:de-DE#~
 ~#no-swap#~"
