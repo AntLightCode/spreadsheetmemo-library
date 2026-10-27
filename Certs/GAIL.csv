@@ -1,268 +1,826 @@
 #SHEETINFO | name=Knowledge Base,,
-What is Artificial Intelligence (AI)?,"A broad field of computer science focused on creating machines that perform tasks typically requiring human intelligence, i.e. solving problems by simulating human behavior. The term was coined in 1956.",''[Fundamentals]''
+What is Artificial Intelligence (AI)?,"A broad field of computer science focused on creating machines that perform tasks typically requiring human intelligence, i.e. solving problems by simulating human behavior.
+
+The term was coined in 1956.",''[Fundamentals]''
 What is Machine Learning (ML)?,"A subset of AI in which models learn from data to perform a task, without being explicitly programmed, and improve over time.",''[Fundamentals]''
-What is Generative AI?,"Generative AI is a category of AI/ML systems that create new content (text, images, audio, video, code) rather than only analyzing, predicting or classifying existing data. Modern implementations commonly use deep learning.",''[Fundamentals]''
+What is Generative AI?,"Generative AI is a category of AI/ML systems that create new content (text, images, audio, video, code) rather than only analyzing, predicting or classifying existing data.
+
+Modern implementations commonly use deep learning.",''[Fundamentals]''
 What is Deep Learning?,A specialized subset of ML that uses artificial neural networks with multiple layers to analyze complex data patterns.,''[Fundamentals]''
 What is the nesting order of AI concepts?,AI > Machine Learning > Deep Learning > Generative AI.,''[Fundamentals]''
-What are the four primary ways to use gen AI?,"Create, Summarize, Discover, Automate.",''[Fundamentals]''
-What is a foundation model?,"A large, general-purpose model trained on massive, diverse (often multimodal) data that can be adapted to many downstream tasks. Examples: Gemini, GPT, Claude, Llama.",''[Fundamentals]''
+What are the four primary ways to use gen AI?,"* Create
+* Summarize
+* Discover
+* Automate",''[Fundamentals]''
+What is a foundation model?,"A large, general-purpose model trained on massive, diverse (often multimodal) data that can be adapted to many downstream tasks.
+
+Examples:
+* Gemini
+* GPT
+* Claude
+* Llama",''[Fundamentals]''
 "Why are they called ""foundation"" models?","Because they serve as a baseline/foundation on which many different applications are built and consumed (via prompting, APIs, tuning).",''[Fundamentals]''
-Traditional (predictive) AI model vs foundation model?,"Traditional = small specialist model built and trained in-house for one specific task (e.g. spam classifier). Foundation = generalist model trained on massive data, adaptable to many tasks.",''[Fundamentals]''
-What is an LLM?,Large Language Model - a foundation model trained mostly on text. Handles human languages AND programming languages (e.g. Python).,''[Fundamentals]''
+Traditional (predictive) AI model vs foundation model?,"Traditional:
+* Small specialist model built and trained in-house for one specific task (e.g. spam classifier).
+Foundation:
+* Generalist model trained on massive data, adaptable to many tasks.",''[Fundamentals]''
+What is an LLM?,"Large Language Model - a foundation model trained mostly on text.
+
+Handles:
+* Human languages
+* Programming languages (e.g. Python).",''[Fundamentals]''
 What is an LMM?,"Large Multimodal Model - a large model that handles multiple modalities (text, images, audio, video), the evolution of the LLM concept.",''[Fundamentals]''
-"What does ""multimodal"" mean?","A model/application that can ingest, process and generate multiple data types (modalities) such as text, images, audio, video, PDFs. It means COMBINING types, not one specific type.",''[Fundamentals]''
+"What does ""multimodal"" mean?","A model/application that can ingest, process and generate multiple data types (modalities), such as:
+* Text
+* Images
+* Audio
+* Video
+* PDFs
+
+It means COMBINING types, not one specific type.",''[Fundamentals]''
 What are diffusion models used for?,"Generating high-quality images, audio and video through iterative refinement of noise into content (e.g. photorealistic images from text descriptions).",''[Fundamentals]''
-What is the Transformer?,"A neural network architecture introduced in 2017 by Google engineers (""Attention Is All You Need""); the engine behind modern gen AI.",''[Fundamentals]''
+What is the Transformer?,"A neural network architecture introduced in 2017 by Google engineers (""Attention Is All You Need"").
+
+The engine behind modern gen AI.",''[Fundamentals]''
 What does GPT stand for?,Generative Pre-trained Transformer.,''[Fundamentals]''
-What type of data do neural networks accept as input?,"Only numbers. Non-numeric data (text, images) must first be converted to a numeric representation.",''[Fundamentals]''
-What are embeddings?,"Numeric vectors (lists of numbers) that represent the semantic meaning of text, images, etc. Produced by an embedding model.",''[Fundamentals]''
-What is a vector database?,"A repository of embeddings (vectors) that enables semantic search. In Google Cloud: AlloyDB, Spanner, BigQuery can be used for vector data.",''[Fundamentals]''
-Semantic search vs keyword search?,"Keyword = match exact terms. Semantic = match by meaning/context (e.g. ""run a marathon"" vs ""run for president""). RAG uses semantic search.",''[Fundamentals]''
-What is a token?,The unit of processing/billing for foundation models: a piece of text (word or part of a word). Roughly 4 characters; ~100 tokens ≈ 75 English words. Varies by model and language.,''[Fundamentals]''
-What is a context window?,The maximum amount of information (in tokens) a model can consider at one time - input plus output. Differs by model.,''[Fundamentals]''
-What is parametric memory?,What the model learned during training (stored in its parameters). Without RAG/grounding the model answers only from this plus the prompt.,''[Fundamentals]''
-What is a knowledge cutoff?,"The date after which the model has no training data. It knows nothing published after it; use prompting, grounding or fine-tuning to supply newer info.",''[Fundamentals]''
+What type of data do neural networks accept as input?,"Only numbers.
+
+Non-numeric data (text, images) must first be converted to a numeric representation.",''[Fundamentals]''
+What are embeddings?,"Numeric vectors (lists of numbers) that represent the semantic meaning of text, images, etc.
+
+Produced by an embedding model.",''[Fundamentals]''
+What is a vector database?,"A repository of embeddings (vectors) that enables semantic search.
+
+In Google Cloud, AlloyDB, Spanner and BigQuery can be used for vector data.",''[Fundamentals]''
+Semantic search vs keyword search?,"Keyword search:
+* Matches exact terms.
+Semantic search:
+* Matches by meaning/context (e.g. ""run a marathon"" vs ""run for president"").
+RAG uses semantic search.",''[Fundamentals]''
+What is a token?,"The unit of processing/billing for foundation models: a piece of text (word or part of a word).
+* Roughly 4 characters per token.
+* ~100 tokens ≈ 75 English words.
+* Varies by model and language.",''[Fundamentals]''
+What is a context window?,"The maximum amount of information (in tokens) a model can consider at one time - input plus output.
+
+Differs by model.",''[Fundamentals]''
+What is parametric memory?,"What the model learned during training (stored in its parameters).
+
+Without RAG/grounding, the model answers only from this plus the prompt.",''[Fundamentals]''
+What is a knowledge cutoff?,"The date after which the model has no training data.
+
+It knows nothing published after it; use prompting, grounding or fine-tuning to supply newer info.",''[Fundamentals]''
 What is a hallucination?,"Model output that looks plausible but is false, incorrect or made up (e.g. invented citations).",''[Fundamentals]''
 Why do models hallucinate?,"They are probabilistic next-token predictors, and post-training (e.g. RLHF) encourages them to give an answer and please the user.",''[Fundamentals]''
-Can hallucinations be eliminated?,"No. They can be significantly reduced/mitigated (grounding, RAG, prompting, human review), but the probability is never zero. Beware exam answers saying ""guarantee/ensure/eliminate"".",''[Fundamentals]''
-What is bias in gen AI?,"Skew in data/models (from human-generated data) that can cause unfair outcomes. It usually cannot be fully removed - you acknowledge, mitigate and monitor it.",''[Fundamentals]''
+Can hallucinations be eliminated?,"No. They can be significantly reduced/mitigated (grounding, RAG, prompting, human review), but the probability is never zero.
+
+Exam tip: Beware answers saying ""guarantee/ensure/eliminate"".",''[Fundamentals]''
+What is bias in gen AI?,"Skew in data/models (from human-generated data) that can cause unfair outcomes.
+
+It usually cannot be fully removed - you acknowledge, mitigate and monitor it.",''[Fundamentals]''
 "What is ""data dependency"" as a model limitation?",Foundation model performance depends heavily on training data; any bias or incompleteness seeps into outputs.,''[Fundamentals]''
-What are edge cases (as a model limitation)?,"Rare scenarios with few examples in the training data, where the model performs worse. Addressed with grounding or fine-tuning.",''[Fundamentals]''
+What are edge cases (as a model limitation)?,"Rare scenarios with few examples in the training data, where the model performs worse.
+
+Addressed with grounding or fine-tuning.",''[Fundamentals]''
 What are emergent capabilities?,Abilities that foundation models show without having been explicitly trained for them.,''[Fundamentals]''
 Why is non-determinism a challenge for gen AI?,"The same prompt can yield different outputs (probabilistic generation), so results are hard to reproduce - testing and evaluation are critical.",''[Fundamentals]''
-What is supervised learning?,"Training on LABELED data (inputs + known outputs) to predict outputs for new unseen inputs (classification, prediction). Example: spam vs not spam, house price prediction.",''[Fundamentals]''
+What are the four primary types of Machine Learning?,"Machine Learning algorithms are generally categorized by how they learn from data: 
+* Supervised Learning
+* Unsupervised Learning
+* Semi-Supervised Learning
+* Reinforcement Learning",''[Fundamentals]''
+What is supervised learning?,"Training on LABELED data (inputs + known outputs) to predict outputs for new unseen inputs (classification, prediction).
+
+Example: 
+* spam vs not spam
+* house price prediction
+* image categorization
+Task types:
+* Classification
+* Regression",''[Fundamentals]''
 What is generalization?,"A model's ability to produce accurate outputs for new, unseen data it was not shown during training.",''[Fundamentals]''
-What is unsupervised learning?,"Finding patterns/structure in UNLABELED data: clustering, grouping customers, topic discovery, anomaly detection (e.g. k-means).",''[Fundamentals]''
-What is reinforcement learning?,"An agent learns by interacting with an environment and receiving rewards/penalties (feedback) toward a goal. Used in games (AlphaGo), robotics, autonomous vehicles, recommendations.",''[Fundamentals]''
+What is unsupervised learning?,"Finding patterns/structure in UNLABELED data.
+
+The model is given unlabeled data without explicitly assigned target outputs. It analyzes the dataset to discover hidden patterns, underlying structures, or natural groupings on its own.
+
+Examples:
+* clustering
+* grouping customers
+* topic discovery
+* anomaly detection (e.g. k-means).
+Task types:
+* Clustering
+* Dimensionality Reduction
+* Association Rules",''[Fundamentals]''
+What is reinforcement learning?,"An agent learns by interacting with an environment and receiving rewards/penalties (feedback) toward a goal. It learns through trial-and-error using positive and negative feedback rather than fixed ground truth labels.
+
+Examples:
+* used in games (AlphaGo)
+* robotics
+* autonomous vehicles
+* recommendations",''[Fundamentals]''
 What is self-supervised learning?,A technique where the model creates its own labels from the data; used in building/training foundation models.,''[Fundamentals]''
+How does semi-supervised learning bridge the gap between supervised and unsupervised?,"It uses a small amount of labeled data combined with a large volume of unlabeled data during training. This significantly reduces the time and cost of manual data annotation while keeping high accuracy.
+
+Examples: 
+* medical image analysis (few doctor-labeled X-rays + thousands of unlabeled scans)
+* speech recognition",''[Fundamentals]''
 Which learning type fits: classify emails as spam/not spam?,Supervised learning.,''[Fundamentals]''
 Which learning type fits: discover topics in a collection of documents?,Unsupervised learning.,''[Fundamentals]''
 Which learning type fits: AI in a video game gets rewards/penalties for actions?,Reinforcement learning.,''[Fundamentals]''
 Which learning type fits: detect unusual transactions that deviate from the norm?,Unsupervised learning (anomaly detection).,''[Fundamentals]''
-What are the five data quality factors?,"Accuracy, Completeness, Representativeness (inclusive), Consistency, Relevance.",''[Fundamentals]''
+What are the five data quality factors?,"* Accuracy
+* Representativeness (inclusive)
+* Relevance
+* Completeness
+* Consistency",''[Fundamentals]''
 "What does ""garbage in, garbage out"" mean?",Output quality is bounded by input data quality. Inaccurate data -> model learns inaccurate patterns.,''[Fundamentals]''
 Data quality factor compromised by factual errors and mislabeled details?,Accuracy.,''[Fundamentals]''
 Data quality factor: data from multiple sources in different formats and labeling?,Consistency.,''[Fundamentals]''
 Data quality factor: data does not reflect the scenarios the model will face (skewed samples)?,Representativeness (and relevance) - leads to biased outcomes.,''[Fundamentals]''
 Is data quality absolute?,No. It is relative to the use case: the same dataset can be high quality for one application and low quality for another.,''[Fundamentals]''
-What are the data accessibility considerations?,"Availability (in development AND production), cost of acquiring/labeling, format the model can process, and non-technical access: permissions, authorization, licensing, ownership.",''[Fundamentals]''
-Structured vs unstructured data?,"Structured = tabular/relational (databases, spreadsheets, CSV). Unstructured = free text, emails, images, audio, video, PDFs.",''[Fundamentals]''
+What are the data accessibility considerations?,"Availability (in development AND production), cost of acquiring/labeling, format the model can process, and non-technical access:
+* Permissions
+* Authorization
+* Licensing
+* Ownership",''[Fundamentals]''
+Structured vs unstructured data?,"Structured:
+* Tabular/relational data (databases, spreadsheets, CSV).
+
+Unstructured:
+* Free text
+* Emails
+* Images
+* Audio
+* Video
+* PDFs",''[Fundamentals]''
 Which Google Cloud product stores unstructured data?,"Cloud Storage (any file type, serverless, highly scalable).",''[Fundamentals]''
 Which Google Cloud products hold structured data?,"Cloud SQL, Spanner, AlloyDB (relational), BigQuery (data warehouse), Bigtable, Firestore.",''[Fundamentals]''
 How much time do AI teams typically spend preparing/making data accessible?,Roughly 60-80% of project time.,''[Fundamentals]''
-What are the stages of the ML development lifecycle?,"Gather data -> Prepare data -> Train model -> Deploy & predict -> Manage (version control, performance tracking, drift monitoring).",''[Fundamentals]''
-What is drift?,"Drift is a change over time in production data, relationships in the data, or model performance that causes quality to degrade. Main types: data drift (input distribution changes), concept drift (the relationship between inputs and correct outputs changes), and prediction drift (model outputs shift). It is a “when”, not an “if”.",''[Fundamentals]''
-Drift monitoring vs versioning?,"Drift = changes in the data/performance over time. Versioning = tracking different versions of the model (v1, v2...).",''[Fundamentals]''
+What are the stages of the ML development lifecycle?,"Gather data → Prepare data → Train model → Deploy & predict → Manage
+
+Management includes:
+* Version control
+* Performance tracking
+* Drift monitoring",''[Fundamentals]''
+What is drift?,"Drift is a change over time in production data, relationships in the data, or model performance that causes quality to degrade.
+
+Main types:
+* Data drift - input distribution changes.
+* Concept drift - the relationship between inputs and correct outputs changes.
+* Prediction drift - model outputs shift.
+It is a ""when"", not an ""if"".",''[Fundamentals]''
+Drift monitoring vs versioning?,"Drift = changes in the data/performance over time.
+
+Versioning = tracking different versions of the model (v1, v2...).",''[Fundamentals]''
 What is training-serving skew?,A difference between the data distribution (or transformations) used in training and in production.,''[Fundamentals]''
-Open-source/open-weight vs closed models?,"Open (e.g. Gemma, Llama, Mistral, Qwen, DeepSeek): weights downloadable, can be customized and self-hosted. Closed (e.g. Gemini): accessed via API/black box.",''[Fundamentals]''
+Open-source/open-weight vs closed models?,"Open models (e.g. Gemma, Llama, Mistral, Qwen, DeepSeek):
+* Weights downloadable
+* Can be customized and self-hosted.
+Closed models (e.g. Gemini):
+* Accessed via API/black box.",''[Fundamentals]''
 "What is a ""black box"" in gen AI?","Standard foundation models whose internals we can't access/modify; we interact only through prompts, parameters and APIs.",''[Fundamentals]''
 Why is evaluation a key challenge in gen AI?,Building is easy with modern tools; testing/validating quality continuously (including after every model version change) is the hard part.,''[Fundamentals]''
-What are the four exam domains of the GAIL certification?,"1) Fundamentals of gen AI, 2) Google Cloud's gen AI offerings, 3) Techniques to improve gen AI model output, 4) Business strategies for successful gen AI solutions.",''[Fundamentals]''
+What are the four exam domains of the GAIL certification?,"# Fundamentals of gen AI
+# Google Cloud's gen AI offerings
+# Techniques to improve gen AI model output
+# Business strategies for successful gen AI solutions",''[Fundamentals]''
 What is the main goal of the Generative AI Leader certification?,"To validate business-level knowledge of generative AI concepts, Google Cloud AI offerings, output-improvement techniques, and responsible AI adoption strategies.",''[Fundamentals]''
 What is Natural Language Processing (NLP)?,"A branch of AI that enables computers to understand, interpret, generate, and interact with human language.",''[Fundamentals]''
 How does generative AI differ from traditional discriminative ML?,"Generative AI creates new content, while discriminative ML predicts labels, classifications, or values from input data.",''[Fundamentals]''
-What happens during data ingestion?,"Raw data is collected and brought into a system from sources such as databases, files, APIs, streams, or cloud storage.",''[Fundamentals]''
+What happens during data ingestion?,"Raw data is collected and brought into a system from sources such as:
+* Databases
+* Files
+* APIs
+* Streams
+* Cloud storage",''[Fundamentals]''
 What happens during data preparation?,"Data is cleaned, transformed, labeled, validated, and structured so it can be used effectively for training or inference.",''[Fundamentals]''
 What happens during model training?,A model learns patterns from prepared data by adjusting its internal parameters.,''[Fundamentals]''
 What happens during model deployment?,"A trained model is made available for real-world use through an API, application, workflow, or endpoint.",''[Fundamentals]''
 What is the business value of using multiple data types in generative AI?,"Multimodal AI can understand richer real-world inputs and produce more useful outputs, such as analyzing documents with images or answering questions using text, charts, and video.",''[Fundamentals]''
-What are the three main ways to make a model use relevant knowledge beyond training?,"Prompt engineering, grounding (incl. RAG), fine-tuning.",''[Techniques]''
-In what order should customization approaches be tried?,"Prompt engineering (cheapest, plan A) -> grounding/RAG -> fine-tuning (last resort, most expensive).",''[Techniques]''
-"Why is prompt engineering ""plan A""?","Cheapest, fastest, easy to learn (natural language), no change to the model, and skills reuse when configuring agents.",''[Techniques]''
-What are the components of a prompt?,"Task (mandatory), contextual information/system instructions (optional), examples (optional).",''[Techniques]''
+What are the three main ways to make a model use relevant knowledge beyond training?,"Prompt engineering
+Grounding (including RAG)
+Fine-tuning",''[Techniques]''
+In what order should customization approaches be tried?,"Recommended order:
+# Prompt engineering - cheapest, plan A.
+# Grounding/RAG.
+# Fine-tuning - last resort, most expensive.",''[Techniques]''
+"Why is prompt engineering ""plan A""?","Advantages:
+* Cheapest and fastest
+* Easy to learn using natural language
+* No change to the model
+* Skills can be reused when configuring agents",''[Techniques]''
+What are the components of a prompt?,"Prompt components:
+* Task (mandatory)
+* Contextual information/system instructions (optional)
+* Examples (optional)",''[Techniques]''
 What is zero-shot prompting?,A prompt with only the task and no examples; relies on the model's pre-existing knowledge.,''[Techniques]''
 What is one-shot prompting?,Providing exactly one example in the prompt.,''[Techniques]''
 What is few-shot prompting?,Providing multiple examples in the prompt so the model learns the pattern/format.,''[Techniques]''
-What do examples in a prompt mainly influence?,"Examples mainly guide the model's output format, style, tone, and reasoning pattern, but they can also influence content and task interpretation. For best results, use examples similar to the real task; irrelevant examples can reduce quality and waste tokens.",''[Techniques]''
+What do examples in a prompt mainly influence?,"Examples mainly guide the model's output format, style, tone, and reasoning pattern, but they can also influence content and task interpretation.
+
+For best results, use examples similar to the real task. Irrelevant examples can reduce quality and waste tokens.",''[Techniques]''
 What is the downside of adding many examples?,More tokens = higher cost and latency; poor/irrelevant examples waste resources.,''[Techniques]''
-What is role prompting?,"Assigning the model a persona/role (e.g. ""You are a customer service agent..."") to guide style, tone and focus. Also specify the target audience.",''[Techniques]''
-What is prompt chaining?,A conversation where each prompt builds on the previous response; useful for complex tasks; easier to find/fix a faulty step.,''[Techniques]''
-What is chain-of-thought (CoT) prompting?,"Guiding the model through intermediate reasoning steps (splitting a complex task into sub-steps). Improves reasoning, accuracy and explainability; helps troubleshooting.",''[Techniques]''
-What is ReAct?,"Reasoning + Acting: the model reasons (thought), chooses an action/tool, observes the result, then loops again until the goal is met. Foundation of agent behavior.",''[Techniques]''
-CoT vs ReAct?,CoT = internal reasoning over intermediate steps. ReAct = reasoning combined with external actions using tools and a feedback loop. Often combined.,''[Techniques]''
+What is role prompting?,"Assigning the model a persona/role (e.g. ""You are a customer service agent..."") to guide style, tone and focus.
+
+Also specify the target audience.",''[Techniques]''
+What is prompt chaining?,A conversation where each prompt builds on the previous response; useful for complex tasks and easier to troubleshoot because a faulty step is easier to find and fix.,''[Techniques]''
+What is chain-of-thought (CoT) prompting?,"Guiding the model through intermediate reasoning steps by splitting a complex task into sub-steps.
+
+Improves reasoning, accuracy and explainability; helps with troubleshooting.",''[Techniques]''
+What is ReAct?,"Reasoning + Acting: the model reasons (thought), chooses an action/tool, observes the result, then loops again until the goal is met.
+
+Foundation of agent behavior.",''[Techniques]''
+CoT vs ReAct?,"CoT (Chain-of-Thought) = internal reasoning over intermediate steps.
+
+ReAct (Reasoning + Acting) = reasoning combined with external actions using tools and a feedback loop.
+
+Often combined.",''[Techniques]''
 Task: find the highest-rated restaurant near my current location. CoT or ReAct?,ReAct (needs external tools such as GPS/search).,''[Techniques]''
 Task: summarize a long article. CoT or ReAct?,Chain-of-thought (understanding and distilling; no external tool).,''[Techniques]''
-What is self-consistency prompting?,Generate multiple solutions and choose the most consistent one; improves reliability but increases cost/latency.,''[Techniques]''
-What are prompt templates/variables?,"Parameterized prompts (e.g. {platform}, {audience}) that can be reused with different values - promotes reusability.",''[Techniques]''
-What does the temperature parameter control?,"Randomness/creativity. Low (~0) = near-deterministic, factual (legal, financial, medical). High = more creative (marketing).",''[Techniques]''
-What do top-K and top-P do?,Limit the pool of candidate next tokens: top-K = the K most probable tokens; top-P (nucleus) = tokens up to a cumulative probability threshold.,''[Techniques]''
+What is self-consistency prompting?,"Generate multiple solutions and choose the most consistent one.
+
+Improves reliability but increases cost/latency.",''[Techniques]''
+What are prompt templates/variables?,"Parameterized prompts (e.g. {platform}, {audience}) that can be reused with different values.
+
+Promotes reusability.",''[Techniques]''
+What does the temperature parameter control?,"Controls randomness/creativity.
+* Low (~0) = near-deterministic, factual (legal, financial, medical).
+* High = more creative (marketing).",''[Techniques]''
+What do top-K and top-P do?,"Limit the pool of candidate next tokens:
+* Top-K = the K most probable tokens.
+* Top-P (nucleus) = tokens up to a cumulative probability threshold.",''[Techniques]''
 What does max output tokens control?,The maximum length of the generated response (also affects cost).,''[Techniques]''
 What are safety settings?,"Configurable filters that block harmful content (hate speech, dangerous, sexually explicit, harassment) at chosen thresholds.",''[Techniques]''
-Do prompt engineering and grounding modify the model?,No. The model stays frozen. Only fine-tuning changes the model's weights.,''[Techniques]''
+Do prompt engineering and grounding modify the model?,"No. The model stays frozen.
+
+Only fine-tuning changes the model's weights.",''[Techniques]''
 What is grounding?,"Connecting a model's output to verifiable external sources (company docs, databases, Google Search) so it can use data it never saw in training.",''[Techniques]''
 Why ground a model?,"To overcome the knowledge cutoff, use private/internal data, reduce hallucinations and provide citations.",''[Techniques]''
-What is RAG?,"Retrieval-Augmented Generation: retrieve relevant info from a knowledge base (via semantic search), augment the prompt with it, and generate a grounded response.",''[Techniques]''
-What are the three RAG steps?,"Retrieval (find relevant info in external source), Augmentation (add it to the prompt), Generation (LLM writes the answer).",''[Techniques]''
-Grounding vs RAG?,Grounding = generic term for connecting to an external source (e.g. Google Search). RAG = a specific grounding architecture with retriever + generator over your knowledge base.,''[Techniques]''
+What is RAG?,"Retrieval-Augmented Generation (RAG): retrieve relevant information from a knowledge base (via semantic search), augment the prompt with it, and generate a grounded response.",''[Techniques]''
+What are the three RAG steps?,"Retrieval: find relevant information in an external source.
+
+Augmentation: add it to the prompt.
+
+Generation: the LLM writes the answer.",''[Techniques]''
+Grounding vs RAG?,"Grounding = generic term for connecting to an external source (e.g. Google Search).
+
+RAG = a specific grounding architecture with a retriever + generator over your knowledge base.",''[Techniques]''
 What are the benefits of RAG?,"More accurate and relevant outputs, reduced hallucinations, citations to sources (explainability), extends the LLM without changing it.",''[Techniques]''
-What is the main risk of RAG?,"Garbage in, garbage out: you own the knowledge base, so outdated or inaccurate content produces poor answers. It must be maintained.",''[Techniques]''
-RAG vs a traditional database?,"A traditional database stores and queries structured records, typically through SQL, filters, joins, or keyword/full-text search. RAG uses semantic search over embeddings to retrieve meaning-relevant content, then adds it to the prompt so the LLM can generate a grounded answer.",''[Techniques]''
+What is the main risk of RAG?,"Garbage in, garbage out: you own the knowledge base, so outdated or inaccurate content produces poor answers.
+
+It must be maintained.",''[Techniques]''
+RAG vs a traditional database?,"A traditional database stores and queries structured records, typically through SQL, filters, joins, or keyword/full-text search.
+
+RAG uses semantic search over embeddings to retrieve meaning-relevant content, then adds it to the prompt so the LLM can generate a grounded answer.",''[Techniques]''
 What is Google Search grounding?,A configuration that lets Gemini run Google searches for current info beyond its cutoff (e.g. last weekend's scores).,''[Techniques]''
-What is fine-tuning?,Further training a foundation model on your own targeted data to specialize it. It changes weights and creates a new model you must manage.,''[Techniques]''
-When is fine-tuning appropriate?,"When the limitation is NOT solvable with data access: specific behavior, internal workflows/policies, complex instructions, specific output formats or domain tasks - after prompting and grounding are exhausted.",''[Techniques]''
-Why is fine-tuning a last resort?,"Expensive, complex, needs expertise and time, requires ongoing maintenance, and not every model supports it.",''[Techniques]''
+What is fine-tuning?,"Further training a foundation model on your own targeted data to specialize it.
+
+It changes weights and creates a new model you must manage.",''[Techniques]''
+When is fine-tuning appropriate?,"When the limitation is NOT solvable with data access:
+* Specific behavior
+* Internal workflows/policies
+* Complex instructions
+* Specific output formats or domain tasks
+Use it after prompting and grounding are exhausted.",''[Techniques]''
+Why is fine-tuning a last resort?,"Disadvantages:
+* Expensive and complex
+* Needs expertise and time
+* Requires ongoing maintenance
+* Not every model supports it",''[Techniques]''
 Which models can be fine-tuned?,Only models that support fine-tuning - check this when choosing a model.,''[Techniques]''
 "What is ""human in the loop""?","Keeping humans to review, validate, moderate and approve outputs, especially for high-risk decisions, sensitive data and regulated workflows.",''[Techniques]''
-Which techniques overcome foundation model limitations?,"Prompt engineering, grounding/RAG, fine-tuning, and human-in-the-loop.",''[Techniques]''
+Which techniques overcome foundation model limitations?,"* Prompt engineering
+* Grounding/RAG
+* Fine-tuning
+* Human-in-the-loop",''[Techniques]''
 What is prompt tuning?,Adapting a model's behavior by learning or optimizing prompt representations rather than fully retraining model weights.,''[Techniques]''
 What is prebuilt RAG with Agent Search?,A managed Google Cloud approach that combines enterprise search and retrieval with generative AI so applications can answer from connected data sources.,''[Techniques]''
 What is the difference between a prompt and a completion?,A prompt is the input or instruction given to a model; a completion is the model's generated response.,''[Techniques]''
 What are RAG APIs?,Google Cloud APIs that let developers add retrieval-augmented generation capabilities to custom applications.,''[Techniques]''
-What is an AI guardrail?,"A control that helps prevent unsafe, inaccurate, biased, or non-compliant AI behavior, such as content filters, validation rules, and human review.",''[Techniques]''
+What is an AI guardrail?,"A control that helps prevent unsafe, inaccurate, biased, or non-compliant AI behavior.
+
+Examples:
+* Content filters
+* Validation rules
+* Human review",''[Techniques]''
 What is first-party enterprise data grounding?,"Grounding responses using an organization's own trusted data, documents, databases, or knowledge bases.",''[Techniques]''
 What is third-party data grounding?,"Grounding responses using trusted external sources, such as licensed content, partner data, or approved public sources.",''[Techniques]''
 What is world-data grounding?,"Grounding responses using broad public web information, such as Google Search results.",''[Techniques]''
-What are examples of generative AI monitoring practices?,"Tracking KPIs, monitoring quality and latency, reviewing outputs, managing versions, applying updates and security patches, and detecting data or model drift.",''[Techniques]''
-What is evaluation in generative AI?,"Systematic testing of model outputs against criteria such as accuracy, relevance, safety, tone, completeness, latency, and cost.",''[Techniques]''
-What factors should you consider when choosing a model?,"Modality, context window, security, availability and reliability, cost, performance, fine-tuning/customization support, ease of integration.",''[Model selection]''
-Gemini Pro vs Flash / Flash-Lite?,"Pro models are intended for complex reasoning and higher-quality tasks, usually with higher latency and cost. Flash and Flash-Lite prioritize low latency and low cost, making them suitable for high-volume chatbots, classification, summarization, and simple generation. Choose the cheapest model that meets the required quality, latency, and cost constraints.",''[Model selection]''
-How should you pick the model size?,"Pick the smallest, cheapest model that meets requirements. Never use the biggest ""just in case"".",''[Model selection]''
-Best practice to optimize model cost during development?,"First prove feasibility with the most powerful model, then downgrade versions/tiers until quality is no longer acceptable and keep the cheapest one that works.",''[Model selection]''
+What are examples of generative AI monitoring practices?,"Key activities:
+* Tracking KPIs
+* Monitoring quality and latency
+* Reviewing outputs
+* Managing versions
+* Applying updates and security patches
+* Detecting data or model drift",''[Techniques]''
+What is evaluation in generative AI?,"Systematic testing of model outputs against criteria such as:
+* Accuracy
+* Relevance
+* Safety
+* Tone
+* Completeness
+* Latency
+* Cost",''[Techniques]''
+What factors should you consider when choosing a model?,"Key model selection criteria:
+* Modality
+* Context window
+* Security
+* Availability and reliability
+* Cost
+* Performance
+* Fine-tuning/customization support
+* Ease of integration",''[Model selection]''
+Gemini Pro vs Flash / Flash-Lite?,"Pro models are intended for complex reasoning and higher-quality tasks, usually with higher latency and cost.
+
+Flash and Flash-Lite prioritize low latency and low cost, making them suitable for high-volume chatbots, classification, summarization, and simple generation.
+
+Choose the cheapest model that meets the required quality, latency, and cost constraints.",''[Model selection]''
+How should you pick the model size?,"Pick the smallest, cheapest model that meets requirements.
+
+Never use the biggest ""just in case"".",''[Model selection]''
+Best practice to optimize model cost during development?,"First prove feasibility with the most powerful model, then downgrade versions/tiers until quality is no longer acceptable.
+
+Keep the cheapest model that works.",''[Model selection]''
 Why is output cost higher than input cost?,"Output involves generation compute (processing time), so output tokens are priced higher than input tokens.",''[Model selection]''
-What cost components exist for gen AI solutions?,"Training (only when building/fine-tuning), deployment (infrastructure), and usage (tokens, requests, etc.).",''[Model selection]''
-What pricing metrics exist for models/APIs?,"Tokens (foundation models), characters (e.g. Translation API), number of requests, compute time, plus subscriptions, licensing fees and free tiers.",''[Model selection]''
+What cost components exist for gen AI solutions?,"Main cost categories:
+* Training (only when building/fine-tuning)
+* Deployment (infrastructure)
+* Usage (tokens, requests, etc.)",''[Model selection]''
+What pricing metrics exist for models/APIs?,"Pricing models may include:
+* Tokens (foundation models)
+* Characters (e.g. Translation API)
+* Number of requests
+* Compute time
+* Subscriptions
+* Licensing fees
+* Free tiers",''[Model selection]''
 What tool helps estimate Google Cloud costs?,Google Cloud Pricing Calculator (needs rough volume estimates).,''[Model selection]''
-Trade-off of heavy customization?,"More effort to build and to maintain (support, performance, cost). Customize only when needed; reuse pre-built solutions where possible.",''[Model selection]''
-What factors determine solution needs/scale?,"Target audience (internal vs public), usage frequency, customization needed, latency tolerance, accuracy tolerance, privacy/security/compliance, explainability, connectivity, time, people and budget.",''[Model selection]''
-How should you define latency and accuracy requirements?,"Realistically - define acceptable ranges (error budget); ""perfect"" is unaffordable. Lower latency may require smaller models.",''[Model selection]''
-Why does a security requirement influence model/platform choice?,"Sensitive data (PII, payment, health) and regulated industries require encryption, access control, compliance and enterprise-grade protections.",''[Model selection]''
+Trade-off of heavy customization?,"More effort to build and maintain (support, performance, cost).
+
+Customize only when needed; reuse pre-built solutions where possible.",''[Model selection]''
+What factors determine solution needs/scale?,"Key considerations:
+* Target audience (internal vs public)
+* Usage frequency
+* Customization needed
+* Latency tolerance
+* Accuracy tolerance
+* Privacy/security/compliance
+* Explainability
+* Connectivity
+* Time, people and budget",''[Model selection]''
+How should you define latency and accuracy requirements?,"Realistically, define acceptable ranges (error budget); ""perfect"" is unaffordable.
+
+Lower latency may require smaller models.",''[Model selection]''
+Why does a security requirement influence model/platform choice?,"Sensitive data (PII, payment, health) and regulated industries require:
+* Encryption
+* Access control
+* Compliance
+* Enterprise-grade protections",''[Model selection]''
 What is the single entry point for AI on Google Cloud?,"The Gemini Enterprise Agent Platform (formerly Vertex AI; renamed April 2026) - a fully managed, unified AI development platform.",''[Google Cloud]''
-What is Model Garden?,"A central hub in the platform to discover, customize and deploy 200+ models: Google first-party, partner/closed (e.g. Anthropic Claude), and open models (Gemma, Llama, Mistral, Qwen, DeepSeek).",''[Google Cloud]''
+What is Model Garden?,"A central hub in the platform to discover, customize and deploy 200+ models:
+* Google first-party models
+* Partner/closed models (e.g. Anthropic Claude)
+* Open models (Gemma, Llama, Mistral, Qwen, DeepSeek)",''[Google Cloud]''
 What is Gemini?,Google's flagship family of multimodal foundation models (closed source).,''[Google Cloud]''
 What is Gemma?,"Google's open-source/open-weight model family; can be downloaded and run locally, on premises or on Google Cloud.",''[Google Cloud]''
 What is Nano Banana?,Commercial name of a Gemini-based model specialized in high-quality image generation/editing.,''[Google Cloud]''
 What is Veo?,Google's video generation model.,''[Google Cloud]''
 What is Lyria?,Google's music generation model.,''[Google Cloud]''
 What is Chirp?,Google's audio/speech model (e.g. speech-to-text).,''[Google Cloud]''
-What is Gemini Nano?,"A lightweight, on-device (edge) version of Gemini that runs on Pixel/Android devices - offline, private and fast. Not the same as Nano Banana.",''[Google Cloud]''
-What are Google's pre-built AI APIs?,"Speech-to-Text, Text-to-Speech, Translation, Document Translation, Document AI, Cloud Vision, Video Intelligence, Natural Language API.",''[Google Cloud]''
-Pre-built API pros and cons?,"Pros: fast, simple, no ML expertise, quick to embed. Cons: single narrow function, trained/maintained by Google, generic - may not be specific enough to your domain.",''[Google Cloud]''
+What is Gemini Nano?,"A lightweight, on-device (edge) version of Gemini that runs on Pixel/Android devices.
+
+Advantages:
+* Offline
+* Private
+* Fast
+Not the same as Nano Banana.",''[Google Cloud]''
+What are Google's pre-built AI APIs?,"Google Cloud services and APIs:
+* Speech-to-Text
+* Text-to-Speech
+* Translation
+* Document Translation
+* Document AI
+* Cloud Vision
+* Video Intelligence
+* Natural Language API",''[Google Cloud]''
+Pre-built API pros and cons?,"Pros:
+* Fast
+* Simple
+* No ML expertise required
+* Quick to embed
+Cons:
+* Single narrow function
+* Trained/maintained by Google
+* Generic - may not be specific enough to your domain",''[Google Cloud]''
 Which API analyzes sentiment and categorizes text?,Cloud Natural Language API.,''[Google Cloud]''
 Which API extracts data from documents like invoices/contracts?,Document AI.,''[Google Cloud]''
 Which API translates while preserving PDF layout?,Document Translation API.,''[Google Cloud]''
-What is Agent Studio vs Google AI Studio?,"Agent Studio (Google Cloud console/Agent Platform) = enterprise-grade for professionals and large projects. Google AI Studio = free, simple, for individuals/beginners/experimentation; doesn't accept corporate Workspace accounts and data may be used under different terms.",''[Google Cloud]''
-What tools exist in the Agent Platform for the ML lifecycle?,"Feature Store, Model Registry, Experiments, Metadata management, Evaluation, Pipelines, Model Monitoring, Endpoints/batch deployment, Tuning, RAG Engine, Vector Search.",''[Google Cloud]''
+What is Agent Studio vs Google AI Studio?,"Agent Studio (Google Cloud console/Agent Platform):
+* Enterprise-grade
+* Designed for professionals and large projects
+Google AI Studio:
+* Free and simple
+* Designed for individuals, beginners and experimentation
+* Doesn't accept corporate Workspace accounts
+* Data may be used under different terms",''[Google Cloud]''
+What tools exist in the Agent Platform for the ML lifecycle?,"Available capabilities and tools:
+* Feature Store
+* Model Registry
+* Experiments
+* Metadata management
+* Evaluation
+* Pipelines
+* Model Monitoring
+* Endpoints/batch deployment
+* Tuning
+* RAG Engine
+* Vector Search",''[Google Cloud]''
 What does Feature Store do?,"Central repository to share, serve and reuse features consistently between training and production.",''[Google Cloud]''
 What does Model Registry do?,"Manages model versions, tracks changes and organizes models through their life cycle.",''[Google Cloud]''
 What does Experiments/Metadata do?,"Tracks experiments, evaluation metrics and artifacts across trained model versions.",''[Google Cloud]''
-What do Pipelines do?,"Automate and orchestrate the end-to-end ML workflow (data prep, training, evaluation, deployment).",''[Google Cloud]''
+What do Pipelines do?,"Automate and orchestrate the end-to-end ML workflow:
+* Data preparation
+* Training
+* Evaluation
+* Deployment",''[Google Cloud]''
 What does Model Monitoring do?,"Detects performance degradation, input skew and drift; can trigger updates or retraining.",''[Google Cloud]''
 Which tool: track versions and record of changes?,Model Registry.,''[Google Cloud]''
 Which tool: find cause of declining production performance?,Model Monitoring.,''[Google Cloud]''
 Which tool: automate the entire ML pipeline from data prep to deployment?,Pipelines (workflow orchestration).,''[Google Cloud]''
 "Which tool: label data, experiment with architectures and deploy models?",The platform layer - Agent Platform.,''[Google Cloud]''
 What is Gemini app?,Google's consumer/commercial chatbot (web/mobile) powered by Gemini; can use Google Search.,''[Google Cloud]''
-What is Google Workspace with Gemini?,"Gemini embedded in Gmail, Docs, Slides, Sheets, Meet, Drive, etc. via a side panel (write, summarize, analyze, generate images, live translated captions). An admin enables or disables features.",''[Google Cloud]''
-What do Google Vids and AppSheet do?,Vids: AI video creation/editing. AppSheet: no-code app development.,''[Google Cloud]''
-What is Gemini notebook (formerly NotebookLM)?,"A personalized AI research assistant grounded ONLY in the sources you upload; isolated, hyper-focused environment with citations. Creates audio overviews, slide decks, quizzes, mind maps, reports.",''[Google Cloud]''
-Gemini notebook source behavior?,Sources are COPIED (not linked) so you must manually re-sync changes; outputs are read-only; chat history isn't kept long (save to note); no Google Search; data isn't used to train models.,''[Google Cloud]''
+What is Google Workspace with Gemini?,"Gemini embedded in Gmail, Docs, Slides, Sheets, Meet, Drive, etc. via a side panel.
+
+Capabilities:
+* Write
+* Summarize
+* Analyze
+* Generate images
+* Provide live translated captions
+An admin enables or disables features.",''[Google Cloud]''
+What do Google Vids and AppSheet do?,"Vids: AI video creation/editing.
+
+AppSheet: no-code app development.",''[Google Cloud]''
+What is Gemini notebook (formerly NotebookLM)?,"A personalized AI research assistant grounded ONLY in the sources you upload.
+
+Features:
+* Isolated, hyper-focused environment with citations
+* Audio overviews
+* Slide decks
+* Quizzes
+* Mind maps
+* Reports",''[Google Cloud]''
+Gemini notebook source behavior?,"Limitations:
+* Sources are COPIED, not linked, so you must manually re-sync changes.
+* Outputs are read-only.
+* Chat history isn't kept long (save to note).
+* No Google Search.
+* Data isn't used to train models.",''[Google Cloud]''
 "What does ""chat-only"" sharing in Gemini notebook do?",Lets viewers query the notebook without seeing the underlying source files.,''[Google Cloud]''
-What is Gemini Enterprise?,"A subscription-based single point of entry app to build/use AI agents grounded in company data from many sources; connectors, Google Search/Maps, deep research, agent marketplace; no-code. Gemini notebook is part of it.",''[Google Cloud]''
-Gemini Enterprise vs Gemini notebook?,"Notebook = isolated to chosen sources only, no external connectivity. Enterprise = connects to external resources via connectors/tools and agents, can search Google and company data.",''[Google Cloud]''
-Primary purpose of Gemini Enterprise?,A centralized platform to access AI agents that use company data to assist employees - NOT a new repository that copies all company data.,''[Google Cloud]''
-What is Gemini for Google Cloud (Cloud Assist)?,"AI assistant embedded in Google Cloud products: troubleshooting, root cause analysis, optimization recommendations (security, cost), design and operate apps.",''[Google Cloud]''
-What is Gemini Code Assist?,"AI pair programmer in IDEs: code suggestions, generation, explanations, tests, documentation; 20+ languages. Best for developer efficiency and collaboration.",''[Google Cloud]''
-What does Gemini in BigQuery/Looker do?,Writes/explains SQL and generates insights (BigQuery); natural-language analytics in Looker (BI platform with separate credentials/licensing).,''[Google Cloud]''
+What is Gemini Enterprise?,"A subscription-based single point of entry app to build/use AI agents grounded in company data from many sources.
+
+Features:
+* Connectors
+* Google Search/Maps
+* Deep research
+* Agent marketplace
+* No-code
+Gemini notebook is part of it.",''[Google Cloud]''
+Gemini Enterprise vs Gemini notebook?,"Notebook:
+* Isolated to chosen sources only
+* No external connectivity
+Enterprise:
+* Connects to external resources via connectors/tools and agents
+* Can search Google and company data",''[Google Cloud]''
+Primary purpose of Gemini Enterprise?,"A centralized platform to access AI agents that use company data to assist employees.
+
+NOT a new repository that copies all company data.",''[Google Cloud]''
+What is Gemini for Google Cloud (Cloud Assist)?,"AI assistant embedded in Google Cloud products.
+
+Capabilities:
+* Troubleshooting
+* Root cause analysis
+* Optimization recommendations (security, cost)
+* Designing and operating apps",''[Google Cloud]''
+What is Gemini Code Assist?,"AI pair programmer in IDEs.
+
+Capabilities:
+* Code suggestions and generation
+* Explanations
+* Tests
+* Documentation
+Supports 20+ languages. Best for developer efficiency and collaboration.",''[Google Cloud]''
+What does Gemini in BigQuery/Looker do?,"Writes/explains SQL and generates insights (BigQuery).
+
+Also provides natural-language analytics in Looker (BI platform with separate credentials/licensing).",''[Google Cloud]''
 What do Colab Enterprise and Workbench provide?,Managed Jupyter notebook environments combining text and code for data science and ML.,''[Google Cloud]''
-Gemini in security?,"Helps summarize threats, assess security posture, analyze attack paths; customer prompts/responses are not used for training.",''[Google Cloud]''
-What are AI Applications?,"No-code/low-code builders for Search (search & assistant, custom search, healthcare, commerce, media), Conversational agents and Recommendations, connected to data stores.",''[Google Cloud]''
+Gemini in security?,"Helps summarize threats, assess security posture and analyze attack paths.
+
+Customer prompts/responses are not used for training.",''[Google Cloud]''
+What are AI Applications?,"No-code/low-code builders for:
+* Search (search & assistant, custom search, healthcare, commerce, media)
+* Conversational agents
+* Recommendations
+Connected to data stores.",''[Google Cloud]''
 Which product for recommendations without coding?,AI Applications (recommendations/search).,''[Google Cloud]''
-What are data stores in AI Applications?,"Structured and unstructured knowledge bases (Cloud Storage, BigQuery, websites, etc.) that agents use for grounding; indexing can take minutes to hours.",''[Google Cloud]''
-Agent Search capabilities?,"Search over organization data with summaries, citations, follow-ups; industry tuning (retail, media, healthcare); reduces hallucinations via grounding.",''[Google Cloud]''
-Conversational Agents (CX): flows vs playbooks?,"Flows = deterministic predefined pages/rules. Playbooks = generative, natural-language-driven. Hybrid combines both.",''[Google Cloud]''
-"What are Customer Experience Agent Studio, Agent Assist and Insights?",CX Agent Studio: design/build chatbots and voicebots (full automation). Agent Assist: suggestions/transcription/summaries for live human agents (augmentation). Insights: analytics on interactions and performance.,''[Google Cloud]''
+What are data stores in AI Applications?,"Structured and unstructured knowledge bases (Cloud Storage, BigQuery, websites, etc.) that agents use for grounding.
+
+Indexing can take minutes to hours.",''[Google Cloud]''
+Agent Search capabilities?,"Search over organization data with:
+* Summaries
+* Citations
+* Follow-ups
+Industry tuning (retail, media, healthcare) reduces hallucinations via grounding.",''[Google Cloud]''
+Conversational Agents (CX): flows vs playbooks?,"Flows = deterministic, predefined pages/rules.
+
+Playbooks = generative, natural-language-driven.
+
+Hybrid = combines both.",''[Google Cloud]''
+"What are Customer Experience Agent Studio, Agent Assist and Insights?","CX Agent Studio: design/build chatbots and voicebots (full automation).
+
+Agent Assist: suggestions, transcription and summaries for live human agents (augmentation).
+
+Insights: analytics on interactions and performance.",''[Google Cloud]''
 Which product helps human call-center agents during live calls?,"Agent Assist (improves efficiency, consistency, first-call resolution).",''[Google Cloud]''
 Which product designs chatbots/voicebots that understand user intent?,Conversational Agents / CX Agent Studio.,''[Google Cloud]''
 Which product analyzes conversation FAQs and effectiveness?,Conversational Insights.,''[Google Cloud]''
 "What is a ""symbol"" company in exam questions?","A fictional company (Symbol Retail, Symbol Banking...) used to frame realistic scenario questions.",''[Google Cloud]''
 What is AutoML?,"A Vertex AI capability that automates parts of the ML workflow, such as training and tuning models, so users can build models with less manual ML expertise.",''[Google Cloud]''
-What is Contact Center as a Service (CCaaS)?,"A cloud-based contact-center platform that can integrate AI capabilities such as virtual agents, agent assist, and conversation analytics.",''[Google Cloud]''
-Which Google Cloud service is commonly used for data ingestion and storage?,"Google Cloud Storage, BigQuery, Pub/Sub, and Dataflow are commonly used depending on the data type and workload.",''[Google Cloud]''
-Which Google Cloud service is commonly used to prepare and transform data?,"Dataprep, Dataflow, Dataproc, and BigQuery can be used for data preparation and transformation.",''[Google Cloud]''
-What is Agent Search?,"A managed search service that provides enterprise search and retrieval across websites, documents, and structured data, often used for RAG.",''[Google Cloud]''
-What are the layers of the gen AI landscape?,"From bottom to top: Infrastructure, Platform, Models, Agents, Gen AI applications.",''[Infrastructure]''
+What is Contact Center as a Service (CCaaS)?,"A cloud-based contact-center platform that can integrate AI capabilities such as:
+* Virtual agents
+* Agent assist
+* Conversation analytics",''[Google Cloud]''
+Which Google Cloud service is commonly used for data ingestion and storage?,"Google Cloud Storage, BigQuery, Pub/Sub and Dataflow are commonly used depending on the data type and workload.",''[Google Cloud]''
+Which Google Cloud service is commonly used to prepare and transform data?,"Dataprep, Dataflow, Dataproc and BigQuery can be used for data preparation and transformation.",''[Google Cloud]''
+What is Agent Search?,"A managed search service that provides enterprise search and retrieval across websites, documents and structured data, often used for RAG.",''[Google Cloud]''
+What are the layers of the gen AI landscape?,"From bottom to top:
+* Infrastructure
+* Platform
+* Models
+* Agents
+* Gen AI applications",''[Infrastructure]''
 What does the gen AI application layer do?,"User-facing front end (website, mobile app, API, chatbot) through which users or other services interact.",''[Infrastructure]''
 What does the infrastructure layer include?,"Compute (CPUs, GPUs, TPUs), storage, networking and security.",''[Infrastructure]''
-GPU vs TPU?,"A GPU is a general-purpose parallel accelerator originally designed for graphics and now widely used for ML training and inference; Nvidia is one major vendor. A TPU is Google's custom ASIC optimized specifically for tensor/ML workloads, available through Google Cloud.",''[Infrastructure]''
+GPU vs TPU?,"GPU (Graphics Processing Unit):
+* General-purpose parallel accelerator originally designed for graphics
+* Widely used for ML training and inference
+* Nvidia is one major vendor
+TPU (Tensor Processing Unit):
+* Google's custom ASIC
+* Optimized specifically for tensor/ML workloads
+* Available through Google Cloud",''[Infrastructure]''
 What is a hypercomputer?,Google's cluster-computing approach aggregating many GPUs/TPUs to scale training and serving of massive models.,''[Infrastructure]''
-Why manage compute and storage independently in the cloud?,Virtualization lets you scale each separately; networking connects them. Bandwidth/latency can become the bottleneck.,''[Infrastructure]''
-IaaS vs fully managed vs serverless?,"IaaS (e.g. VMs) = you configure resources. Fully managed (Agent Platform) = you configure, platform operates. Serverless (BigQuery, Cloud Run) = no infrastructure to configure.",''[Infrastructure]''
-Why use the cloud for gen AI?,"Pay per use, no big upfront hardware investment, easy to experiment/prototype/proof of concept, automatic scaling and maintenance.",''[Infrastructure]''
-"What are on-premises, hybrid and multicloud?",On-prem = own data center. Hybrid = cloud + on-prem. Multicloud = multiple cloud providers.,''[Infrastructure]''
-What is edge computing and when is it used?,"Running AI on devices/servers close to the data source. Use when connectivity is limited/unreliable, real-time response is required, data privacy forbids moving data to cloud, or offline use is needed.",''[Infrastructure]''
+Why manage compute and storage independently in the cloud?,"Virtualization lets you scale each separately; networking connects them.
+
+Bandwidth/latency can become the bottleneck.",''[Infrastructure]''
+IaaS vs fully managed vs serverless?,"IaaS (e.g. VMs): you configure resources.
+
+Fully managed (Agent Platform): you configure, platform operates.
+
+Serverless (BigQuery, Cloud Run): no infrastructure to configure.",''[Infrastructure]''
+Why use the cloud for gen AI?,"Advantages:
+* Pay per use
+* No big upfront hardware investment
+* Easy to experiment/prototype/proof of concept
+* Automatic scaling and maintenance",''[Infrastructure]''
+"What are on-premises, hybrid and multicloud?","On-prem = own data center.
+
+Hybrid = cloud + on-prem.
+
+Multicloud = multiple cloud providers.",''[Infrastructure]''
+What is edge computing and when is it used?,"Running AI on devices/servers close to the data source.
+
+Use when:
+* Connectivity is limited/unreliable
+* Real-time response is required
+* Data privacy forbids moving data to cloud
+* Offline use is needed",''[Infrastructure]''
 Edge or cloud: medical device giving real-time feedback during surgery?,Edge.,''[Infrastructure]''
 Edge or cloud: chatbot handling millions of daily e-commerce inquiries?,Cloud (scale and capacity).,''[Infrastructure]''
 Edge or cloud: smart-city traffic analysis with large data volumes?,Cloud (centralized processing capacity).,''[Infrastructure]''
 Steps to deploy models at the edge?,"Convert the model to a lightweight version, package it with dependencies in a container, deploy, then manage/monitor and sync back with the backend.",''[Infrastructure]''
 "Which Google Cloud services handle messaging, SQL, storage, data warehouse?","Pub/Sub (messaging, near real time), Cloud SQL/Spanner (relational), Cloud Storage (objects), BigQuery (data warehouse).",''[Infrastructure]''
-What is Cloud Run vs Cloud Run functions?,"Cloud Run = serverless containers for long-running services (e.g. websites, front ends). Cloud Run functions = small event-driven code triggered by events (e.g. file upload) and auto-scaled.",''[Infrastructure]''
+What is Cloud Run vs Cloud Run functions?,"Cloud Run = serverless containers for long-running services (e.g. websites, front ends).
+
+Cloud Run functions = small event-driven code triggered by events (e.g. file upload) and auto-scaled.",''[Infrastructure]''
 "Why does exam say ""near real time"" rather than ""real time""?","Gen AI workflows typically operate in streaming/near-real-time (seconds), not millisecond real time.",''[Infrastructure]''
-What does IAM do on Google Cloud?,"IAM controls authorization: it determines which authenticated principals (users, groups, service accounts) can access which Google Cloud resources and what actions they can perform, through IAM roles and policy bindings. Authentication verifies identity; IAM then decides permissions.",''[Security]''
-Authentication vs authorization?,Authentication = who you are. Authorization = what you're allowed to do.,''[Security]''
+What does IAM do on Google Cloud?,"IAM controls authorization: it determines which authenticated principals (users, groups, service accounts) can access which Google Cloud resources and what actions they can perform, through IAM roles and policy bindings.
+
+Authentication verifies identity; IAM then decides permissions.",''[Security]''
+Authentication vs authorization?,"Authentication = who you are.
+
+Authorization = what you're allowed to do.",''[Security]''
 What is the principle of least privilege?,"Grant only the minimum permissions needed, and review them regularly.",''[Security]''
 What is zero trust?,"Never trust implicitly: every connection between services/users must be authenticated and authorized, with no trusted ""perimeter"".",''[Security]''
-Why use an API key?,"To authenticate calls from an application to an API (e.g. Gemini API); keys should be administered and rotated, not created freely by every user.",''[Security]''
-What does Sensitive Data Protection do?,"Detects sensitive data (PII) and de-identifies it (mask, redact, tokenize/pseudonymize).",''[Security]''
+Why use an API key?,"To authenticate calls from an application to an API (e.g. Gemini API).
+
+Keys should be administered and rotated, not created freely by every user.",''[Security]''
+What does Sensitive Data Protection do?,"Detects sensitive data (PII) and de-identifies it:
+* Mask
+* Redact
+* Tokenize/pseudonymize",''[Security]''
 What is PII?,Personally Identifiable Information - any data that can identify an individual; must be protected.,''[Security]''
-Encryption on Google Cloud?,Data at rest is encrypted automatically by Google (cannot be disabled); you can optionally manage keys with CMEK for compliance.,''[Security]''
+Encryption on Google Cloud?,"Data at rest is encrypted automatically by Google (cannot be disabled).
+
+You can optionally manage keys with CMEK for compliance.",''[Security]''
 What is Google's Secure AI Framework (SAIF)?,A framework of guidelines/best practices (not a product) to build and deploy AI securely and address AI-specific threats.,''[Security]''
-What are Mandiant and Security Command Center?,Mandiant = threat intelligence/consulting for proactive security. Security Command Center = dashboard for security posture and findings.,''[Security]''
-How to secure the ML lifecycle?,"Protect and validate data, anonymize sensitive data, control access to training data/model, verify pre-built models, monitor for tampering/anomalies, update regularly, review permissions.",''[Security]''
-What is an adversarial attack/test?,"A model or actor attacking/testing another model; malicious use must be prevented, but red-team style adversarial testing is a useful evaluation technique (costs more).",''[Security]''
-What does the Observability suite include?,"Logging, Monitoring, Error reporting, Tracing.",''[Security]''
+What are Mandiant and Security Command Center?,"Mandiant = threat intelligence/consulting for proactive security.
+
+Security Command Center = dashboard for security posture and findings.",''[Security]''
+How to secure the ML lifecycle?,"Key practices:
+* Protect and validate data
+* Anonymize sensitive data
+* Control access to training data/model
+* Verify pre-built models
+* Monitor for tampering/anomalies
+* Update regularly
+* Review permissions",''[Security]''
+What is an adversarial attack/test?,"A model or actor attacking/testing another model.
+
+Malicious use must be prevented, but red-team-style adversarial testing is a useful evaluation technique (costs more).",''[Security]''
+What does the Observability suite include?,"* Logging
+* Monitoring
+* Error reporting
+* Tracing",''[Security]''
 What is a prompt injection attack?,"An attack where malicious input tries to override a model's instructions or cause it to reveal data, bypass controls, or take unintended actions.",''[Security]''
-How can organizations reduce prompt-injection risk?,"Validate inputs, restrict tool permissions, separate instructions from untrusted content, use guardrails, monitor behavior, and apply least-privilege access.",''[Security]''
+How can organizations reduce prompt-injection risk?,"Mitigation methods:
+* Validate inputs
+* Restrict tool permissions
+* Separate instructions from untrusted content
+* Use guardrails
+* Monitor behavior
+* Apply least-privilege access",''[Security]''
 What is data exfiltration in AI systems?,Unauthorized transfer or leakage of sensitive data from an organization through an AI system or its integrations.,''[Security]''
 What is data anonymization?,Removing or altering identifying information so individuals cannot reasonably be identified.,''[Security]''
 What is pseudonymization?,"Replacing identifying information with pseudonyms or tokens, where re-identification may still be possible using additional information.",''[Security]''
 What is an AI agent?,"Software that tries to achieve a goal by observing the world and acting on it with available tools, powered by a foundation model, with autonomy.",''[Agents]''
-What are the core components of a gen AI agent?,"Foundation model (brain / NLU), tools (hands), and reasoning loop/orchestration (guided by prompts), plus memory/data.",''[Agents]''
-What is the reasoning loop?,"Iterative cycle of observe, reason/plan, decide, act with a tool, observe the result, repeat until the goal is achieved.",''[Agents]''
+What are the core components of a gen AI agent?,"Core components:
+* Foundation model (brain / NLU)
+* Tools (hands)
+* Reasoning loop/orchestration (guided by prompts)
+* Memory/data",''[Agents]''
+What is the reasoning loop?,"Iterative cycle:
+# Observe
+# Reason/plan
+# Decide
+# Act with a tool
+# Observe the result
+# Repeat until the goal is achieved",''[Agents]''
 What distinguishes an agent from a standalone LLM?,Reasoning loop (e.g. ReAct) plus the ability to call tools to take actions and manage multi-step tasks.,''[Agents]''
 How is an agent's behavior configured?,"With natural-language prompt engineering (role, instructions, examples) - no code needed in managed environments.",''[Agents]''
-What tool types do agents use?,"Extensions (connect to APIs), Functions (reusable specialized actions), Data stores (grounding/RAG), Plugins (new skills/integrations).",''[Agents]''
+What tool types do agents use?,"* Extensions (connect to APIs)
+* Functions (reusable specialized actions)
+* Data stores (grounding/RAG)
+* Plugins (new skills/integrations)",''[Agents]''
 Which tool type connects an agent to external services via APIs?,Extensions.,''[Agents]''
 Which tool type defines specific reusable actions?,Functions.,''[Agents]''
 Which tool type gives access to up-to-date or private information?,Data stores.,''[Agents]''
 What is an API?,Application Programming Interface - the standard way software systems communicate.,''[Agents]''
 What is MCP?,Model Context Protocol - open (de facto standard) protocol that lets agents connect to tools/data sources in a consistent way.,''[Agents]''
 What is A2A?,Agent-to-Agent protocol - open protocol for agents communicating with each other.,''[Agents]''
-Conversational vs workflow agents?,"Conversational = chat/voice Q&A, simpler but directly user-facing, so failures are noticed quickly. Workflow = multi-step process automation (onboarding, order fulfillment, research), often multi-agent.",''[Agents]''
+Conversational vs workflow agents?,"Conversational:
+* Chat/voice Q&A
+* Simpler, directly user-facing
+* Failures are noticed quickly
+Workflow:
+* Multi-step process automation (onboarding, order fulfillment, research)
+* Often multi-agent",''[Agents]''
 Customer onboarding with multiple steps: which agent type?,Workflow agent.,''[Agents]''
 Why do conversational agents need extra care?,"They face paying customers directly, so problems are noticed immediately and hurt customer satisfaction.",''[Agents]''
-Deterministic vs generative agents?,"Deterministic = predefined paths, predictable, same input -> same output. Generative = LLM-driven, flexible, natural language, but non-deterministic. Hybrid combines control with flexibility.",''[Agents]''
-Why keep agents simple and use multi-agent systems?,"Borrowed from microservices: simple agents are faster, easier to troubleshoot, scalable and flexible; complex goals are split into sub-goals handled by collaborating agents.",''[Agents]''
+Deterministic vs generative agents?,"* Deterministic = predefined paths, predictable, same input → same output.
+* Generative = LLM-driven, flexible, natural language, but non-deterministic.
+* Hybrid = combines control with flexibility.",''[Agents]''
+Why keep agents simple and use multi-agent systems?,"Borrowed from microservices: simple agents are faster, easier to troubleshoot, scalable and flexible.
+
+Complex goals are split into sub-goals handled by collaborating agents.",''[Agents]''
 How do agents relate to gen AI applications?,Agents are intelligent components inside a larger application that provides the UI and overall goals.,''[Agents]''
 Which Google Cloud service runs agent workflows?,"Agent Platform (managed), or Cloud Run / Cloud Run functions for custom deployments.",''[Agents]''
-How do you choose a way to build agents?,"Balance effort/expertise versus control/flexibility: from no-code (AI Applications, Gemini Enterprise) to custom code on the platform.",''[Agents]''
+How do you choose a way to build agents?,"Balance effort/expertise versus control/flexibility:
+* No-code (AI Applications, Gemini Enterprise)
+* Custom code on the platform",''[Agents]''
 What should drive a gen AI initiative?,"Business value (revenue, cost, satisfaction, KPIs) - start from the problem, not the technology.",''[Business]''
-What is solutionism?,Having a solution (gen AI) without a problem; avoid it by defining needs first and then evaluating tools.,''[Business]''
-What is the best way to implement gen AI strategy?,"Both top-down (vision, budget, priorities) and bottom-up (experimentation, pain points, sharing) together.",''[Business]''
+What is solutionism?,"Having a solution (gen AI) without a problem.
+
+Avoid it by defining needs first and then evaluating tools.",''[Business]''
+What is the best way to implement gen AI strategy?,"Both approaches together:
+* Top-down: vision, budget, priorities
+* Bottom-up: experimentation, pain points, sharing",''[Business]''
 Why involve mid-level managers and individual contributors?,They are closest to the workflows and best at identifying pain points and bottlenecks.,''[Business]''
 What is the executive/top-down role?,"Set a clear vision aligned with strategy, prioritize use cases, allocate budget, drive responsible AI governance and communication.",''[Business]''
-How to choose the first use case?,"Low-risk but meaningful: not mission-critical (avoid disruption) and not trivial (so impact is visible). Prioritize actionable, affordable, high-ROI cases.",''[Business]''
+How to choose the first use case?,"Low-risk but meaningful:
+* Not mission-critical (avoid disruption)
+* Not trivial (so impact is visible)
+Prioritize actionable, affordable, high-ROI cases.",''[Business]''
 "What does the ""fail fast"" culture mean?","Encourage experimentation on a small scale, learn from failures quickly and share lessons.",''[Business]''
-What is an MVP and why use it?,"Minimum viable product: good enough to deploy, then improved iteratively using real user feedback, avoiding endless development.",''[Business]''
-Augmentation vs automation?,Augmentation = AI assists humans (human decides). Automation = AI performs the task end to end. Augmentation is often a first step before automation.,''[Business]''
-Which tasks suit automation?,"Repetitive, rule-based, time-consuming tasks (FAQ answering, data entry, product descriptions, formatting).",''[Business]''
-Which tasks suit augmentation?,"Tasks needing judgment, creativity, relationships, strategic or high-risk decisions (e.g. financial advisor using AI analysis).",''[Business]''
-Why keep humans in the loop?,"For data selection, output evaluation, monitoring, high-risk decisions, sensitive and regulated workflows.",''[Business]''
-What are the four principles of responsible AI covered?,"Transparency, privacy, data quality/bias/fairness, accountability/explainability (plus security and safety).",''[Business]''
-What is explainability/interpretability?,"Explainability/interpretability means understanding why a model produced a particular output. It is especially important in regulated or high-stakes domains such as finance, healthcare, and government, where decisions may need to be justified, audited, or challenged.",''[Business]''
-What must be done about bias and fairness?,"Diverse and representative training data, regular audits of model performance, mitigation downstream, continuous monitoring.",''[Business]''
-Which loan-assessment steps support ethical AI?,"Use diverse, representative data and regularly audit model performance for emerging bias.",''[Business]''
-What legal topics apply to gen AI?,"Data privacy, non-discrimination, intellectual property/copyright, product liability, regulatory compliance.",''[Business]''
-Why use Gemini for images instead of copying from the web?,"Generating images with Gemini can reduce the risk of using unlicensed or copyrighted material copied from the web, but it does not automatically eliminate all IP, trademark, likeness, or licensing risks. Review usage rights and organizational policy before publishing.",''[Business]''
-Key steps for planning for impact?,"Define key metrics/KPIs, collect and analyze data, iterate and improve.",''[Business]''
-What is the lab-to-production gap?,"A model performing well in lab/leaderboard evaluations may not deliver the same value in production, so evaluate on your own use cases and track business KPIs.",''[Business]''
-Why track KPIs for gen AI?,"To show tangible value and ROI (customer satisfaction, efficiency, productivity) and justify continued investment.",''[Business]''
-How often should models be evaluated or retrained?,"Continuously but cost-consciously: regular cadence, retrain only when needed (e.g. drift detected); re-test after each model version.",''[Business]''
-What is error budget?,The amount of errors/incidents tolerated without hurting user experience (SRE concept); define acceptable ranges.,''[Business]''
-"Why do exam answers with ""guarantee/ensure"" tend to be wrong?","Gen AI can't guarantee accuracy, security or zero hallucinations; correct answers speak of reduce, mitigate, improve.",''[Business]''
-What are key benefits of using Google Cloud for gen AI?,"Access to pre-trained models (Gemini), automatic upgrades and security patches, enterprise-grade security/compliance, scalable infrastructure, ability to experiment without starting from scratch.",''[Business]''
-Does Google Cloud provide ready-made gen AI solutions for every domain?,"Not fully; vertical (industry) solutions for retail, healthcare, media, etc. are growing but are not universal.",''[Business]''
-How should organizations build capability for gen AI?,"Invest in training and talent, encourage collaboration/knowledge sharing, drive organizational change and stay informed.",''[Business]''
-Why continuously evaluate when new model versions are released?,"New versions change behavior, features and cost; prompts and validation must be re-tested every time.",''[Business]''
-What is A/B testing in generative AI?,"Comparing two or more model versions, prompts, or user experiences to determine which performs better against defined metrics.",''[Business]''
-What is change management in AI adoption?,"Preparing people, processes, and culture for AI-driven changes through communication, training, support, governance, and clear ownership.",''[Business]''
+What is an MVP and why use it?,"Minimum viable product (MVP): good enough to deploy, then improved iteratively using real user feedback, avoiding endless development.",''[Business]''
+Augmentation vs automation?,"Augmentation = AI assists humans (human decides).
+
+Automation = AI performs the task end to end.
+
+Augmentation is often a first step before automation.",''[Business]''
+Which tasks suit automation?,"Repetitive, rule-based, time-consuming tasks.
+
+Examples:
+* FAQ answering
+* Data entry
+* Product descriptions
+* Formatting",''[Business]''
+Which tasks suit augmentation?,"Tasks requiring human judgment, creativity, relationship-building, strategic thinking, or handling high-risk decisions.
+
+Example: a financial advisor using AI analysis.",''[Business]''
+Why keep humans in the loop?,"Key areas requiring human oversight:
+* Data selection
+* Output evaluation
+* Monitoring
+* High-risk decisions
+* Sensitive and regulated workflows",''[Business]''
+What are the four principles of responsible AI covered?,"Key responsible AI principles:
+* Transparency
+* Privacy
+* Data quality
+* Bias and fairness
+* Accountability and explainability
+* Security and safety",''[Business]''
+What is explainability/interpretability?,"Explainability/interpretability means understanding why a model produced a particular output.
+
+It is especially important in regulated or high-stakes domains, such as:
+* Finance
+* Healthcare
+* Government
+Decisions may need to be justified, audited, or challenged.",''[Business]''
+What must be done about bias and fairness?,"Ways to mitigate bias:
+* Use diverse and representative training data
+* Regularly audit model performance
+* Mitigate bias in downstream applications
+* Continuously monitor results",''[Business]''
+Which loan-assessment steps support ethical AI?,"Use diverse, representative data and regularly audit model performance to detect emerging bias.",''[Business]''
+What legal topics apply to gen AI?,"Key legal and compliance risks:
+* Data privacy
+* Non-discrimination
+* Intellectual property and copyright
+* Product liability
+* Regulatory compliance",''[Business]''
+Why use Gemini for images instead of copying from the web?,"Generating images with Gemini can reduce the risk of using unlicensed or copyrighted material copied from the web.
+
+However, it does not eliminate all risks related to:
+* Intellectual property
+* Trademarks
+* Likeness rights
+* Licensing
+Review usage rights and organizational policies before publishing.",''[Business]''
+Key steps for planning for impact?,"A continuous improvement process:
+* Define key metrics/KPIs
+* Collect and analyze data
+* Iterate and improve",''[Business]''
+What is the lab-to-production gap?,"A model that performs well in lab or leaderboard evaluations may not deliver the same value in production.
+
+Therefore:
+* Evaluate it on your own use cases
+* Track business KPIs",''[Business]''
+Why track KPIs for gen AI?,"To demonstrate tangible value and ROI, justify continued investment, and measure improvements in:
+* Customer satisfaction
+* Efficiency
+* Productivity",''[Business]''
+How often should models be evaluated or retrained?,"Evaluate models continuously but cost-consciously.
+
+Recommended practices:
+* Establish a regular evaluation cadence
+* Retrain only when needed, e.g. when drift is detected
+* Re-test after every model version change",''[Business]''
+What is error budget?,"The amount of errors or incidents that can be tolerated without negatively affecting user experience.
+
+In Site Reliability Engineering (SRE), acceptable ranges should be explicitly defined.",''[Business]''
+"Why do exam answers with ""guarantee/ensure"" tend to be wrong?","Generative AI cannot guarantee accuracy, security, or zero hallucinations.
+
+Use realistic terms such as:
+* Reduce
+* Mitigate
+* Improve
+Avoid claims of complete elimination or guaranteed accuracy.",''[Business]''
+What are key benefits of using Google Cloud for gen AI?,"Benefits of using managed AI platforms:
+* Access to pre-trained models, such as Gemini
+* Automatic upgrades and security patches
+* Enterprise-grade security and compliance
+* Scalable infrastructure
+* Ability to experiment without starting from scratch",''[Business]''
+Does Google Cloud provide ready-made gen AI solutions for every domain?,"Not fully. Industry-specific AI solutions for retail, healthcare, media, and other sectors are growing, but universal solutions are not yet available for every use case.",''[Business]''
+How should organizations build capability for gen AI?,"Key steps for building AI capabilities:
+* Invest in training and talent
+* Encourage collaboration and knowledge sharing
+* Drive organizational change
+* Stay informed about developments",''[Business]''
+Why continuously evaluate when new model versions are released?,"New model versions may change behavior, features, and costs.
+
+Therefore:
+* Re-test prompts
+* Re-validate outputs
+* Re-evaluate performance after every update",''[Business]''
+What is A/B testing in generative AI?,"A/B testing compares two or more model versions, prompts, or user experiences to determine which performs better against defined metrics.",''[Business]''
+What is change management in AI adoption?,"Preparing people, processes, and culture for AI-driven changes through:
+* Communication
+* Training
+* Support
+* Governance
+* Clear ownership",''[Business]''
 What is an AI center of excellence?,"A centralized team or function that provides AI standards, governance, expertise, reusable assets, and support across an organization.",''[Business]''
