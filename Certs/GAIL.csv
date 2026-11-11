@@ -462,7 +462,7 @@ An admin enables or disables features.",''[Google Cloud]''
 What do Google Vids and AppSheet do?,"Vids: AI video creation/editing.
 
 AppSheet: no-code app development.",''[Google Cloud]''
-What is Gemini notebook (formerly NotebookLM)?,"A personalized AI research assistant grounded ONLY in the sources you upload.
+What is Gemini Notebook (formerly NotebookLM)?,"A personalized AI research assistant grounded ONLY in the sources you upload.
 
 Features:
 * Isolated, hyper-focused environment with citations
@@ -471,13 +471,13 @@ Features:
 * Quizzes
 * Mind maps
 * Reports",''[Google Cloud]''
-Gemini notebook source behavior?,"Limitations:
+Gemini Notebook source behavior?,"Limitations:
 * Sources are COPIED, not linked, so you must manually re-sync changes.
 * Outputs are read-only.
 * Chat history isn't kept long (save to note).
 * No Google Search.
 * Data isn't used to train models.",''[Google Cloud]''
-"What does ""chat-only"" sharing in Gemini notebook do?",Lets viewers query the notebook without seeing the underlying source files.,''[Google Cloud]''
+"What does ""chat-only"" sharing in Gemini Notebook do?",Lets viewers query the notebook without seeing the underlying source files.,''[Google Cloud]''
 What is Gemini Enterprise?,"A subscription-based single point of entry app to build/use AI agents grounded in company data from many sources.
 
 Features:
@@ -486,8 +486,8 @@ Features:
 * Deep research
 * Agent marketplace
 * No-code
-Gemini notebook is part of it.",''[Google Cloud]''
-Gemini Enterprise vs Gemini notebook?,"Notebook:
+Gemini Notebook is part of it.",''[Google Cloud]''
+Gemini Enterprise vs Gemini Notebook?,"Notebook:
 * Isolated to chosen sources only
 * No external connectivity
 Enterprise:
@@ -735,7 +735,7 @@ Why keep humans in the loop?,"Key areas requiring human oversight:
 * Monitoring
 * High-risk decisions
 * Sensitive and regulated workflows",''[Business]''
-What are the four principles of responsible AI covered?,"Key responsible AI principles:
+What are the principles of responsible AI?,"Key responsible AI principles:
 * Transparency
 * Privacy
 * Data quality
